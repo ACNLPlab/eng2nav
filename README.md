@@ -20,16 +20,27 @@ There are two major edits that need to be completed before rerunning the fine-tu
 Once the above edits are completed you will run the following experiments:
 
       a) NLLB gle_Latn Syllabified
+   
       b) NLLB gle_Latn No Syllabification
+   
       c) NLLB grn_Latn Syllabified
+   
       d) NLLB grn_Latn No Syllabification
+   
       e) NLLB fin_Latn Syllabified
+   
       f) NLLB fin_Latn No Syllabification
+   
       g) M2M100 mg Syllabified
+   
       h) M2M100 mg No Syllabification
+   
       i) M2M100 sw Syllabified
+   
       j) M2M100 sw No Syllabification
+   
       k) M2M100 fi Syllabified
+   
       l) M2M100 fi No Syllabification
 
 You will do these by changing the .sh scripts, specifically these variables in them:
