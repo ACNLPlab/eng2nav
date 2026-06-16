@@ -1,0 +1,82 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They had stayed to cook for the men.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:16.166437
+(z0 / stay-01
+    :ARG1 (z1 / they)
+    :purpose (z2 / eat-01
+                 :ARG0 z1
+                 :ARG2 (z3 / man)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt They did this because the Winslow Airport was too small for them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:16.166453
+(z0 / do-02
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / this)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / have-degree-91
+                           :ARG1 (z5 / airport
+                                     :name (z6 / name
+                                               :op1 "Winslow"
+                                               :op2 "Airport")
+                                     :wiki "Winslow_Airport")
+                           :ARG2 (z7 / small)
+                           :ARG3 (z8 / too)
+                           :ARG6 z1)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They had the same function as we did.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:16.166458
+(z0 / function-01
+    :ARG0 (z1 / they)
+    :ARG1-of (z2 / same-01
+                 :ARG2 (z3 / thing
+                           :ARG1-of (z4 / do-02
+                                        :ARG0 (z5 / we)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We two who were going to school stayed together.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:16.166462
+(z0 / stay-01
+    :ARG1 (z1 / and
+              :op1 (z2 / we)
+              :op2 (z3 / person
+                       :ARG0-of (z4 / go-01
+                                    :ARG1 (z5 / school))))
+    :ARG2 (z6 / together))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They (the traders) probably called for the wood.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:16.166466
+(z0 / call-03
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / deal-01))
+    :ARG1 (z3 / wood)
+    :ARG1-of (z4 / likely-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And since it had snowed the night before they had to go through the snow.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:16.166470
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / snow-01
+                       :temporal (z3 / date-entity
+                                     :dayperiod (z4 / night)
+                                     :mod (z5 / before)))
+             :ARG1 (z6 / obligate-01
+                       :ARG2 (z7 / go-02
+                                 :ARG0 (z8 / they)
+                                 :path (z9 / through
+                                           :op1 (z10 / snow))))))

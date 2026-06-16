@@ -1,0 +1,95 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It is black there like ashes.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:53.296654
+(z0 / black
+    :place (z1 / there)
+    :ARG1-of (z2 / resemble-91
+                 :ARG2 (z3 / ash)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt it was because one of the boys locked in there was his son.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:53.296672
+(z0 / cause-01
+    :ARG0 (z1 / it)
+    :ARG1 (z2 / have-rel-role-92
+              :ARG1 (z3 / boy
+                        :ARG1-of (z4 / lock-01
+                                     :place (z5 / there)))
+              :ARG2 (z6 / he)
+              :ARG3 (z7 / son)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we flew over the lower end of the black lava peaks, and over Oraibi.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:53.296677
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / then)
+    :place (z3 / and
+               :op1 (z4 / space
+                        :ARG1-of (z5 / end-06
+                                     :ARG2 (z6 / peak
+                                               :color (z7 / lava))
+                                     :ARG1-of (z8 / have-degree-91
+                                                  :ARG2 (z9 / low-04
+                                                            :ARG1 z6)
+                                                  :ARG3 (z10 / more)))
+                        :op2 (z11 / space
+                                  :ARG1-of (z12 / over-04
+                                                :ARG2 (z13 / thing
+                                                           :place (z14 / ocean
+                                                                       :name (z15 / name
+                                                                                  :op1 "Oraibi")
+                                                                       :wiki "Oraibi_Internationalis")
+                                                           :ARG3 (z16 / cartesian-framework-91
+                                                                      :ARG1 (z17 / build-space))))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I told you that they have a different name,” he said as he scolded me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:53.296681
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / tell-01
+              :ARG0 z1
+              :ARG1 (z3 / have-03
+                        :ARG0 (z4 / they)
+                        :ARG1 (z5 / name
+                                  :ARG1-of (z6 / differ-02))
+                        :ARG2 (z7 / you))
+              :temporal (z8 / scold-01
+                            :ARG0 z1
+                            :ARG1 z7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was there that my grandfather spoke and promised us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:53.296685
+(z0 / and
+    :op1 (z1 / speak-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather))))
+    :op2 (z6 / promise-01
+             :ARG0 z2
+             :ARG1 (z7 / we))
+    :place (z8 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It is remarkable how risky life was in those days.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:53.296689
+(z0 / remarkable-02
+    :ARG1 (z1 / risk-01
+              :ARG1 (z2 / live-01))
+    :temporal (z3 / day
+                  :mod (z4 / that)))

@@ -1,0 +1,138 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There was an epidemic in progress, and we now refer to it as "the time when the throat killed many."
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:41.845290
+(z0 / and
+    :op1 (z1 / progress-01
+             :ARG1 (z2 / epidemic))
+    :op2 (z3 / refer-02
+             :ARG0 (z4 / we)
+             :ARG1 (z5 / time
+                       :temporal-of (z6 / kill-01
+                                        :ARG1 (z7 / throat)
+                                        :ARG2 (z8 / many)))
+             :temporal (z9 / now)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:41.845307
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt [But at the time when we were small and used to herd our sheep up there we did not know things like this.] Only my cousin had a smattering of such information,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:41.845312
+(z0 / contrast-91
+    :ARG2 (z1 / know-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / resemble-91
+                                     :ARG2 (z5 / this)))
+              :temporal (z6 / and
+                            :op1 (z7 / small
+                                     :domain z2)
+                            :op2 (z8 / use-01
+                                     :ARG1 z2
+                                     :ARG2 (z9 / herd-01
+                                               :ARG0 z2
+                                               :ARG1 (z10 / sheep
+                                                          :possessor z2)
+                                               :place (z11 / there)))
+                            :polarity -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:41.845316
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The people who had promised their children for school were named, and we were told many things about the school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:41.845320
+(z0 / and
+    :op1 (z1 / name-01
+             :ARG1 (z2 / person
+                       :ARG0-of (z3 / promise-01
+                                    :ARG1 (z4 / person
+                                              :ARG1-of (z5 / have-rel-role-92
+                                                           :ARG2 (z6 / parent)
+                                                           :ARG3 (z7 / child)))
+                                    :purpose (z8 / school))))
+    :op2 (z9 / tell-01
+             :ARG0 z6
+             :ARG1 (z10 / thing
+                        :quant (z11 / many)
+                        :topic (z12 / school))
+             :ARG2 (z13 / we)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My grandfather had a fine wether goat that he was quite proud of. He killed it there, and the people feasted with great joy.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:41.845324
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather)))
+             :ARG1 (z6 / goat
+                       :mod (z7 / fine)
+                       :ARG1-of (z8 / pride-01
+                                    :ARG0 z2
+                                    :degree (z9 / quite))))
+    :op2 (z10 / kill-01
+              :ARG0 z2
+              :ARG1 z6
+              :place (z11 / there))
+    :op3 (z12 / eat-01
+              :ARG0 (z13 / person)
+              :ARG1 z6
+              :manner (z14 / joy
+                           :degree (z15 / great))))

@@ -1,0 +1,83 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We would take the sheep out,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:21.299868
+(z0 / take-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / sheep)
+    :direction (z3 / out))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:21.299885
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And they went on the basis of how many minutes it would take.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:21.299889
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / they)
+             :manner (z3 / basis
+                         :op1 (z4 / temporal-quantity
+                                  :unit (z5 / minute)
+                                  :quant-of (z6 / take-10
+                                                :ARG1 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I would take care of his horses for him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:21.299893
+(z0 / care-03
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / horse
+              :possessor (z3 / he
+                             :ARG2-of z0)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When the sheep would be on the side of the mountain, I'd skirt them from above.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:21.299897
+(z0 / skirt-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :source (z3 / above-01
+                :ARG3 (z4 / cartesian-framework-91
+                          :ARG1 (z5 / build-space)))
+    :temporal (z6 / have-place-91
+                  :ARG1 z2
+                  :ARG2 (z7 / side
+                            :part-of (z8 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The sheep would be grazing nearby, and we would spend the whole day playing with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:21.299901
+(z0 / and
+    :op1 (z1 / grazing-01
+             :ARG1 (z2 / sheep)
+             :place (z3 / nearby))
+    :op2 (z4 / spend-02
+             :ARG0 (z5 / we)
+             :ARG1 (z6 / play-01
+                       :ARG0 z5
+                       :ARG1 (z7 / ram)
+                       :extent (z8 / whole))))

@@ -1,0 +1,93 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:56.781834
+(z0 / say-01
+    :ARG1 (z1 / start-01
+              :ARG1 (z2 / wagon
+                        :companion (z3 / child))
+              :temporal (z4 / after
+                            :op1 (z5 / now)
+                            :quant (z6 / temporal-quantity
+                                       :unit (z7 / day)
+                                       :quant 2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:56.781850
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:56.781855
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :temporal (z3 / since
+                  :op1 (z4 / report-01
+                           :ARG1 (z5 / before
+                                     :op1 (z6 / arrive-01
+                                              :ARG1 (z7 / load
+                                                        :possessor (z8 / child)))
+                                     :mod (z9 / another)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was said that they were then over at Chinle,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:56.781859
+(z0 / say-01
+    :ARG1 (z1 / over-04
+              :ARG1 (z2 / they)
+              :ARG2 (z3 / facility
+                        :name (z4 / name
+                                  :op1 "Chinle")
+                        :wiki -)
+              :temporal (z5 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He had a wagon and a team.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:56.781863
+(z0 / have-03
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / and
+              :op1 (z3 / wagon)
+              :op2 (z4 / team)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We were told that now there would be work here
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:56.781867
+(z0 / tell-01
+    :ARG1 (z1 / work-01
+              :place (z2 / here)
+              :temporal (z3 / now))
+    :ARG2 (z4 / we))

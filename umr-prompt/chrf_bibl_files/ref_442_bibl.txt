@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt On the morrow we would start off with them. So for that purpose, in the morning we again started off from the hogan afoot.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He used to be out there early in the morning with a stick especially made for that purpose.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When the sheep would be on the side of the mountain, I'd skirt them from above.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt When morning would come and I would be sleeping nicely, my grandfather would throw me out of bed.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

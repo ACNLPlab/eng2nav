@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He had a wagon and a team.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They had guns and bows and arrows.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Once we had billy goats in the herd.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

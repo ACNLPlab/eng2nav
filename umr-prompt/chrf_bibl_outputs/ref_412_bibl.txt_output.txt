@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt This was my people's disaster.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:44.489271
+(z0 / disaster
+    :domain (z1 / this)
+    :possessor (z2 / person
+                   :possessor (z3 / i)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:44.489288
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:44.489292
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt So this is my experience up above the land of my people.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:44.489296
+(z0 / experience-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / this)
+    :place (z3 / space
+               :ARG1-of (z4 / above-01
+                            :ARG2 (z5 / land
+                                      :possessor (z6 / person
+                                                     :possessor z1))
+                            :ARG3 (z7 / cartesian-framework-91
+                                      :ARG1 (z8 / build-space)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:44.489301
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The people of his band were standing with him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:44.489304
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-org-role-92
+                           :ARG2 (z3 / he)
+                           :ARG3 (z4 / band
+                                     :possessor z3)))
+    :ARG2 z3)

@@ -1,0 +1,80 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The small planes - the two motored ones - loaded at Winslow and hauled from there.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:36.303614
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG1 (z2 / plane
+                       :mod (z3 / small)
+                       :ARG1-of (z4 / motored-01)
+                       :quant 2)
+             :ARG2 (z5 / city
+                       :name (z6 / name
+                                 :op1 "Winslow")
+                       :wiki "Winslow,_Virginia"))
+    :op2 (z7 / haul-01
+             :ARG1 z2
+             :source z5))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt These big planes have four motors.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:36.303630
+(z0 / have-03
+    :ARG0 (z1 / plane
+              :mod (z2 / big)
+              :mod (z3 / this))
+    :ARG1 (z4 / motor
+              :quant 4))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They loaded and hauled from Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:36.303635
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG0 (z2 / they)
+             :source (z3 / city
+                         :name (z4 / name
+                                   :op1 "Phoenix")
+                         :wiki "Phoenix,_Arizona"))
+    :op2 (z5 / haul-01
+             :ARG0 z2
+             :source z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:36.303639
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:36.303643
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was a four motored plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:36.303647
+(z0 / plane
+    :ARG1-of (z1 / motory-01
+                 :quant 4)
+    :domain (z2 / it))

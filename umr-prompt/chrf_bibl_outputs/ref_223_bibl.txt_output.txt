@@ -1,0 +1,97 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I always told my friend about what I myself was thinking.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:27.390093
+(z0 / tell-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / think-01
+                           :ARG0 z1))
+    :ARG2 (z4 / person
+              :ARG1-of (z5 / have-rel-role-92
+                           :ARG2 z1
+                           :ARG3 (z6 / friend)))
+    :temporal (z7 / always))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was picking up things that were scattered on the ground about him, such as sticks and stones,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:27.390110
+(z0 / pick-up-04
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / scatter-01
+                           :ARG2 (z4 / ground)
+                           :place (z5 / about
+                                      :op1 z1))
+              :example (z6 / and
+                           :op1 (z7 / stick)
+                           :op2 (z8 / stone))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt As they were taking him outside I crawled and squeezed myself out among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:27.390115
+(z0 / and
+    :op1 (z1 / crawl-01
+             :ARG0 (z2 / i)
+             :temporal (z3 / take-01
+                           :ARG0 (z4 / they)
+                           :ARG1 (z5 / he)
+                           :ARG2 (z6 / outside))
+             :op2 (z7 / squeeze-01
+                      :ARG0 z2
+                      :ARG1 z2
+                      :place (z8 / among
+                                 :op1 (z9 / they)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There was a boy of the Big Water Clan with whom I always chummed around.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:27.390120
+(z0 / boy
+    :possessor (z1 / local-region
+                   :name (z2 / name
+                             :op1 "Big"
+                             :op2 "Water"
+                             :op3 "Clan")
+                   :wiki "Bigwater_Clan")
+    :ARG1-of (z3 / chum-01
+                 :ARG2 (z4 / i)
+                 :temporal (z5 / always)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt This is what that is what I heard. I wasn't at the meeting myself.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:27.390124
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / this
+              :domain (z3 / that))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The people who had promised their children for school were named, and we were told many things about the school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:27.390128
+(z0 / and
+    :op1 (z1 / name-01
+             :ARG1 (z2 / person
+                       :ARG0-of (z3 / promise-01
+                                    :ARG1 (z4 / person
+                                              :ARG1-of (z5 / have-rel-role-92
+                                                           :ARG2 (z6 / parent)
+                                                           :ARG3 (z7 / child)))
+                                    :purpose (z8 / school))))
+    :op2 (z9 / tell-01
+             :ARG0 z6
+             :ARG1 (z10 / thing
+                        :quant (z11 / many)
+                        :topic (z12 / school))
+             :ARG2 (z13 / we)))

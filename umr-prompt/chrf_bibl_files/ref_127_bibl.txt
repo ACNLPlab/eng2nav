@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He was from Chinle, but he was a member of the police force at Fort Defiance.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt One was called Bead Clan Gambler, and he was a member of the police force.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt One of them turned out to be Bead Clan Gambler, one was Singed Man from Fort Defiance - he was also known as Son of Former Rag Man.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He had come on ahead with the white man from Fort Defiance called Little Chief (Agent Dana Shipley).
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They were to go by way of Lukachukai, Tsaile, and Crystal, and on over to Fort Defiance.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

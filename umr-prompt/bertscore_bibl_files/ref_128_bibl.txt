@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He had come on ahead with the white man from Fort Defiance called Little Chief (Agent Dana Shipley).
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt A little later the one called Little Chief (Shipley) came out
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt A man by the name of Black Horse was the leader of that faction.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They had stayed to cook for the men.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Someone by the name of Black Horse had brought a party from the other side of the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

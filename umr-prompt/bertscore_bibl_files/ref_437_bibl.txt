@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt so never say that word,
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt People do not say ‘bear’,
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I heard them saying that.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He did not speak harshly.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He did not speak in anger.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I used to go around wondering why under the sun a person should not say the word ‘bear’,
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

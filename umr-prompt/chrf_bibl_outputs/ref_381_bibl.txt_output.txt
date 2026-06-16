@@ -1,0 +1,95 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Some more (Navajos) followed us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:45.678250
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :mod (z2 / more)
+              :mod (z3 / local-region
+                       :name (z4 / name
+                                 :op1 "Navajos")
+                       :wiki "Native_Americans"))
+    :ARG1 (z5 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:45.678268
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and chaos followed.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:45.678272
+(z0 / and
+    :op2 (z1 / follow-01
+             :ARG1 (z2 / chaos)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we followed the ridge up over Black Mountain.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:45.678277
+(z0 / follow-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / ridge)
+    :ARG2 (z3 / up)
+    :ARG4 (z4 / mountain
+              :name (z5 / name
+                        :op1 "Black"
+                        :op2 "Mountain")
+              :wiki "Black_Mountain")
+    :temporal (z6 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We Navajos still haven't found out that God is punishing us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:45.678281
+(z0 / find-01
+    :ARG0 (z1 / we
+              :mod (z2 / country
+                       :name (z3 / name
+                                 :op1 "Navajos")
+                       :wiki "Navajo_Nation"))
+    :ARG1 (z4 / punish-01
+              :ARG0 (z5 / person
+                        :name (z6 / name
+                                  :op1 "God")
+                        :wiki "God")
+              :ARG1 z1)
+    :mod (z7 / still)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt South from the trading post there is a ruin which we call in Navajo "Shattered House." Someone burned it long ago.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:45.678285
+(z0 / ruin-01
+    :ARG1-of (z1 / call-01
+                 :ARG0 (z2 / we)
+                 :ARG2 (z3 / house
+                           :name (z4 / name
+                                     :op1 "Shattered"
+                                     :op2 "House")
+                           :wiki "Shattered_House"))
+    :place (z5 / space
+               :ARG1-of (z6 / south-01
+                            :ARG2 (z7 / post
+                                      :mod (z8 / trade))
+                            :ARG3 (z9 / cartesian-framework-91
+                                      :ARG1 (z10 / builder)))
+               :ARG1-of (z11 / burn-01
+                             :ARG0 (z12 / someone)
+                             :temporal (z13 / before
+                                            :op1 (z14 / now)
+                                            :quant (z15 / long)))))

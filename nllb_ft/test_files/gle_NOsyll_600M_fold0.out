@@ -1,0 +1,222 @@
+==========================================
+Testing English→Navajo Model
+Job ID: 1086561
+Node: dgx001
+==========================================
+================================================================================
+Checkpoint  : /home/common/ACNLP/eng2nav/nllb_ft/gle_NOsyll_600M/fold_0/checkpoint-15720
+Data dir    : /home/common/ACNLP/eng2nav/nllb_ft/gle_NOsyll_600M/fold_0/data
+Target lang : gle_Latn
+Output file : /home/common/ACNLP/eng2nav/nllb_ft/gle_NOsyll_600M/fold_0/test_preds.txt
+================================================================================
+
+Loading model...
+Model loaded on cuda
+
+Loading test data...
+Loaded 3145 sentence pairs
+
+Translating...
+  Translated 16/3145
+  Translated 32/3145
+  Translated 48/3145
+  Translated 64/3145
+  Translated 80/3145
+  Translated 96/3145
+  Translated 112/3145
+  Translated 128/3145
+  Translated 144/3145
+  Translated 160/3145
+  Translated 176/3145
+  Translated 192/3145
+  Translated 208/3145
+  Translated 224/3145
+  Translated 240/3145
+  Translated 256/3145
+  Translated 272/3145
+  Translated 288/3145
+  Translated 304/3145
+  Translated 320/3145
+  Translated 336/3145
+  Translated 352/3145
+  Translated 368/3145
+  Translated 384/3145
+  Translated 400/3145
+  Translated 416/3145
+  Translated 432/3145
+  Translated 448/3145
+  Translated 464/3145
+  Translated 480/3145
+  Translated 496/3145
+  Translated 512/3145
+  Translated 528/3145
+  Translated 544/3145
+  Translated 560/3145
+  Translated 576/3145
+  Translated 592/3145
+  Translated 608/3145
+  Translated 624/3145
+  Translated 640/3145
+  Translated 656/3145
+  Translated 672/3145
+  Translated 688/3145
+  Translated 704/3145
+  Translated 720/3145
+  Translated 736/3145
+  Translated 752/3145
+  Translated 768/3145
+  Translated 784/3145
+  Translated 800/3145
+  Translated 816/3145
+  Translated 832/3145
+  Translated 848/3145
+  Translated 864/3145
+  Translated 880/3145
+  Translated 896/3145
+  Translated 912/3145
+  Translated 928/3145
+  Translated 944/3145
+  Translated 960/3145
+  Translated 976/3145
+  Translated 992/3145
+  Translated 1008/3145
+  Translated 1024/3145
+  Translated 1040/3145
+  Translated 1056/3145
+  Translated 1072/3145
+  Translated 1088/3145
+  Translated 1104/3145
+  Translated 1120/3145
+  Translated 1136/3145
+  Translated 1152/3145
+  Translated 1168/3145
+  Translated 1184/3145
+  Translated 1200/3145
+  Translated 1216/3145
+  Translated 1232/3145
+  Translated 1248/3145
+  Translated 1264/3145
+  Translated 1280/3145
+  Translated 1296/3145
+  Translated 1312/3145
+  Translated 1328/3145
+  Translated 1344/3145
+  Translated 1360/3145
+  Translated 1376/3145
+  Translated 1392/3145
+  Translated 1408/3145
+  Translated 1424/3145
+  Translated 1440/3145
+  Translated 1456/3145
+  Translated 1472/3145
+  Translated 1488/3145
+  Translated 1504/3145
+  Translated 1520/3145
+  Translated 1536/3145
+  Translated 1552/3145
+  Translated 1568/3145
+  Translated 1584/3145
+  Translated 1600/3145
+  Translated 1616/3145
+  Translated 1632/3145
+  Translated 1648/3145
+  Translated 1664/3145
+  Translated 1680/3145
+  Translated 1696/3145
+  Translated 1712/3145
+  Translated 1728/3145
+  Translated 1744/3145
+  Translated 1760/3145
+  Translated 1776/3145
+  Translated 1792/3145
+  Translated 1808/3145
+  Translated 1824/3145
+  Translated 1840/3145
+  Translated 1856/3145
+  Translated 1872/3145
+  Translated 1888/3145
+  Translated 1904/3145
+  Translated 1920/3145
+  Translated 1936/3145
+  Translated 1952/3145
+  Translated 1968/3145
+  Translated 1984/3145
+  Translated 2000/3145
+  Translated 2016/3145
+  Translated 2032/3145
+  Translated 2048/3145
+  Translated 2064/3145
+  Translated 2080/3145
+  Translated 2096/3145
+  Translated 2112/3145
+  Translated 2128/3145
+  Translated 2144/3145
+  Translated 2160/3145
+  Translated 2176/3145
+  Translated 2192/3145
+  Translated 2208/3145
+  Translated 2224/3145
+  Translated 2240/3145
+  Translated 2256/3145
+  Translated 2272/3145
+  Translated 2288/3145
+  Translated 2304/3145
+  Translated 2320/3145
+  Translated 2336/3145
+  Translated 2352/3145
+  Translated 2368/3145
+  Translated 2384/3145
+  Translated 2400/3145
+  Translated 2416/3145
+  Translated 2432/3145
+  Translated 2448/3145
+  Translated 2464/3145
+  Translated 2480/3145
+  Translated 2496/3145
+  Translated 2512/3145
+  Translated 2528/3145
+  Translated 2544/3145
+  Translated 2560/3145
+  Translated 2576/3145
+  Translated 2592/3145
+  Translated 2608/3145
+  Translated 2624/3145
+  Translated 2640/3145
+  Translated 2656/3145
+  Translated 2672/3145
+  Translated 2688/3145
+  Translated 2704/3145
+  Translated 2720/3145
+  Translated 2736/3145
+  Translated 2752/3145
+  Translated 2768/3145
+  Translated 2784/3145
+  Translated 2800/3145
+  Translated 2816/3145
+  Translated 2832/3145
+  Translated 2848/3145
+  Translated 2864/3145
+  Translated 2880/3145
+  Translated 2896/3145
+  Translated 2912/3145
+  Translated 2928/3145
+  Translated 2944/3145
+  Translated 2960/3145
+  Translated 2976/3145
+  Translated 2992/3145
+  Translated 3008/3145
+  Translated 3024/3145
+  Translated 3040/3145
+  Translated 3056/3145
+  Translated 3072/3145
+  Translated 3088/3145
+  Translated 3104/3145
+  Translated 3120/3145
+  Translated 3136/3145
+  Translated 3145/3145
+
+Done.
+Saved predictions to: /home/common/ACNLP/eng2nav/nllb_ft/gle_NOsyll_600M/fold_0/test_preds.txt
+==========================================
+Testing complete!
+==========================================

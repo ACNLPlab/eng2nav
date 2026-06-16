@@ -1,0 +1,103 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Why are you lying down?
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:09.150950
+(z0 / lie-07
+    :ARG1 (z1 / you)
+    :ARG1-of (z2 / cause-01
+                 :ARG0 (z3 / umr-unknown)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt down there" voices were heard saying.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:09.150968
+(z0 / say-01
+    :ARG0 (z1 / voice
+              :place (z2 / there
+                         :ARG1-of (z3 / down-03
+                                      :ARG5 (z4 / cartesian-framework-91
+                                                :ARG1 (z5 / build-space))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt so one day I decided to have some fun with my cousin by running down toward him as he walked along below me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:09.150972
+(z0 / cause-01
+    :ARG1 (z1 / decide-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / fun-01
+                        :ARG0 z2
+                        :ARG2 (z4 / person
+                                  :ARG1-of (z5 / have-rel-role-92
+                                               :ARG2 z2
+                                               :ARG3 (z6 / cousin)))
+                        :quant (z7 / some))
+              :manner (z8 / run-02
+                          :ARG0 z2
+                          :direction (z9 / trajectory
+                                         :ARG4-of (z10 / down-03
+                                                       :ARG5 (z11 / cartesian-framework-91
+                                                                  :ARG1 (z12 / build-space))))
+                          :temporal (z13 / walk-01
+                                         :ARG0 z4
+                                         :direction (z14 / along)
+                                         :place (z15 / below
+                                                     :op1 z2
+                                                     :ARG3 z11)))
+              :temporal (z16 / day
+                             :mod (z17 / one))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt “What do you mean by dashing around and saying that?
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:09.150977
+(z0 / mean-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / umr-unknown)
+    :ARG2 (z3 / and
+              :op1 (z4 / dashing-01
+                       :direction (z5 / around))
+              :op2 (z6 / say-01
+                       :ARG0 z1
+                       :ARG1 (z7 / that))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt You can't tell where you are in that kind of weather.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:09.150981
+(z0 / possible-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / space
+                        :place-of z2)
+              :temporal (z4 / weather
+                            :mod (z5 / kind
+                                     :mod (z6 / that)))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Golly, why they are big enough to be of use here now.", she said of us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:09.150985
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / thing
+              :ARG0-of (z3 / cause-01
+                           :ARG1 (z4 / big-01
+                                     :ARG1 (z5 / they)
+                                     :ARG2-of (z6 / have-degree-91
+                                                  :ARG1 z5
+                                                  :ARG3 (z7 / enough)
+                                                  :ARG6 (z8 / use-01
+                                                            :ARG1 z5
+                                                            :temporal (z9 / now)))))
+              :quote z0)
+    :ARG2 (z10 / person
+               :refer-person 3rd))

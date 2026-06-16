@@ -1,0 +1,70 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It took us 30 minutes to get there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:44.359028
+(z0 / take-10
+    :ARG1 (z1 / get-30
+              :ARG1 (z2 / we)
+              :ARG2 (z3 / there))
+    :ARG2 (z4 / temporal-quantity
+              :unit (z5 / minute)
+              :quant 30))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:44.359039
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt where we arrived at noon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:44.359044
+(z0 / have-place-91
+    :ARG2 (z1 / arrive-01
+              :ARG1 (z2 / we)
+              :temporal (z3 / date-entity
+                            :time "12:00")))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:44.359048
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:44.359052
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:44.359056
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))

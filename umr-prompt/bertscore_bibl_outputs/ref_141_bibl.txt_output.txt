@@ -1,0 +1,55 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That was probably their plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:16:40.567936
+(z0 / plan-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / that)
+    :mod (z3 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That was what I thought.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:16:40.567948
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This was my people's disaster.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:16:40.567952
+(z0 / disaster
+    :domain (z1 / this)
+    :possessor (z2 / person
+                   :possessor (z3 / i)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This is how we arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:16:40.567957
+(z0 / arrive-01
+    :ARG1 (z1 / we)
+    :manner (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That's the way it is.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:16:40.567961
+(z0 / way
+    :domain (z1 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:16:40.567965
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))

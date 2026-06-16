@@ -1,0 +1,125 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We had the rams in the herd, and they used to really fight with one another.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:07:14.967669
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / ram
+                       :place (z4 / herd)))
+    :op2 (z5 / fight-01
+             :ARG0 z3
+             :ARG2 (z6 / other)
+             :degree (z7 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:07:14.967687
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And they told us there'd be another flight on the next morning.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:07:14.967691
+(z0 / and
+    :op2 (z1 / tell-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / there
+                       :ARG1 (z4 / fly-01
+                                 :mod (z5 / another))
+                       :ARG2 (z6 / we)
+                       :temporal (z7 / date-entity
+                                     :dayperiod (z8 / morning)
+                                     :mod (z9 / next)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We had earphones on, and talked to one another by radio.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:07:14.967696
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / earphone))
+    :op2 (z4 / talk-01
+             :ARG0 z2
+             :ARG2 z2
+             :manner (z5 / radio)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:07:14.967700
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / and
+                       :op1 (z3 / one
+                                :ARG1-of (z4 / refer-03
+                                             :ARG0 (z5 / i)
+                                             :ARG2 (z6 / person
+                                                       :ARG1-of (z7 / have-rel-role-92
+                                                                    :ARG2 z5
+                                                                    :ARG3 (z8 / grandfather))))
+                                :op2 (z9 / person
+                                         :ARG1-of (z10 / have-rel-role-92
+                                                       :ARG2 z5
+                                                       :ARG3 (z11 / uncle)))
+                                :op3 (z12 / person
+                                          :name (z13 / name
+                                                     :op1 "Little"
+                                                     :op2 "Boy")
+                                          :mod (z14 / another)
+                                          :wiki -))
+                       :ARG4 (z15 / there)
+                       :temporal (z16 / date-entity
+                                      :dayperiod (z17 / night))
+                       :ARG1-of (z18 / appear-02))
+             :op2 (z19 / hear-01
+                       :ARG0 z5
+                       :ARG1 (z20 / tell-01
+                                  :ARG0 z2
+                                  :ARG1 (z21 / it)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and they no doubt came with evil thoughts. The people who, lived hereabout had heard nothing of their plans
+# ::annotator bart-amr
+# ::date 2025-10-22 01:07:14.967704
+(z0 / and
+    :op2 (z1 / doubt-01
+             :ARG1 (z2 / come-01
+                       :ARG1 (z3 / they)
+                       :ARG3 (z4 / think-01
+                                 :ARG0 z3
+                                 :ARG1 (z5 / evil))))
+    :op3 (z6 / person
+             :ARG0-of (z7 / hear-01
+                          :ARG1 (z8 / nothing
+                                    :ARG1-of (z9 / plan-01
+                                                 :ARG0 z3))
+                          :place (z10 / here))))

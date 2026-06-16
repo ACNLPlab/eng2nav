@@ -1,0 +1,100 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt As for us, we flew back and got off at Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:44.260049
+(z0 / and
+    :op1 (z1 / fly-01
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / back))
+    :op2 (z4 / get-05
+             :ARG0 z2
+             :ARG1 (z5 / off)
+             :ARG2 (z6 / city
+                       :name (z7 / name
+                                 :op1 "Phoenix")
+                       :wiki "Phoenix,_Arizona")))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt As for us, we spent another night at my uncle's hogan.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:44.260066
+(z0 / spend-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / night
+              :mod (z3 / another))
+    :ARG2 (z4 / hogan
+              :possessor (z5 / person
+                             :ARG1-of (z6 / have-rel-role-92
+                                          :ARG2 (z7 / i)
+                                          :ARG3 (z8 / uncle)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt After we had inspected the reservation we flew back, but to Tucson.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:44.260071
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Tucson")
+              :wiki "Tucson,_Arizona")
+    :temporal (z4 / after
+                  :op1 (z5 / inspect-01
+                           :ARG0 z1
+                           :ARG1 (z6 / reservation))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt And then we started back to Phoenix,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:44.260075
+(z0 / and
+    :op2 (z1 / start-01
+             :ARG0 (z2 / we)
+             :place (z3 / city
+                        :name (z4 / name
+                                  :op1 "Phoenix")
+                        :wiki "Phoenix,_Arizona")
+             :temporal (z5 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In the evening, on our return trip, one of the motors caught fire. It happened between Flagstaff and Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:44.260079
+(z0 / burn-01
+    :ARG1 (z1 / motor
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / motor)))
+    :temporal (z4 / date-entity
+                  :dayperiod (z5 / evening))
+    :temporal (z6 / return-01
+                  :ARG1 (z7 / we))
+    :place (z8 / between
+               :op1 (z9 / city
+                        :name (z10 / name
+                                   :op1 "Flagstaff")
+                        :wiki "Flagstaff,_Arizona")
+               :op2 (z11 / city
+                         :name (z12 / name
+                                    :op1 "Phoenix")
+                         :wiki "Phoenix")))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They loaded and hauled from Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:44.260083
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG0 (z2 / they)
+             :source (z3 / city
+                         :name (z4 / name
+                                   :op1 "Phoenix")
+                         :wiki "Phoenix,_Arizona"))
+    :op2 (z5 / haul-01
+             :ARG0 z2
+             :source z3))

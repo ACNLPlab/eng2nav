@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We heard reports that there were people going about to get children put into school.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The people who had promised their children for school were named, and we were told many things about the school.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

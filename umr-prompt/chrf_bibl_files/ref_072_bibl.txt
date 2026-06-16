@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I do not remember in detail much of what happened before I was about ten years old.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt As time went on I somehow grew up. I do not remember much about it.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At the time I was about eighteen years old the person who started the present trading post at Blue Clay Point moved there - I used to know just when it was.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In the evening, on our return trip, one of the motors caught fire. It happened between Flagstaff and Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They built the trading post and four years later perhaps, I do not recall exactly when, the one I called my uncle told us to haul wood there.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

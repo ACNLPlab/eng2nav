@@ -1,0 +1,117 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There were also many of us who had joined in just as spectators.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:45.112135
+(z0 / join-04
+    :ARG0 (z1 / we
+              :quant (z2 / many))
+    :ARG1 (z3 / in)
+    :manner (z4 / spectator)
+    :mod (z5 / also))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And the person who had joined me thought likewise.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:45.112153
+(z0 / and
+    :op2 (z1 / think-01
+             :ARG0 (z2 / person
+                       :ARG0-of (z3 / join-04
+                                    :ARG1 (z4 / i)))
+             :ARG1 (z5 / likewise)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The people who had promised their children for school were named, and we were told many things about the school.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:45.112157
+(z0 / and
+    :op1 (z1 / name-01
+             :ARG1 (z2 / person
+                       :ARG0-of (z3 / promise-01
+                                    :ARG1 (z4 / person
+                                              :ARG1-of (z5 / have-rel-role-92
+                                                           :ARG2 (z6 / parent)
+                                                           :ARG3 (z7 / child)))
+                                    :purpose (z8 / school))))
+    :op2 (z9 / tell-01
+             :ARG0 z6
+             :ARG1 (z10 / thing
+                        :quant (z11 / many)
+                        :topic (z12 / school))
+             :ARG2 (z13 / we)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt When this happened Black Horse’s henchmen spoke without effect because there were others who were trying to keep order and who said "No" to the proposal to attack the soldiers.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:45.112162
+(z0 / speak-01
+    :ARG0 (z1 / henchman
+              :possessor (z2 / person
+                             :name (z3 / name
+                                       :op1 "Black"
+                                       :op2 "Horse")
+                             :wiki -))
+    :ARG1-of (z4 / cause-01
+                 :ARG0 (z5 / and
+                           :op1 (z6 / other
+                                    :ARG0-of (z7 / try-01
+                                                 :ARG1 (z8 / keep-02
+                                                           :ARG1 (z9 / order-01))))
+                           :op2 (z10 / say-01
+                                     :ARG0 z10
+                                     :ARG1 (z11 / no)
+                                     :ARG2 (z12 / proposal
+                                                :purpose (z13 / attack-01
+                                                              :ARG0 z10
+                                                              :ARG1 (z14 / soldier)))))
+                 :polarity -)
+    :temporal (z15 / event
+                   :mod (z16 / this))
+    :manner (z17 / effect
+                 :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They no doubt told what they thought - what their opinions were regarding this school business that had started in connection with us. They told these things to the people from here who had gathered.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:45.112166
+(z0 / tell-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / thing
+                       :ARG1-of (z4 / think-01
+                                    :ARG0 z1))
+              :op2 (z5 / thing
+                       :ARG1-of (z6 / opine-01
+                                    :ARG0 z1)
+                       :topic (z7 / business
+                                  :mod (z8 / school)
+                                  :ARG1-of (z9 / start-01
+                                               :prep-in (z10 / we))
+                                  :mod (z11 / this))))
+    :ARG2 (z12 / person
+               :source (z13 / here)
+               :ARG0-of (z14 / gather-03))
+    :ARG1-of (z15 / doubt-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There were three Navajo policemen there in that connection.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:45.112170
+(z0 / have-place-91
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-org-role-92
+                           :ARG2 (z3 / ethnic-group
+                                     :name (z4 / name
+                                               :op1 "Navajo")
+                                     :wiki "Navajo_Nation")
+                           :ARG3 (z5 / police))
+              :quant 3)
+    :ARG2 (z6 / there)
+    :manner (z7 / connect-01
+                :mod (z8 / that)))

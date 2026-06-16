@@ -1,0 +1,63 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then they all rushed in.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:43.769446
+(z0 / rush-01
+    :ARG1 (z1 / they
+              :mod (z2 / all))
+    :temporal (z3 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Here they began life anew.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:43.769458
+(z0 / begin-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / new-01))
+    :place (z4 / here))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:43.769462
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Just then they locked the door from the inside.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:43.769466
+(z0 / lock-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / door)
+    :manner (z3 / inward-02
+                :ARG1 z2)
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The people went into the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:43.769470
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / post
+              :mod (z3 / trade)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we took off
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:43.769475
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :temporal (z2 / then))

@@ -1,0 +1,73 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Even if you jump out you'll lose your life.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:06.070531
+(z0 / lose-02
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / life)
+    :condition (z3 / jump-03
+                   :ARG0 z1
+                   :direction (z4 / out)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Many people lost stock.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:06.070543
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / stock))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:06.070547
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Go run a race.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:06.070551
+(z0 / go-02
+    :ARG0 (z1 / you)
+    :ARG4 (z2 / run-02
+              :ARG0 z1
+              :ARG1 (z3 / race))
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt so when something like this happens the fire is easily put out.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:06.070555
+(z0 / have-purpose-91
+    :ARG2 (z1 / put-out-09
+              :ARG1 (z2 / fire)
+              :ARG1-of (z3 / easy-05)
+              :temporal (z4 / event
+                            :ARG1-of (z5 / resemble-91
+                                         :ARG2 (z6 / this)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then they would starve or freeze to death right where they stood.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:06.070559
+(z0 / or
+    :op1 (z1 / starve-01
+             :ARG1 (z2 / they))
+    :op2 (z3 / freeze-02
+             :ARG1 z2)
+    :temporal (z4 / then)
+    :place (z5 / stand-01
+               :ARG1 z2
+               :mod (z6 / right-yy)))

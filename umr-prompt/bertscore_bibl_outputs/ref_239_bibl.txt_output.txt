@@ -1,0 +1,57 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It was packed full.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:49.940182
+(z0 / cram-01
+    :ARG1 (z1 / it))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:49.940194
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:49.940198
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:49.940202
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was a long drop.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:49.940206
+(z0 / drop-01
+    :ARG1-of (z1 / long-03))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:49.940210
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))

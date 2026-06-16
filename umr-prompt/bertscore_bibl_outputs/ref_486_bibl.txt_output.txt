@@ -1,0 +1,76 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We herded them back down to the open country.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:26.666647
+(z0 / herded-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / country
+              :ARG1-of (z4 / open-09))
+    :direction (z5 / back))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We stayed down there and herded the sheep until noon.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:26.666664
+(z0 / stay-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / there
+              :ARG1-of (z3 / down-03
+                           :ARG5 (z4 / cartesian-framework-91
+                                     :ARG1 (z5 / build-space))))
+    :op3 (z6 / herded-01
+             :ARG0 z1
+             :ARG1 (z7 / sheep)
+             :temporal (z8 / until
+                           :op1 (z9 / date-entity
+                                    :dayperiod (z10 / noon)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:26.666668
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and we would herd them in a real wilderness area.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:26.666672
+(z0 / herd-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :place (z3 / area
+               :mod (z4 / wilderness)
+               :ARG1-of (z5 / real-04)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We headed them off toward the flat.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:26.666676
+(z0 / head-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :direction (z3 / trajectory
+                   :ARG4-of (z4 / toward-01
+                                :ARG2 (z5 / flat-06))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:26.666681
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))

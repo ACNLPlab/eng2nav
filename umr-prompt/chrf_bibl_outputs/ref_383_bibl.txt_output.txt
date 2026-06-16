@@ -1,0 +1,77 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They thought it would be easy
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:22.630878
+(z0 / think-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / easy-05
+              :ARG1 (z3 / it)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt They would break through this crust, and just stand there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:22.630890
+(z0 / and
+    :op1 (z1 / break-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / crust
+                       :mod (z4 / this)))
+    :op2 (z5 / stand-01
+             :ARG1 z2
+             :mod (z6 / just)
+             :place (z7 / there)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And they went on the basis of how many minutes it would take.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:22.630894
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / they)
+             :manner (z3 / basis
+                         :op1 (z4 / temporal-quantity
+                                  :unit (z5 / minute)
+                                  :quant-of (z6 / take-10
+                                                :ARG1 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:22.630899
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :temporal (z3 / since
+                  :op1 (z4 / report-01
+                           :ARG1 (z5 / before
+                                     :op1 (z6 / arrive-01
+                                              :ARG1 (z7 / load
+                                                        :possessor (z8 / child)))
+                                     :mod (z9 / another)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt There could be some of them right here nearby.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:22.630903
+(z0 / possible-01
+    :ARG1 (z1 / possible-01
+              :ARG1 (z2 / they
+                        :quant (z3 / some)
+                        :place (z4 / here
+                                   :mod (z5 / right-yy)
+                                   :ARG1-of (z6 / have-place-91
+                                                :ARG2 (z7 / nearby))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That was what I thought.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:22.630907
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))

@@ -1,0 +1,129 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt When we passed the reservation boundary they said to me, “From now on it's up to you.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:03.410380
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / end-up-03
+              :ARG1 (z3 / it)
+              :ARG2 (z4 / i)
+              :temporal (z5 / now)
+              :quote z0)
+    :ARG2 z4
+    :temporal (z6 / pass-01
+                  :ARG0 (z7 / we)
+                  :ARG1 (z8 / boundary
+                            :mod (z9 / reservation))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt After we had inspected the reservation we flew back, but to Tucson.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:03.410410
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Tucson")
+              :wiki "Tucson,_Arizona")
+    :temporal (z4 / after
+                  :op1 (z5 / inspect-01
+                           :ARG0 z1
+                           :ARG1 (z6 / reservation))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt As she passed by she said, "It is said that those boys who are unloading wood over there have been promised for school - they will go to school too.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:03.410414
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / and
+              :op1 (z3 / say-01
+                       :ARG1 (z4 / promise-01
+                                 :ARG1 (z5 / boy
+                                           :ARG0-of (z6 / load-01
+                                                        :ARG1 (z7 / wood)
+                                                        :place (z8 / there)))
+                                 :ARG2 (z9 / school))
+                       :quote z0)
+              :op2 (z10 / go-02
+                        :ARG0 z5
+                        :ARG4 z9
+                        :mod (z11 / too)))
+    :temporal (z12 / pass-by-02
+                   :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt [But at the time when we were small and used to herd our sheep up there we did not know things like this.] Only my cousin had a smattering of such information,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:03.410418
+(z0 / contrast-91
+    :ARG2 (z1 / know-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / resemble-91
+                                     :ARG2 (z5 / this)))
+              :temporal (z6 / and
+                            :op1 (z7 / small
+                                     :domain z2)
+                            :op2 (z8 / use-01
+                                     :ARG1 z2
+                                     :ARG2 (z9 / herd-01
+                                               :ARG0 z2
+                                               :ARG1 (z10 / sheep
+                                                          :possessor z2)
+                                               :place (z11 / there)))
+                            :polarity -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt At the time I was about eighteen years old the person who started the present trading post at Blue Clay Point moved there - I used to know just when it was.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:03.410422
+(z0 / and
+    :op1 (z1 / move-01
+             :ARG0 (z2 / person
+                       :ARG0-of (z3 / start-01
+                                    :ARG1 (z4 / post
+                                              :mod (z5 / present-02)
+                                              :place (z6 / point
+                                                         :name (z7 / name
+                                                                   :op1 "Blue"
+                                                                   :op2 "Clay"
+                                                                   :op3 "Point")
+                                                         :wiki "Blue_Clay_Point"))))
+             :ARG1 (z8 / there)
+             :temporal (z9 / age-01
+                           :ARG1 (z10 / i)
+                           :ARG2 (z11 / about
+                                      :op1 (z12 / temporal-quantity
+                                                :unit (z13 / year)
+                                                :quant 18))))
+    :op2 (z14 / know-01
+              :ARG0 z10
+              :ARG1 (z15 / time
+                         :temporal-of (z16 / it)
+                         :mod (z17 / just))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:03.410426
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))

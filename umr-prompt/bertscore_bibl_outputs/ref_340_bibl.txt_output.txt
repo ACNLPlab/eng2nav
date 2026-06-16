@@ -1,0 +1,87 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt After we had inspected the reservation we flew back, but to Tucson.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:32.900748
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Tucson")
+              :wiki "Tucson,_Arizona")
+    :temporal (z4 / after
+                  :op1 (z5 / inspect-01
+                           :ARG0 z1
+                           :ARG1 (z6 / reservation))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt As for us, we flew back and got off at Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:32.900765
+(z0 / and
+    :op1 (z1 / fly-01
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / back))
+    :op2 (z4 / get-05
+             :ARG0 z2
+             :ARG1 (z5 / off)
+             :ARG2 (z6 / city
+                       :name (z7 / name
+                                 :op1 "Phoenix")
+                       :wiki "Phoenix,_Arizona")))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:32.900769
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:32.900773
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In the evening after we had unloaded another load of wood we started back home in the wagon.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:32.900778
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :place (z3 / wagon)
+    :temporal (z4 / after
+                  :op1 (z5 / load-01
+                           :ARG0 z1
+                           :ARG1 (z6 / load
+                                     :mod (z7 / another)
+                                     :consist-of (z8 / wood))))
+    :temporal (z9 / date-entity
+                  :dayperiod (z10 / evening)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:32.900782
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))

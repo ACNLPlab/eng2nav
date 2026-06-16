@@ -1,0 +1,88 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt When they spread out into the brush we would just let them go and follow them.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:51:33.081153
+(z0 / and
+    :op1 (z1 / let-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / go-02
+                       :ARG0 (z4 / they))
+             :op2 (z5 / follow-02
+                      :ARG0 z2
+                      :ARG1 z4)
+             :temporal (z6 / spread-01
+                           :ARG0 z4
+                           :direction (z7 / brush))
+             :mod (z8 / just)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When the sheep would be on the side of the mountain, I'd skirt them from above.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:51:33.081169
+(z0 / skirt-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :source (z3 / above-01
+                :ARG3 (z4 / cartesian-framework-91
+                          :ARG1 (z5 / build-space)))
+    :temporal (z6 / have-place-91
+                  :ARG1 z2
+                  :ARG2 (z7 / side
+                            :part-of (z8 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and we would herd them in a real wilderness area.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:51:33.081173
+(z0 / herd-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :place (z3 / area
+               :mod (z4 / wilderness)
+               :ARG1-of (z5 / real-04)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:51:33.081178
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt so we just went with the crowd.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:51:33.081182
+(z0 / cause-01
+    :ARG1 (z1 / go-02
+              :ARG0 (z2 / we)
+              :ARG3 (z3 / crowd)
+              :mod (z4 / just)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin would tell me to go a certain direction, and we would then separate.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:51:33.081186
+(z0 / and
+    :op1 (z1 / tell-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / cousin)))
+             :ARG1 (z6 / go-02
+                       :ARG0 z4
+                       :ARG4 (z7 / direction
+                                 :mod (z8 / certain)))
+             :op2 (z9 / separate-01
+                      :ARG0 (z10 / we)
+                      :temporal (z11 / then))))

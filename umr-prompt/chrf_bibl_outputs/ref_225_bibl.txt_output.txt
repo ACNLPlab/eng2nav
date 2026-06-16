@@ -1,0 +1,153 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Quite some time ago when they moved back from Fort Sumner he had a hard time. He started his life by poking around in the horse manure in a stable.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:38.813563
+(z0 / hard-02
+    :ARG1 (z1 / he)
+    :temporal (z2 / before
+                  :op1 (z3 / now)
+                  :quant (z4 / quite))
+    :temporal (z5 / move-01
+                  :ARG0 (z6 / they)
+                  :ARG4 (z7 / city
+                            :name (z8 / name
+                                      :op1 "Fort"
+                                      :op2 "Sumner")
+                            :wiki "Fort_Sumner,_North_Carolina")))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt My forbears, the old men and women folk, were of the Mexican People Clan. With great hardship they came back from the place called Fort Sumner, packing their goods on their backs, and afterward lived here at Lukachukai.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:38.813581
+(z0 / and
+    :op1 (z1 / have-org-role-92
+             :ARG1 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / forbear)))
+             :ARG2 (z6 / folk
+                       :ARG1-of (z7 / old-01))
+             :ARG3 (z8 / folk
+                       :ARG1-of (z9 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z10 / woman))))
+    :ARG2 (z11 / ethnic-group
+               :name (z12 / name
+                          :op1 "Mexican"
+                          :op2 "People"
+                          :op3 "Clan")
+               :wiki "Mexican_People"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At the time I was about eighteen years old the person who started the present trading post at Blue Clay Point moved there - I used to know just when it was.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:38.813586
+(z0 / and
+    :op1 (z1 / move-01
+             :ARG0 (z2 / person
+                       :ARG0-of (z3 / start-01
+                                    :ARG1 (z4 / post
+                                              :mod (z5 / present-02)
+                                              :place (z6 / point
+                                                         :name (z7 / name
+                                                                   :op1 "Blue"
+                                                                   :op2 "Clay"
+                                                                   :op3 "Point")
+                                                         :wiki "Blue_Clay_Point"))))
+             :ARG1 (z8 / there)
+             :temporal (z9 / age-01
+                           :ARG1 (z10 / i)
+                           :ARG2 (z11 / about
+                                      :op1 (z12 / temporal-quantity
+                                                :unit (z13 / year)
+                                                :quant 18))))
+    :op2 (z14 / know-01
+              :ARG0 z10
+              :ARG1 (z15 / time
+                         :temporal-of (z16 / it)
+                         :mod (z17 / just))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:38.813590
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then Black Horse spoke up and said, "This business of taking children away from people to put them in school - when is it going to affect the people from over beyond the mountain?"
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:38.813594
+(z0 / speak-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / affect-01
+              :ARG0 (z4 / business
+                        :purpose (z5 / take-away-05
+                                     :ARG0 z4
+                                     :ARG1 (z6 / child)
+                                     :ARG2 (z7 / person)
+                                     :purpose (z8 / put-01
+                                                  :ARG0 z4
+                                                  :ARG1 z6
+                                                  :ARG2 (z9 / school))))
+              :ARG1 (z10 / umr-unknown)
+              :ARG2 (z11 / person
+                         :source (z12 / over
+                                      :op1 (z13 / mountain)
+                                      :ARG5 (z14 / cartesian-framework-91
+                                                 :ARG1 (z15 / build-space))))
+              :temporal (z16 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:38.813598
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))

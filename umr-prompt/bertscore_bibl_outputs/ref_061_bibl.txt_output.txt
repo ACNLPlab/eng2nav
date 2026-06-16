@@ -1,0 +1,74 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I was born on a night when a heavy snow had begun to fall.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:15.588404
+(z0 / bear-02
+    :ARG1 (z1 / i)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)
+                  :temporal-of (z4 / begin-01
+                                   :ARG1 (z5 / snow-01
+                                             :ARG1-of (z6 / heavy-01)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And since it had snowed the night before they had to go through the snow.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:15.588422
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / snow-01
+                       :temporal (z3 / date-entity
+                                     :dayperiod (z4 / night)
+                                     :mod (z5 / before)))
+             :ARG1 (z6 / obligate-01
+                       :ARG2 (z7 / go-02
+                                 :ARG0 (z8 / they)
+                                 :path (z9 / through
+                                           :op1 (z10 / snow))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He was a very strong, husky man.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:15.588426
+(z0 / man
+    :domain (z1 / he)
+    :ARG1-of (z2 / strong-02
+                 :degree (z3 / very))
+    :ARG1-of (z4 / husky-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:15.588430
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:15.588434
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That day the fog was really thick.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:15.588438
+(z0 / thick-03
+    :ARG1 (z1 / fog)
+    :degree (z2 / really)
+    :temporal (z3 / day
+                  :mod (z4 / that)))

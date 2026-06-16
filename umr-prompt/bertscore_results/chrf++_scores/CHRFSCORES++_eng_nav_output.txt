@@ -1,0 +1,2025 @@
+SCORE: 27.087
+GOLD: Ałk’idą́ą́’ díí nahasdzáán nihił dah si’ánígíí bikáa’gi ’ádahóót’įįd ha’níigo baa dahane’
+PRED: Hágoónee’ díí nihí Nahasdzáán bikáa’di ’áhoot’į́į́’ t’áá ajiłii baa yáníłti’ígíí hane’ hólǫ́.
+
+SCORE: 13.321
+GOLD: Ch’óol’į́’í hoolyéegi ’áhóót’įįd daaní
+PRED: Díí hane’ Gobernador Knob hoolyéhígíídi yiską́ áłahgo.
+
+SCORE: 30.415
+GOLD: ’Áłtsé Hastiin dóó ’Áłtsé ’Asdzą́ą́ wolyéii ’índa Yoołgaii ’Asdzą́ą́ dóó ’Asdzą́ą́ Nádleehé ’ahíjiikaigo nidzíiztą́ jiní
+PRED: Áłtsé Hastiin dóó Áłtsé Asdzání, dóó Yoołgai Asdzání dóó Asdzání Nádleehé éí ’ałahgo deiyisdááh.
+
+SCORE: 35.148
+GOLD: Ńléídę́ę́’ hayííłką́ągo ’Áłtsé Hastiin ’azhdoolish biniiyé ch’ízhníyáago Ch’óol’į́’í si’ą́ąjį’ ’ajííghal ńt’éé’ bílátahgi t’áá ’áłtsíísígo k’os bił dah shoogish jiní
+PRED: Yoolkááłgo Áłtsé Hastiin yá deiyá; Ch’óol’į́’í bílátahgi yá ííníł’į́, k’os bił dah shoogish yiiłtsą́ jiní.
+
+SCORE: 44.648
+GOLD: Yah ’anídzoodzáago Ńléí la’ ha’át’éego Ch’óol’į́’í bílátahgi k’os bił dah shoogish
+PRED: Hooghan góne’ nániihgo áłníí’, “Ch’óol’į́’í si’ą́ąjį’ ’ajííghal ńt’éé’ bílátahgi t’áá ’áłtsíísígo k’os bił dah shoogish ha’át’íí baa nisin?”
+
+SCORE: 28.658
+GOLD: Haalá ’áhoodzaa shą́ą́’ dohníi ni’ dííniid Bilį́į́’ Łizhinii yę́ę
+PRED: Háálá, ashkiiké. Níníłjįʼígíí bee nihinízin, jiní Bilį́į́’ Łizhinii.
+
+SCORE: 31.421
+GOLD: T’áá ’áko Na’niłhodí wolyéhę́ę ’alą́ąjį’ ’ákóne’ dah yiite’ dóó Naat’áanii yę́ę yiyaayáahgi yizhjih
+PRED: Na’niłhodí wolyéé ńt’éé’ ’éí t’áá ’íiyisí dahgóó yááł, dóó Naat’áanii bi k’íní yíł’ą́.
+
+SCORE: 20.102
+GOLD: ’Aadóó t’áá ’át’é ’áajį’ dah diijéé’
+PRED: ’Aádóó t’áá ałtso na’ats’íílidgo yah ’o’ooldee’
+
+SCORE: 29.268
+GOLD: Hastiin ’Adiits’a’ii yę́ę ’éí wóniidi tsin dánídíkǫs yę́ę báátis yajiiltáál níwohjigo
+PRED: T’ah nah wóniidi tsin dánídíkǫs biká Sání yixą́
+
+SCORE: 14.163
+GOLD: ’Aadóó doo ’ééhoozin da
+PRED: Dóó ádájí doo hazhóʼógo nahidoogááł.
+
+SCORE: 44.599
+GOLD: Tł’óó’góó tł’óó’góó t’óó daha’níits’a’
+PRED: Bikáa’gi haaldááh t’óó daha’níits’a’.
+
+SCORE: 2.465
+GOLD: Naat’áanii yę́ę tł’óó’góó yił ch’íníjéé’
+PRED: Bił deijį’
+
+SCORE: 11.947
+GOLD: Kǫ́ǫ́ yił yijahgo t’áá ’atát’ah ch’ínísh’na’
+PRED: ’Áko biyi’ yáidiiłnááhgo, bitahgo naashchʼįʼ dóó bitahgo yádeeshkaz.
+
+SCORE: 12.866
+GOLD: T’áá shį́į́ ’áko wóne’dę́ę́’ dáda’deeskaal
+PRED: T’áá ’áajį’ bii’di daaztsą́ yina’átł’ó’.
+
+SCORE: 20.357
+GOLD: ’Ashiiké naaki ’ólta’jį’ nii’nil ńt’éé’ ’éí ’atah t’áá ’ákóne’ bidá’deelkaal lá
+PRED: Ashkii naaki ’ólta’góó nihees’nilii biyi’ ’ałháál’į́.
+
+SCORE: 31.517
+GOLD: Toohnii wolyéé ńt’éé’ ’éí k’ad Kiichil wolyé dishínígíí náánáła’ yił ndilt’éego t’áá ’ákóne’é bidá’deelkaal
+PRED: River Man joolyé dishnínę́ę’ ’éí, dííjį́’ Short Hair wolyé, dóó bił ’ashkii t’áá łáa’í. Díí éí ’atah t’áá ’ákóne’ bidá’deelkaalígíí.
+
+SCORE: 28.375
+GOLD: ’Éí bininaa hastiin Wéela wolyéé ńt’éé’ dishnínígíí Naat’áanii yich’ijí silį́į́’
+PRED: Díí biniinaa hastiin yę́ę Weela wolyé dishnínę́ę Ajeent bá na’azníí’
+
+SCORE: 24.467
+GOLD: Biye’ naalyéhé bá hooghan góne’ ’atah bidá’deelkaalgo biniinaa
+PRED: Bik’ehgo, ’atáhgi bidá’deelkaalígíí ashiiké t’áá łá’ biye’ nít’į́.
+
+SCORE: 24.925
+GOLD: Naat’áanii yę́ę nagháíjigo diné hoł noodah
+PRED: Diné ’ałtso Naat’áanii nahgóó yił yijah.
+
+SCORE: 5.676
+GOLD: T’áá ’áyídí góyaa bidah ’áajigo
+PRED: Éí bik'ijį́' dééhígíí hólǫ́.
+
+SCORE: 9.637
+GOLD: Bighá nílį́įgo ’ałch’ishdę́ę́’ Bis Dootł’izh Deez’á
+PRED: Łeezh dootłʼizhígíí biyiʼ bikóóh yileeh, bináhjiʼ naaki kéyah bitsiʼ hólǫ́
+
+SCORE: 11.300
+GOLD: ’Éí bihoolyé
+PRED: Jó ’éí naalyééh bighan ’óosye’ jiní
+
+SCORE: 5.469
+GOLD: T’áá nízaad bidah
+PRED: Ayóó néézgo yádiłhił lá
+
+SCORE: 11.532
+GOLD: Bidah góyaa ’ahołhan
+PRED: Nahasdzáán bikáa’góó yíłnééh!
+
+SCORE: 100.000
+GOLD: Bidah góyaa
+PRED: Bidah góyaa
+
+SCORE: 37.341
+GOLD: Bidah góyaa t’óó daha’níits’a’
+PRED: Bidah góyaa niné’é dahojilne’.
+
+SCORE: 20.703
+GOLD: Nagháí kin biniit’aadóó diné lą’í naazį́įgo ’áádóó ’atah sézį́
+PRED: Naalyéhé bá hooghan yę́ę’ diné t’óó ’áhayóí naazį́, dóó shí éí bił shinaazį́.
+
+SCORE: 10.402
+GOLD: Shidá’í yę́ę ’éí t’áá shíighahdóó sizį́
+PRED: Shizhé’é shíkijį’ naazį́.
+
+SCORE: 13.896
+GOLD: ’Áádóó háí shį́į́ t’áá ’éiyá ’ałdó’ ’ákwii naazį́į ni’ ’éí doo bénáshniih da
+PRED: Dóó háí łá idíígi yizláígíí doo shił bééhózin da.
+
+SCORE: 13.261
+GOLD: Nahgóó yił yijahgo hááhgóóshį́į́ diné ’adadziiłts’in
+PRED: Diné éí Naat’áanii yę́ę yiyiilááhígíí, bila’ yisdááhígíí bee deiniłts’ą́.
+
+SCORE: 19.702
+GOLD: Naat’áanii yę́ę ńdeiniłts’in
+PRED: Diné ’adadziiłts’in
+
+SCORE: 47.659
+GOLD: Ńléígóó yił yijahgo Yoo’ó ’Adika’í wolyéhę́ę kodóó ch’élwod
+PRED: Adoo t’áá ádí nahgóó yił yijahgo, Yoo’ó ’Adika’í wolyéígíí ’éí díí nihit’į́į́’gi dę́ę́’ yíyá.
+
+SCORE: 21.819
+GOLD: Nahjí hááhgóóshį́į́ diné t’óó naanáájah
+PRED: Bilį́į́’ Łizhinii bik’ijį’ nahjígo diné t’áá éiyá naaghá.
+
+SCORE: 29.014
+GOLD: T’áá shį́į́ ’ałtso bilį́į́’ kǫ́ǫ́ naazį́įgo
+PRED: T’áá ałtso bílį́į́’ yę́ę naazį́.
+
+SCORE: 9.193
+GOLD: T’óó ’idahidiikaii łą́ą́ lá
+PRED: Ayóó łáá’ání náá’ yidiiyá.
+
+SCORE: 21.504
+GOLD: ’Asdzání da ła’ da’atah
+PRED: Dóó díí bikáá’gi asdzání ła’ hólǫ́.
+
+SCORE: 7.924
+GOLD: ’Éí shį́į́ t’áá ’ákǫ́ǫ́ ’atah dabiiską́ ’ałdó
+PRED: Díí asdzání daatsʼíʼ ’Áadi bił daiskaad.
+
+SCORE: 22.846
+GOLD: ’Éí shį́į́ diné bitsą́ ’áda’jił’į́ biniiyé
+PRED: Hastóí bitsą́ ’ánááda’jį’ sidą́ą́’.
+
+SCORE: 29.567
+GOLD: Bine’dę́ę́’ dó’ ’asdzání ła’ ’atah níyáá lá
+PRED: ’Éí shį́į́ asdzání t’áá łá’ dził bine’dę́ę́’ jíkai yę́ę yíyá
+
+SCORE: 11.200
+GOLD: ’Éí hááhdóó shį́į́ t’áá ’éiyá ’asdzání t’áá ’éí ni’
+PRED: Háádę́ę́ʼ t’áá bąąh ílíní deyá hóla
+
+SCORE: 14.138
+GOLD: Kódzaago t’áá ch’ééh ’ádaaníigo t’áá ’ákwii yaa ’ádahalyą́ nahalinii dooda daani
+PRED: Díí adíílnihgo, Bilį́į́’ Łizhinii beenaa’í t’áadoo ałts’íísí yíníł’į́’, biniinaa ’áłts’ó’ dine’é hózhǫ́ náhwiilne’ dóó naabaahii bił ná’oolkił bina’ahóót’į́’ baa “Doodá” yíníł’į́’ígíí hólǫ́.
+
+SCORE: 12.347
+GOLD: ’Éí diné shijée’gi kwii náánísdzá ’atah
+PRED: Yiską́ągo dine’é danilį́į’ígíí góó nááhaz’ą́ígíí shí éí t’áá łá’í ’át’é.
+
+SCORE: 26.590
+GOLD: Ńt’éé’ ’éí diné bine’dę́ę́’ bíkahazt’i’ silį́į’ii tł’éédą́ą́’ hane’ bitaast’áanii niheeskai lá
+PRED: Ńt’éé’ Bine’dę́ę́’ diné hane’ bee yádeilníí’ígíí dóó dah naaznilíígíí bił ’aníbą́ą́z lá.
+
+SCORE: 7.040
+GOLD: Bee’eldǫǫh ’índa k’aa’ da shódaoozt’e’ lá
+PRED: Béésh ba’ąąh dóó tsin bił atł’óhí dóó atsiniltł’ish bił hólǫ́
+
+SCORE: 19.871
+GOLD: Diné dó’ łą́ą́ lá
+PRED: Díí Diné t’óó ’ahayóí lá
+
+SCORE: 14.244
+GOLD: T’áá kojí t’áá dabinááł nahalingo ’íikaii dó’ łą́ą́ lá
+PRED: Dóó nihí bítah t’áá éí nidaalyaa’go yá’áłnííłígíí daalání hólǫ́.
+
+SCORE: 21.039
+GOLD: Díí diné dahóółchį’ii bá ch’iyáán ’ál’į́įgi hastiin ńt’éé’ Tó Dík’ǫ́zhi ńt’éé’ Tsézhints’óóz wolyéé ńt’éé’ ’éí shį́į́ ha’áłchíní t’áá dah joo’ishgo ’asdzání ’éí shį́į́ bá ch’iyáán ’ádajił’į́įgo yiską́
+PRED: Hastiin Áshįįhí nilį́į́ Łeezh Ts’óózí joolyéé’, ’éí bí k’é di’ídi’ hólǫ́, dóó bi’asdzáán tł’óółgo bee dah ’ajoo’ishígíí diné bitsą́ ’áda’jił’į́ lá
+
+SCORE: 15.636
+GOLD: ’Ahbínígo shį́į́ bitsą́ ’ánááda’jiidlaa
+PRED: ’Abínígo asdzání náá ch’iyáán ’áłníí’ biniiyé.
+
+SCORE: 12.418
+GOLD: ’Áko ńláhjí siláago yinééł
+PRED: Háálá diné naabaahii ’ákǫ́ǫ́go yiyááhígíí bił yánízin
+
+SCORE: 68.663
+GOLD: K’ad hágoshį́į́
+PRED: K’ad hágoshíí! Hágoshį́į́!
+
+SCORE: 20.404
+GOLD: T’áá ńléí dzígaigi dooleeł
+PRED: Dzígaijigi éídi t’áá shoodí na’neelkaad
+
+SCORE: 60.830
+GOLD: K’ad hágoshíí
+PRED: K’ad hágoshį́į́!
+
+SCORE: 7.370
+GOLD: T’ah doo yah ’iinééhdą́ą́’ t’ah doo yah ’iinééhdą́ą́’
+PRED: T’áá hikaadgo ’ákwii dayíníná! T’áá hikaadgo ’ákwii dayíníná!
+
+SCORE: 33.446
+GOLD: Ha’át’íishą’ bee ’ádoolnííł níigo Bilį́į́’ Łizhinii yę́ę ch’ééh kwii naanáálwoł
+PRED: ’Adadishááł! Bilį́į́’ Łizhinii yę́ę ts’ídá naha’álį́’.
+
+SCORE: 8.903
+GOLD: ’Áko ’eii be’ashiiké nilíinii hááhgóóshį́į́ hááhinoojah
+PRED: Índa bi’ashkii éí t’áá shoodí danidaaz.
+
+SCORE: 31.658
+GOLD: Shadahastóí ńt’éé’ ’índa dashimá sání ńt’éé’ Naakaii Dine’é danilį́įgo hojoobá’ígo Hwééldi hoolyéédę́ę́’ nináda’iishjidgo kwii Lók’a’jígai hoolyéegi kéédahat’į́į́ ńt’éé’
+PRED: Shinaagéi, hastóí dóó sání, Naakaii Diné’é nilį́į́ ńt’éé’. Áyóó ájił’ínígo Hwéeldi hoolyéegi náá deiyá, bee ’áłch’į’í bídááh dah yiyiilááh, háálá Lók’a’jíkai di nilį́į́ ńt’éé’.
+
+SCORE: 5.201
+GOLD: Kodóó shį́į́ haakai nahalin silį́į́’
+PRED: Díídi iiná t’áá íiyisí danihajíní
+
+SCORE: 30.568
+GOLD: Dleesh Bii’ Tó hoolyéegi dahooghan ńt’ée’go dah ’adiiná jiní nagháí dził báátis gó’ąą
+PRED: ’Aadóó Bis Tó ’Oozlíní hoolyéegi bighanígíí ádę́ę́’ nagháí dził bikáá’góó ’adahwiilya’
+
+SCORE: 13.628
+GOLD: ’Ákǫ́ǫ́ ’oonéełgo dahwiiłkaahgo ’ákwii shi’dizhchį́ jiní
+PRED: ’Áko díí ni’nínáago danihiiską́ą’, dóó danihiiską́ą’ígíídi yishą́ hodoo’niid
+
+SCORE: 7.645
+GOLD: Ghąąjį’ wolyéego ńdízídígíí daashin t’áá ’éí biyi’ jiní
+PRED: Háálá, Októóbadi danohłį́į́’ jį́ shí nisin.
+
+SCORE: 5.953
+GOLD: Tł’ée’go hááhgóóshį́į́ deezhchxíilgo ts’ídá ’ákóne’ shi’dizhchį́ jiní
+PRED: Tłʼééʼjí yas nitsaa níltsą́go shijįʼ.
+
+SCORE: 32.843
+GOLD: Shichei ńt’éé’ Naakai Dine’é Łigaii wolyéé ńt’éé’ dóó ła’ dó’ Diné Táchéhéni’ Biye’ wolyéé ńt’éé’ ’éí shį́į́ t’éiyá diné nilį́įgo dóó sáanii dó’ díkwíí shį́į́ kwii shaa naanish bííghą́ą́’
+PRED: Shichei Naakaii Dine’é Łigai wolyéé ńt’éé’, dóó hastiin łáá’ ’éí Táchééh Bighan Na’aznilí Biye’ wolyé. Díí naaki hastiin t’áá íiyisí ńt’éé’. ’Éí dóó asdzání ałníí’ shí bii’ ayóo daniiníí’.
+
+SCORE: 17.989
+GOLD: Shichei tł’ízí cho’ádinii ’ayói da ’át’é halį́į́’ ńt’ée’go ’éí ’ákwii jiisxį́įgo hááhgóóshį́į́ diné bił dahózhǫ́ǫgo da’oolghal jiní
+PRED: Shicheii tł’ízí kézhii nizhóní hólǫ́ǫgo; biniiyé ayóó yiníł’į́. Éídi yiyiilts’ą́, dóó Diné nizhónígo t’áá ajiłtso adiiyá.
+
+SCORE: 44.124
+GOLD: Tł’éédą́ą́’ shi’dizhchį́įgo t’áá ’áko dah náá’dii’ná jiní
+PRED: ’Aadóó tł’éédą́ą́’ shijishchį́įgo t’áá ni’ jiníyá nihił dah nááda’diit’a’
+
+SCORE: 79.551
+GOLD: ’Íídą́ą́’ łį́į́’ t’éiyá bee nda’aldeehgo
+PRED: ’Íídą́ą́’ diné łį́į́’ t’éiyá bee nda’aldeeh
+
+SCORE: 29.188
+GOLD: Shimá tł’éédą́ą́’ shijishchį́įgo t’áá ni’ jiníyá jiní níwohjį’ haa shį́į́ nízahgi ni’ínéehgo ’áajį’
+PRED: Tł’éédą́ą́’ shi’dizhchį́įgo shimá t’áá ni’ háádę́ę́’ diné dah dii’náago deeyá
+
+SCORE: 17.462
+GOLD: Tł’éédą́ą́’ yidzaazgo yas biyi’ ’íldeé jiní
+PRED: Ts’ídá yas deesk’ą́ą́’go ’ákóne’ t’áá íiyisí yas bąąh deiyá.
+
+SCORE: 11.703
+GOLD: Ha’át’íí shį́į́ yówéé ’át’éego diné t’áá bizááká kéédahat’į́į́ ńt’éé’ lá ’íídą́ą́’
+PRED: Jó ’éí ałk’idáá’ iiná ayóo baa dah si’ánígíí nít’į́į́’.
+
+SCORE: 11.894
+GOLD: K’adgo ’éiyá ’ajiłchíihgo hak’az biih wolyeed lágo ha’níigo honídahodéeníih łeh
+PRED: K’ad t’áá íiyisí asdzání awéé’ yásh’ąągo, ayóo baa ’áhólyą́ą, doo ats’77s nídaalyaa da bich’į’ yíníłti’.
+
+SCORE: 47.094
+GOLD: ’Íídą́ą́’ ’éí doo ’ákót’ée da ńt’éé’ lá
+PRED: ’Íídą́ą́’ ’éí doo t’áá íiyisí da
+
+SCORE: 18.609
+GOLD: ’Áádóó wóshdę́ę́’ haa shį́į́ yit’éego shiyaa hazlį́į́’ ’éí doo ts’ídá hazhó’ó bénáshniih da
+PRED: ’Áádę́ę́’ t’áá shoodí shí ’ashktł’óół. Díí biniiyé ayóó doo shił bééhózin da.
+
+SCORE: 33.149
+GOLD: Neeznáá daats’í shinááhai dóó ’índa t’áá kóníghání nahalingo ’énáshniihgo hodideeshzhiizh
+PRED: Neeznáá daats’í shinaáhai ’íídą́ą́’ yáádééhgo éí doo ts’ídá hazhó’ó bénáshniih da.
+
+SCORE: 28.085
+GOLD: ’Áyąą ’ahbínígo nizhónígo ’ashhoshę́ę shichei náshidiyiiłhą́ą́h
+PRED: ’Abíní yisdlaago nizhónígo yishch’į́, shicheii asidááh ádé shá yishbąąh.
+
+SCORE: 2.083
+GOLD: Nahgóó nahgóó
+PRED: Haalá! Haalá!
+
+SCORE: 45.927
+GOLD: Ha’át’íí biniiyé sínítį́
+PRED: Ha’át’íí biniinaa nílééh?
+
+SCORE: 4.902
+GOLD: Nahgóó dághádílyeed
+PRED: Ch’ééhgo nidaazlį́’
+
+SCORE: 9.968
+GOLD: Dinigisgo háadi shį́į́ deeteel t’áá ’áłtsé silį́’ígíí nik’i ch’ídoolwoł
+PRED: Doo bee diitsʼaʼ da nítʼéego tʼáá íiyisí doo yáʼátʼééhí yínaalʼą́.
+
+SCORE: 28.491
+GOLD: Honíyóigo ’éí łeezh naanídaasdláadgo ’áadi ’índa shíníljool dooleeł jiníi łeh ńt’éé’ shichei yę́ę
+PRED: Bee hasin nít’éego, t’áá nihá bichí’ łeezh náádiłjeehgo níyilą́ dooleeł, shichei yę́ę t’áá shich’į’ yááłti’ łeh
+
+SCORE: 23.004
+GOLD: ’Índa hastóí t’áá ’ałtso ’ákódajiníi łeh ńt’éé’
+PRED: Kót’éego sání t’áá ałtso ádahane’ łeh
+
+SCORE: 11.889
+GOLD: ’Eíshą’ ’ana dahólóonii hoł béédahózingo ’ádajiníí ńt’éé’
+PRED: Na’oolkił naaznilígíí baa dahoozin biniinaa díí áłníí’ lá.
+
+SCORE: 30.214
+GOLD: Shichei yę́ę ’ákót’éego t’áá nashineeyood dóó t’áá shich’į’ yááłti’
+PRED: ’Íídą́ą́’ ’ákót’éego shicheii chidí bee shinaal’į́ dóó shiyáłti’
+
+SCORE: 17.425
+GOLD: Doo hashkéego ’áníi da
+PRED: Doo báháchį’go yáłti’ da
+
+SCORE: 33.420
+GOLD: Doo t’áá na’níle’ee ’áníi da
+PRED: Doo ádíshjánígo ’áníi da
+
+SCORE: 10.519
+GOLD: Hazhóó’ógo ’áshiłníí ńt’éé’
+PRED: Hózhǫ́ǫ́go shił hojilne’
+
+SCORE: 32.504
+GOLD: Jó ’éí ’áádę́ę́’ ’ákót’éego shíiníłką́
+PRED: Jó ’íídą́ą́’go t’áá íiyisí ’ákót’éego naashá.
+
+SCORE: 26.616
+GOLD: Shidá’í ńt’éé’ T’iisyaa Bikiní wolyéé ńt’éé’ tsíłkę́ę́h nilį́įgo ’éí ’áyaa nikishidiilt’e’
+PRED: Shizhé’é yázhí Kin Bits’ósí wolyéé ńt’éé’. ’Éí hastiin yázhí ńt’éé’, dóó shiyázhí yiyiilá.
+
+SCORE: 13.035
+GOLD: Nikishidiił’a’
+PRED: Naʼanishdi shí yidííłʼíní
+
+SCORE: 13.992
+GOLD: Łį́į́’ bá naasłóozgo
+PRED: Bíłį́į́’ shádáhojilyá biniiyé
+
+SCORE: 15.573
+GOLD: Bitsinaabąąs hólǫ́ǫgo bilį́į́’ na’ałbąąsii hólǫ́ǫgo
+PRED: Kélchi dóó łį́į́’ naaki bí hólǫ́.
+
+SCORE: 28.032
+GOLD: Díí bee chizh nihíyeeh díí bee nanilnish shiłníigo
+PRED: Yee chizh ha’iilbąąs doodaii’ bee na’anish shiyáłti’ łeh
+
+SCORE: 56.378
+GOLD: Ts’ídá tseebííts’áadah shinááhaigo Bis Dootł’izh Deez’áhí hoolyéegi k’ad naalyéhé bá hooghan ninínáanii t’áá shił bééhózin ńt’éé’
+PRED: ’Áko tseebíí ts’áadah daats’í shinááhaigo, Bis Dootł’izh Deez’áhí hoolyéegi díí jį́ naalyéhé bá hooghan éí bił haz’ą́’ígíí diné éí ni’ deiyá — t’áá íiyisí hágoónee’ bééhózingo shí hólį́.
+
+SCORE: 33.195
+GOLD: Hastiin ’Adiits’a’í yę́ęni’ Chíí’ dabijiníí lágo baa ’ákoniizį́į́’
+PRED: Shí t’áá ’áłts’íís baa hane’ yisinígíígo, Hastiin ’Adiits’a’ii ’áłtsé ’óosye’ jiní Chíí’.
+
+SCORE: 34.764
+GOLD: Kin Hóchxǫ́’í hoolyéédę́ę́’ Bilagáana Dah Shizhóód wolyéé ńt’éé’ ’éí shį́į́ Chíí’ ’ayóigo bich’ooní ńt’éé’ lá
+PRED: ’Adiits’a’ii Sání ’éí Kin Hóóchx̨o’dóó Bilagáana Dah Shizhóód wolyéígíí bił yá’át’ééh ’ak’is nít’į́.
+
+SCORE: 67.237
+GOLD: ’Áko ’éí yaa ndilt’éego Bis Dootł’izh Deez’áhí hoolyéegi naalyéhé bá hooghan ’áhoolaa
+PRED: Bis Dootł’izh Deez’áhí hoolyéegi naaki éí naalyéhé bá hooghan ’áhoodlee’.
+
+SCORE: 19.648
+GOLD: Dąągo ’ákwii ni’níná
+PRED: Dąągo t’ah ńt’éé’ ’Áájį’ hodoo’niid
+
+SCORE: 14.180
+GOLD: Naałniih dinék’ehjígo hayaayááh dahóóghánę́ędą́ą́’ dabidii’ní k’ad
+PRED: Dikos ntsaaígíí hona’ádíílnih, k’ad ‘tsį́į́’ bee dine’é ałtsó yidláá’ígííjí yóółyééł.
+
+SCORE: 37.185
+GOLD: ’Íídą́ą́’ dąągo t’ah ńt’éé’ Bis Dootł’izh Deez’áhí hoolyéegi ni’níná hodoo’niid
+PRED: ’Áko dąągo Bis Dootł’izh Deez’áhígóó ni’níná níníł’į́.
+
+SCORE: 15.720
+GOLD: K’adshą’ Hastiin ’Adiits’a’ii yidoolyeeł léi’ Dah Shizhóód yidoolyeeł léi’ kót’éego ’ákǫ́ǫ́ ninínáá lá
+PRED: Jó ’éí ’Adiits’a’í yoolyéé’ígíí (Chíí’ Dodge) dóó Big Lump Setting Up yoolyéé’ígíí di’ naaldeeh.
+
+SCORE: 31.302
+GOLD: Naalyéhé bá hooghan ’áhoolyaa dóó dį́į́’ daats’í ’éí nááhaigo ’ákwii doo hazhó’ó bénáshniih da t’ah ńt’éé’ naalyéhé bá hooghandi chizh nihoheeh nihizhdííniid shidá’í ńt’éé’ dishnínígíí
+PRED: Naalyéhé bá hooghan ’áhoolaa dóó dį́į́ʼ łahgo haíłchį́į́ʼ k'ad, háágóó tʼáá íiyisí doo shił bééhózin da, shí éí shizhéʼé yázhí bá'ínílį́ʼ nahigíí chizh nihíyeeh nihíłníigo.
+
+SCORE: 12.392
+GOLD: ’Áádę́ę́’ shį́į́ chizh ho’doo’niidgo
+PRED: Naalyéhé dineʼé daats’į́ʼ chizh baa náníltį́ʼ.
+
+SCORE: 35.909
+GOLD: ’Ashkii ła’ Tótsohnii nilį́įgo t’áá ’áłahjį’ bił tádísh’aash ’éí hoł
+PRED: Ashkii léi’ Tótsohnii nilį́į́ ’éí shí t’áá jiik’ehgo bił na’aldeehígíí lá
+
+SCORE: 15.589
+GOLD: ’Aadóó ’aají nihinaanish deezt’i’
+PRED: ’Ákót’éego naalnish nihich’íníjéé’
+
+SCORE: 32.874
+GOLD: Sitsilí ’ahidii’níigo tádiit’aash
+PRED: Shideezhígo ’ałch’į’ yádeiilne’ tádiit’aash
+
+SCORE: 59.867
+GOLD: Naalyéhé bá hooghangi chizh nihiigeeh
+PRED: Dóó Naalyéhé bá hooghan góó chizh nideiigé.
+
+SCORE: 36.089
+GOLD: ’Áłchíní ’ólta’jį’ ndaha’níiłgo baa na’aldeeh jiní ha’níigo yii’nii’
+PRED: Diné ’áłchíní ’ólta’jį’ ndaha’niłígíí biniiyé yiyoołkááłgo kwii bił ’ínééh jiní.
+
+SCORE: 26.745
+GOLD: Ch’ínílį́į́jí baa na’aldeeh jiní
+PRED: ’Áko Ch’ínílį́į́di danilį́ hodoo’niid
+
+SCORE: 7.860
+GOLD: Hahgo shį́į́ kwii bił ’ínééh jiní ha’níigo yii’nii’
+PRED: ’Áko ałą́ą́’go kwe’é deeyáádę́ę́’ hodoo’niid.
+
+SCORE: 21.533
+GOLD: ’Áádóó baa yiníit’į́įgo chizh ha’iilbąąs
+PRED: Na’ałbąąsii bee chizh bá deeyáágo díí baa nihidiiłníí’
+
+SCORE: 8.912
+GOLD: ’Ashkihéi ’íídíiltah hodííniid hoł naash’aash yę́ę
+PRED: Shik’ís baa hólne’, “Haalá, bá’ólta’góó nidoolááł.”
+
+SCORE: 6.332
+GOLD: Hágoshį́į́ jidííniid
+PRED: T’áá shoodí yę́ę
+
+SCORE: 14.994
+GOLD: ’Aadóó baa yiníit’į́įgo baa nihił hózhǫ́ǫgo tádiit’aash
+PRED: ’Áko bikáá’di niheełnááh, ayóó yá’át’ééhgo baa yáníłti’go.
+
+SCORE: 19.441
+GOLD: ’I’íí’ą́ągo chizh bida nááhee’nilgo hooghangóó dah ń’diilbą́ą́z
+PRED: Hííłch’į’go chizh ánáá bidah ’ahii’nííłgo tsinaabąsii bitah nihighan náádiit’áázh
+
+SCORE: 34.906
+GOLD: Hooghandi nániit’áázh ńt’éé’ shidá’í yę́ę sidáá lá
+PRED: Hooghan bii’ nániikaigo nít’éé’ shidá’í nilį́į́’ lá
+
+SCORE: 56.783
+GOLD: Shichei Naakaii Dine’étsoh wolyéé ńt’éé’ ’éí dó’ sidáá lá
+PRED: Ńt’éé’ shichei yę́ę Naakaii Dine’étsoh wolyé yę́ę sidáá lá
+
+SCORE: 21.127
+GOLD: ’Áko ’ákwe’é bee bił hwiilne’
+PRED: Ákót’éego nihí bík’ehgo nitsáhákees bił hojilne’.
+
+SCORE: 56.510
+GOLD: ’Áłchíní ’ólta’jį’ ndaha’nííł jiní
+PRED: ’Áłchíní ’ólta’jį’ baa na’aldeeh jiní.
+
+SCORE: 32.799
+GOLD: T’áá ’áníidlah ’íídíiltah dii’niid dii’níigo bee hoł hwiilne’
+PRED: T’áá naakidi nihí “’íídíiltah hodííniid,” yíníłti’ígíí bił hwiilne’.
+
+SCORE: 32.083
+GOLD: T’áá shį́į́ ’áko
+PRED: Koshį́į́ t’áá shoodí.
+
+SCORE: 7.243
+GOLD: Jó ’aadę́ę́’ nihich’į’ ’oonééł lá
+PRED: ’Áłkadígíí nihá yaa yiiyááh
+
+SCORE: 22.324
+GOLD: Háadish dó’ baa dáádidooh’ash nihizhdííniid shidá’í yę́ę dóó shichei yę́ę
+PRED: “T’áá íiyisí doo bidáá’ nidiłnááh da,” shádá’í dóó shicheii nihee yááłti’.
+
+SCORE: 42.617
+GOLD: Biiskání naalyéhé bá hooghangóó niikai dóó shichei yę́ę naaltsoos nihá bizhdeelchid
+PRED: Náábiiskání yoołkáałgo Naalyéhé bá hooghan góne’ yah ’o’ooldee’, dóó shicheii nihá naaltsoos bikáa’gi bitsi’ tsésání náhííłtsą́.
+
+SCORE: 34.907
+GOLD: Naaki yiską́ągo Ch’ínílį́į́dę́ę́’ ’áłchíní ’ólta’góó dadeesht’eezhígíí kwii bił ’íbąąs ha’níigo hastóí nihinááł yee ’ałch’į’ hadaasdzíí’
+PRED: Ch’ínílį́góne’ ’áłchíní ’ólta’góó na’aldeehígíí naaki yiską́ągo deeyááłígií hodoo’niid, dóó nitsaa dine’é ’ádaat’éego biniiyé’ ayáłti’ígíí jiní ha’níigo yii’nii’.
+
+SCORE: 29.215
+GOLD: Yee ’ałch’į’ hadaasdzíi’ii hastóí ła’ Wéela wolyéé ńt’éé’ Tsénikání yine’jí kéédahat’į́į́ ńt’éé’
+PRED: Hastį́į́ baa yee ’ałch’į’ hadaasdzíí’ígíí bidáá’ t’áá łéí Wééla joolyéé’. ’Éí Tsé Łá’í bine’jí nideez’áh.
+
+SCORE: 47.005
+GOLD: ’Íídąą’ ’éí naat’áanii danilį́įgo
+PRED: ’Áádóó ’íídą́ą́’ ’éí naat’áanii t’áá íiyisí nilį́
+
+SCORE: 58.298
+GOLD: Yoo’ó ’Adika’í wolyéé ńt’éé’ ’éí dó’ siláago ’atah nilį́įgo
+PRED: Yoo’ó ’Adika’í wolyéhę́ę ’áádóó siláago ’atah nilį́į́.
+
+SCORE: 8.480
+GOLD: ’Ayóo baa dzólníigo ’óolyéé ńt’éé’
+PRED: Hastiin ayóó béesdzilí dóó nitsaa nít’į́.
+
+SCORE: 57.540
+GOLD: Ch’ínílį́į́dóó naagháa ndi Tséhootsooídi siláago ’atah nilį́į́ ńt’éé’
+PRED: ’Éí Ch’ínílį́į́ Diné nilį́, nidi Tséhootsooídi siláago ’atah nilį́.
+
+SCORE: 40.782
+GOLD: ’Éí Tséhootsooídóó Bilagáana Naat’áanii Yázhí wolyéé ńt’éé’ ’alą́ąjį’ yił yíkai lá
+PRED: ’Éí Tséhootsooígíí bilagáana Naat’áanii Yazhí wolyé’ (Ééjent Dana Shipley) bił nahjį́’.
+
+SCORE: 13.526
+GOLD: ’Akwii shichei ńt’éé’ nihee hajoodzíí’
+PRED: ’Áájį’ Shichei nihich’į’ yááłti’ dóó nihił ááníł’į́
+
+SCORE: 18.939
+GOLD: Shí díí ’ashiiké naakigo ’ólta’jį’ ninishnííł jiníigo bee hajoodzíí’
+PRED: Díí naaki ashkii ’ólta’góó shidii’nííł áłchąąhgo jidííniid
+
+SCORE: 56.775
+GOLD: Yiską́ągo ’índa ’áłchíní bił ’íbąąs ha’níigo t’óó hooghangóó nániikai
+PRED: T’áá ła’ yiską́ągo ’áłchíní ’índa bił ’íbąąs ha’níigo, hooghangóó dah ń’diilbą́ą́z
+
+SCORE: 9.228
+GOLD: ’Áadi danihiiską́ągo ’áádę́ę́’ t’áá ni’ náániikai
+PRED: ’Atah daajiską́, ’áko kéé naaznííł.
+
+SCORE: 23.416
+GOLD: Ńt’́éé’ ’áłchíní bił ’aníbą́ą́z lá
+PRED: Dóó ńt’éé’ áłchíní deiyá lá
+
+SCORE: 31.141
+GOLD: Hastiin léi’ Tó Dích’íi’nii nilį́į́ ńt’éé’ Chį́shch’į́į́d dabijiníí ńt’éé’ ’éí ’áłchíní yaa ’áhályą́ągo bił na’aldeeh lá
+PRED: Hastiin ła’ Tódích’íi’nii nilį́įgo, Pug Nose joolyéé, ’éí hoł. ’Éí ’áájí ’ákót’éego bił náásgo neiyáago, ’áłchíní baa ’áhólyą́ą.
+
+SCORE: 49.879
+GOLD: T’áá ’áłch’į́į́dígo Bilagáana bizaad bił bééhózin ńt’éé’
+PRED: Bilagáana bizaad t’áá áłts’í’ bił bééhózin.
+
+SCORE: 14.076
+GOLD: ’Éí shį́į́ bąą ’áłchíní baa ’áhólyą́ą dooleeł bi’doo’niid
+PRED: ’Áko koshį́į́ ’éí bik’ehgo awéé’ yázhí bich’į’ bi’áhoot’éé’.
+
+SCORE: 5.342
+GOLD: ’Ahaninéí’niłgo yaa naaghá
+PRED: ’Éí t’áá shoodí dayilááh
+
+SCORE: 44.534
+GOLD: Bis Dootł’izh Deez’áhí binaagi ’áłchíní ndayiiznilii t’ah doo ’ałtso ndayii’éesh da
+PRED: Bis Dootł’izh Deez’áhí hoolyéegi ’áłchíní ’ólta’jį’ ndaha’niłígíí doo t’áá ałtso dajíínii’ da.
+
+SCORE: 28.231
+GOLD: ’Áko naaki yiską́ągo ’índa bił dah ’adidoobąs hodoo’niid
+PRED: Naaki yiską́ągo ’áłchíní bił ’íbąąs tsinaabąąs deeyááł jiní
+
+SCORE: 23.263
+GOLD: Nagháí Lók’a’jíkai góne’ dóó Tsééhílį́į́ góne’ dóó Sǫ’ Siláágóó dóó ńléí Tséhootsooíjį’
+PRED: Lók’a’jígai dóó Tsaile hoolyéégóó dóó Crystal hoolyéégóó bik’ehgo deiyá, ’aádóó níwohjį’ Tségháhoodzánígóó deiyá.
+
+SCORE: 6.504
+GOLD: Koshį́į́ ’át’éego bee haz’ą́ągo
+PRED: Díkwíí éí binahat’á nít’į́.
+
+SCORE: 18.034
+GOLD: Ńt’ée’go nagháí dził bine’jí K’aabizhii dóó Tsé Łichíí’ Dah ’Azkání nahós’a’gi diné kéédahat’ínígíí ’ólta’ wolyéii baa ch’íhwiit’aahgo shį́į́ yik’ee dadiniihgo ntsídaakees lá
+PRED: Nít’éé’ dził bine’dę́ę́’ jíkai yę́ę, Cove dóó Red Rock bikéyahdi bighan nilį́į́’ diné’é bá’ólta’ bik’ehgo bee haz’ą́’í biká doo yá’át’ééh da nitsáhákees.
+
+SCORE: 23.517
+GOLD: ’Éí t’áá ’ániidígo hastóí dajizlį́į’go ’ałtso ’ádajidin
+PRED: T’áá ałts’íísí díí Diné ’ígíí hastóí ’áłtsé danídlį́’, ’áádóó t’áá ałtso doo ’iiná da.
+
+SCORE: 25.686
+GOLD: ’Íídą́ą́’ ’ashiiké dajílį́įgo ’ádajíít’įįd
+PRED: ’Íídą́ą́’ akót’éego aníił’į́’ígíí hastóí yázhígo daniilį́’
+
+SCORE: 24.374
+GOLD: ’Áłchíní ’ólta’góó ’adahat’éésh ha’nínígíí t’áá nihitah ńt’i’í bíni’ biniinaa háágóó ’ániit’ée dooleeł
+PRED: ’Áłchíní ’ólta’jį’ ndaha’nííłígíí bida diists’á’go, t’áá íiyisí baa ’ałch’į’ nidaníł jiní.
+
+SCORE: 34.966
+GOLD: Niha’áłchíní doo ła’ haa diiltéeł da dajiníigo shį́į́ ’át’éé lá
+PRED: ’Aníbą́ą́zgo ha’nííłgo ’ólta’ bił bi’áłchíní doo ła’ naa dadiiłtéeł da.
+
+SCORE: 34.067
+GOLD: Bilį́į́’ Łizhinii joolyéé ńt’éé’ ’éí ’áájí ’ákót’éego bee dah ’ajoo’ish ńt’éé
+PRED: Hastiin ńt’éé’ Bilį́į́’ Łizhinii wolyéé ’éí ’aní’eezh binaat’áanii nilį́.
+
+SCORE: 46.265
+GOLD: Bis Dootł’izh Deez’áhí hoolyéegi ’ákwíí yiską́ągo biniiyé ’ínééh jiní díí ’áłchíní ’ólta’jį’ ndaha’niłígíí kót’éego shį́į́ dajíínii’
+PRED: ’Áłchíní ’ólta’jį’ ndayiiznii biniinaa t’áá łá’í yiską́ągo Bis Dootł’izh Deez’áhígóó dine’é ’ínééh jiní ha’níigo yéé’nii’
+
+SCORE: 23.039
+GOLD: ’Áko shį́į́ hwii’ ndahodik’ǫǫshgo tsídazhdeezkééz
+PRED: ’Áko bee haz’ą́ígíí baa k’ehjígo tsídahodeeskéés.
+
+SCORE: 11.020
+GOLD: ’Ashiiké díkwídiilt’eeł lá
+PRED: Ashkii, ádíí’ deiłyá.
+
+SCORE: 5.016
+GOLD: ’Ákǫ́ǫ́ dooleeł dazhdííniid shį́į́ lá ’áádę́ę́’
+PRED: Haalá! daats’í’ t’óó daha’níits’a’.
+
+SCORE: 23.626
+GOLD: ’Áko shį́į́ ’áádę́ę́’ biniiyé dashdiikai
+PRED: ’Áko koshį́į́ ’adíí’go díí bee haz’ą́ągo deiyá
+
+SCORE: 52.377
+GOLD: ’Éí nihí doo deii’niih da dóó doo nihił béédahózin da lá
+PRED: Díí baa doo nihá hojilnį́į́’ da dóó biniiyé doo nihił béédahózin da
+
+SCORE: 39.104
+GOLD: ’Éí Bis Dootł’izh Deez’áhígi ’adááh jíkai silį́į́’ lá
+PRED: Bis Dootł’izh Deez’áhí hoolyéegi bá’ólta’ dine’é bił da’iinááh
+
+SCORE: 46.044
+GOLD: Naalyéhé bá hooghan dóó t’áá ’áhánígi kin ła’ si’ą́
+PRED: Naalyéhé bá hooghangi t’áá ’áyídí kin ígíí
+
+SCORE: 22.699
+GOLD: ’Íídą́ą́’ kin hóchxǫ́’í dahodii’ní
+PRED: ’Íídą́ą́’ ’éí Hooghan Hótsʼóózí yoolyé
+
+SCORE: 31.671
+GOLD: Diné naalyéhé bá hooghangi ńdaakahii yii’ ńdanijah biniiyé kin si’ą́
+PRED: Kin éí Naalyéhé bá hooghan góne’ yah ’o’ooldee’ígíí diné ’ádaa shááhígíí biniiyé.
+
+SCORE: 7.779
+GOLD: ’Áájí shį́į́ jíkai lá
+PRED: Łį́į’ Łizhiní dóó bi’áádę́ę’ dine’é nahgóó deiyá
+
+SCORE: 25.041
+GOLD: Nichǫ́ǫ́’ígo ntsídajikeesgo shį́į́ jíkai lá ’áko hastóí t’áá kǫ́ǫ́ kéédahat’íinii ’éí doo há deiniih da
+PRED: Dóó daaníí’go yik’ii’go náákeesgo hádeiyá. Diné díí kée’gi kéédahat’ínígíí bi’ákwe’é baa doo deii’niih da dóó doo béédahózin da lá.
+
+SCORE: 10.070
+GOLD: Tł’ée’go shį́į́ ’ákót’éego bee ’ádaa ndahojisne’
+PRED: ’Aadóó tł’óó’go bá ’ahił bina’oolkiłígíí baa yik’ijį’ yáłti’
+
+SCORE: 28.432
+GOLD: Shichei ńt’éé’ dishnínígíí dóó náánáłá shidá’ígo ’Ashkii Yázhí wolyéé ńt’éé’ ’éí shį́į́ tł’ée’go ’áadi jiní’áazhgo ’ákót’éego hanááł yee ’ahił dahalne’
+PRED: Shicheii wolyé dishnínę́ę’ dóó shinalí łáá’ ’Ashkii Yázhí wolyé, chahałheełígíígo adéé’ deiyá́ dóó bee halne’ígíí yíníłtį́į́’ nidi.
+
+SCORE: 34.308
+GOLD: Bilį́į́’ Łizhinii wolyéé ńt’éé’ Na’niłhodí wolyéé ńt’éé’ Kin Łichíi’nii Nééz wolyéé ńt’éé’ Yoo’ee Hataałí Sání wolyéé ńt’éé’ Kin Łichíi’nii nilį́įgo dóó bił naa’aash ńt’éé’ Tó Dích’íi’nii nilį́įgo Yoo’ee Bida’ wolyéé ńt’éé’ ła’ dó’ hastiin ńt’éé’ t’óó bééhasinígo bééhasin ńt’éé’ shá’áyééh ńt’éé’ ’li’di Aałiiłtsooí wolyéé ńt’éé’ k’ad t’áá ’ákódígo áádę́ę́’ yíkai yę́ę bénáshniih
+PRED: Díí shikaadééłígíí bidááhgo hastiin daniidlį́į́’ díí: Bilį́į́’ Łizhinii wolyéé’ léi’, Bigháájį’í wolyéé’ léi’, Kin Łichíi’nii Hastiin Nízį́í’ wolyéé’ léi’, dóó Tsii’naatl’ééh Hataałii Ats’á’í wolyéé’ léi’ — ’éí Kin Łichíi’nii nít’éé’ — dóó bík’é diné łá, Tó Dích’íi’nii hastiin ’éí Tsii’naatl’ééh Biye’ Yázhí wolyéé’ léi’, dóó ła’ hastiin shí t’áá bił dani’ní’á áníłts’ą́ą́’, dóó shik’é ’é’ii nít’éé’. ’Éí Łitsooí Naxaadí Yiyii’áásh wolyéé’ léi’. Díí t’áá íiyisí shikaadééł nahalinígíí t’éiyá nagháí dził bine’dę́ę́’ deesh’ááłígíí bits’ą́ą́’ lá.
+
+SCORE: 8.084
+GOLD: Ła’ shį́į́ daaháí ní hóla
+PRED: Ha’íísh t’ááłá’í ’éí doo bénáshniih da
+
+SCORE: 22.100
+GOLD: Yiską́ągo Naat’áanii bił yah ’adiikah daaníigo shį́į́ ndahaz’ą́
+PRED: T’áá shoodí yiską́ągo kééhat’į́į́góó Agent wolyéhígíí bił ’ahidiikaahgóó deiyááł.
+
+SCORE: 18.516
+GOLD: Nihí kódeiniidzin kót’éego baa ntsídeiikees díí bee nihaa ní’diildee’ígíí daaníigo shį́į́ hoł ndahasne’ jilą’í baa ’ałah jílį́įgo
+PRED: Nichǫ́ǫ́’ígo ha’íí nitsáhákeesígíí éí yíłne’ — nihí bik’ehgo ’ólta’ bee haz’ání hajíínígíí baa nitsáhákeesígíí. Díí ha’íí éí kǫ́ǫ́’ diné danidilnį́į́’ígíí bił yíłne’.
+
+SCORE: 26.997
+GOLD: ’Áko ’éí ’áájí binahat’a’ą́ą bik’ehgo tsídahodeeskéés
+PRED: ’Áko diné bina’álkid bik’ehgo nitsáhákeesgo deest’į́į́’
+
+SCORE: 18.320
+GOLD: Haalá ’áhoodzaa hastóí háí yee’ t’áá haa ’ánóht’é
+PRED: Haalá, hastóí, díígi hataałii hólǫ́?
+
+SCORE: 16.328
+GOLD: ’Ałk’idą́ą́’ hastóí ńt’éé’ t’óó hahane’ danilį́ ha’at’íí shį́į́ ’óolyé łee ’íyátééh wolyé jiní háí yee’ bééhonohsin dajiníigo shį́į́ baa ńda’jooskan
+PRED: Háálá, diné t’áá íiyisí baa hane’ hólǫ́; yáníłti’í t’áá’ íiyisí íígíí "Talk One Into the Grave" yoolkáł, jiní. Háíshį́’ beehózin? Bilį́į́’ Łizhinii bá náníhnééł nisin yę́ę
+
+SCORE: 28.925
+GOLD: ’Éí shį́į́ dził bine’dę́ę́’ jíkai yę́ę ’ádajiní
+PRED: Dził bine’dę́ę́’ diné éí díí bee ’ahił dahojilne’.
+
+SCORE: 13.432
+GOLD: Díí k’ad t’óó jiní jinínígíí ’éí ’át’é
+PRED: Díí shił nááhálne’. Shí t’áá shoodí ’ajíł’ánígóó doo yáshá da.
+
+SCORE: 18.214
+GOLD: Ha’át’éegoónee’shą’ naat’i’íí ’óolyéé ńt’éé’
+PRED: Dóó t’áá shoodí ha’át’éego díí hataał íiyisí doo shił bééhózin da.
+
+SCORE: 50.933
+GOLD: Shí lą́ą jiní jiní ’Ashkii Yázhí joolyé dishnínę́ę
+PRED: Shí éí jidííniid ’Ashkii Yázhí wolyé dishnínę́ę ’éí
+
+SCORE: 43.288
+GOLD: ’Áko lá ndidoołt’eeł ni jiní Bilį́į́’ Łizhinii yę́ę
+PRED: Nihikáádę́ę́’ naaki bá íníł’į́ Bilį́į́’ Łizhinii yę́ę
+
+SCORE: 25.664
+GOLD: ’Áko shį́į́ shichei yę́ę Naakaii Dine’étsoh wolyé dishnínę́ę bił ’ahizhdii’áázh
+PRED: Áko shichei, hastiin “Naakaii Dineʼétsoh” yáníłtiʼígíí, tʼáá íiyisí bíł hadidanilį́.
+
+SCORE: 8.794
+GOLD: ’Éí nahozhdoołaał biniiyé
+PRED: Ha’nínígíí baa nijzh’áázh
+
+SCORE: 29.451
+GOLD: Naalyéhé ba hooghanídóó shádi’ááh bich’ijígo dinék’ehjígo Kin Ts’iil dahodii’ni ha’át’íí shį́į́ ’ałk’idą́ą́’ dahodííłid
+PRED: Naalyéhé bá hooghan shádi’ááh Diné bizaad bee "Kin Ts’íídá’í" dahodii’nígíí kin ła’ si’ą́. Háálá’ígíí ayáanii éí yiichxozh.
+
+SCORE: 23.776
+GOLD: ’Anaasázi wolyéé ńt’éé’ jiní
+PRED: ’Ákót’éego ’Anaasází nilii’ yíníłti’.
+
+SCORE: 7.749
+GOLD: Łeeshch’ih nahalingo hadaashjin
+PRED: Łeezhgo łizhin lá
+
+SCORE: 3.692
+GOLD: ’Áájį’ shį́į́ łee’íyátééh ha’nínígíí baa nijzh’áázh
+PRED: ’Akwii nahozhdoołaał.
+
+SCORE: 10.369
+GOLD: Ha’át’éego shį́į́ ’al’į́į́ ńt’éé’ hóla
+PRED: Haash yool’į́ doo shił bééhózin da.
+
+SCORE: 6.288
+GOLD: ’Aajį’ shį́į́ kódzaago yiską́
+PRED: Jó ’éí kʼad hiiłchʼį́go nílwoʼ
+
+SCORE: 73.131
+GOLD: Nihí ’éí shidá’í bighandi náánihiiską́
+PRED: Nihí ’éí shidá’í bihooghandi náá danihiiską́ą’
+
+SCORE: 33.699
+GOLD: Díí jį́ ’áłchíní ’ólta’góó bił ’oobąs yę́ę bitah nihi’dee’nííł
+PRED: Dííjį́’ ’áłchíní ’ólta’jį’ bił nihí daniilnííł lá
+
+SCORE: 30.065
+GOLD: Yiską́ągo ’éí ’atah nihił dah ’adiinééh kót’éego biniiyé hooghandóó ’ahbínígo t’áá ni’ dah náádiikai
+PRED: Biiskání bił dah nidiit’ááh. ’Ákót’éego, ’Abínígo hooghandi kéé hasht’į́į́’ígíí dah nááda’diit’a’.
+
+SCORE: 29.258
+GOLD: Hastóí yę́ę bił dah diikai
+PRED: Hastóí bił da’anishááh.
+
+SCORE: 36.314
+GOLD: Naaltsoos nihá yididoolchiłii bee ’ééhózin dooleełii’ ’éí shichei yę́ę Naakaii Dine’étsoh yę́ęni’
+PRED: ’Éí bił naaltsoos nihá bizhdeelchígíí dóó nihá baa yáhoot’ééłígíí. ’Éí shichei, Naakaii Dine’étsoh, nít’éé’.
+
+SCORE: 4.434
+GOLD: ’Éí nihá yiizį’ díí ndiniilt’éhígíí
+PRED: Naakishí baa yisdááh
+
+SCORE: 24.519
+GOLD: Kingi niikai ńt’éé’ diné t’óó ’ahayóí ’áłah silį́į́’ lá
+PRED: Bááh dah siʼánídi deeyáágo ńt’éé’ diné lání yę́ę sidáá lá
+
+SCORE: 37.972
+GOLD: Łį́į́’ t’óó ’ahayóí naazį́
+PRED: Łį́į’ da ałhą́ą́’ t’óó naazį́
+
+SCORE: 93.442
+GOLD: ’Íídą́ą́’ łį́į́’ t’éiyá bee nda’aldeeh
+PRED: ’Íídą́ą́’ łį́į́’ t’éiyá bee nda’aldeehgo
+
+SCORE: 36.918
+GOLD: Tł’éédą́ą́’ baa nda’asdee’ii ’éí ła’ doo nihił béédahózin da
+PRED: Ła’ nihí doo haashą́’ ’aajį’go ’ál’į́į́’ígíí nihił béédahózin da lá.
+
+SCORE: 51.112
+GOLD: Bilį́į́’ Łizhinii wolyéé léi’ t’éiyá nagháí dził bine’dę́ę́’ ’aní’eezh lá
+PRED: Hastiin léi’ Bilį́į́’ Łizhinii joolyéé’ ńt’éé’, ’éí dził bine’dę́ę́’ ’atah diné bił diníyá lá.
+
+SCORE: 9.081
+GOLD: T’óó ’ákót’éhégo nihił béédahoozin
+PRED: T’áá íiyisí nihí hoolnííł.
+
+SCORE: 34.397
+GOLD: K’ad kwe’é naanish dahodooleeł
+PRED: K’ad díí’di naalnish dooleeł hodoo’niid
+
+SCORE: 24.781
+GOLD: Niha’áłchíní naaltsoos bá ’ánáádadoolniił hodoo’niid
+PRED: Nihí awéé’ áádóone’ bá naaltsoos yiká’ígíí daníídlį́.
+
+SCORE: 16.685
+GOLD: T’áá diné siláago danilínígíí táá’ ’ákwii yiniiyé naakai
+PRED: Biniyé’gíí Diné bee haz’ą́anii táá’ silá.
+
+SCORE: 44.164
+GOLD: Yoo’ó ’Adika’í yę́ę lá Tséhootsooídę́ę́’ Hastiin Deez Hastiin ’Anilí ni’ Biye’ dó’ wolyéé ńt’éé’
+PRED: T’áá łá’ éí Yoo’ó ’Adika’í wolyéé ńt’éé’, t’áá łá’ éí Tséhootsooídi Hastiin Názhníí’ wolyé; dóó ’éí Hastiin Na’asts’ǫ́’ ’ádínííł’ígíí Biye’ wolyé dishínígíí.
+
+SCORE: 28.594
+GOLD: Ła’ ’éí ’Adiits’a’ii yę́ęni’ biyé ńt’éé’
+PRED: T’áá łá íiyisí Hastiin ’Adiits’a’í, Chíí’ dabijiníí, bitsézinii ńt’éé’
+
+SCORE: 18.734
+GOLD: Táchii’nii ńt’éé’ Ts’óhootsogi ’éí t’áá ’áhodííniidgo naa’ahóóhai ńda’adleehgo jáádk’ehgi łį́į́’ ’ałghadeesht’áazhgo łį́į́’ bik’I ch’élwodgo biisxį́
+PRED: Táchii’nii nilíinii. Háálá Sint’ Mikáíldi Ródeyóódi, dághádílyeedígi bikáá’, łį́į́’ dághádílyeedígíí bina’ash’į́’go nits’į́į́’ jiní.
+
+SCORE: 100.000
+GOLD: ’Íídą́ą́’ ’éí siláago nilį́
+PRED: ’Íídą́ą́’ ’éí siláago nilį́
+
+SCORE: 16.027
+GOLD: Daánee’shą’ wolyéé ńt’éé’ t’óó bééhasinígo bééhasin ńt’éé’
+PRED: Haash wolyé shį́į́ hóla — bíhoot’é bee t’áá t’óó ’ánííníshní.
+
+SCORE: 30.298
+GOLD: T’óó ’Adiits’a’ii Baadaaní t’éiyá bi’di’níí ńt’éé’
+PRED: ’Éí t’óó ’Adiits’a’ii bizhé’é nteʼé wolyé
+
+SCORE: 59.513
+GOLD: Jó ’éí ’íídą́ą́’ siláago nilį́
+PRED: ’Íídą́ą́’ ’éí siláago nilį́
+
+SCORE: 38.984
+GOLD: ’Áko táá’ lá siláago
+PRED: Áádóó siláago táá’ danilį́.
+
+SCORE: 18.558
+GOLD: Kódzaa jó ’akon
+PRED: ’Ákót’éego ’ákódzaa ni’
+
+SCORE: 12.214
+GOLD: Ńt’éé’go k’ad dooleeł hodoo’niid shą’ lá
+PRED: ’Áko nihá yíníłne’ k’ad t’áá jíík’ehdi.
+
+SCORE: 53.482
+GOLD: T’óó diné yah ’ahijeeh naalyéhé bá hooghan góne’
+PRED: Naalyéhé bá hooghan góne’ yah ’o’ooldeehígíí diné nihí yíníł,
+
+SCORE: 9.941
+GOLD: ’Atah ’ákóne’ yah ’iikai
+PRED: ’Áko t’áá jíík’ehgo diné’é baa nádiit’ááh
+
+SCORE: 15.336
+GOLD: Nihí díí ninihi’dee’nil yę́ęni’ t’áá ła’ tádiit’aash
+PRED: ’Ólta’jį’ naaki t’áá shoodí nihíłnááh
+
+SCORE: 46.854
+GOLD: Nahgóó nihees’nilii ’éí doo shił bééhózin da
+PRED: Awéé’ t’áá łá’í ’ólta’góó deiyááhígíí ’éí biniiyé t’áá íiyisí doo shił bééhózin da.
+
+SCORE: 21.375
+GOLD: Jó ’ákohgo chizh niniigį́įgo chizh bidah ’ahii’nííł ńt’éé’ kóoní ’asdzání naakigo łį́į́’ yoo’ish́ Nikinát’áazhgo shį́į́
+PRED: T’áá jíík’ehgo chizh t’áá bits’ąą’í bee nidéyá; bida nááhee’nilgo náhookǫsjí asdzání naaki tsii’ bichí’ yáníł’ání nihí bééhózin.
+
+SCORE: 9.004
+GOLD: ’Ałdó’ shį́į́ biyáazhgo niiníłtį́įgo
+PRED: Hooghan góó deiyá’ bee haz’ą́ągo.
+
+SCORE: 8.541
+GOLD: Toohnii wolyéé ńt’éé’ ’éí shį́į́ ’íídą́ą́’ niiníłtį́
+PRED: ’Asdzání díí ła’ bí ’ashkii ’ólta’góó ndayiizní́ lá
+
+SCORE: 13.933
+GOLD: ’Aadę́ę́’ nihik’iníghal ’asdzání ’Asdzą́ą́ Tł’ááshchí’í’ wolyé k’ad t’ah naaghá ’éí
+PRED: Asdzáán nihíshné’. Bítłʼááh Łichííʼí Asdzáán wolyéé ńt’éé’. ’Éí t’áá ajiłii iiná.
+
+SCORE: 61.552
+GOLD: Bitsii’ łigai
+PRED: Dóó bitsii’ łigai’
+
+SCORE: 15.199
+GOLD: Ńt’éé’ ’ání ’Eii la’ ’ałdó’ ’ashiiké ’akǫ́ǫ́ chizh niiníyínígíí nii’nil ha’ní ’ałdó’ ’i’ííníłta’ ha’ní
+PRED: Yáágo yóólti’, “Kwii chizh ná’oolkiłígíí ’ashkii daní éí ’ólta’jį’ ndayiizní lá—dóó ’ólta’góó yíłááł doo.”
+
+SCORE: 12.881
+GOLD: Yíh kad la’ bee da’iináajį’ ’adahashzhiizh yę́ęni’ nihiłní
+PRED: Hólá, dííji’ díídi daaztsą́go baa ályaa dooleeł, nihá biniiyé asdzání yę́ę.
+
+SCORE: 16.822
+GOLD: Ha’át’éegoónee’shą’ nihaa tsídeezkéezgo ’ání
+PRED: ’Ákót’éego yáłti’ígíí ha’át’íí biniiyé doo shił bééhózin da.
+
+SCORE: 6.776
+GOLD: ’Áko kodóó t’óó baa yiidloh nihí
+PRED: Háálá t’áá éí bee nihijááh.
+
+SCORE: 11.223
+GOLD: T’áá lá ’aaníinii ni’ádinii’nil lą́ą
+PRED: Ndi éí t’áá íiyisí nít’éé’. Bá’ólta’gi t’áá nihik’ehgo nihideesdzį́į́’.
+
+SCORE: 22.798
+GOLD: Jó baa hózhónígi ’át’éego baa hane’ t’óó niiddzį́į́’
+PRED: Dah Ółta’ t’áá hazhó’ó ’ahéhee’gi ’át’éego nihich’į’ ch’íhoot’ą́
+
+SCORE: 11.552
+GOLD: Shíínee’ ’ákwíiniizį́į́’
+PRED: ’Éí shí nisingo baa ntséskees ’íídą́ą́’
+
+SCORE: 17.260
+GOLD: Kojí t’áá ’ádíighahígo shí ntséskeesii shich’ooní nilíinii ’áajį’ bee bił hashné
+PRED: T’áá ałtso shik’éí bił t’áá shí éí nisinígíí baa yíníłti’ łeh.
+
+SCORE: 13.983
+GOLD: Jó ’akon bidááh háníí lá sitsilí ’akóoní Chíí’ binaalyéhé bá hooghan
+PRED: Ákót’éego nihił bééhózin, éí t’áá ajiłkéé’go dóó ayóo nízinígíí. Níníł’į́ díí Chii bikáá’ dah naaznilígíí.
+
+SCORE: 15.388
+GOLD: Haa shį́į́ nízahdę́ę́’ Hwééldi hoolyéédę́ę́’ nináda’iis’náádą́ą́’ hojoobá’ígo łį́į́’ bighangóó łį́į́’ bichaan yii’ na’atsigo habíyííłką́ jiní
+PRED: Hajéí, Hwéeldígo náánáʼaznilígíígo, éí iiná ayóo kʼáadahwiilyéʼ. Łį́į́ʼ bighan biyiʼ łį́į́ʼ jįʼ biyiʼ dah yiichxishgo iiná bee hideeznaad.
+
+SCORE: 11.680
+GOLD: T’óó haiłkááhdą́ą́’ łį́į́’ bichaan ch’éhégéedi tsin hasht’eelyaago dah yootį́įł łeh jiní
+PRED: ’Éí háájį́ abínígo gágéédí nilį́įgo, ’atsiin t’áá bik’ehgo ályaa’ígíí bił hólǫ́.
+
+SCORE: 20.683
+GOLD: Sháyahjį’ bitsii’ yę́ęni’ bighájíchii’go nahaltsaad łeh jiní
+PRED: Jóhonaa’éí bich’į’ bąą dah sidá áyóó ééhózin, bitsii’ biyi’ sháńdíín łichíí’go níłtsą́.
+
+SCORE: 12.050
+GOLD: Kodóó ’óosye’ jiní Chíí’
+PRED: Kót’éego biniiyé Chee (Lichíí’) wolyé
+
+SCORE: 21.671
+GOLD: ’Aadóó shį́į́ Bilagáana ńdahidiiłtį́
+PRED: Áko Bilagáana ła’ hooghan biyi’ anááh.
+
+SCORE: 5.762
+GOLD: Jó ’éí yee hideeznaad
+PRED: ’Íídą́ą́’ ’ákót’éego iiná biyi’ yoołkááʼ.
+
+SCORE: 16.255
+GOLD: ’Áádę́ę́’ binitsékees deezt’i’ be’iina deezt’i’ii k’ad kǫ́ǫ́ t’óó bidááh hání
+PRED: Jó ’éí bínitsáhákees hideeznaad. Áko nizhónígo iiná yį́į́’, dóó dííjį́’ bina’anish báhádíníłígíídi hólǫ́.
+
+SCORE: 5.682
+GOLD: ’Adiits’a’go
+PRED: Bilagáana bizaad bił bééhózin, shí yíníłníí’.
+
+SCORE: 34.463
+GOLD: Jó shí ’éí nisingo baa ntséskees ’íídą́ą́’
+PRED: Jó ’éí ’íídą́ą́’ shí ayóó nisinígíí
+
+SCORE: 8.934
+GOLD: ’Éí bik’ehgo ’ádee hadeesdzíí’
+PRED: Biniiyé éí bi’ólta’di shí éí ni’ádíní́.
+
+SCORE: 16.330
+GOLD: Diné shidiiyáii dó’ t’áá ’ákót’é
+PRED: Dóó shiił nááłnii’ígíí t’áá íiyisí yínízin.
+
+SCORE: 25.466
+GOLD: Jó shí kót’éego nabik’í tséskeesgo ’éí bik’ehgo t’áá ’aaníí ’íídą́ą́’ shił ’adááhóóniid ni’
+PRED: ’Éí baa ntséskeesgo ’íídą́ą́’ bina’nitin t’áá íiyisí shínízin.
+
+SCORE: 21.734
+GOLD: Yę́ęni’ k’adshą’ doo ’ákódoonííł da léi’
+PRED: ’Ánda doo ’ákót’ée da dooleeł lá
+
+SCORE: 59.088
+GOLD: Naalyéhé bá hooghan góne’ yah ’o’ooldee’
+PRED: Diné yah deiyá naalyéhé bá hooghan góne’
+
+SCORE: 9.873
+GOLD: Ha’déébįįd lá
+PRED: T’áá ałtso naa’ádééł
+
+SCORE: 31.767
+GOLD: Kojígo bik’I na’iiniihí naanii dah sitą́
+PRED: Díí nahjígo éí na’iiniihí nidaalį́.
+
+SCORE: 34.103
+GOLD: T’ah nah wóniidi ’éí tsin dánídíkǫs
+PRED: Bighan biyáági náá bitʼááʼgi tsin dánídíkǫs yiyiilchííh hólǫ́.
+
+SCORE: 5.199
+GOLD: ’Áádę́ę́’ Hastiin ’Adiits’a’ii yę́ę ch’íníyá
+PRED: ’Ákwii Chíí’ yíhoot’ááł
+
+SCORE: 29.596
+GOLD: Nák’ee ’Aznilii wolyéé ńt’éé’ Lók’aah Nteeldóó bik’isgo naalyéhé yá sidáago Jaa’ ’Abaní dabijiníí ńt’éé’ ’éí nagháí ’át’ééjí bikáá’ na’iiniihí yine’jí naaghá
+PRED: Lókʼaahnteeldi Biná’ adááłts’ósí wolyéé’ígíí (John Lorenzo Hubell) bitsiláí, Hastiin Jaa Neezí wolyéé ńt’éé’, ’éí naaltsoos bił naalnishíí lá. Nahjígo bikáá’ na’iiniihí yąąh sizį́
+
+SCORE: 12.666
+GOLD: ’Ayóo diné yidiits’a’go ’óolyéé ńt’éé’ Jaa’ ’Abaní
+PRED: Jaa’abaní éí Diné bizaad ’ayóó bił bééhózinígíí hastíín níléí.
+
+SCORE: 29.076
+GOLD: Hodíina’go Naat’áanii Yazhí wolyéé léi’ ch’ínáánádzá
+PRED: T’áá łahgo háálá, ’éí Naat’áanii Yázhí wolyéígíí (Shipley) deiyá.
+
+SCORE: 10.140
+GOLD: Dóó nahgóó diné yílák’e dadeesnii’
+PRED: ’Aadóó Chee bikaadéé’ ninishtła.
+
+SCORE: 25.862
+GOLD: Dóó ’Adiits’a’ii Sání yę́ę yíighahdóó niníyá
+PRED: Hastiin ’Adiits’a’ii ’éí bił bizaad yáyáti’í yilį́įgo
+
+SCORE: 10.967
+GOLD: ’Adiits’a’ii Sání yę́ę bá ’ata’ halne’go ’aadóó diné yich’į’ ’ayá’niiłti’
+PRED: Diné bił saad bee hadíílnihígíí bina’ hajiináá’go
+
+SCORE: 22.579
+GOLD: Bilį́į́’ Łizhinii yę́ę ’éí nahjígo bikáá’ na’iiniihí yąąh sizį́
+PRED: Nahjí hááhgóóshį́į́ táábiił biniit’aadóó Łį́į́’ Łizhiní naazį́
+
+SCORE: 22.041
+GOLD: Diné yił naakai yę́ę t’áá yił naazį́
+PRED: Bidiné’é bił naazį́
+
+SCORE: 25.629
+GOLD: ’Áłchíní ndayiiznilii dabi’dééji’ dóó t’áá łą́ą́góó ’ólta’ bee nahazne’
+PRED: ’Ólta’góó ’áłchíní ’íídą́ą́’ nííníłtį́ígíí Diné’é bina’áanii éí yiyiiyá, dóó ’ólta’ bits’ą́ą́’ łą́ą́’ nihí baa hane’ yíníłti’.
+
+SCORE: 36.432
+GOLD: T’áá áko Bilį́į́’ Łizhinii yę́ę ’ání Díí ’áłchíní hats’ą́ą́’ ’ólta’góó ’adahat’éshígíí ’éí hahgo nihí nagháí dził dine’jí kééhwiit’íinii nihik’iit’ééh
+PRED: Áko Bilį́į́’ Łizhinii yeigóó yáłti’, “Díí dine’é bits’áhoot’ééł ’Áłchíní ’ólta’góó ’adahat’éésh ha’nínígíí — háágóó shį́į́ dził bine’dę́ę́’ jíkai dine’é bitah ’ániit’į́į́ dooleeł?”
+
+SCORE: 2.525
+GOLD: dííniid
+PRED: Yiyá’
+
+SCORE: 3.097
+GOLD: T’áá shį́į́ nihik’iidoot’ih hahgo dá
+PRED: Háágóó níł hólǫ́
+
+SCORE: 24.941
+GOLD: Díí k’ad ’éí kojigo dziłtát’ah góne’ niki’níná yiską́ągo ní Naat’áanii Yázhí yę́ę
+PRED: Yiską́ągo díí déyá dóó binániidgi t’áá bikáá’ na’neelkaad,” Naat’áanii Yazhí (Shipley) yíníłnii.
+
+SCORE: 38.653
+GOLD: Nihí ’éí niha’áłchíní doo ła’ naa dadiiltéeł da
+PRED: Niha’áłchíní doo t’áá ła’ nihił dooleeł da.
+
+SCORE: 42.053
+GOLD: Bíni’ biniinaa háágóó ’áda’ahiil’į́į dooleeł níigo Bilį́į́’ Łizhinii yę́ę yee niiltee’
+PRED: Díí biniiyé’ t’áá ajiłii’ nihí naal’į́į́’, níigo Bilį́į́’ Łizhinii yę́ę bik’ehgo doo nahaz’ą́ą́’ da
+
+SCORE: 15.159
+GOLD: Kó’ahidi’níigo łą́ądi saad ’ałná ninánídéél
+PRED: Ajéént dóó Łį́į́’ Łizhinii ’ákót’éego ’ałch’į’ yááłti’go saad ’áłts’ózí yáyááłti’
+
+SCORE: 25.021
+GOLD: Na’niłhodí wolyé dishnínę́ę ’éí nah t’áá ’áhání nahalindę́ę́’ beeldléí yee ’ákászaazgo sizį́
+PRED: Na’niłhodí ńt’éé’ dishnínígíí ’éí Bilį́į́’ Łizhinii bikáa’gi ’áko nít’į́, dóó bi’ádínígíí naaldlooshii bee’eldǫǫh bee naalyeehgo.
+
+SCORE: 13.962
+GOLD: ’Aadóó bich’ooní danilíinii kojigo ’ałkéé’ nízį́
+PRED: Áádóó díí bik’ehgo Diné bich’į’jí’ ádááhgo naazníí’.
+
+SCORE: 17.584
+GOLD: Kodóó ’ániid February wolyéego ńdeezidę́ę naakigóó yoołkáłę́ędą́ą́’ kodóó dah dadiikai Tó Naneesdizídóó dį́niiltéego
+PRED: Atsá Biyáázh naakijį́’go Tó Naneesdizídéé’ dį́į́’go niikai.
+
+SCORE: 6.530
+GOLD: Bits’á nihi’diisdláa’go dah nihi’diit’eezh
+PRED: ’Áłahgo nihá yichaaz
+
+SCORE: 45.122
+GOLD: ’Éí ńléí Béésh Sinil hoolyéhédi niikai
+PRED: Béésh Sinil hoolyéhígíí góó nihił ’ílwod
+
+SCORE: 41.347
+GOLD: Hiłiijį́į’go ’áádóó chidí naat’a’í nihił ńdiit’a’
+PRED: Deeskʼaazgo chidí naat’a’í biih nihił dah da’diit’a’.
+
+SCORE: 21.958
+GOLD: Phoenix hoolyéedi nihił ’aneezdá
+PRED: Hoozdo di nihił ná’ít’a’
+
+SCORE: 18.714
+GOLD: Tádiin dah ’alzhin ’adeiilyaa ’áajį’
+PRED: Tádiin bi’ak’idígíígo ’áadi ’ałní’ní’ą́ą
+
+SCORE: 8.496
+GOLD: ’Áádóó biiskání t’óó naaniiníłkánígo ńdanihidiinil
+PRED: T’áá ’áko yiską́ągo ’abínídą́ą́’ chahałhééłgo nihí yíyá’ááh
+
+SCORE: 22.071
+GOLD: ’Aadóó chidí bee dah nihi’diit’eezh
+PRED: ’Áádóó chidí bił níłjool
+
+SCORE: 6.277
+GOLD: Siláago nda’ał’eełígíí kééhat’į́į́ léi’gi nihił ’ílwod
+PRED: Navy Field hoolyéedi niikai
+
+SCORE: 59.936
+GOLD: Hastánígi ’oolkiłgo chidí naat’a’í biih náánihi’doo’nil
+PRED: Hastą́ą́góó ’oolkiłgo chidí naat’a’í biih nidiilkááh.
+
+SCORE: 67.988
+GOLD: Chidí naat’a’í dį́į́’ naazį́į́ lá
+PRED: Chidí naat’a’í dį́į́’ lá
+
+SCORE: 18.597
+GOLD: T’áá ’ał’ąą biih dahaakai
+PRED: T’áá íiyisí łáá’í bikáa’ nidaashááh
+
+SCORE: 35.787
+GOLD: Shí chidí naat’a’í Tomahawk wolyéé léi’ biih shi’dool’a’
+PRED: Chidí naat’a’í ’Tomahawk’ hoolyéhígíí biyi’di shina’ałniih.
+
+SCORE: 43.890
+GOLD: Dį́į́’ bitsiits’iin lá
+PRED: Chidí naat’a’í ’éí bitsiits’iin dį́į́’ígíí át’é.
+
+SCORE: 31.631
+GOLD: Díí chidí naat’a’í kódaat’éhígíí t’óó ’ahayóí nda’ayéé lá
+PRED: Chidí naat’a’í díí t’áá ’át’éegoígíí ’éí ’ałdó’ ayóó nitsaa bee ndaayéé.
+
+SCORE: 12.910
+GOLD: T’óó ’ahayóí tł’oh waa’í beda’astł’ónígíí bii’ deesk’id lágo biih yíyá
+PRED: Bikáá’ tł’oh ’áłfałfa t’óó niłtsóí hólǫ́ǫgo shí yíníłní.
+
+SCORE: 21.964
+GOLD: Chidí ndi biih dahabąąsgo bee ndaayéé lá
+PRED: Díí chidí naat’a’í t’áá íiyisí chidí nda’ayéé lá
+
+SCORE: 57.899
+GOLD: ’Aadóó nihił dah da’diit’a’
+PRED: ’Aadóó nihił ńdiit’a’
+
+SCORE: 26.932
+GOLD: Diné bikéyah biyi’ góne’
+PRED: Diné Bikéyahgóó
+
+SCORE: 60.088
+GOLD: Béésh Sinil hoolyéhígíí bikáá’dę́ę́’ nihił ch’í’ít’a’
+PRED: Béésh Sinil hoolyéhé góyaa nihił ch’í’ít’a’
+
+SCORE: 10.874
+GOLD: Hoodzo biyi’ góne’ nihił ’o’oot’a’go k’ad kodóó ni bee níhólnííh
+PRED: Naabeehó Bikéyah ts’ídá yoołkááłgo shí yáníłti’, “Dííkwíígo t’áá ní nínáanii.”
+
+SCORE: 15.088
+GOLD: Háágóó shį́į́ diné kéédahat’į́ shi’doo’niid
+PRED: Háádi diné danilį́ígíí nił bééhózin
+
+SCORE: 28.168
+GOLD: ’Aadóó tsézhin yaa ndanees’ą́ą́ góne’ dóó ’Oozéí Hótsaa ha’nínígíí bikáá’ góne’ nihił ’ít’a’
+PRED: ’Aadóó ’eii tsézhinii dah naaznilígíí t’áá yaa ndaaz’áágóó dóó ńléí Ólaiví góyaa nihił ch’í’ít’a’
+
+SCORE: 23.731
+GOLD: ’Aadóó ’eii dził t’áá yaa ndaaz’áágóó dóó ńléí Béégashii Bito’jį’
+PRED: ’Aadóó níwohjį’ dził ’ákóyaa góne’ dóó Béégáá’ Bitó bikáá’ góne’ nihił ’ít’a’
+
+SCORE: 32.448
+GOLD: ’Aadóó níwohjį’ Shą́ą́’ Tóhí hoolyéégóó dóó báátis
+PRED: ’Aadóó Shą́ą́’ Tó bikáá’góó dóó dził bikooh bikáá’góó
+
+SCORE: 22.566
+GOLD: ’Aadóó níwohjį’ ’Ooljéé’ Tó hoolyé ’ákóyaa
+PRED: ’Aadóó Ooljéé’góó
+
+SCORE: 21.873
+GOLD: ’Aadóó ńléí Naakaii Bich’ah hoolyéhé góyaa nihił ch’í’ít’a’
+PRED: ’Aadóó Tsé Na’at’áhígíí bikáá’ góne’ nihił ’ít’a’
+
+SCORE: 31.114
+GOLD: ’Áko díí ’ákǫ́ǫ́ nihił ’oot’ahgo chidí naat’a’í náánáła’ nihik’ijinaa dayíkááh
+PRED: ’Íídí nihił ńdít’ahgo, chidí naat’a’í łáá’ nihił danidít’ah.
+
+SCORE: 11.914
+GOLD: Ts’ídá ’ał’ąą ’aheedanízahdi dayíkááh
+PRED: T’áá ’ákót’éego ts’ídá danáálį́į́’
+
+SCORE: 13.322
+GOLD: Nihijaa’ bąąh na’aznilgo níłch’i bee hane’é ha’nínígíí bee bił ’ałch’į’ yádeiilti’
+PRED: Ajíłdi’ dah si’ánígíí nihí hólǫ́, ráádíó bee ’ahił dahwiilne’.
+
+SCORE: 15.865
+GOLD: Ts’ídá kóhoot’éhígi yishááł dadii’níigo bee ’ahił dahwiilne’ ’ałch’ishdę́ę́’
+PRED: Díí k’ehjí nihitah bá bił ’ałch’į’ nánáhwiilne’.
+
+SCORE: 36.541
+GOLD: Kót’éego niikai
+PRED: Jó ’akon ’ákót’éego nihídeyá
+
+SCORE: 40.580
+GOLD: ’Aadóó ńléí tooh ńlínígíí t’áá bikáá’ gódeg nihił ’ít’a’
+PRED: ’Aadóó ńléí San Juan Tooh hoolyéhígíí bikáá’góó yá nihił ch’í’ít’a’
+
+SCORE: 17.011
+GOLD: Naat’áanii Nééz t’áá bich’į’dóó naa’áda’ilyaa dził binit’aa gódeg Lók’a’jígai bich’į’go
+PRED: Tsé Bitʼaʼídi kʼad doo náádeiyáá da, dził dah naaznilígíí binaagóó Lókʼaachʼégai góó ’ahééniikai.
+
+SCORE: 40.495
+GOLD: Lók’a’jígai bikáa’gi díkwíidi shį́į́ ’ałk’inéiikai
+PRED: Lók’a’jígai bikáa’gi nááná’ nihił naa’áda’ilyaa
+
+SCORE: 47.884
+GOLD: ’Aadóó Ch’ínílį́įjigo
+PRED: ’Aadóó ńléí Ch’ínílį́į́góó niikai
+
+SCORE: 22.429
+GOLD: ’Aadóó Lók’aah Nteel bikáá’góó dóó Łeeyi’ Tóógóó
+PRED: ’Aadóó níwohjį’ Lók’áá’ dóó Tl’ohk’áá’ bikáá’dę́ę́’
+
+SCORE: 9.438
+GOLD: ’Aadóó ńléí béésh ńti’i’jį’
+PRED: Béésh yitł’óółígíí góó
+
+SCORE: 28.393
+GOLD: ’Aadóó nát’ą́ą́’ nínáániikai
+PRED: ’Aadóó ’ahééniikai
+
+SCORE: 13.421
+GOLD: Díwózhii Biił Tóódę́ę́’ dóó ’Ałch’į’ ’Áhoot’é bikáá’dę́ę́’
+PRED: ’Aadóó Greasewood dóó Sunrise Springs hoolyéégóó bikáá’ náá niikai
+
+SCORE: 26.724
+GOLD: ’Aadóó ’eii Dziłíjiin dah sitą́ t’áá bikáá’góó náániikai
+PRED: ’Aadóó báátis bikáá’go nádiit’áázh dóó Dził Łizhin bikáá’ góyaa nihił ch’í’ít’a’
+
+SCORE: 45.459
+GOLD: ’Éí ńléí Tó Dínéeshzhee’di ’ahééniikai
+PRED: Tó Dínéeshzhee’di t’áá íiyisí niikai, ígíí nínáániikai
+
+SCORE: 13.193
+GOLD: ’Aadóó ’índa ńléí Hoozdo hoolyéé góyaa nihił dah ń’diit’a’
+PRED: ’Aadóó Phoenixgóó ná’ádiilwo’
+
+SCORE: 17.765
+GOLD: ’Áko ’ałní’ní’ą́ągo ’áadi nihił ná’ít’a’
+PRED: Dígíí naakits’áadah ’oolkiłgo nihił ’aneezdá
+
+SCORE: 24.737
+GOLD: T’óó nidziizyeel nahalingo ’ałní’ní’ą́ągo ńléí Hoozdo hoolyéedi gohwééh deiidlą́ą́’
+PRED: Ch’iyáán nidayą́, ’áádę́ę́’ t’áá ’áłts’óó t’áá éí bikáá’go náá nihił ná’ít’a’, dóó t’áá shoodí náhoodleełígíí haaléígo nisin. T’áá yéigo hanáásgo Hoozdo hoolyéedi nínáániikai.
+
+SCORE: 17.836
+GOLD: T’óó da’iidą́ą́’ dóó t’áá ’ákǫ́ǫ́ t’áá bikék’ehgi nihił náá’ít’a’
+PRED: ’Íídą́ą́’ ’ákót’éego nihikéyah bikáa’ tł’oh naayit’ááh.
+
+SCORE: 23.881
+GOLD: T’áá yéigo hííłch’į’go Hoozdo hoolyéedi nínáániikai
+PRED: ’I’íí’ą́ągo ’ałkéédgo t’áá ajiłtso Phoenix hoolyéedi nihił ná’oot’ááh
+
+SCORE: 28.215
+GOLD: Kót’éego tł’oh bidah ’adahii’níiłgo nihikéyah bikáá’góó tádííyá
+PRED: T’áá ’ákǫ́ǫ́ nihikéyah bikáa’ náá’ naashá dóó tł’oh ts’ósí shił náá’ít’a’
+
+SCORE: 34.108
+GOLD: Yiską́ągo ’abínídą́ą́’ ’índa dooleeł nááhodoo’niid
+PRED: Dóó nihi’doo’niid yiską́ągo abínígii t’áá ła’ yoołkááł dooleeł.
+
+SCORE: 55.185
+GOLD: Biiskání dį́’ígóó yoołkáałgo nihił dah nááda’diit’a’
+PRED: Náábiiskání February wolyéego dį́į́ʼgóó yoołkáałgo náá nihił dah da’diit’a’
+
+SCORE: 19.647
+GOLD: ’Áko ’índa t’ah doo haiłkaahgóó dį́’ígi ’oolkiłgo nínáánihi’dii’nil
+PRED: Dį́į́ʼ ’oolkiłgo, haiłch’íí’ yaa náádę́ę́’, nihiską́
+
+SCORE: 39.305
+GOLD: ’Áko ndi hastą́ą́góó ’oolkiłgo ’índa nihił dah náá’diit’a’
+PRED: ’Azhą́ hastánígi ’oolkiłgo t’áá íiyisí nihił dah da’diit’a’.
+
+SCORE: 26.729
+GOLD: ’Ákohgo ’índa doo chohoo’į́į́góó ’áhí bee tł’éé’ lá kodi
+PRED: ’Íídą́ą́’ hááhgóó ’áhí bee náánátł’éé’.
+
+SCORE: 24.892
+GOLD: Doo ’ééhózin da lá ’ákót’éego
+PRED: ’Áko díí ’át’éego níłchʼiígíí biniinaa, háádę́ę́’ nį́ doo bee níhózin da.
+
+SCORE: 36.271
+GOLD: ’Áko ńléí yót’áahdi deigo tseebííts’áadahdi miil ’adées’eez biighahdi ’atah táhodishłe’ ’éí bijį́į́dą́ą́’
+PRED: ’Íídą́ą́’ yádiłhiłígíí tseebííts’áadahdi miil ’adées’eezdi dah nishłį́
+
+SCORE: 27.636
+GOLD: K’os bikáá’dóó haa shį́į́ náánízáád sha’shin
+PRED: K’os bikáa’di hájíigo shį́į́ hóla
+
+SCORE: 8.793
+GOLD: Haa nízaadi dah neiikai dishníigo bíniná’ídíshki’
+PRED: T’áá ałtso ‘Ha’áádę́ę́’go niháádę́ę́’?’ yishdíłkid
+
+SCORE: 30.343
+GOLD: ’Áko ni’ bikáá’dóó tseebííts’áadahdi miil ’adées’eezdi dah neiikai níigo na’ałt’a’ígíí shił náhálnih
+PRED: ’Áko pilóot shiyá yíníłti’go, nihijéí tseebííts’áadah miil ’adées’į́į́’ (kéyah bikáa’gi; tó ntsoozígíí bikáa’gi).
+
+SCORE: 8.521
+GOLD: ’Áko t’áá bíyó yéé’ shii’ ńdídááh
+PRED: Navajo: T’áá ’áłch’į́į́dígo dooyá nisin.
+
+SCORE: 13.059
+GOLD: Nihił bidah ńdílts’i’iigi ’ánát’įįh
+PRED: Chidí naat’a’í náá yiltsą́ (níłch’i biyi’ yázhígíí).
+
+SCORE: 21.290
+GOLD: Yaago ’ashdladi neeznádiin ’adées’eez bíighahgóó nihił yaa ńdílts’i’ jiní
+PRED: T’áá jį́ t’áá íiyisí ashdla’ neeznádiin feet bidah dadínííł’į́’
+
+SCORE: 11.894
+GOLD: T’áá shį́į́ ’ákónéehee bik’ee nił hóyéé’ shiłní na’ałt’a’ígíí
+PRED: Díí bił neiikai hastíín shił hojilne’ yánísin biniiyé doo shí baa naniná’ da.
+
+SCORE: 9.676
+GOLD: ’Áko t’áá ’aaníí bik’ee hóyéé’ lá
+PRED: Chidí naatʼaʼígíí biyiʼ yideeshwoʼgo éí iiná bá dah naaznil.
+
+SCORE: 15.868
+GOLD: T’áá zéé’ naakiit’į́įgo bee na’aldeehii ’át’éé lá chidí naat’a’í wolyéii
+PRED: ’Azhą́ ’ákót’éé ndi ’íídą́ą́’ ’índa t’áá naaki dį́į’ nihiigeeh.
+
+SCORE: 16.584
+GOLD: ’Azhą́’ ’ákót’ée ndi t’áá naakidi ninááda’siigigo ’anáá’oot’ą́
+PRED: T’áá zéé’ jóhonaa’éí deeshch’į́įgo náá naaki it’į́į’ nihiigeeh.
+
+SCORE: 21.875
+GOLD: Náábiiskání ’ashdla’ígóó yoołkáałgo díí Arizona wolyéego náhásdzooígíí biyi’dóó nihinant’a’í nilíinii Governor wolyéhígíí bił ’ahidiikai
+PRED: Biiskání ashdla’ígóó yoołkáałgo Hoozdo Naat’áanii nihił deeskʼaaz
+
+SCORE: 9.610
+GOLD: California biyi’dę́ę́’ siláołtsooí yinant’a’í nilį́į́ léi’ dó bił ’ahidiikai
+PRED: Áádóó Tó Hahoodzoogóne’ naabaahii naat’áanii nihił ná’oolkał.
+
+SCORE: 32.262
+GOLD: ’Éí díí hastóí naakigo ’iih yí’áázh dóó nihił nínáá’diit’a’
+PRED: Díí hastóí chidí naat’a’í bił dah naajaa’, ’aádóó nihił dah náádiit’a’.
+
+SCORE: 21.280
+GOLD: Hastóí kódaalyéenii chidí naat’a’í kóolyéhígíí ’akǫ́ǫ́ bił yit’ah ha’níigo nihilą́ąjį’ níłch’i bee dahane’ígíí bee náhánihgo nihił ’ít’a’
+PRED: Shádi’ááh bee bił dahoolne’ díí hastéí éí chidí naat’a’í t’áá íiyisí bitahgóó da nídáhólǫ́.
+
+SCORE: 35.873
+GOLD: K’ad ’índa tł’oh dóó ch’iyáán dóó chizh dó’ danihiyéél
+PRED: Tł’ohígíí, ch’iyáán dóó chizh bee t’áá ałtséego nihodílbáh.
+
+SCORE: 9.145
+GOLD: ’Éí Kiis’áanii bik’ijį’ dasiigad
+PRED: Hopii dine’é bikáá’ díí yee ’ałne’
+
+SCORE: 25.240
+GOLD: ’Ayahkin Tsétsohk’id Kin Naazt’i’ ’Oozéí Hótsaa Tł’ohchin Tó dóó Ndadziizdélí dahoolyéégóó bidah ’ada’iyee’nil
+PRED: Walpi, Shipaulovi, Shimopovi, ’Oozéí Hótsaa ha’nínígíí, Hotevilla dóó Ndadziizdeli bikáá’di yę́ę ’ałne’.
+
+SCORE: 22.651
+GOLD: Naakidi daats’í bikáa’gi nihił nídeest’a’
+PRED: Díí kintá bikáá’dę́ę́’ ts’ídá naakijį́ nihił ch’í’ít’a’.
+
+SCORE: 19.372
+GOLD: Bikéé’góó nihił ń’dít’ahgo daníil’į́į̨go t’óó nihiyaadi naaná’oolyis
+PRED: ’Áko bikáá’dę́ę́’ nihił ch’í’ít’a’go nidaał’į́į́’, ’áádóó diné dah naalą́ą́’ nihiiłtsą́.
+
+SCORE: 15.047
+GOLD: Chizh yę́ę daats’í baa da’ahijigą́ t’óó dadii’ní
+PRED: T’áá shoodí chizh baa daniiłts’in náníłníí’.
+
+SCORE: 32.714
+GOLD: Díí hastóí bił neiikai yę́ę ’éí łą́ą́góó nashídééłkid
+PRED: Díí bił dah naaznilígíí hastóí t’áá łą́ą́go níigo nashídíłkid.
+
+SCORE: 43.042
+GOLD: Haa yit’éego diné yéigo bide ’ádahoot’é
+PRED: Diné haa ’ákót’éego bide’ádahoot’éé?
+
+SCORE: 8.123
+GOLD: níigo nashídíłkid
+PRED: Shibá yíníłníí’
+
+SCORE: 10.784
+GOLD: Yéigo diné bee bide ’ádahoot’éégóó bee bił nahashne’
+PRED: Diné ’akót’éego t’áá ałtso ’aníinii biniiyé bá yíníłti’
+
+SCORE: 32.694
+GOLD: ’Áádóó Naabeehó bikéyah bikáá’góó t’áá ’ałtsogo hada’iilzidgo ńléí Tucson hoolyéedi nihił ná’ít’a’
+PRED: Diné Bikéyah na’álkidgo ’ádóó Tucson hoolyéégóó nihił ná’ít’a’.
+
+SCORE: 19.124
+GOLD: ’Áadi hastóí yę́ę bida náát’áázh
+PRED: ’Ádíígíí hastóí naakigo ’iih yíyá
+
+SCORE: 63.658
+GOLD: Nihí ’éí Phoenix hoolyéedi nihił ná’ít’a’go bida néiikai
+PRED: Nihí ’éí nihił ná’ít’a’ dóó Phoenix hoolyéedi nihił deidiilnih
+
+SCORE: 49.126
+GOLD: Biiskání hastą́ą́góó yoołkáałgo ’éí shí t’áa doo ch’íníyáa da
+PRED: Náábiiskání hastą́ą́’ígóó yoołkáałgo doo ch’ínáánísdzá da,
+
+SCORE: 17.057
+GOLD: Chidí naat’a’í t’áá bíyó shijééhkał ’áyiilaago biniinaa
+PRED: Tsídii dah naaznilígíí bik’ehgo, shilééjį’ t’áá ałts’íís doo yá’át’ééh da.
+
+SCORE: 8.891
+GOLD: Ndiilt’éego ’ákwíidzaa lá
+PRED: ’Ákódzaa nihá naaki
+
+SCORE: 32.346
+GOLD: Damį́įgo biiskání tsoots’idgóó yoołkáałgo ’índa ’atah ch’ínáánísdzá
+PRED: Biiskání tsosts’idígóó yoołkáałgo náá shiyá
+
+SCORE: 8.520
+GOLD: T’áá ’ákót’éego ńlááhdę́ę́’ bee haz’ánę́ę ’éí bik’ehgo dah náádadiikai
+PRED: Nihina’nitin bits’ą́ą́’ daa’go ’iikai
+
+SCORE: 12.763
+GOLD: ’Íídą́ą́’ ’índa t’áá ła’ajį́ dį́įdi ’ałnánéiikaigo ’i’íí’ą́
+PRED: ’Ákohgo dį́į’di chidí naat’a’ígíí nihił nídeest’a’
+
+SCORE: 19.098
+GOLD: T’áá tł’oh t’éiyá nináádeiigéego
+PRED: Tł’oh t’áá íiyisí nihiigeeh
+
+SCORE: 26.609
+GOLD: Tseebíígóó yoołkáałgo t’áá ’ákót’éego dah náádiikai
+PRED: Tseebíígóó ch’ínáádiit’ááh.
+
+SCORE: 19.296
+GOLD: ’Áko díí tł’ohígíí t’éiyá ’aghá nideiigé
+PRED: Tł’oh éí t’áá ’áhoot’éego nináádeiigéego.
+
+SCORE: 12.494
+GOLD: T’áá ńléí ’áłtséédą́ą́’ ’át’éhę́ęgi ’át’éego ’áhí bee náánátł’éé’ lá
+PRED: ’Ákót’éego ’ádííshjį’go, náá chooh ałtso hólǫ́.
+
+SCORE: 22.886
+GOLD: K’os bikáa’di łahgo ’át’éego nááhást’ą́ą́ lá
+PRED: K’os bikáá’di ’ak’ehgo nánízin
+
+SCORE: 21.723
+GOLD: Łahgóó dził daní’á nahalingo ’índa łahgóó séí daní’á nahalin łahgóó nizhónígo dził dadeez’á nahalingo tádiikai k’os bikáa’di
+PRED: Łahgóó k’os dził dananazį́ ’át’éego nááhást’į́; t’áá łá’go séí na’azkáanii ’át’éego nááhást’į́, dóó t’áá íiyisí dził bikáa’ ałts’ózígo nááhást’į́.
+
+SCORE: 14.164
+GOLD: Yaago ni’ bikáá’ góyaa ’éí doo ’ééhózin da
+PRED: Nahasdzáán bighaadę́ę́’ doo yíníł’ą́ą’ da
+
+SCORE: 21.507
+GOLD: ’Azhą́ ’ákót’éé lá ndi ’ałdó’ ’íídą́ą́’ dį́įdi nda’siigį́įgo ’i’íí’ą́
+PRED: ’Azhą́’ ’ákót’ée ndi t’áá dį́į’di nihiigeeh
+
+SCORE: 24.152
+GOLD: ’I’íí’ą́ągo nihił ná’oot’ahgo chidí naat’a’í bitsiits’iin ła’ nihits’ą́ą́’ ná’oot’ahgo ’áhóót’įįd
+PRED: Hííłch’į́’go náná’álkidgo, chidí naat’a’í binaalniihí t’áá łá’ kǫ́’ yidinil. Kinłání dóó Hoozdo be’ak’idę́ę́’ ádíílyá.
+
+SCORE: 3.362
+GOLD: Shoo ńléí lá haa hóót’įįd
+PRED: Haa ályaa'?
+
+SCORE: 3.393
+GOLD: Diiltła lá shidííniid na’ałt’a’ígíí
+PRED: ’Áhootʼį́! Pailót yę́ę
+
+SCORE: 9.549
+GOLD: Nééł’į́į́’ ńt’éé’ hááhgóó shį́į́ kǫ’ bąą dah sidá
+PRED: Naalyéhé bá hooghan biniit’a’di kǫ’ yíníłtsá
+
+SCORE: 16.689
+GOLD: ’Áko doo chohoo’į́į́góó bik’ee shił hóóyéé’
+PRED: ’Áko ’ákót’įįhgo doo t’áá íiyisí nídoolnííł da lá
+
+SCORE: 3.827
+GOLD: Hóyéé’ lá
+PRED: Díí ayóó baa naniná.
+
+SCORE: 25.590
+GOLD: T’áadoo ’áhó’ne’gi da lá ’ákot’įįhgo
+PRED: Ha’át’í yá’áhoot’ééł doo ’ééhózin da lá.
+
+SCORE: 11.099
+GOLD: Bidah ya’iiltáál ndi t’áá hazéé’ yidoot’įįł lá
+PRED: T’áadoo le’é’ nídájááhgo iina’ nináádínííł.
+
+SCORE: 24.144
+GOLD: T’áá zéé’ yit’į́į́jí t’éiyá bił nahadeełgo bee na’aldeehgo ’át’éé lá chidí naat’a’í wolyéii
+PRED: Chidí naat’a’í biih deeyałgo t’áá hazéé’ bił yáhoot’ééł lá
+
+SCORE: 50.507
+GOLD: Doo ’ééhózin da lá
+PRED: Doo bééhózin da.
+
+SCORE: 16.525
+GOLD: T’óó yíní dilyinee t’éiyá bee na’adáá lá
+PRED: T’óó ch’íiyá dóó yá’át’ééhgo bá nínitsáhákees.
+
+SCORE: 7.528
+GOLD: ’Áko ha’át’éego lá díí nihits’ą́ą́’ diiltłaaígíí ńdínóotsis lá nisingo haa’í lá doo ntsíníkéez da
+PRED: Haashį́į́ kǫʼ deetłʼaʼígíí baa ayóó nítsékees nishłį́.
+
+SCORE: 25.893
+GOLD: K’adshą’ díí bitsiits’iin dah naaznilígíí t’áá biyi’dę́ę́’ kǫ’ bee daniltsésígíí dadeez’áá lá
+PRED: Ndi díí bitsiits’iin bikáá’go t’áá íiyisí kǫʼ bee yits’ósí hólǫ́.
+
+SCORE: 16.141
+GOLD: ’Áko ’ákót’įįhgo nizhónígo bee náníltsis lá
+PRED: ’Áko díí ’át’éego dooleełígíígo kǫ’ éí shoodíí ’áhodíínááł lá
+
+SCORE: 28.425
+GOLD: Nániikaigo t’áá ła’ajínígo dahodinołyįįh nihi’doo’niid
+PRED: Nániit’áázhgo yiską́ągo t’áá ajiłí nihidoolééł hodoo’niid
+
+SCORE: 10.632
+GOLD: T’áá hazhó’ó ’ahéhee’gi ’át’éego nihich’į’ ch’íhoot’ą́
+PRED: Kót’éego yáʼátʼééh baa haneʼ lá
+
+SCORE: 9.816
+GOLD: ’Áko doo ’asohodoobéezh da lá
+PRED: Doo yá’át’ééh da!
+
+SCORE: 26.151
+GOLD: Nda’ałt’a’ii ’ałnááhoojah
+PRED: Chidí naat’a’í yee ’áníłíinii t’áá ’ákót’éego ’ałnááhoozh
+
+SCORE: 13.753
+GOLD: Ła’ ’ałné’é’áahjį’ nda’ałt’a’
+PRED: Łá’ íiyisí ’ałní’ní’ą́ yich’í’ít’a’
+
+SCORE: 11.808
+GOLD: ’Ałné’é’ááh dóó bik’ijį’ ła’ nda’ałt’a’
+PRED: Áádóó t’áá la’í ba’ná’ánígo dayinaalnish.
+
+SCORE: 21.148
+GOLD: Dį̨́įdi ’ałnáá da’at’ahgo ’áko t’áá dį́į́’ ’ałnáá da’ałt’ah
+PRED: Dį́įdi ’ałnánéiikaigo, chidí naat’a’í ’ałnééhí dį́įdi hólǫ́
+
+SCORE: 7.936
+GOLD: ’Índa bidah ’ada’iinííł yiniiyé ’ii’ dah naháaztánígíí t’áá ’ákót’éego ’ałnááhoojah
+PRED: Dóó yisdla’ígíí áádóó nda’ałt’a’.
+
+SCORE: 17.930
+GOLD: Nihí ’éí shá bíighah ’ii’ dah naháatą́ągo ’i’ii’aah
+PRED: Nihí (naat’áanii) ndi ’índa łahgóó chidí biyi’di t’áá naazhjée’go ’aah t’áá íiyisí.
+
+SCORE: 20.829
+GOLD: Naabeehó hoł nishkai yę́ę ’ałdó’ ’áájí t’áá ’ákót’é
+PRED: Féénixdi bił deeshááłígíí Diné łáanii náá yę́ę ’ákót’éego ’át’é.
+
+SCORE: 6.542
+GOLD: Nihikéédę́ę́’ ła’ náá’íldee’
+PRED: Diné łá nihíł danaa’aash
+
+SCORE: 12.491
+GOLD: T’áá díí baa nisiikai yę́ę t’áá ’ákót’éego baa nináádzískai
+PRED: Bina’anish nihina’anish t’áá íiyisí.
+
+SCORE: 11.380
+GOLD: T’áá hazhó’ó baa deizhdoo’į́į́ ńt’éé’
+PRED: T’áá shoodí dooleełígíí danízin
+
+SCORE: 6.222
+GOLD: ’Ákót’éego shinááł bee ’ahił dahojilne’
+PRED: Éí ’ádajinígíí yisdzáá’.
+
+SCORE: 12.307
+GOLD: Tágí jį́ hoł nda’at’a’go diné ła’ Tó Dínéeshzhee’ hoolyéédę́ę́’ njigháago Shighan yę́ę ch’ééh bíká ’ásht’į́ jiníigo baa ch’íhozhní’ą́
+PRED: Na’ats’ǫǫsídi alnííníłkaadgo tááʼ yiską́ągo, Tó Naneesdizídi hastíín bihooghan ła’ doo yidiistsʼaʼ da jinii.
+
+SCORE: 7.468
+GOLD: Haghan bénáhojoohya’ lá
+PRED: T’áá íiyisí doo nááhwiinííł da
+
+SCORE: 21.399
+GOLD: ’Ákwii tł’oh ła’ shá bidah ’adoo’nił jiníigo ts’ídá tágí jį́ ch’ééh haghan háázneeztą́ą́’ t’áá hó
+PRED: Tágí jį́ bighan t’áá bíla’ashdla’ígi tł’oh yádeest’į́’ nízinígíí, áádóó t’áá bíla’ashdla’í doo bighan ná’oolkił da.
+
+SCORE: 42.990
+GOLD: Dooda lá
+PRED: Dooda!
+
+SCORE: 28.260
+GOLD: Chidí naat’a’í t’óó k’asdą́ą́’ shił náhidéélts’id jiníigo t’óó ’ák’édí ńjídleeh
+PRED: Chidí naat’a’í shił t’óó ahayóí nááhályeed (shí biniiyé naal’į́į́’go), bina’adzį́įgo jiní.
+
+SCORE: 8.192
+GOLD: Kót’éego shił hojilne’
+PRED: Díí baa ’áshiłníí.
+
+SCORE: 22.350
+GOLD: Díí diné baa hashne’ígíí ’éí Bi’éé Łikizhii dabijiní
+PRED: Díí hastíí’ dishínígíí ’éí Bich’į’ Na’astł’ahí wolyé
+
+SCORE: 23.214
+GOLD: ’Éí shį́į́ chidí naat’a’í deigo hoł hááhályeedgo shił tsédeg ’iilts’ííd jinízingo ’éí ’ááłjiníí lá
+PRED: Chidí naat’a’í t’óó k’asdą́ą́’ bił náhidéélts’id yíníłti’ígíí díí biniinaa: díí chidí naat’a’í t’áá łahgo nahasdzáán bikáa’ dah ’oot’ahgo, áko éí yágo yíkááhgo ’oot’ah nít’éé’; bikáá’jí’ haz’ą́ dooleeł nínízin.
+
+SCORE: 18.860
+GOLD: Kót’éego Bilagáana hoł na’ałt’a’ yę́ę shił nááhálne’
+PRED: Díí dah naaznilígíí naat’áanii éí kót’éego shíł hojilne’.
+
+SCORE: 44.641
+GOLD: Chidí naat’a’í t’áá ’ádaałts’íísígíí bitsiits’iin t’áá naakíhí bąąh dah naaznilígíí ’éí t’áá Béésh Sinil hoolyéédóó bá hééł ’áńda’al’įįhgo t’áá ’áádóó ’ada’iiyeeh
+PRED: Díí chidí naat’a’í bitsiits’iin naakiígíí ’éí Béésh Sinil bá hééł ’ánída’al’įįhgo t’áá ’áádę́ę́’ ’ada’iiyeeh
+
+SCORE: 33.547
+GOLD: Díí chidí naat’a’í ’ayóí ’ádaniłtsxooígíí ’éí bitsiits’iin dį́į́’ bąąh dah naaznil
+PRED: Chidí naat’a’í nitsaa dį́į́’ bitsiits’iin lá
+
+SCORE: 6.711
+GOLD: ’Éí t’áá ńléí Hoozdodi bá hééł ’ánída’al’įįhgo t’áá ’áádę́ę́’ ’ada’iiyeeh
+PRED: Phoenix góne’ daayilééh dóó daayiłgeeh
+
+SCORE: 24.433
+GOLD: Béésh Sinilgi ’éí ’ahodiyooshéí doo bíhóoghah da daaníigo ’ádaat’į́į́ lá
+PRED: Béésh Sinil hoolyéhígíí siláago nda’ał’eełígíí bida’ ayóo ’áłts’íísgo, díí ’áda’át’į́į́’.
+
+SCORE: 15.202
+GOLD: Bił nda’at’a’go díí k’ad kóhoolyéedi neiikai daaníi łeh lá
+PRED: Yádiłhiłgo chidí naat’a’í ’ał’áníí áłahgo bee ’ahił daniilne’ ’ałch’ishdę́ę́’.
+
+SCORE: 17.356
+GOLD: Kéyah naaltsoos bikáá’ bida’alyaa yígíí dóó ’oolkiłígíí bił ’ahąąh sinilgo bee bił béédahózin lá
+PRED: Naaltsoos dóó tsídii yá ’ałní’í bik’ehgo díí dadibééhózin.
+
+SCORE: 21.425
+GOLD: Díí ’oolkił t’ááłá’í dah ’alzhingo ha’níigo ’oolkiłígíí ts’ídá ’éí t’éiyá bik’ehgo na’aldeeh lá
+PRED: T’áá łá’ míínid bik’ehgo na’ashní’. Áłk’idí bítahgóó t’áá íiyisí nidiigisgo yíníłti’.
+
+SCORE: 32.124
+GOLD: ’Áko ts’ídá kwíí dah ’alzhin bíighah daaníigo yik’ehgo ndaakai lá
+PRED: ’Áko t’áá dah ’alzhin há’át’ísh ’ałkaahgo bik’ehgo na’aldeeh.
+
+SCORE: 42.908
+GOLD: Kót’éego shidine’é bikéyah bikáá’góó táhodííle’
+PRED: Jó ’éí díí shí hane’ shidine’é bikéyah bikáa’ yádiłhiłígíí.
+
+SCORE: 6.283
+GOLD: Dóó ’áádę́ę́’ ha’íísid
+PRED: Ńléídi bikéyah nísh’į́
+
+SCORE: 22.920
+GOLD: ’Áko t’áá ’aaníí ’át’éé lá
+PRED: Dóó t’áá shoodí ’át’é
+
+SCORE: 40.590
+GOLD: Łahgóó béégashii ’índa łį́į’ da t’óó naazį́ yas danitł’izígíí shį́į́ biniinaa
+PRED: ’Índa łahgóó béégashii dóó łį́į́’ t’óó ’ahayóí naazį́, yas tł’óółígíí biniinaa lá.
+
+SCORE: 11.167
+GOLD: Yikáá’ hahakáahgo yiníká dahatłííshgóó ’ákǫ́ǫ́ t’óó naazį́
+PRED: Díí bikáa’ ak’ehígíí yichxą́, dóó t’áá éiyá hadinííł.
+
+SCORE: 18.774
+GOLD: Doo náás dadikáah da
+PRED: Doo k’ad deiyá da
+
+SCORE: 21.427
+GOLD: ’Áko t’áá ’áajį’ dichin ndahałtseed dóó ndajiidlóóh
+PRED: Áko t’áá íiyisí naaznilígíí dichinígíí biniiyé dóó deeskʼą́ą́ʼígíí biniiyé yidoot’įįł.
+
+SCORE: 19.389
+GOLD: ’Índa łahgóó dibé bighan biyi’góó dibé t’áá naazhjée’go ’ada’ii’aah lá
+PRED: Łahgóó dibé dah si’ánígíí ’ii’ dah naháatą́ągo dadiits’ą́’.
+
+SCORE: 5.103
+GOLD: ’Áko ’éí t’óó ’ił bił yah ’adajiishood
+PRED: Diné t'áá íiyisí tsin át'ó'í yíyááh lá
+
+SCORE: 100.000
+GOLD: Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+PRED: Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+
+SCORE: 37.194
+GOLD: Kót’éego shidine’é bide ’áhoot’éé lá
+PRED: Díí shidine’é bá ’áhoot’éé’ doo yá’át’ééh da nít’į́į́’.
+
+SCORE: 11.412
+GOLD: Diné bilį́į́’ t’óó ’ahayóí bits’ą́ą́’ bináádíníídee’ lá
+PRED: Diné łáá’ bidibé dóó bibéégashii doo hólǫ́ da.
+
+SCORE: 20.996
+GOLD: Łį́į́’ neilózí ’índa naat’áaniishchíín danilíinii dibé bi’oh ’áńdoolnííł daanínę́ęni’ ’éí shį́į́ t’áá hazhó’ó bił da’ahéhee’
+PRED: Daats’í’ na’ííłkaadí dóó diistrííkt na’aznilíinii bił ahéhee’go nízin, biniinaa lį́į́’ bits’ą́ą́’ ádínííłį́
+
+SCORE: 100.000
+GOLD: Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+PRED: Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+
+SCORE: 9.631
+GOLD: Doo níłt’éegiísh ’ánihi’diilyaa
+PRED: Díí doo ałts’íísí át’é da.
+
+SCORE: 15.072
+GOLD: God wolyéii ’atínihiilaa
+PRED: Diyin God nihá yínídaashááh.
+
+SCORE: 49.824
+GOLD: Shí nisingo baa ntséskees
+PRED: ’Éí shí baa ntséskees.
+
+SCORE: 19.727
+GOLD: Háadi shį́į́ God ’ání ’atínihidi’doolnííł nihíłnínę́ęni’ ’éí k’ad ’ákónihi’diilyaa
+PRED: Hólǫ́ ła’ yáłti’ígíí, God yáłti’go Diné’é ’atídiilyaa, dóó t’áá shį́į́ éí yiską́.
+
+SCORE: 33.347
+GOLD: K’ad tseebííts’áadah nááhaiídą́ą́’ ’ałdó’ ’ákódzaa ni’
+PRED: ’Áłdó’ tseebííts’áadah háálá yáágo kódzaa.
+
+SCORE: 43.183
+GOLD: ’Íídą́ą́’ ’ałdó’ ’atínihi’diilyaa
+PRED: ’Íídą́ą́’ ’éí ’atínihiilaa
+
+SCORE: 45.863
+GOLD: Diné niidlíinii t’ah doo nihił bééhoozįįh da díí God wolyéii ’atínihił’ínígíí
+PRED: Diné, náá doo nihił bééhózin da God wolyéii ’atínihiilaa ígíí.
+
+SCORE: 21.749
+GOLD: Kót’éego ’át’é
+PRED: T’áá íiyisí ’át’é.
+
+SCORE: 19.000
+GOLD: Kwe’é yee’ shahane’ t’áá ’áłts’íísígo hólǫ́
+PRED: T’áá ’áłch’į́į́dígo hane’ yíníłti’.
+
+SCORE: 6.292
+GOLD: ’Éí díí ’áłchíní ’ídlį́į́dą́ą́’ hane’ígíí ’át’é
+PRED: Awééʼ yázhígo iiná baa haneʼ
+
+SCORE: 18.078
+GOLD: ’Áłchíní danilínígíí ’éí bee bił hashne’ díidí
+PRED: ’Aádóó t’áá łá’ íiyisí ’áłchíní bá shí halne’ígíí
+
+SCORE: 37.570
+GOLD: ’Ánísts’ísígo tseebíí daats’í shinááhaigo ńléí dziłghą́ą’di Lók’ai’jígai bighą́ą’di ła’ shił naa’aash jílį́įgo ’éí t’éiyá hoł ndinisht’éego na’niilkaad ńt’éé’
+PRED: Shiyázhígo, tseebíí daats’í shinááhaigo, Lók’a’jígai dził bikáa’ shił naa’aash jílínígíí bił dibé na’níilkaad.
+
+SCORE: 15.834
+GOLD: Díí shił naa’aash jílínígíí ’éí t’áá shitísígo ’ázhníłtso
+PRED: Shił níłį́į́’ígíí t’áá bíyó t’áá hojíyą́ągo
+
+SCORE: 42.920
+GOLD: Náhást’éi daats’í honááhai ’íídą́ą́’
+PRED: ’Íídą́ą́’ ’éí náhást’éí daats’í binááhai nilį́
+
+SCORE: 12.581
+GOLD: ’Ákwe’é naniilze’go dziłdi t’áá sáhí na’niilkaad
+PRED: Dibé baa t’áá nihígo yiich’į’ígíí, ’Íídą́ą́’ t’áá ałts’íísígo nihílį́.
+
+SCORE: 37.675
+GOLD: ’Áko díí shį́įgo ’ei dziłgóó ndaakaiígíí shash wolyéhígíí dziłdi dahólǫ́ ’íídą́ą́’
+PRED: ’Íídą́ą́’ díí dziłghą́ą’di, dziłgóó haz’ą́ą́ígíí dahólǫ́, ’éí shash wolyéego
+
+SCORE: 27.904
+GOLD: ’Éí bízhi’ígíí doo shash jiníi da jó ’ákót’éego ’éí ’aájí dziłjí diné kéédahat’ínígíí doo shash daaníi da
+PRED: Áko shash wolyéego doo józhíi da. ’Áadi dził yádiłhiłígíídi dine’é shash doo jiníi da.
+
+SCORE: 23.222
+GOLD: Shił naa’aash jílínígíí shį́į́ t’éiyá łahgóó t’áá hoł béédahózin
+PRED: Áko ’íídą́ą́’ nihí yázhígo dziłghą́ą’di nihídibé na’niilkaadígíí, díí nít’éego biniiyé doo nihí bééhózin da. T’áá éí shił naa’aash ts’ídá biniiyé bééhózin.
+
+SCORE: 30.192
+GOLD: ’Áko ńléí t’áá hoł béédahózinígóó bee nashizhnitin łeh
+PRED: ’aadóó bíhózinígíí nashizhnitin
+
+SCORE: 27.502
+GOLD: Díí kǫ́ǫ́ dziłgóó t’áadoo le’é dahólǫ́ shash wolyéego ’éí hólǫ́ ’éí doo józhíi da
+PRED: Díí dziłdi t’áá íiyisígíí hólǫ́. Shash wolyéhígíí ’ádíí’ hólǫ́, áko bízhi’ígíí bik’ehgo doo jiníi da.
+
+SCORE: 45.427
+GOLD: Doo shash jiníi da
+PRED: Diné doo shash daaníi da
+
+SCORE: 17.632
+GOLD: Ts’ídá doo ’áhá’níi da
+PRED: Áko saad ígíí t’áá íiyisí doo baa yáłti’ da
+
+SCORE: 21.957
+GOLD: ’Éidíígíí t’áá ká ’ákódóóne’ jiníigo nashizhnitin
+PRED: Bee nashizhnitingo shił yíníłti’.
+
+SCORE: 14.613
+GOLD: Hó t’áá hojíyą́ągo hó t’áadoo le’é t’áá baa ’áhozhnízin
+PRED: ’Éí t’áá shitísígo ’ázhní́í’ ’áko k’ad ha’ííshą́ yíníłta’.
+
+SCORE: 7.758
+GOLD: Díí shashígíí ’éí t’áá łahgo ’át’éego wójí
+PRED: Shash łá’go baa yínílyé
+
+SCORE: 16.933
+GOLD: Shį́įgo ’éí tseet’ohí wolyéego wójí shijiníigo kót’éego nashizhnitin
+PRED: Shił na’nitinígíí jiníigo, “Sháńdííngo biniiyé ‘bushy-tail’ wolyé.”
+
+SCORE: 31.561
+GOLD: ’Áko ’abínígo dah náádí’níilkaadgo ninááshizhneestą́ą́’
+PRED: ’Áádóó ’Ahbínígo dibé dah ’adíníilkaadgo díí biná’nítį́ biniiyégo náá shiyááł yíníłti’.
+
+SCORE: 32.112
+GOLD: ’Áadóó dah ’adíníilkaad
+PRED: Dibé dah náádí’níilkaad
+
+SCORE: 15.342
+GOLD: Ńléí ’ayóí ’át’éego dahodíłch’il léi’góó na’neelkaad
+PRED: Dóó t’áá íiyisí ch’ééh bikéyahgi bił na’niilkaad ńt’éé’ łah.
+
+SCORE: 16.226
+GOLD: Nídíshchíí’ ch’ó da t’iisbáí ’índa chéch’il da bee dahodíłch’il
+PRED: Díí góne’ tsin ch’il łeezh, ch’óół’íí’, tsin łigai dóó tsin łichíí’ baa dahadzid.
+
+SCORE: 10.411
+GOLD: Ch’ídaasdzisdę́ę́’ tó ch’ídaazlį́ ńléí dah ńdadzilgaigóó ’éí łahgóó be’ek’id naazyį́
+PRED: Tsékooh binaagóó tó yilwod, áádóó yádiłhiłgo bikéyah łahgo tó tsoh yázhí hólǫ́.
+
+SCORE: 15.423
+GOLD: Kót’éego dahózhónígo nahaz’ą́ą́ ńt’éé’ lá ’íídą́ą́ díí dziłghą́ą’di
+PRED: ’Íídą́ą́’ dził bikáa’di ’éí t’áá ałtso nizhóní.
+
+SCORE: 17.875
+GOLD: Dibé lą’í da naniilkaad
+PRED: Dibé ’atah nitsaa nihá hólǫ́
+
+SCORE: 7.821
+GOLD: ’Áko ńléi hodíłch’il góne’ nihits’ą́ą́’ ’eekaigo ’áadi hóteelgo ńdookaigo t’óó bikéé’ tádiit’aash
+PRED: Dibé tł’ohdi da’nííłtsáá’go, t’áá ’íiyisí éí náá ’iikai.
+
+SCORE: 15.595
+GOLD: ’Áádóó ’ałts’á shiit’áázh łahjí ’aninááh shijinígo
+PRED: Shik’éí háádi’ deeya shiłníigo, dóó t’áájiik’ehgo ’ádaalyááh.
+
+SCORE: 13.926
+GOLD: Binániidgi dibé yikahgo shí ńléí yódahjígo ’ííyá
+PRED: Dibé dził bidáá’gi hólǫ́go, shí éí bikʼáʼgi binaagóó naashá.
+
+SCORE: 25.525
+GOLD: ’Áko ’áadi naasháago shash doo józhíi da shijiníigo nashizhnitinę́ę bénááshnii’
+PRED: ’Áko ’aájí yah deeshááłgo, doo shash jiníi da biniiyé’ shił yíníłti’ígíí shí nízhní.
+
+SCORE: 24.775
+GOLD: Ha’át’éego lá shash doo jiníi da lá nisingo tádíshááh ’áadi
+PRED: Shikaadéé’ tádiish’aashgo háádida íiyisí diné éí doo ‘shash’ jiníi da shił nínízin.
+
+SCORE: 9.794
+GOLD: ’Áádóó hak’ijį’ bidah ńdideeshwoł niizį́į́’ hó ’éí ńléí shiyaají joogáałgo
+PRED: Áko t’ááłá’ígo shina’áłchíní bił naniná nisin, kéédę́ę́’ yiyááhígíí bá nishchʼį́ʼ.
+
+SCORE: 7.559
+GOLD: ’Aadóó bidah góyaa hach’į’go ńdiishwod Aadę́ę́’ shash léi’ yilwoł shił naa’aash
+PRED: ’Áko bíyaa deeshjéé’. “Shash nááhai, shik’éí.”
+
+SCORE: 4.733
+GOLD: ’Akóó ’akóó shash léi’ yilwoł
+PRED: T’áá shoodí t’áá shoodí
+
+SCORE: 12.273
+GOLD: Shash shash ’ákóó shash dishníigo haa nishwod dóó t’óó hwíighah ch’íníshwod
+PRED: Shash! Shash! jini, bila’ ts’ídágo yishááhígíí.
+
+SCORE: 5.671
+GOLD: Ńléí haláahdi ’índa naanísíswod
+PRED: Bi’áádę́ę́’ shádi’ááhgo
+
+SCORE: 19.952
+GOLD: ’Áko ’índa ’áádę́ę́’ haa nánísdzá
+PRED: Nát’ą́ą́’ dóó bígóó nánísdzáá.
+
+SCORE: 32.882
+GOLD: Haa nánísdzáá ńt’éé’ hááhgóó shį́į́ doo hoł hózhǫ́ǫ da
+PRED: ’Éí bijée’góó náánísdzá, dóó hááhgóó shį́į́ báháchį’.
+
+SCORE: 21.298
+GOLD: Ha’át’íí lá diníigo naanáníítééł
+PRED: Ha’át’ísh íiyisí náádiit’aash dóó níní’á?
+
+SCORE: 34.380
+GOLD: Shą́ą́’ doo ’ájíníi da ndishní
+PRED: Doo nínízin da díí bąą doo józhíi da shą́ą́’ ndishníígíí?
+
+SCORE: 4.254
+GOLD: Doo ’áhá’níi da ts’ídá doo ’ájíníi da ndishní
+PRED: T’áá íiyisí?
+
+SCORE: 5.905
+GOLD: ’Akǫ̨́ǫ́ t’áá ’áyídígóó ndaakaigo ’át’é
+PRED: Díí shį́į́’ kǫ́ó la’ hólǫ́ dooleeł.
+
+SCORE: 32.820
+GOLD: ’Éí bąą doo józhíi da shą́ą́’ ndishní
+PRED: Shą́ą́’ doo ’ájíníi da? Díí biniinaa ndishní.
+
+SCORE: 11.772
+GOLD: Łahgo ’át’éego wójí shą́ą́ ndishníigo bee nił hashne’ jiníigo t’áá bíyó shich’ahojííshkeed
+PRED: ’Éí lá’í wolyégo nídííniid,” shí ’áhoot’éego jiní.
+
+SCORE: 47.453
+GOLD: ’Aadóó dibé bikéé’ dah náádiit’áázh
+PRED: ’Aadóó náádiit’áázh dibé náániikai
+
+SCORE: 20.303
+GOLD: Dibé bikéé’ neit’aashgo nááhodoo’na’go t’ah ńt’éé’ nagháí chéch’il yáázhtahgi łééchąą’í hááhgóó shį́į́ ndahał’in yiits’a’
+PRED: T’áá ajiłtso bina’ deiyá’go, tł’óódi tsésǫ’ bighanídį́į́’ bíí’di łééchąą’í ayóó ndahał’ingo níisdá
+
+SCORE: 41.025
+GOLD: Ha’át’íí lá łééchąą’í ndeił’in yiits’a’
+PRED: Ha’át’íí łééchąą’í deił’ínígíí
+
+SCORE: 41.049
+GOLD: Ha’át’íí lá łééchąą’í ndeił’in lá nisingo ’áádóó ’ákǫ́ǫ́ ńdiishwod
+PRED: Ha’át’íísh łá łééchąą’í ndeił’in yiits’a’, ’Áko kǫ́ǫ́ yishwoł.
+
+SCORE: 12.144
+GOLD: Shił naa’aash dó’ t’áá shikéé’ joolwoł
+PRED: Shik’éí shinaa’ yá
+
+SCORE: 28.364
+GOLD: Łééchąą’í ndahał’inę́ęjį’ yishwoł ńt’éé kǫ́ǫ́ shash sizį́įgo yiiłtsą́
+PRED: Łééchąą’í ndeił’inígíí ’áádóó ’ákǫ́ǫ́ ńdeiya, ’éí shash bąąh dah si’ ńt’éé’.
+
+SCORE: 26.135
+GOLD: T’áá ’áádóó ninishtłago t’áá ’áádóó nísh’į́
+PRED: Tʼáá ’áádę́ę́’ ninishtła’ dóó bí yíníłtsáʼ.
+
+SCORE: 3.901
+GOLD: Hááhgóó shį́į́ báháchį’
+PRED: ’Ayóo hashkééʼ
+
+SCORE: 6.582
+GOLD: Biyi’ hodi’níigo sizį́
+PRED: Yidlóółgo ’ałníí’
+
+SCORE: 15.831
+GOLD: T’áadoo le’é ńléí tsin da ’akǫ́ǫ́ ndadeeztąądígíí tsé da náyiiláahgo yee ’adziiłne’
+PRED: Kéyah bikáa’ binaagóó hóóchx̨oʼígíí t’áá íiyisí tsin dóó tsé yidiilyaa’,
+
+SCORE: 19.810
+GOLD: Łééchąą’í yę́ę yee yitaa ’ałne’
+PRED: ’Áádóó łééchąą’í baa naaznééł.
+
+SCORE: 19.171
+GOLD: Tsin da yee yitaa’ałhaał
+PRED: Tsin bee bił dah naayít’ééł
+
+SCORE: 19.556
+GOLD: ’Áko hááhgóó shį́į́ łééchąą’í ndahał’ingo binánoodah
+PRED: Łééchąą’í bí náhookǫs náni’ááhgo ts’ídágo yichaa’.
+
+SCORE: 6.898
+GOLD: T’óó ’ákót’éego bik’í níghal dóó yaashtáál
+PRED: T’áá ałts’áá’ yiiłtsą́, ’áádę́ę́’ díkwíí’ diiyá.
+
+SCORE: 14.473
+GOLD: Shił naa’aash dó’ t’áá shikéé’ yajiiltáál
+PRED: Áádóó shik’éí t’áá íiyisí níltsą́ deeyá.
+
+SCORE: 15.170
+GOLD: Ńléí doo deeghánídi ’índa ninishtła
+PRED: Hodooniłígíí t’áá shoodídi shí ’aneezdá
+
+SCORE: 24.345
+GOLD: Ninishtłago ’índa ’áadi shíjílwod
+PRED: Ninishtł’áago t’áá shoodí shik’éí shaa aadiyá.
+
+SCORE: 19.483
+GOLD: ’Áadóó dah náádiit’ázhí ’éí ńléí dibé yikahą́ą bidááhjí ’iit’áázh
+PRED: ’Aadóó nihił nínáá’diit’a’ dóó dibé deiyáígíí deiyá, t’áá bíyáági yádaashááh dóó yisdááh.
+
+SCORE: 15.022
+GOLD: ’Áádóó ’índa ńléí dzígaijigo dibé béé’niilnii’
+PRED: ’Éí ńléí nááts’ǫ́ʼgo naaznilígíí góó niilkaad.
+
+SCORE: 16.497
+GOLD: ’Éí ńléí dah ńdzílgai léi’jį’ ch’ééní’niilkaad
+PRED: Nahasdzáán bikáa’ góó náá na’niilkaad.
+
+SCORE: 21.454
+GOLD: ’Éí t’áá ’ákwii na’aniilkaadgo ’ałní’ní’ą́
+PRED: ’Áadi dani’aah dóó ałní’á jį’ dibé nániilkaad
+
+SCORE: 15.520
+GOLD: ’Íídą́ą́’ ’ákót’éego ts’ídá ’áłtsé shash yiiłtsą́ą ni’
+PRED: Jó ’éí shash t’áá áłts’íísí yáshį́į́h
+
+SCORE: 15.257
+GOLD: Biiskání ła’ náánéiłtsą́ą ndi ’éí ńléí ’ákohdi t’áá nízaadi binániigi yigáał náánéiłtsą́
+PRED: Yiską́ągo t’áá łáʼí shash dééhgo dził bináʼdi yiyą́go yiiłtsą́
+
+SCORE: 12.764
+GOLD: ’Ei ga’ ’óolyéé lá shash t’óó nisin
+PRED: ’Éí shash daats’í nít’į́ʼ
+
+SCORE: 16.920
+GOLD: Náánáłah ’éiyá t’áá ’éidí bi’aak’eedi ’éi doo dziłghą́ą’di da ’éí t’áá ńléí téehdi ’áadi ninánii’náago nináá’niilkaad ńt’éé’
+PRED: ’Ałníí’ígíí ak’ehjígo dził bidáá’go tsékoogéé’di na’nidiihłkid ch’ééní’di na’aniilkaad
+
+SCORE: 31.792
+GOLD: Deenásts’aa’ ’atah ndaakaigo bił na’aniilkaad
+PRED: Dibé dibáá’ ’atahgo bił na’niilkaad, dóó ayóó ’a’oolkił łeh ni’.
+
+SCORE: 20.513
+GOLD: ’Áko ńléí ła’ ’ałk’i náánéilwo’go da’ahógeehgo ’ałts’ą́ą́hjí bik’i dah nániikeehgo ’ałch’į’ nihił nínáhidí’níilchéeh łeh
+PRED: Deenásts’aa’ ’ałch’į’ na’ajiilwo’go, t’áá t’áá’ íiyisí nihí deenásts’aa’ bikáá’ yisdááhgo, dóó ’ałch’į’ na’ajiilwo’ bá’aanílééh.
+
+SCORE: 44.767
+GOLD: Bik’i dah siikéego bitsiits’iin yee ná’ahiigohgo hááhgóó shį́į́ baa dlo nihighą́ą łeh ni’
+PRED: Bikáá’ nihidá, bita’ góne’ yéego ’aníjílwo’go hááhgóó shį́į́ baa dlo nihighą́ą.
+
+SCORE: 57.299
+GOLD: Łahda bidah ’anániidahgo hááhgóó shį́į́ baa dlo nihighą́ą łeh
+PRED: T’áá ch’éiyá bikáa’ nidaalt’ą́’, ’áádóó jí’ daats’í hááhgóó shį́į́ baa dlo nihighą́ą łeh ni’.
+
+SCORE: 18.022
+GOLD: Kót’éego deenásts’aa’ bee nei’née łeh ni’
+PRED: ’Íídą́ą́’ ’ákót’éego dibé hastiinéé’ bił náádi ná’oolkił
+
+SCORE: 11.953
+GOLD: Łahda ńléí doo deeghánídę́ę́’ deenásts’aa’ ’ałts’ą́ą́’ ninát’ashgo ’aadę́ę́’ ’ałch’į’ náádiilwo’go bita’ góne’ ’aníjílwo’go t’áá ’ahánídę́ę́’ ’ahinoolchéełgo ’índa níláahjį’ ch’ééjiilyeedgo kót’éego da baa neit’aash łeh ńt’éé’
+PRED: T’áá ’ákwíí’ ’ałts’ą́ą́h ayóo diłt’ááh, dóó shiit’áázh naakagóó deyá, nááji’ bitsiits’iin yee ná’ahiigohgo yisxish.
+
+SCORE: 39.621
+GOLD: Dibé t’óó nihiná náákahgo shábíighah deenásts’aa’ bee nei’née łeh ni’
+PRED: Dibé di’ní’go ch’il yitł’óółgo, t’áá naazhjée’go deenásts’aa’ bee nei’née’ ni’.
+
+SCORE: 37.724
+GOLD: Tł’ízí chǫǫh dó’ ’atahgo bił na’niilkaad ńt’éé’ łah
+PRED: T’áá shoodí tł’ízí ką’ bił na’aniilkaad ńt’éé’
+
+SCORE: 21.028
+GOLD: ’Éí ’ałdó’ t’áá ńléí halgaidi
+PRED: Kééhat’į́į́ léi’gi ’ałdó’ ’ákódzaa ni’
+
+SCORE: 47.910
+GOLD: Doo dziłdi da
+PRED: Doo dził biyi’ da
+
+SCORE: 46.787
+GOLD: Tł’ízí ką’ ła’ t’áá bíyó hashkéego bił na’niilkaad ńt’éé’
+PRED: Tł’ízí chǫǫh t’áá łá’ ’atahgo bił na’niilkaad ’ígíí t’áá bíyó yéé’ doo yá’át’ééh da.
+
+SCORE: 10.380
+GOLD: ’Áko ńléí ha’át’éegi da baa níjít’įįhgo bí’dzíts’ihgo bikéé’jígo jidigháahgo da hach’į’ báháchįįh
+PRED: Adooʼáłdį́įʼ tʼáá íiyisí bíyitłʼóół dóó bił naa’aashgo, báháchį’.
+
+SCORE: 25.240
+GOLD: ’Áko díí t’áá ’áłahjį’ télii bee na’niilkaad ’ałkéé’ dah siikéego
+PRED: T’áá ’ákwii dibé na’aniilkaad, łį́į́’ yázhí bikáa’ ’ałkéé’ na’azhjaa’go.
+
+SCORE: 15.501
+GOLD: ’Éí bikáá’dóó baa níjít’į́įgo ’éí ’áłtąą t’óó náhoníl’įįh łeh
+PRED: ’Áko booróó bikáa’ dah naasháago, tł’ízí ką’ baa nitsįįhgo t’áá éí yáyilá.
+
+SCORE: 15.901
+GOLD: ’Ákót’éego dó t’éiyá t’áá ’áháníjį’ bit’áahjį’ na’adá
+PRED: T’áá shoodí t’áá shį́į́’ bik’ijį’ dah si’ą́ą́’go, díí bik’ehgo doo t’áá íiyisí bá niteeł da.
+
+AVERAGE_CHRF++: 24.313

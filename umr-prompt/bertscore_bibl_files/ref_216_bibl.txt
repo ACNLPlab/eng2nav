@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt As she passed by she said, "It is said that those boys who are unloading wood over there have been promised for school - they will go to school too.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The people who had promised their children for school were named, and we were told many things about the school.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt "Say, let's go to school," I said to my companion.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Two of the boys who were going to go to school were locked in.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

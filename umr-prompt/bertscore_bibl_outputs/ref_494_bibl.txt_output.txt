@@ -1,0 +1,89 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We would sit on them, and when their heads came crashing together we would really die laughing.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:09.928455
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / we)
+             :ARG2 (z3 / they))
+    :op2 (z4 / die-01
+             :ARG1 z2
+             :ARG1-of (z5 / real-04)
+             :temporal (z6 / crash-01
+                           :ARG1 z3
+                           :manner (z7 / together))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Some times we would fall off, and we would really laugh then too.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:09.928471
+(z0 / and
+    :op1 (z1 / fall-off-04
+             :ARG1 (z2 / we)
+             :temporal (z3 / sometimes))
+    :op2 (z4 / laugh-01
+             :ARG0 z2
+             :temporal (z5 / then)
+             :degree (z6 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Sometimes the rams would get far apart and my cousin would step in between them and then jump aside as their heads came together.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:09.928475
+(z0 / and
+    :op1 (z1 / get-03
+             :ARG1 (z2 / ram)
+             :ARG2 (z3 / apart
+                       :extent (z4 / far))
+             :temporal (z5 / sometimes))
+    :op2 (z6 / and
+             :op1 (z7 / step-01
+                      :ARG0 (z8 / person
+                                :ARG1-of (z9 / have-rel-role-92
+                                             :ARG2 (z10 / i)
+                                             :ARG3 (z11 / cousin)))
+                      :ARG1 z2
+                      :ARG2 (z12 / between
+                                 :op1 z2))
+             :op2 (z13 / jump-03
+                       :ARG0 z8
+                       :ARG1 (z14 / aside)
+                       :temporal (z15 / together-01
+                                      :ARG1 (z16 / head
+                                                 :part-of z2))
+                       :temporal (z17 / then))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:09.928479
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and we would herd them in a real wilderness area.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:09.928484
+(z0 / herd-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :place (z3 / area
+               :mod (z4 / wilderness)
+               :ARG1-of (z5 / real-04)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:09.928488
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))

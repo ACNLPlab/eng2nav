@@ -1,0 +1,89 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We trailed them for quite a while when suddenly, from within a nearby oak clump, there came the sound of dogs barking loudly.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:10.220064
+(z0 / lag-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :duration (z3 / while
+                  :degree (z4 / quite))
+    :temporal (z5 / sudden)
+    :temporal (z6 / sound-02
+                  :ARG0 (z7 / dog)
+                  :ARG1 (z8 / bark-01
+                            :ARG0 z7
+                            :manner (z9 / loud))
+                  :source (z10 / clump
+                               :mod (z11 / nearby))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I got over to where the dog was barking, and there I saw a bear standing.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:10.220081
+(z0 / and
+    :op1 (z1 / get-01
+             :ARG0 (z2 / i)
+             :ARG4 (z3 / over
+                       :op1 (z4 / barking-01
+                                :ARG0 (z5 / dog))))
+    :op2 (z6 / see-01
+             :ARG0 z2
+             :ARG1 (z7 / stand-01
+                       :ARG1 (z8 / bear))
+             :place z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The dogs ran around him barking fiercely.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:10.220085
+(z0 / run-02
+    :ARG1 (z1 / dog)
+    :ARG4 (z2 / around
+              :op1 (z3 / he))
+    :manner (z4 / bark-01
+                :ARG0 z1
+                :manner (z5 / fierce)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:10.220090
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I wondered what the dogs were barking at so I ran over there.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:10.220094
+(z0 / cause-01
+    :ARG0 (z1 / wonder-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / bark-01
+                                     :ARG0 (z5 / dog))))
+    :ARG1 (z6 / run-04
+              :ARG0 z2
+              :ARG4 (z7 / there)
+              :direction (z8 / over)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:10.220098
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))

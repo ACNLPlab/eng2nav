@@ -1,0 +1,47 @@
+========================================================
+NSL-MT DUAL K-FOLD: sw_NSL_418M
+Started: Wed Apr  1 11:00:16 PM EDT 2026
+========================================================
+CONFIGURATION:
+  Experiment:  sw_NSL_418M
+  Model:       M2M100 418M
+  Target lang: sw
+  NSL alpha:   0.7
+  Gloss file:  xml_data.txt
+  Fold:        all
+========================================================
+Gloss file verified: xml_data.txt
+Pool A files verified.
+Violation generators verified.
+========================================================
+NVIDIA A100-SXM4-80GB, 81920 MiB
+Starting training: Wed Apr  1 11:00:17 PM EDT 2026
+
+======================================================================
+NSL-MT  |  English → Navajo  |  Single-pool 5-fold CV
+======================================================================
+  Model  : M2M100-418M
+  α      : 0.7  (paper: 0.7)
+  k      : Uniform(3,5)
+  Loss   : L = L_pos + α·L_neg  (paper Eq 2, stable addition)
+  Output : sw_NSL_418M
+======================================================================
+
+[1] Loading parallel data...
+  Bible: 30,020 pairs
+  User: 506 pairs
+
+[2] Parsing gloss file...
+  Gloss sentences: 1,429
+
+[3] Building unified pool...
+  Bible: 30,020  User: 506  Gloss: 1,429  Total: 31,955
+
+[4] 5-fold split (seed=42)...
+  Fold sizes: [6391, 6391, 6391, 6391, 6391]
+
+######################################################################
+# FOLD 0  |  NSL-MT  |  α=0.7  k~U(3,5)
+  train=25,564  dev=3,195  test=3,196  viol_records=25,564
+######################################################################
+  Epoch-0 violations: 51,910  (2.03:1 ratio)

@@ -1,0 +1,96 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and went back over Greasewood and Sunrise Springs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:36.231911
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / you)
+             :ARG4 (z3 / space
+                       :ARG1-of (z4 / over-04
+                                    :ARG2 (z5 / and
+                                              :op1 (z6 / facility
+                                                       :name (z7 / name
+                                                                 :op1 "Greasewood")
+                                                       :wiki -)
+                                              :op2 (z8 / facility
+                                                       :name (z9 / name
+                                                                 :op1 "Sunrise"
+                                                                 :op2 "Springs")
+                                                       :wiki "Sunrise_Springs,_Florida"))
+                                    :ARG3 (z10 / cartesian-framework-91
+                                               :ARG1 (z11 / build-space))))
+             :direction (z12 / trajectory
+                             :ARG4-of (z13 / back-12
+                                           :ARG2 z5
+                                           :ARG3 z10))
+             :mode imperative))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:36.231927
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:36.231931
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we followed the ridge up over Black Mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:36.231936
+(z0 / follow-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / ridge)
+    :ARG2 (z3 / up)
+    :ARG4 (z4 / mountain
+              :name (z5 / name
+                        :op1 "Black"
+                        :op2 "Mountain")
+              :wiki "Black_Mountain")
+    :temporal (z6 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And then on over Shonto and over the ridge.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:36.231940
+(z0 / and
+    :op2 (z1 / be-destined-for-91
+             :ARG2 (z2 / space
+                       :ARG1-of (z3 / over-04
+                                    :ARG5 (z4 / cartesian-framework-91
+                                              :ARG1 (z5 / build-space)))
+                       :ARG1-of (z6 / over-04
+                                    :ARG5 z4)
+                       :ARG1-of (z7 / over-04
+                                    :ARG5 z4))
+             :temporal (z8 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:36.231944
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))

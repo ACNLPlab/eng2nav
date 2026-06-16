@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then on the day following the night of my birth we again started to move.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt On the morrow we would start off with them. So for that purpose, in the morning we again started off from the hogan afoot.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I saw another one on the following day, but at a distance, and walking on the mountainside.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

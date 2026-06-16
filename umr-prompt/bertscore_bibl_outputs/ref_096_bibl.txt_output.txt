@@ -1,0 +1,65 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There was an epidemic in progress, and we now refer to it as "the time when the throat killed many."
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:25.190187
+(z0 / and
+    :op1 (z1 / progress-01
+             :ARG1 (z2 / epidemic))
+    :op2 (z3 / refer-02
+             :ARG0 (z4 / we)
+             :ARG1 (z5 / time
+                       :temporal-of (z6 / kill-01
+                                        :ARG1 (z7 / throat)
+                                        :ARG2 (z8 / many)))
+             :temporal (z9 / now)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt This was my people's disaster.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:25.190199
+(z0 / disaster
+    :domain (z1 / this)
+    :possessor (z2 / person
+                   :possessor (z3 / i)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:25.190204
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:25.190208
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was a long drop.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:25.190212
+(z0 / drop-01
+    :ARG1-of (z1 / long-03))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It is remarkable how risky life was in those days.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:25.190217
+(z0 / remarkable-02
+    :ARG1 (z1 / risk-01
+              :ARG1 (z2 / live-01))
+    :temporal (z3 / day
+                  :mod (z4 / that)))

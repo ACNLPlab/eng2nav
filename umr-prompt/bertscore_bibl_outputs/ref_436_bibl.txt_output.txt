@@ -1,0 +1,86 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt People do not say ‘bear’,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:22.936053
+(z0 / say-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / bear)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt But one does not mention their name "bear”. People who live over there toward the mountains never say “bear”.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:22.936067
+(z0 / contrast-91
+    :ARG2 (z1 / mention-01
+              :ARG0 (z2 / one)
+              :ARG1 (z3 / name
+                        :op1 "bear")
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I used to go around wondering why under the sun a person should not say the word ‘bear’,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:22.936071
+(z0 / go-02
+    :ARG0 (z1 / i)
+    :ARG4 (z2 / around)
+    :purpose (z3 / wonder-01
+                 :ARG0 z1
+                 :ARG1 (z4 / thing
+                           :ARG0-of (z5 / cause-01
+                                        :ARG1 (z6 / recommend-01
+                                                  :ARG1 (z7 / say-01
+                                                            :ARG0 (z8 / person)
+                                                            :ARG1 (z9 / word
+                                                                      :mod (z10 / bear))
+                                                            :polarity -)
+                                                  :temporal (z11 / under
+                                                                 :op1 (z12 / sun)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt so never say that word,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:22.936076
+(z0 / infer-91
+    :ARG1 (z1 / say-01
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / word
+                        :mod (z4 / that))
+              :temporal (z5 / ever)
+              :polarity -
+              :mode imperative))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:22.936080
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / thing
+                       :ARG1-of (z4 / tell-01
+                                    :ARG0 (z5 / he)
+                                    :ARG2 (z6 / mention-01
+                                              :ARG0 z5
+                                              :ARG1 (z7 / word)
+                                              :polarity -)))
+             :temporal (z8 / go-02
+                           :ARG0 z2
+                           :ARG4 (z9 / there)
+                           :direction (z10 / up))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He did not speak harshly.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:22.936084
+(z0 / speak-01
+    :ARG0 (z1 / he)
+    :manner (z2 / harshly)
+    :polarity -)

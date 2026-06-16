@@ -1,0 +1,69 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:26.261869
+(z0 / plane
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt While we were flying through there, there were other planes flying alongside us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:26.261902
+(z0 / fly-01
+    :ARG1 (z1 / plane
+              :ARG1-of (z2 / other-01))
+    :temporal (z3 / through
+                  :op1 (z4 / there))
+    :place (z5 / beside
+               :op1 (z6 / we)
+               :ARG3 (z7 / cartesian-framework-91
+                         :ARG1 z6
+                         :FR (z8 / relative-to-builder))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These big planes have four motors.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:26.261907
+(z0 / have-03
+    :ARG0 (z1 / plane
+              :mod (z2 / big)
+              :mod (z3 / this))
+    :ARG1 (z4 / motor
+              :quant 4))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:26.261911
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt There were also many of us who had joined in just as spectators.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:26.261915
+(z0 / join-04
+    :ARG0 (z1 / we
+              :quant (z2 / many))
+    :ARG1 (z3 / in)
+    :manner (z4 / spectator)
+    :mod (z5 / also))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt So there were three policemen.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:26.261919
+(z0 / cause-01
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / guard-01)
+              :quant 3))

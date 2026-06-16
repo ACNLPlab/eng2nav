@@ -1,0 +1,73 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:13.726902
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And we found that the children had arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:13.726914
+(z0 / and
+    :op2 (z1 / find-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / arrive-01
+                       :ARG1 (z4 / child))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we were told that the time had come.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:13.726918
+(z0 / tell-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / time))
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then the people noticed that the soldiers were moving along over there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:13.726923
+(z0 / notice-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / move-01
+              :ARG0 (z3 / person
+                        :ARG1-of (z4 / have-org-role-92
+                                     :ARG3 (z5 / soldier)))
+              :direction (z6 / along)
+              :place (z7 / there)
+              :temporal (z8 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We were told that now there would be work here
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:13.726927
+(z0 / tell-01
+    :ARG1 (z1 / work-01
+              :place (z2 / here)
+              :temporal (z3 / now))
+    :ARG2 (z4 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:13.726931
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))

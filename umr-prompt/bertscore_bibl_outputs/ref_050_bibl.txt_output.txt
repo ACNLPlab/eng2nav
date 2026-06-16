@@ -1,0 +1,68 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt All right now! All right!
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:37.652600
+(z0 / all-right
+    :temporal (z1 / now))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt All right now!
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:37.652616
+(z0 / all-right
+    :temporal (z1 / now))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt "All right," he said.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:37.652621
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / all-right))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Come on! Come on!
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:37.652625
+(z0 / come-01
+    :ARG1 (z1 / you)
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt "Come on, you boys. Remember what you said," said Black Horse.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:37.652629
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / come-01
+                       :ARG1 (z5 / you)
+                       :ARG2 (z6 / boy)
+                       :mode imperative)
+              :op2 (z7 / remember-01
+                       :ARG0 (z8 / you)
+                       :ARG1 (z9 / thing
+                                 :ARG1-of (z10 / say-01
+                                               :ARG0 z8))
+                       :mode imperative)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We’ll take them right over there in the flat.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:37.652633
+(z0 / take-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / there
+              :mod (z4 / right)
+              :place (z5 / flat)))

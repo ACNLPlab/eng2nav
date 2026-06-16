@@ -1,0 +1,76 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Chee jumped over the gate at the back of the room,
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:01.969093
+(z0 / jump-03
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Chee")
+              :wiki -)
+    :ARG4 (z3 / gate
+              :ARG1-of (z4 / back-12
+                           :ARG2 (z5 / room)
+                           :ARG3 (z6 / cartesian-framework-91
+                                     :FR (z7 / relative-to-builder)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Chee was his interpreter
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:01.969110
+(z0 / person
+    :name (z1 / name
+              :op1 "Chee")
+    :ARG0-of (z2 / interpret-01
+                 :ARG1 (z3 / he))
+    :wiki -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Further back in the room was a swinging gate.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:01.969114
+(z0 / gate
+    :ARG1-of (z1 / swing-01)
+    :place (z2 / room
+               :ARG1-of (z3 / have-degree-91
+                            :ARG2 (z4 / back-12
+                                      :ARG1 z2
+                                      :ARG3 (z5 / cartesian-framework-91
+                                                :ARG1 (z6 / builder)))
+                            :ARG3 (z7 / more))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:01.969118
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:01.969123
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The people went into the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:01.969127
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / post
+              :mod (z3 / trade)))

@@ -1,0 +1,195 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:07.756538
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt A man of the Salty Water Clan whose name was Slender Lava had his family there, and his wife cooked all night for the men who were making the trouble.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:07.756556
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / man
+                       :mod (z3 / clan
+                                :name (z4 / name
+                                          :op1 "Salty"
+                                          :op2 "Water"
+                                          :op3 "Clan")
+                                :wiki "Salty_Water")
+                       :ARG1-of (z5 / name
+                                    :op1 "Slender"
+                                    :op3 "Lava"))
+             :ARG1 (z6 / there))
+    :op2 (z7 / eat-01
+             :ARG0 (z8 / woman
+                       :ARG1-of (z9 / have-rel-role-92
+                                    :ARG2 z2
+                                    :ARG3 (z10 / wife)))
+             :ARG2 (z11 / man
+                        :ARG0-of (z12 / trouble-01))
+             :duration (z13 / date-entity
+                            :dayperiod (z14 / night))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then Black Horse spoke up and said, "This business of taking children away from people to put them in school - when is it going to affect the people from over beyond the mountain?"
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:07.756561
+(z0 / speak-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / affect-01
+              :ARG0 (z4 / business
+                        :purpose (z5 / take-away-05
+                                     :ARG0 z4
+                                     :ARG1 (z6 / child)
+                                     :ARG2 (z7 / person)
+                                     :purpose (z8 / put-01
+                                                  :ARG0 z4
+                                                  :ARG1 z6
+                                                  :ARG2 (z9 / school))))
+              :ARG1 (z10 / umr-unknown)
+              :ARG2 (z11 / person
+                         :source (z12 / over
+                                      :op1 (z13 / mountain)
+                                      :ARG5 (z14 / cartesian-framework-91
+                                                 :ARG1 (z15 / build-space))))
+              :temporal (z16 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Among those present were the men known as Black Horse, Limper, Tall Red House Clansman, Old Bead Chant Singer - who was of the Red House Clan - and his cousin, a Bitter Water Clansman called Bead Chant's Nephew, and another man with whom I was merely acquainted, and who was a relative of mine by marriage. His name was Yellow Fermentive Chewer. These are the only ones I can remember of those who came from there (on the other side of the mountain).
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:07.756565
+(z0 / include-91
+    :ARG1 (z1 / and
+              :op1 (z2 / man
+                       :ARG1-of (z3 / know-02
+                                    :ARG2 (z4 / and
+                                              :op1 (z5 / animal
+                                                       :name (z6 / name
+                                                                 :op1 "Black"
+                                                                 :op2 "Horse")
+                                                       :wiki "Black_Horse")
+                                              :op2 (z7 / person
+                                                       :name (z8 / name
+                                                                 :op1 "Limper")
+                                                       :wiki -)
+                                              :op3 (z9 / person
+                                                       :ARG1-of (z10 / have-org-role-92
+                                                                     :ARG2 (z11 / local-region
+                                                                                :name (z12 / name
+                                                                                           :op1 "Red"
+                                                                                           :op2 "House"
+                                                                                           :op3 "Clan")
+                                                                                :wiki "Red_House")
+                                                                     :ARG3 (z13 / member)))
+                                              :op4 (z14 / person
+                                                        :ARG1-of (z15 / have-rel-role-92
+                                                                      :ARG2 z11
+                                                                      :ARG3 (z16 / cousin)))
+                                              :op5 (z17 / person
+                                                        :ARG1-of (z18 / call-01
+                                                                      :ARG2 (z19 / person
+                                                                                 :name (z20 / name
+                                                                                            :op1 "Bade"
+                                                                                            :op2 "Chant"
+                                                                                            :op3 "'s"
+                                                                                            :op4 "Nephew")
+                                                                                 :wiki -)
+                                                                      :mod (z21 / another)
+                                                                      :ARG1-of (z22 / acquaint-01
+                                                                                    :degree (z23 / mere))
+                                                                      :ARG1-of (z24 / have-rel-role-92
+                                                                                    :ARG2 (z25 / i)
+                                                                                    :ARG3 (z26 / relative))))))
+                       :ARG2 (z27 / person
+                                  :name (z28 / name
+                                             :op1 "Yellow"
+                                             :op2 "Fermentive"
+                                             :op3 "Chewer")
+                                  :wiki -))
+              :ARG2 (z29 / present))
+    :op2 (z30 / one
+              :mod (z31 / only)
+              :ARG1-of (z32 / possible-01)
+              :ARG1-of (z33 / include-91
+                            :ARG2 (z34 / include-91
+                                       :ARG2 (z35 / person
+                                                  :ARG1-of (z36 / come-01
+                                                                :source (z37 / mountain)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My forbears, the old men and women folk, were of the Mexican People Clan. With great hardship they came back from the place called Fort Sumner, packing their goods on their backs, and afterward lived here at Lukachukai.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:07.756570
+(z0 / and
+    :op1 (z1 / have-org-role-92
+             :ARG1 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / forbear)))
+             :ARG2 (z6 / folk
+                       :ARG1-of (z7 / old-01))
+             :ARG3 (z8 / folk
+                       :ARG1-of (z9 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z10 / woman))))
+    :ARG2 (z11 / ethnic-group
+               :name (z12 / name
+                          :op1 "Mexican"
+                          :op2 "People"
+                          :op3 "Clan")
+               :wiki "Mexican_People"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:07.756574
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))

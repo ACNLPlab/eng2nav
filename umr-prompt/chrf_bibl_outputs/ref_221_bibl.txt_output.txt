@@ -1,0 +1,72 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We considered school as good news.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:51.175994
+(z0 / consider-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / news
+              :ARG1-of (z3 / good-02)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt But that was right. We had volunteered for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:51.176006
+(z0 / contrast-91
+    :ARG2 (z1 / right-06
+              :ARG2 (z2 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt One of these women had promised her son for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:51.176011
+(z0 / promise-01
+    :ARG0 (z1 / woman
+              :mod (z2 / this))
+    :ARG1 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 z1
+                           :ARG3 (z5 / son)))
+    :ARG2 (z6 / school))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We two who were going to school stayed together.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:51.176015
+(z0 / stay-01
+    :ARG1 (z1 / and
+              :op1 (z2 / we)
+              :op2 (z3 / person
+                       :ARG0-of (z4 / go-01
+                                    :ARG1 (z5 / school))))
+    :ARG2 (z6 / together))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was for that reason that I volunteered myself for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:51.176019
+(z0 / volunteer-01
+    :ARG0 (z1 / i
+              :ARG1-of z0)
+    :ARG2 (z2 / school)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We told them how we had both said, "Let's go to school."
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:51.176023
+(z0 / tell-01
+    :ARG0 (z1 / we
+              :mod (z2 / both))
+    :ARG1 (z3 / say-01
+              :ARG0 z1
+              :ARG1 (z4 / go-05
+                        :ARG0 z1
+                        :ARG1 (z5 / school))
+              :ARG2 (z6 / they)))

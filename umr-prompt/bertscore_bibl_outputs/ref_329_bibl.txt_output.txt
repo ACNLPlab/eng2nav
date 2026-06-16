@@ -1,0 +1,70 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They radioed ahead that these men were aboard such and such a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:16.558111
+(z0 / radio-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / aboard-01
+                       :ARG1 (z4 / man
+                                 :mod (z5 / this))
+                       :ARG2 (z6 / plane
+                                 :mod (z7 / such)
+                                 :mod (z8 / such)))
+              :op2 (z9 / ahead)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:16.558128
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:16.558132
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:16.558137
+(z0 / plane
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I pointed out to them the various things the people were suffering from.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:16.558141
+(z0 / point-out-02
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / suffer-01
+                           :ARG0 (z4 / person))
+              :mod (z5 / various))
+    :ARG2 (z6 / they))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:16.558145
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)

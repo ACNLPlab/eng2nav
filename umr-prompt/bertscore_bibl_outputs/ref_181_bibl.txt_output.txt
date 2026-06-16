@@ -1,0 +1,58 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:57.884999
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt This is how we arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:57.885011
+(z0 / arrive-01
+    :ARG1 (z1 / we)
+    :manner (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:57.885015
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:57.885020
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is how he got his start in life.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:57.885024
+(z0 / start-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / live-01
+              :ARG0 z1)
+    :domain (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That’s what I think.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:57.885028
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))

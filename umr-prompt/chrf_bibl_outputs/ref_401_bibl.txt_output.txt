@@ -1,0 +1,104 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And they went on the basis of how many minutes it would take.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:57.482896
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / they)
+             :manner (z3 / basis
+                         :op1 (z4 / temporal-quantity
+                                  :unit (z5 / minute)
+                                  :quant-of (z6 / take-10
+                                                :ARG1 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt They work on a basis of single minutes. They would say it's so far between certain points.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:57.482913
+(z0 / and
+    :op1 (z1 / work-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / temporal-quantity
+                       :unit (z4 / minute)
+                       :quant 1))
+    :op2 (z5 / say-01
+             :ARG0 z2
+             :ARG1 (z6 / between-01
+                       :ARG1 (z7 / it)
+                       :ARG2 (z8 / point
+                                 :mod (z9 / certain))
+                       :ARG3 (z10 / so))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:57.482917
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt And they told us there'd be another flight on the next morning.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:57.482921
+(z0 / and
+    :op2 (z1 / tell-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / there
+                       :ARG1 (z4 / fly-01
+                                 :mod (z5 / another))
+                       :ARG2 (z6 / we)
+                       :temporal (z7 / date-entity
+                                     :dayperiod (z8 / morning)
+                                     :mod (z9 / next)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:57.482925
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt As we came to find out, they were saying that (the school) would not get a one of their children.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:57.482929
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / get-01
+              :ARG0 (z3 / school)
+              :ARG1 (z4 / one
+                        :ARG1-of (z5 / have-rel-role-92
+                                     :ARG2 z1
+                                     :ARG3 (z6 / child)))
+              :polarity -)
+    :temporal (z7 / come-01
+                  :ARG1 (z8 / we)
+                  :ARG2 (z9 / thing
+                            :ARG1-of (z10 / find-01
+                                          :ARG0 z8))))

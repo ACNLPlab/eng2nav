@@ -1,0 +1,87 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt As for us, we spent another night at my uncle's hogan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:16.047061
+(z0 / spend-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / night
+              :mod (z3 / another))
+    :ARG2 (z4 / hogan
+              :possessor (z5 / person
+                             :ARG1-of (z6 / have-rel-role-92
+                                          :ARG2 (z7 / i)
+                                          :ARG3 (z8 / uncle)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt As for us, we flew back and got off at Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:16.047076
+(z0 / and
+    :op1 (z1 / fly-01
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / back))
+    :op2 (z4 / get-05
+             :ARG0 z2
+             :ARG1 (z5 / off)
+             :ARG2 (z6 / city
+                       :name (z7 / name
+                                 :op1 "Phoenix")
+                       :wiki "Phoenix,_Arizona")))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When we got back to the hogan we found that my uncle was there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:16.047081
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / have-place-91
+              :ARG1 (z3 / person
+                        :ARG1-of (z4 / have-rel-role-92
+                                     :ARG2 z1
+                                     :ARG3 (z5 / uncle)))
+              :ARG2 (z6 / there))
+    :temporal (z7 / return-01
+                  :ARG1 z1
+                  :ARG4 (z8 / hogan)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:16.047085
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We spent the night there and then returned on foot.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:16.047090
+(z0 / and
+    :op1 (z1 / spend-02
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / there)
+             :ARG2 (z4 / night))
+    :op2 (z5 / return-01
+             :ARG1 z2
+             :manner (z6 / foot)
+             :temporal (z7 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:16.047094
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))

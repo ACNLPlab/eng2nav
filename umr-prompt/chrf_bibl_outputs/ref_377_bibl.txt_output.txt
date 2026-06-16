@@ -1,0 +1,107 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt If there are four flights there are four pilots (one taking each flight).
+# ::annotator bart-amr
+# ::date 2025-10-22 00:21:03.195846
+(z0 / person
+    :ARG0-of (z1 / pilot-01)
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There are stories which tell of the events which took place long ago on this earth of ours.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:21:03.195864
+(z0 / tell-01
+    :ARG0 (z1 / story)
+    :ARG1 (z2 / event
+              :place (z3 / earth
+                         :mod (z4 / this)
+                         :possessor (z5 / we))
+              :temporal (z6 / before
+                            :op1 (z7 / now)
+                            :quant (z8 / long))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And they told us there'd be another flight on the next morning.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:21:03.195868
+(z0 / and
+    :op2 (z1 / tell-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / there
+                       :ARG1 (z4 / fly-01
+                                 :mod (z5 / another))
+                       :ARG2 (z6 / we)
+                       :temporal (z7 / date-entity
+                                     :dayperiod (z8 / morning)
+                                     :mod (z9 / next)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt While we were flying through there, there were other planes flying alongside us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:21:03.195873
+(z0 / fly-01
+    :ARG1 (z1 / plane
+              :ARG1-of (z2 / other-01))
+    :temporal (z3 / through
+                  :op1 (z4 / there))
+    :place (z5 / beside
+               :op1 (z6 / we)
+               :ARG3 (z7 / cartesian-framework-91
+                         :ARG1 z6
+                         :FR (z8 / relative-to-builder))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:21:03.195877
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / and
+                       :op1 (z3 / one
+                                :ARG1-of (z4 / refer-03
+                                             :ARG0 (z5 / i)
+                                             :ARG2 (z6 / person
+                                                       :ARG1-of (z7 / have-rel-role-92
+                                                                    :ARG2 z5
+                                                                    :ARG3 (z8 / grandfather))))
+                                :op2 (z9 / person
+                                         :ARG1-of (z10 / have-rel-role-92
+                                                       :ARG2 z5
+                                                       :ARG3 (z11 / uncle)))
+                                :op3 (z12 / person
+                                          :name (z13 / name
+                                                     :op1 "Little"
+                                                     :op2 "Boy")
+                                          :mod (z14 / another)
+                                          :wiki -))
+                       :ARG4 (z15 / there)
+                       :temporal (z16 / date-entity
+                                      :dayperiod (z17 / night))
+                       :ARG1-of (z18 / appear-02))
+             :op2 (z19 / hear-01
+                       :ARG0 z5
+                       :ARG1 (z20 / tell-01
+                                  :ARG0 z2
+                                  :ARG1 (z21 / it)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt ‘There are certain things here in the mountains. There is something called ‘bear,” but one never refers to it by that name.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:21:03.195881
+(z0 / contrast-91
+    :ARG1 (z1 / thing
+              :mod (z2 / certain)
+              :place (z3 / here
+                         :place (z4 / mountain)))
+    :ARG2 (z5 / refer-number
+              :ARG1 (z6 / something
+                        :ARG1-of (z7 / call-01
+                                     :ARG2 (z8 / bear)))
+              :temporal (z9 / ever)
+              :polarity -))

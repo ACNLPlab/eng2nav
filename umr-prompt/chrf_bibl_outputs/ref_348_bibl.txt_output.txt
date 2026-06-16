@@ -1,0 +1,73 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That day we made four flights,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:55.770407
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / day)
+                  :mod (z4 / that))
+    :frequency 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt If there are four flights there are four pilots (one taking each flight).
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:55.770423
+(z0 / person
+    :ARG0-of (z1 / pilot-01)
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That day the fog was really thick.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:55.770428
+(z0 / thick-03
+    :ARG1 (z1 / fog)
+    :degree (z2 / really)
+    :temporal (z3 / day
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They knew this by means of a map and flight time.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:55.770432
+(z0 / know-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / this)
+    :manner (z3 / and
+                :op1 (z4 / map)
+                :op2 (z5 / time
+                         :purpose (z6 / fly-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Nevertheless, we hauled two loads that day.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:55.770436
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :temporal (z4 / day
+                            :mod (z5 / that))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And they told us there'd be another flight on the next morning.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:55.770441
+(z0 / and
+    :op2 (z1 / tell-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / there
+                       :ARG1 (z4 / fly-01
+                                 :mod (z5 / another))
+                       :ARG2 (z6 / we)
+                       :temporal (z7 / date-entity
+                                     :dayperiod (z8 / morning)
+                                     :mod (z9 / next)))))

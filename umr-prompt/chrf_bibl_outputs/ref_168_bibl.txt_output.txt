@@ -1,0 +1,202 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Long ago, people of old had a story of some kind of chat called "Talk One Into the Grave." Who of you knows it?" said Black Horse, asking that it be perfomed.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:44.732163
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / know-01
+              :ARG0 (z4 / umr-unknown)
+              :ARG1 (z5 / it)
+              :quote z0)
+    :ARG2 (z6 / perfom-01
+              :ARG1 z5)
+    :temporal (z7 / before
+                  :op1 (z8 / now)
+                  :quant (z9 / long))
+    :temporal (z10 / have-03
+                   :ARG0 (z11 / person
+                              :mod (z12 / old))
+                   :ARG1 (z13 / story
+                              :topic (z14 / chat
+                                          :mod (z15 / some)
+                                          :ARG1-of (z16 / call-01
+                                                        :ARG2 (z17 / talk-01
+                                                                   :ARG0 z11
+                                                                   :place (z18 / grave)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then Black Horse spoke up and said, "This business of taking children away from people to put them in school - when is it going to affect the people from over beyond the mountain?"
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:44.732182
+(z0 / speak-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / affect-01
+              :ARG0 (z4 / business
+                        :purpose (z5 / take-away-05
+                                     :ARG0 z4
+                                     :ARG1 (z6 / child)
+                                     :ARG2 (z7 / person)
+                                     :purpose (z8 / put-01
+                                                  :ARG0 z4
+                                                  :ARG1 z6
+                                                  :ARG2 (z9 / school))))
+              :ARG1 (z10 / umr-unknown)
+              :ARG2 (z11 / person
+                         :source (z12 / over
+                                      :op1 (z13 / mountain)
+                                      :ARG5 (z14 / cartesian-framework-91
+                                                 :ARG1 (z15 / build-space))))
+              :temporal (z16 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When this happened Black Horse’s henchmen spoke without effect because there were others who were trying to keep order and who said "No" to the proposal to attack the soldiers.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:44.732186
+(z0 / speak-01
+    :ARG0 (z1 / henchman
+              :possessor (z2 / person
+                             :name (z3 / name
+                                       :op1 "Black"
+                                       :op2 "Horse")
+                             :wiki -))
+    :ARG1-of (z4 / cause-01
+                 :ARG0 (z5 / and
+                           :op1 (z6 / other
+                                    :ARG0-of (z7 / try-01
+                                                 :ARG1 (z8 / keep-02
+                                                           :ARG1 (z9 / order-01))))
+                           :op2 (z10 / say-01
+                                     :ARG0 z10
+                                     :ARG1 (z11 / no)
+                                     :ARG2 (z12 / proposal
+                                                :purpose (z13 / attack-01
+                                                              :ARG0 z10
+                                                              :ARG1 (z14 / soldier)))))
+                 :polarity -)
+    :temporal (z15 / event
+                   :mod (z16 / this))
+    :manner (z17 / effect
+                 :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt My forbears, the old men and women folk, were of the Mexican People Clan. With great hardship they came back from the place called Fort Sumner, packing their goods on their backs, and afterward lived here at Lukachukai.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:44.732190
+(z0 / and
+    :op1 (z1 / have-org-role-92
+             :ARG1 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / forbear)))
+             :ARG2 (z6 / folk
+                       :ARG1-of (z7 / old-01))
+             :ARG3 (z8 / folk
+                       :ARG1-of (z9 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z10 / woman))))
+    :ARG2 (z11 / ethnic-group
+               :name (z12 / name
+                          :op1 "Mexican"
+                          :op2 "People"
+                          :op3 "Clan")
+               :wiki "Mexican_People"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Among those present were the men known as Black Horse, Limper, Tall Red House Clansman, Old Bead Chant Singer - who was of the Red House Clan - and his cousin, a Bitter Water Clansman called Bead Chant's Nephew, and another man with whom I was merely acquainted, and who was a relative of mine by marriage. His name was Yellow Fermentive Chewer. These are the only ones I can remember of those who came from there (on the other side of the mountain).
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:44.732194
+(z0 / include-91
+    :ARG1 (z1 / and
+              :op1 (z2 / man
+                       :ARG1-of (z3 / know-02
+                                    :ARG2 (z4 / and
+                                              :op1 (z5 / animal
+                                                       :name (z6 / name
+                                                                 :op1 "Black"
+                                                                 :op2 "Horse")
+                                                       :wiki "Black_Horse")
+                                              :op2 (z7 / person
+                                                       :name (z8 / name
+                                                                 :op1 "Limper")
+                                                       :wiki -)
+                                              :op3 (z9 / person
+                                                       :ARG1-of (z10 / have-org-role-92
+                                                                     :ARG2 (z11 / local-region
+                                                                                :name (z12 / name
+                                                                                           :op1 "Red"
+                                                                                           :op2 "House"
+                                                                                           :op3 "Clan")
+                                                                                :wiki "Red_House")
+                                                                     :ARG3 (z13 / member)))
+                                              :op4 (z14 / person
+                                                        :ARG1-of (z15 / have-rel-role-92
+                                                                      :ARG2 z11
+                                                                      :ARG3 (z16 / cousin)))
+                                              :op5 (z17 / person
+                                                        :ARG1-of (z18 / call-01
+                                                                      :ARG2 (z19 / person
+                                                                                 :name (z20 / name
+                                                                                            :op1 "Bade"
+                                                                                            :op2 "Chant"
+                                                                                            :op3 "'s"
+                                                                                            :op4 "Nephew")
+                                                                                 :wiki -)
+                                                                      :mod (z21 / another)
+                                                                      :ARG1-of (z22 / acquaint-01
+                                                                                    :degree (z23 / mere))
+                                                                      :ARG1-of (z24 / have-rel-role-92
+                                                                                    :ARG2 (z25 / i)
+                                                                                    :ARG3 (z26 / relative))))))
+                       :ARG2 (z27 / person
+                                  :name (z28 / name
+                                             :op1 "Yellow"
+                                             :op2 "Fermentive"
+                                             :op3 "Chewer")
+                                  :wiki -))
+              :ARG2 (z29 / present))
+    :op2 (z30 / one
+              :mod (z31 / only)
+              :ARG1-of (z32 / possible-01)
+              :ARG1-of (z33 / include-91
+                            :ARG2 (z34 / include-91
+                                       :ARG2 (z35 / person
+                                                  :ARG1-of (z36 / come-01
+                                                                :source (z37 / mountain)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:44.732199
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))

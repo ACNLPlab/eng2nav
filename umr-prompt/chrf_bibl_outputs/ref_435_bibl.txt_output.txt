@@ -1,0 +1,137 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt ‘There are certain things here in the mountains. There is something called ‘bear,” but one never refers to it by that name.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:44:26.424114
+(z0 / contrast-91
+    :ARG1 (z1 / thing
+              :mod (z2 / certain)
+              :place (z3 / here
+                         :place (z4 / mountain)))
+    :ARG2 (z5 / refer-number
+              :ARG1 (z6 / something
+                        :ARG1-of (z7 / call-01
+                                     :ARG2 (z8 / bear)))
+              :temporal (z9 / ever)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt At that time up there on the mountain there were those that live in mountains, bears as they are called.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:44:26.424131
+(z0 / exist-91
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / live-01
+                           :place (z3 / mountain))
+              :ARG0-of (z4 / call-01
+                           :ARG1 (z5 / bear)))
+    :ARG2 (z6 / person
+              :ARG0-of (z7 / live-01
+                           :place (z8 / mountain)))
+    :temporal (z9 / time
+                  :mod (z10 / that))
+    :place (z11 / there
+                :ARG1-of (z12 / have-place-91
+                              :ARG2 (z13 / there)
+                              :ARG3 (z14 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt But one does not mention their name "bear”. People who live over there toward the mountains never say “bear”.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:44:26.424135
+(z0 / contrast-91
+    :ARG2 (z1 / mention-01
+              :ARG0 (z2 / one)
+              :ARG1 (z3 / name
+                        :op1 "bear")
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then Black Horse spoke up and said, "This business of taking children away from people to put them in school - when is it going to affect the people from over beyond the mountain?"
+# ::annotator bart-amr
+# ::date 2025-10-22 00:44:26.424139
+(z0 / speak-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / affect-01
+              :ARG0 (z4 / business
+                        :purpose (z5 / take-away-05
+                                     :ARG0 z4
+                                     :ARG1 (z6 / child)
+                                     :ARG2 (z7 / person)
+                                     :purpose (z8 / put-01
+                                                  :ARG0 z4
+                                                  :ARG1 z6
+                                                  :ARG2 (z9 / school))))
+              :ARG1 (z10 / umr-unknown)
+              :ARG2 (z11 / person
+                         :source (z12 / over
+                                      :op1 (z13 / mountain)
+                                      :ARG5 (z14 / cartesian-framework-91
+                                                 :ARG1 (z15 / build-space))))
+              :temporal (z16 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:44:26.424143
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / and
+                       :op1 (z3 / one
+                                :ARG1-of (z4 / refer-03
+                                             :ARG0 (z5 / i)
+                                             :ARG2 (z6 / person
+                                                       :ARG1-of (z7 / have-rel-role-92
+                                                                    :ARG2 z5
+                                                                    :ARG3 (z8 / grandfather))))
+                                :op2 (z9 / person
+                                         :ARG1-of (z10 / have-rel-role-92
+                                                       :ARG2 z5
+                                                       :ARG3 (z11 / uncle)))
+                                :op3 (z12 / person
+                                          :name (z13 / name
+                                                     :op1 "Little"
+                                                     :op2 "Boy")
+                                          :mod (z14 / another)
+                                          :wiki -))
+                       :ARG4 (z15 / there)
+                       :temporal (z16 / date-entity
+                                      :dayperiod (z17 / night))
+                       :ARG1-of (z18 / appear-02))
+             :op2 (z19 / hear-01
+                       :ARG0 z5
+                       :ARG1 (z20 / tell-01
+                                  :ARG0 z2
+                                  :ARG1 (z21 / it)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They no doubt told what they thought - what their opinions were regarding this school business that had started in connection with us. They told these things to the people from here who had gathered.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:44:26.424147
+(z0 / tell-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / thing
+                       :ARG1-of (z4 / think-01
+                                    :ARG0 z1))
+              :op2 (z5 / thing
+                       :ARG1-of (z6 / opine-01
+                                    :ARG0 z1)
+                       :topic (z7 / business
+                                  :mod (z8 / school)
+                                  :ARG1-of (z9 / start-01
+                                               :prep-in (z10 / we))
+                                  :mod (z11 / this))))
+    :ARG2 (z12 / person
+               :source (z13 / here)
+               :ARG0-of (z14 / gather-03))
+    :ARG1-of (z15 / doubt-01))

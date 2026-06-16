@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Some of us did not know what had been done the night before.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And since it had snowed the night before they had to go through the snow.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I do not remember in detail much of what happened before I was about ten years old.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He had been asking that hay be dropped at his own house for three days, but he couldn't find it himself.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt [But at the time when we were small and used to herd our sheep up there we did not know things like this.] Only my cousin had a smattering of such information,
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

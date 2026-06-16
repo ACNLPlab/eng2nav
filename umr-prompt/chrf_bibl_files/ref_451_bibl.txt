@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt When the sheep would be on the side of the mountain, I'd skirt them from above.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Someone by the name of Black Horse had brought a party from the other side of the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These people from the other side of the mountain were saying this.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt In the fall of that same year we moved from the mountain back down into the valley to herd down there.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

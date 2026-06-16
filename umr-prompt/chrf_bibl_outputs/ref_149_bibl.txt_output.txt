@@ -1,0 +1,100 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt So they began to think of the matter with bitterness.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:50.327348
+(z0 / cause-01
+    :ARG1 (z1 / begin-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / think-01
+                        :ARG0 z2
+                        :ARG1 (z4 / matter)
+                        :manner (z5 / bitterness))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt So people began to think along the lines of their planning.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:50.327365
+(z0 / cause-01
+    :ARG1 (z1 / begin-01
+              :ARG0 (z2 / person)
+              :ARG1 (z3 / think-01
+                        :ARG0 z2
+                        :manner (z4 / along-lines
+                                    :op1 (z5 / plan-01
+                                             :ARG0 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:50.327369
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt And we'd just as soon fight over the matter as not.", said Black Horse balking stubbornly.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:50.327373
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op2 (z4 / fight-01
+                       :ARG0 (z5 / we)
+                       :ARG1 (z6 / matter)
+                       :temporal (z7 / soon
+                                     :mod (z8 / just))
+                       :ARG1-of (z9 / have-substitute-91
+                                    :ARG2 (z10 / fight-01
+                                               :ARG0 z5
+                                               :ARG1 z6
+                                               :polarity -))))
+    :op2 (z11 / bend-01
+              :ARG0 z1
+              :ARG1-of (z12 / stubborn-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt As the people carried the Agent along they beat him with their fists.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:50.327377
+(z0 / beat-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / have-org-role-92
+                           :ARG3 (z3 / agent
+                                     :ARG1-of z0)))
+    :instrument (z4 / fist)
+    :temporal (z5 / carry-01
+                  :ARG0 (z6 / person)
+                  :ARG1 z3
+                  :direction (z7 / along)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt These people from the other side of the mountain were saying this.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:50.327381
+(z0 / say-01
+    :ARG0 (z1 / person
+              :mod (z2 / this)
+              :source (z3 / side
+                          :ARG1-of (z4 / other-01)
+                          :part-of (z5 / mountain)))
+    :ARG1 (z6 / this))

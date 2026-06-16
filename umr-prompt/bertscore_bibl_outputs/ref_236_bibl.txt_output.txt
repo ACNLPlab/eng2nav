@@ -1,0 +1,74 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt With this in mind I wanted an education badly then.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:58.481234
+(z0 / want-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / education)
+    :ARG1-of (z3 / bad-05)
+    :temporal (z4 / then)
+    :ARG1-of (z5 / keep-in-mind-09))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That is what I had an ambition to do at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:58.481247
+(z0 / ambition-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / that))
+    :temporal (z4 / time
+                  :mod (z5 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was for that reason that I volunteered myself for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:58.481251
+(z0 / volunteer-01
+    :ARG0 (z1 / i
+              :ARG1-of z0)
+    :ARG2 (z2 / school)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt So that is the way I spent my days from that time on.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:58.481255
+(z0 / cause-01
+    :ARG1 (z1 / spend-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / day
+                        :possessor z2)
+              :ARG2 (z4 / that)
+              :temporal (z5 / from
+                            :op1 (z6 / time
+                                     :mod (z7 / that)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt At that time he was a policeman.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:58.481259
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:58.481264
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)

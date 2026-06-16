@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:49.730347
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:49.730359
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We herded them back down to the open country.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:49.730364
+(z0 / herded-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / country
+              :ARG1-of (z4 / open-09))
+    :direction (z5 / back))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We headed them off toward the flat.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:49.730368
+(z0 / head-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :direction (z3 / trajectory
+                   :ARG4-of (z4 / toward-01
+                                :ARG2 (z5 / flat-06))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They were beating him up.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:49.730372
+(z0 / beat-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:49.730377
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)

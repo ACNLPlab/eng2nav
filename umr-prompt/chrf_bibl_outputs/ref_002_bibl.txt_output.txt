@@ -1,0 +1,101 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They say that this story took place at Gobernador Knob.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:35.902464
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / event
+              :mod (z3 / this)
+              :place (z4 / local-region
+                         :name (z5 / name
+                                   :op1 "Gobernador"
+                                   :op2 "Knob")
+                         :wiki "Gobernador_National_Wildlife_Refuge")))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When he went back inside he said, "I wonder why it is that there is a little cloud hanging over there on the summit of Gobernador Knob?”
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:35.902484
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / wonder-01
+              :ARG0 z1
+              :ARG1 (z3 / umr-unknown
+                        :ARG0-of (z4 / cause-01
+                                     :ARG1 (z5 / overhang-01
+                                               :ARG1 (z6 / cloud
+                                                         :quant (z7 / little))
+                                               :ARG2 (z8 / summit
+                                                         :part-of (z9 / mountain
+                                                                      :name (z10 / name
+                                                                                 :op1 "Gobernador"
+                                                                                 :op2 "Knob")
+                                                                      :wiki "Gobernador_National_Park")))))
+              :temporal (z11 / go-02
+                             :ARG0 z1
+                             :ARG4 (z12 / inside)
+                             :direction (z13 / back))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Just as dawn was breaking First Man went out doors to urinate; he glanced over at the peak of Gobernador Knob, and saw a little cloud hanging there, it is said.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:35.902488
+(z0 / say-01
+    :ARG1 (z1 / and
+              :op1 (z2 / go-02
+                       :ARG0 (z3 / person
+                                 :name (z4 / name
+                                           :op1 "First"
+                                           :op2 "Man")
+                                 :wiki -)
+                       :ARG4 (z5 / door)
+                       :purpose (z6 / urinate-01
+                                    :ARG0 z3)
+                       :temporal (z7 / just-as
+                                     :op1 (z8 / break-01
+                                              :ARG1 (z9 / dawn))))
+              :op2 (z10 / see-01
+                        :ARG0 z3
+                        :ARG1 (z11 / cloud
+                                   :ARG1-of (z12 / hang-01
+                                                 :place (z13 / there))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There are stories which tell of the events which took place long ago on this earth of ours.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:35.902493
+(z0 / tell-01
+    :ARG0 (z1 / story)
+    :ARG1 (z2 / event
+              :place (z3 / earth
+                         :mod (z4 / this)
+                         :possessor (z5 / we))
+              :temporal (z6 / before
+                            :op1 (z7 / now)
+                            :quant (z8 / long))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That took place down on the plain too,
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:35.902497
+(z0 / event
+    :mod (z1 / that)
+    :place (z2 / plain)
+    :mod (z3 / too)
+    :place (z4 / down))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:35.902501
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))

@@ -1,0 +1,91 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then we were told that the time had come.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:09:00.669672
+(z0 / tell-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / time))
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When we got back we were told that we could have the next day off.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:09:00.669688
+(z0 / tell-01
+    :ARG1 (z1 / possible-01
+              :ARG1 (z2 / have-03
+                        :ARG0 (z3 / we)
+                        :ARG1 (z4 / day
+                                  :mod (z5 / next))
+                        :ARG2 (z6 / off-06
+                                  :ARG1 z3))
+              :ARG2 z3
+              :temporal (z7 / return-01
+                            :ARG1 z3)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We were told that now there would be work here
+# ::annotator bart-amr
+# ::date 2025-10-21 23:09:00.669693
+(z0 / tell-01
+    :ARG1 (z1 / work-01
+              :place (z2 / here)
+              :temporal (z3 / now))
+    :ARG2 (z4 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:09:00.669697
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt [But at the time when we were small and used to herd our sheep up there we did not know things like this.] Only my cousin had a smattering of such information,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:09:00.669701
+(z0 / contrast-91
+    :ARG2 (z1 / know-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / resemble-91
+                                     :ARG2 (z5 / this)))
+              :temporal (z6 / and
+                            :op1 (z7 / small
+                                     :domain z2)
+                            :op2 (z8 / use-01
+                                     :ARG1 z2
+                                     :ARG2 (z9 / herd-01
+                                               :ARG0 z2
+                                               :ARG1 (z10 / sheep
+                                                          :possessor z2)
+                                               :place (z11 / there)))
+                            :polarity -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They radioed ahead that these men were aboard such and such a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:09:00.669706
+(z0 / radio-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / aboard-01
+                       :ARG1 (z4 / man
+                                 :mod (z5 / this))
+                       :ARG2 (z6 / plane
+                                 :mod (z7 / such)
+                                 :mod (z8 / such)))
+              :op2 (z9 / ahead)))

@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And they told us there'd be another flight on the next morning.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We had the rams in the herd, and they used to really fight with one another.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt On the next day we went to the trading post, and my grandfather put his thumbprint on a paper for us.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They probably planned to go in to see the Agent on the next day.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They built the trading post and four years later perhaps, I do not recall exactly when, the one I called my uncle told us to haul wood there.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

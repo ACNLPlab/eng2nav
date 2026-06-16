@@ -1,0 +1,69 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:12.028749
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:12.028761
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We went to the Navy Field.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:12.028766
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / field
+              :mod (z3 / navy)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:12.028770
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:12.028774
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:12.028779
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))

@@ -1,0 +1,73 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt they asked me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:05.667297
+(z0 / ask-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt These men with whom we flew asked me many questions.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:05.667310
+(z0 / ask-01
+    :ARG0 (z1 / man
+              :mod (z2 / this)
+              :ARG0-of (z3 / fly-01
+                           :ARG0 (z4 / we)))
+    :ARG1 (z5 / question-01
+              :ARG0 z1
+              :ARG1 (z6 / i)
+              :quant (z7 / many)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then they all rushed in.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:05.667315
+(z0 / rush-01
+    :ARG1 (z1 / they
+              :mod (z2 / all))
+    :temporal (z3 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I told you that they have a different name,” he said as he scolded me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:05.667319
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / tell-01
+              :ARG0 z1
+              :ARG1 (z3 / have-03
+                        :ARG0 (z4 / they)
+                        :ARG1 (z5 / name
+                                  :ARG1-of (z6 / differ-02))
+                        :ARG2 (z7 / you))
+              :temporal (z8 / scold-01
+                            :ARG0 z1
+                            :ARG1 z7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:05.667323
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He was keeping them together.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:05.667328
+(z0 / keep-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / together-01
+              :ARG1 (z3 / they)))

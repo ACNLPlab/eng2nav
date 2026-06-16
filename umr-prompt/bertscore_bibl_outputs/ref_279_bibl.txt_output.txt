@@ -1,0 +1,60 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt for the Navajo country.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:59.998387
+(z0 / concern-02
+    :ARG1 (z1 / country
+              :name (z2 / name
+                        :op1 "Navajo")
+              :wiki "Navajo_country"))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:59.998398
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt not in the mountains.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:59.998403
+(z0 / have-place-91
+    :ARG2 (z1 / mountain)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and chaos followed.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:59.998408
+(z0 / and
+    :op2 (z1 / follow-01
+             :ARG1 (z2 / chaos)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:59.998412
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:59.998416
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))

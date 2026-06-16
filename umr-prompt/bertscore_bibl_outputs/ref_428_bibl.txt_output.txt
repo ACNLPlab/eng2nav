@@ -1,0 +1,78 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt My cousin was just a little bit older than I was --
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:42.986848
+(z0 / have-age-91
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG2 (z5 / old)
+    :ARG3 (z6 / more)
+    :ARG4 (z7 / little))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:42.986863
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I was just a little bit scared.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:42.986868
+(z0 / fear-01
+    :ARG0 (z1 / i)
+    :degree (z2 / little))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He was older than I was so he had learned some things.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:42.986872
+(z0 / cause-01
+    :ARG0 (z1 / learn-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / thing
+                        :quant (z4 / some)))
+    :ARG1 (z5 / have-age-91
+              :ARG1 z2
+              :ARG2 (z6 / old)
+              :ARG3 (z7 / more)
+              :ARG4 (z8 / i)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My uncle was standing beside me,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:42.986876
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / uncle)))
+    :ARG2 z3
+    :place (z5 / beside
+               :op1 z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We had one billy goat in the herd that was just a little bit mean.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:42.986880
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / goat
+              :mod (z3 / billy)
+              :place (z4 / herd)
+              :ARG0-of (z5 / mean-01
+                           :degree (z6 / little))
+              :quant 1))

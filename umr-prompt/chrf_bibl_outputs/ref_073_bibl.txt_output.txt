@@ -1,0 +1,143 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt When morning would come and I would be sleeping nicely, my grandfather would throw me out of bed.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:10.980704
+(z0 / throw-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / grandfather)))
+    :ARG1 z3
+    :ARG2 (z5 / bed)
+    :temporal (z6 / come-33
+                  :ARG1 (z7 / date-entity
+                            :dayperiod (z8 / morning))
+                  :ARG2 (z9 / sleep-01
+                            :ARG1 z3
+                            :manner (z10 / nice-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt with the one who would thumbprint the papers for us and who would vouch for us. It was my grandfather, Big Mexican Clansman.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:10.980721
+(z0 / and
+    :op1 (z1 / one
+             :ARG0-of (z2 / thumbprint-01
+                          :ARG1 (z3 / paper)
+                          :ARG2 (z4 / we))
+             :ARG0-of (z5 / vouch-01
+                          :ARG1 z4
+                          :ARG2 z4)
+             :domain (z6 / person
+                         :ARG1-of (z7 / have-org-role-92
+                                      :ARG2 (z8 / country
+                                                :name (z9 / name
+                                                          :op1 "Big"
+                                                          :op2 "Mexican"
+                                                          :op3 "Clansman")
+                                                :wiki "Big_Mexican_Clansman")
+                                      :ARG3 (z10 / grandfather)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:10.980726
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:10.980730
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / and
+                       :op1 (z3 / one
+                                :ARG1-of (z4 / refer-03
+                                             :ARG0 (z5 / i)
+                                             :ARG2 (z6 / person
+                                                       :ARG1-of (z7 / have-rel-role-92
+                                                                    :ARG2 z5
+                                                                    :ARG3 (z8 / grandfather))))
+                                :op2 (z9 / person
+                                         :ARG1-of (z10 / have-rel-role-92
+                                                       :ARG2 z5
+                                                       :ARG3 (z11 / uncle)))
+                                :op3 (z12 / person
+                                          :name (z13 / name
+                                                     :op1 "Little"
+                                                     :op2 "Boy")
+                                          :mod (z14 / another)
+                                          :wiki -))
+                       :ARG4 (z15 / there)
+                       :temporal (z16 / date-entity
+                                      :dayperiod (z17 / night))
+                       :ARG1-of (z18 / appear-02))
+             :op2 (z19 / hear-01
+                       :ARG0 z5
+                       :ARG1 (z20 / tell-01
+                                  :ARG0 z2
+                                  :ARG1 (z21 / it)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The sheep would be grazing nearby, and we would spend the whole day playing with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:10.980734
+(z0 / and
+    :op1 (z1 / grazing-01
+             :ARG1 (z2 / sheep)
+             :place (z3 / nearby))
+    :op2 (z4 / spend-02
+             :ARG0 (z5 / we)
+             :ARG1 (z6 / play-01
+                       :ARG0 z5
+                       :ARG1 (z7 / ram)
+                       :extent (z8 / whole))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt If you are strong you will lie hudled in death only after the dirt is torn and furrowed around you (i.e. you will give up only after a struggle)," my grandfather used to tell me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:10.980738
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / grandfather)))
+    :ARG1 (z5 / lie-08
+              :ARG1 z3
+              :manner (z6 / huddle-01
+                          :ARG0 z3
+                          :ARG1 (z7 / die-01))
+              :temporal (z8 / after
+                            :op1 (z9 / and
+                                     :op1 (z10 / tear-01
+                                               :ARG1 (z11 / dirt))
+                                     :op2 (z12 / furrow-01
+                                               :ARG1 z11
+                                               :place (z13 / around
+                                                           :op1 z3))))
+              :condition (z14 / give-01
+                              :ARG0 z3
+                              :temporal (z15 / after
+                                             :op1 (z16 / struggle-01
+                                                       :ARG0 z3)
+                                             :mod (z17 / only))
+                              :condition (z18 / strong-02
+                                              :ARG1 z3)
+                              :quote z0)
+              :ARG2 z3))

@@ -1,0 +1,121 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then on the day following the night of my birth we again started to move.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:17.095028
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / move-01
+              :ARG0 z1)
+    :temporal (z3 / then)
+    :mod (z4 / again)
+    :temporal (z5 / day
+                  :ARG1-of (z6 / follow-01
+                               :ARG2 (z7 / date-entity
+                                         :dayperiod (z8 / night)
+                                         :temporal-of (z9 / bear-02
+                                                          :ARG1 (z10 / i))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:17.095044
+(z0 / go-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / mother)))
+    :ARG4 (z5 / foot)
+    :extent (z6 / far
+                :extent-of (z7 / move-01
+                               :ARG0 (z8 / person)
+                               :temporal (z9 / date-entity
+                                             :dayperiod (z10 / day)
+                                             :mod (z11 / that)))
+                :temporal (z12 / following
+                               :op1 (z13 / date-entity
+                                         :dayperiod (z14 / night
+                                                         :temporal-of (z15 / bear-02
+                                                                           :ARG0 z1
+                                                                           :ARG1 z3))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt On the morrow we would start off with them. So for that purpose, in the morning we again started off from the hogan afoot.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:17.095048
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG2 (z2 / they)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / morrow))
+    :purpose (z5 / start-01
+                 :ARG0 z1
+                 :ARG1 z2
+                 :place (z6 / hogan
+                            :ARG1-of (z7 / afoot-01))
+                 :temporal (z8 / date-entity
+                               :dayperiod (z9 / morning))
+                 :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:17.095052
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I saw another one on the following day, but at a distance, and walking on the mountainside.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:17.095057
+(z0 / see-01
+    :ARG0 (z1 / person
+              :refer-person 1st)
+    :ARG1 (z2 / one
+              :mod (z3 / another))
+    :temporal (z4 / date-entity
+                  :dayperiod (z5 / day)
+                  :mod (z6 / following))
+    :manner (z7 / and
+                :op1 (z8 / distance-quantity
+                         :quant-of z2)
+                :op2 (z9 / walk-01
+                         :ARG0 z1
+                         :place (z10 / mountainside))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:17.095061
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))

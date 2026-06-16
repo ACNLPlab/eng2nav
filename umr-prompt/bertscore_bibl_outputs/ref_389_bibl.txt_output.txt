@@ -1,0 +1,103 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The plane almost turned over with me (looking for it),” he said with concern.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:54.567825
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / turn-01
+              :ARG1 (z3 / plane)
+              :companion z1
+              :temporal (z4 / look-01
+                            :ARG0 z1
+                            :ARG1 (z5 / it))
+              :degree (z6 / almost)
+              :quote z0)
+    :manner (z7 / concern-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I told you that they have a different name,” he said as he scolded me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:54.567838
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / tell-01
+              :ARG0 z1
+              :ARG1 (z3 / have-03
+                        :ARG0 (z4 / they)
+                        :ARG1 (z5 / name
+                                  :ARG1-of (z6 / differ-02))
+                        :ARG2 (z7 / you))
+              :temporal (z8 / scold-01
+                            :ARG0 z1
+                            :ARG1 z7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:54.567843
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt When he said the plane nearly turned over with him it was because (this plane was flying low and to gain altitude) the plane had to fly at a steep climb - (it seemed that it would fall over backward).
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:54.567847
+(z0 / cause-01
+    :ARG0 (z1 / obligate-01
+              :ARG1 (z2 / plane
+                        :mod (z3 / this))
+              :ARG2 (z4 / fly-01
+                        :ARG0 z2
+                        :purpose (z5 / gain-02
+                                     :ARG0 z2
+                                     :ARG1 (z6 / altitude))
+                        :manner (z7 / climb-01
+                                    :ARG1 z2
+                                    :manner (z8 / steep)))
+              :ARG1 (z9 / seem-01
+                        :ARG1 (z10 / fall-over-04
+                                   :ARG1 z2
+                                   :direction (z11 / trajectory
+                                                   :ARG4-of (z12 / backward-02
+                                                                 :ARG3 (z13 / cartesian-framework-91
+                                                                            :ARG1 (z14 / builder)))))
+                        :temporal (z15 / say-01
+                                       :ARG0 (z16 / he)
+                                       :ARG1 (z17 / turn-over-03
+                                                  :ARG1 z2
+                                                  :companion z16
+                                                  :degree (z18 / near))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That's what the pilot (of this plane) told me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:54.567851
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / pilot-01
+                           :ARG1 (z3 / plane
+                                     :mod (z4 / this))))
+    :ARG1 (z5 / that)
+    :ARG2 (z6 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt “It's burning!” said the pilot.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:54.567855
+(z0 / say-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / fly-01))
+    :ARG1 (z3 / burn-01
+              :ARG1 (z4 / it)
+              :quote z0))

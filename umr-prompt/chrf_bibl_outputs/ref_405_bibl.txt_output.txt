@@ -1,0 +1,90 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt In some places cattle and horses were just standing about, probably on account of the crusted snow.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:15.482143
+(z0 / stand-01
+    :ARG1 (z1 / and
+              :op1 (z2 / cattle)
+              :op2 (z3 / horse))
+    :mod (z4 / just)
+    :place (z5 / place
+               :quant (z6 / some))
+    :ARG1-of (z7 / cause-01
+                 :ARG0 (z8 / snow-01
+                           :ARG1-of (z9 / crusted-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Many horses were standing about.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:15.482159
+(z0 / stand-01
+    :ARG1 (z1 / horse
+              :quant (z2 / many))
+    :ARG2 (z3 / about))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt In some places the clouds looked like mountain ranges; some looked like sand dunes, and some exactly like mesas.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:15.482164
+(z0 / and
+    :op1 (z1 / look-02
+             :ARG0 (z2 / cloud
+                       :place (z3 / place
+                                  :quant (z4 / some)))
+             :ARG1 (z5 / range
+                       :mod (z6 / mountain)))
+    :op2 (z7 / look-02
+             :ARG0 (z8 / and
+                       :op1 (z9 / some)
+                       :op2 (z10 / sand)
+                       :op3 (z11 / resemble-91
+                                 :ARG1 (z12 / some)
+                                 :ARG2 (z13 / mesa)
+                                 :degree (z14 / exact)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:15.482168
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In some places the sheep were kept in the corrals all day long.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:15.482173
+(z0 / keep-01
+    :ARG1 (z1 / sheep)
+    :ARG2 (z2 / corral)
+    :place (z3 / place
+               :quant (z4 / some))
+    :duration (z5 / all-the-way)
+    :temporal (z6 / date-entity
+                  :dayperiod (z7 / day)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He was picking up things that were scattered on the ground about him, such as sticks and stones,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:15.482177
+(z0 / pick-up-04
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / scatter-01
+                           :ARG2 (z4 / ground)
+                           :place (z5 / about
+                                      :op1 z1))
+              :example (z6 / and
+                           :op1 (z7 / stick)
+                           :op2 (z8 / stone))))

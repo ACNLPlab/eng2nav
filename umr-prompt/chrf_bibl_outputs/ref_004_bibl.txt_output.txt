@@ -1,0 +1,168 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Just as dawn was breaking First Man went out doors to urinate; he glanced over at the peak of Gobernador Knob, and saw a little cloud hanging there, it is said.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:39.534438
+(z0 / say-01
+    :ARG1 (z1 / and
+              :op1 (z2 / go-02
+                       :ARG0 (z3 / person
+                                 :name (z4 / name
+                                           :op1 "First"
+                                           :op2 "Man")
+                                 :wiki -)
+                       :ARG4 (z5 / door)
+                       :purpose (z6 / urinate-01
+                                    :ARG0 z3)
+                       :temporal (z7 / just-as
+                                     :op1 (z8 / break-01
+                                              :ARG1 (z9 / dawn))))
+              :op2 (z10 / see-01
+                        :ARG0 z3
+                        :ARG1 (z11 / cloud
+                                   :ARG1-of (z12 / hang-01
+                                                 :place (z13 / there))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When he went back inside he said, "I wonder why it is that there is a little cloud hanging over there on the summit of Gobernador Knob?”
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:39.534455
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / wonder-01
+              :ARG0 z1
+              :ARG1 (z3 / umr-unknown
+                        :ARG0-of (z4 / cause-01
+                                     :ARG1 (z5 / overhang-01
+                                               :ARG1 (z6 / cloud
+                                                         :quant (z7 / little))
+                                               :ARG2 (z8 / summit
+                                                         :part-of (z9 / mountain
+                                                                      :name (z10 / name
+                                                                                 :op1 "Gobernador"
+                                                                                 :op2 "Knob")
+                                                                      :wiki "Gobernador_National_Park")))))
+              :temporal (z11 / go-02
+                             :ARG0 z1
+                             :ARG4 (z12 / inside)
+                             :direction (z13 / back))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:39.534459
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt When he said the plane nearly turned over with him it was because (this plane was flying low and to gain altitude) the plane had to fly at a steep climb - (it seemed that it would fall over backward).
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:39.534464
+(z0 / cause-01
+    :ARG0 (z1 / obligate-01
+              :ARG1 (z2 / plane
+                        :mod (z3 / this))
+              :ARG2 (z4 / fly-01
+                        :ARG0 z2
+                        :purpose (z5 / gain-02
+                                     :ARG0 z2
+                                     :ARG1 (z6 / altitude))
+                        :manner (z7 / climb-01
+                                    :ARG1 z2
+                                    :manner (z8 / steep)))
+              :ARG1 (z9 / seem-01
+                        :ARG1 (z10 / fall-over-04
+                                   :ARG1 z2
+                                   :direction (z11 / trajectory
+                                                   :ARG4-of (z12 / backward-02
+                                                                 :ARG3 (z13 / cartesian-framework-91
+                                                                            :ARG1 (z14 / builder)))))
+                        :temporal (z15 / say-01
+                                       :ARG0 (z16 / he)
+                                       :ARG1 (z17 / turn-over-03
+                                                  :ARG1 z2
+                                                  :companion z16
+                                                  :degree (z18 / near))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then Black Horse spoke up and said, "This business of taking children away from people to put them in school - when is it going to affect the people from over beyond the mountain?"
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:39.534468
+(z0 / speak-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / affect-01
+              :ARG0 (z4 / business
+                        :purpose (z5 / take-away-05
+                                     :ARG0 z4
+                                     :ARG1 (z6 / child)
+                                     :ARG2 (z7 / person)
+                                     :purpose (z8 / put-01
+                                                  :ARG0 z4
+                                                  :ARG1 z6
+                                                  :ARG2 (z9 / school))))
+              :ARG1 (z10 / umr-unknown)
+              :ARG2 (z11 / person
+                         :source (z12 / over
+                                      :op1 (z13 / mountain)
+                                      :ARG5 (z14 / cartesian-framework-91
+                                                 :ARG1 (z15 / build-space))))
+              :temporal (z16 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Those called First Man and First Woman, and White Shell Woman and Changing Woman had come together and they were sitting.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:39.534472
+(z0 / and
+    :op1 (z1 / come-01
+             :ARG1 (z2 / and
+                       :op1 (z3 / person
+                                :name (z4 / name
+                                          :op1 "First"
+                                          :op2 "Man")
+                                :wiki -)
+                       :op2 (z5 / woman
+                                :name (z6 / name
+                                          :op1 "First"
+                                          :op2 "Woman")
+                                :wiki -)
+                       :op3 (z7 / woman
+                                :name (z8 / name
+                                          :op1 "White"
+                                          :op2 "Shell"
+                                          :op3 "Woman")
+                                :wiki -)
+                       :op4 (z9 / woman
+                                :name (z10 / name
+                                           :op1 "Changing"
+                                           :op2 "Woman")
+                                :wiki -)))
+    :op2 (z11 / sit-01
+              :ARG1 z2))

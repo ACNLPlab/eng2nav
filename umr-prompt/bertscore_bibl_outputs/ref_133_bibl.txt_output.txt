@@ -1,0 +1,77 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And we found that the children had arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:13:49.937625
+(z0 / and
+    :op2 (z1 / find-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / arrive-01
+                       :ARG1 (z4 / child))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When we got to the store we found that many people had assembled.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:13:49.937641
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / assemble-02
+              :ARG0 (z3 / person
+                        :quant (z4 / many)))
+    :temporal (z5 / get-01
+                  :ARG0 z1
+                  :ARG4 (z6 / store)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we were told that the time had come.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:13:49.937645
+(z0 / tell-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / time))
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt where we arrived at noon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:13:49.937650
+(z0 / have-place-91
+    :ARG2 (z1 / arrive-01
+              :ARG1 (z2 / we)
+              :temporal (z3 / date-entity
+                            :time "12:00")))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When we got back to the hogan we found that my uncle was there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:13:49.937654
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / have-place-91
+              :ARG1 (z3 / person
+                        :ARG1-of (z4 / have-rel-role-92
+                                     :ARG2 z1
+                                     :ARG3 (z5 / uncle)))
+              :ARG2 (z6 / there))
+    :temporal (z7 / return-01
+                  :ARG1 z1
+                  :ARG4 (z8 / hogan)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:13:49.937658
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))

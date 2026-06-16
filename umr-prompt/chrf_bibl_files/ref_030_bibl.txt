@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt As the people carried the Agent along they beat him with their fists.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and they no doubt came with evil thoughts. The people who, lived hereabout had heard nothing of their plans
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The one called Limper was the first to hop in there, and he grabbed the Agent by the collar.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then the people noticed that the soldiers were moving along over there.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

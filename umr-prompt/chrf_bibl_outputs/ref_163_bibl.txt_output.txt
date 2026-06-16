@@ -1,0 +1,89 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I do not remember who the rest were.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:25.062833
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / rest)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and I don't remember who else was standing there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:25.062866
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / person
+                       :ARG1-of (z4 / stand-01
+                                    :ARG2 (z5 / there))
+                       :mod (z6 / else))
+             :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt As time went on I somehow grew up. I do not remember much about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:25.062871
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / much)
+    :ARG2 (z3 / it)
+    :temporal (z4 / grow-up-04
+                  :ARG1 z1
+                  :manner (z5 / somehow))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I do not remember in detail much of what happened before I was about ten years old.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:25.062875
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / event
+              :quant (z3 / much))
+    :manner (z4 / detail)
+    :temporal (z5 / before
+                  :op1 (z6 / age-01
+                           :ARG1 z1
+                           :ARG2 (z7 / temporal-quantity
+                                     :unit (z8 / year)
+                                     :quant 10)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:25.062879
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / thing
+                       :ARG1-of (z4 / tell-01
+                                    :ARG0 (z5 / he)
+                                    :ARG2 (z6 / mention-01
+                                              :ARG0 z5
+                                              :ARG1 (z7 / word)
+                                              :polarity -)))
+             :temporal (z8 / go-02
+                           :ARG0 z2
+                           :ARG4 (z9 / there)
+                           :direction (z10 / up))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:48:25.062883
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)

@@ -1,0 +1,68 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt so when something like this happens the fire is easily put out.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:37.650586
+(z0 / have-purpose-91
+    :ARG2 (z1 / put-out-09
+              :ARG1 (z2 / fire)
+              :ARG1-of (z3 / easy-05)
+              :temporal (z4 / event
+                            :ARG1-of (z5 / resemble-91
+                                         :ARG2 (z6 / this)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There's nothing you can do when such things happen.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:37.650597
+(z0 / possible-01
+    :ARG1 (z1 / do-02
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / nothing)
+              :temporal (z4 / event
+                            :mod (z5 / such)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Even if you jump out you'll lose your life.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:37.650601
+(z0 / lose-02
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / life)
+    :condition (z3 / jump-03
+                   :ARG0 z1
+                   :direction (z4 / out)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt And it is true.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:37.650605
+(z0 / and
+    :op2 (z1 / true-01
+             :ARG1 (z2 / it)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Back at that time it was different.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:37.650609
+(z0 / differ-02
+    :ARG1 (z1 / it)
+    :temporal (z2 / time
+                  :mod (z3 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Planes of this type can carry a huge load.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:37.650613
+(z0 / possible-01
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / plane
+                        :mod (z3 / this))
+              :ARG1 (z4 / load
+                        :mod (z5 / huge))))

@@ -1,0 +1,68 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The Bat was a man who could understand Navajo very well.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:37.274980
+(z0 / man
+    :domain (z1 / person
+                :name (z2 / name
+                          :op1 "Bat")
+                :wiki "The_Bat")
+    :ARG0-of (z3 / understand-01
+                 :ARG1 (z4 / language
+                           :name (z5 / name
+                                     :op1 "Navajo")
+                           :wiki "Navajo_language"))
+    :domain z1)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was a very strong, husky man.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:37.274996
+(z0 / man
+    :domain (z1 / he)
+    :ARG1-of (z2 / strong-02
+                 :degree (z3 / very))
+    :ARG1-of (z4 / husky-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:37.275001
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He knew a little English,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:37.275005
+(z0 / know-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / language
+              :name (z3 / name
+                        :op1 "English")
+              :wiki "English_language"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:37.275009
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:37.275013
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))

@@ -1,0 +1,91 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt These two men got aboard and we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:46.339714
+(z0 / and
+    :op1 (z1 / get-30
+             :ARG1 (z2 / man
+                       :mod (z3 / this)
+                       :quant 2)
+             :ARG2 (z4 / aboard))
+    :op2 (z5 / take-off-07
+             :ARG0 (z6 / we)
+             :mod (z7 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt On the next day, February 4, we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:46.339745
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :mod (z2 / again)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / day)
+                  :mod (z5 / next)
+                  :ARG4-of (z6 / have-temporal-91
+                               :ARG1 z1
+                               :ARG3 (z7 / date-entity
+                                         :month 4))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt There the two men got off
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:46.339749
+(z0 / get-05
+    :ARG1 (z1 / man
+              :quant 2)
+    :direction (z2 / off)
+    :place (z3 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We each got aboard a different one.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:46.339753
+(z0 / get-30
+    :ARG1 (z1 / we
+              :mod (z2 / each))
+    :ARG2 (z3 / one
+              :ARG1-of (z4 / differ-02)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:46.339758
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt At dusk we took off in a plane.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:46.339762
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :ARG3 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / dusk)))

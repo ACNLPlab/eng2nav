@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and they no doubt came with evil thoughts. The people who, lived hereabout had heard nothing of their plans
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We had not heard of this and knew nothing about it.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They no doubt told what they thought - what their opinions were regarding this school business that had started in connection with us. They told these things to the people from here who had gathered.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt So they began to think of the matter with bitterness.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt But the people who live over beyond yonder mountain in the area of Cove and Red Rock were thinking ugly thoughts about the plan in connection with education.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

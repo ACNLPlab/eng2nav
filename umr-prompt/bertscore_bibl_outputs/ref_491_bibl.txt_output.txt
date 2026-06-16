@@ -1,0 +1,88 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt In the fall of that same year we moved from the mountain back down into the valley to herd down there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:01.962107
+(z0 / move-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / mountain)
+    :direction (z3 / back)
+    :ARG4 (z4 / valley)
+    :purpose (z5 / herd-01
+                 :ARG0 z1
+                 :place (z6 / down))
+    :temporal (z7 / fall
+                  :temporal (z8 / year
+                                :mod (z9 / that)
+                                :ARG1-of (z10 / same-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We herded them back down to the open country.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:01.962124
+(z0 / herded-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / country
+              :ARG1-of (z4 / open-09))
+    :direction (z5 / back))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt In the late evening we all returned to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:01.962129
+(z0 / return-01
+    :ARG1 (z1 / we
+              :mod (z2 / all))
+    :ARG4 (z3 / city
+              :name (z4 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona")
+    :temporal (z5 / late-01
+                  :ARG2 (z6 / date-entity
+                            :dayperiod (z7 / evening))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:01.962133
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We stayed down there and herded the sheep until noon.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:01.962137
+(z0 / stay-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / there
+              :ARG1-of (z3 / down-03
+                           :ARG5 (z4 / cartesian-framework-91
+                                     :ARG1 (z5 / build-space))))
+    :op3 (z6 / herded-01
+             :ARG0 z1
+             :ARG1 (z7 / sheep)
+             :temporal (z8 / until
+                           :op1 (z9 / date-entity
+                                    :dayperiod (z10 / noon)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we hauled two loads that day.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:01.962142
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :temporal (z4 / day
+                            :mod (z5 / that))))

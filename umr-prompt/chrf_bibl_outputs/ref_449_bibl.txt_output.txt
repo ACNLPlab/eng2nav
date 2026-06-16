@@ -1,0 +1,111 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt When they spread out into the brush we would just let them go and follow them.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:58.443558
+(z0 / and
+    :op1 (z1 / let-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / go-02
+                       :ARG0 (z4 / they))
+             :op2 (z5 / follow-02
+                      :ARG0 z2
+                      :ARG1 z4)
+             :temporal (z6 / spread-01
+                           :ARG0 z4
+                           :direction (z7 / brush))
+             :mod (z8 / just)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When the rams would attack and butt each other we would each get astride a ram and then urge them to attack.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:58.443574
+(z0 / and
+    :op1 (z1 / get-04
+             :ARG0 (z2 / we
+                       :mod (z3 / each))
+             :ARG1 (z4 / stride-01
+                       :ARG0 z2
+                       :ARG1 (z5 / ram))
+             :op2 (z6 / urge-01
+                      :ARG0 z2
+                      :ARG1 (z7 / attack-01
+                                :ARG0 z5
+                                :ARG1 z5)
+                      :temporal (z8 / then))
+             :temporal (z9 / and
+                           :op1 (z10 / attack-01
+                                     :ARG0 z5
+                                     :ARG1 z5)
+                           :op2 (z11 / butt-03
+                                     :ARG0 z5
+                                     :ARG1 z5))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We would sit on them, and when their heads came crashing together we would really die laughing.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:58.443578
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / we)
+             :ARG2 (z3 / they))
+    :op2 (z4 / die-01
+             :ARG1 z2
+             :ARG1-of (z5 / real-04)
+             :temporal (z6 / crash-01
+                           :ARG1 z3
+                           :manner (z7 / together))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt When the sheep would be on the side of the mountain, I'd skirt them from above.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:58.443583
+(z0 / skirt-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :source (z3 / above-01
+                :ARG3 (z4 / cartesian-framework-91
+                          :ARG1 (z5 / build-space)))
+    :temporal (z6 / have-place-91
+                  :ARG1 z2
+                  :ARG2 (z7 / side
+                            :part-of (z8 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:58.443587
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:58.443591
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))

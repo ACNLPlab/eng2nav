@@ -1,0 +1,126 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt If a person would bother him, like pinching him or walking behind him, he would get mad.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:11:53.690660
+(z0 / get-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / mad)
+    :condition (z3 / or
+                   :op1 (z4 / annoy-01
+                            :ARG0 (z5 / person)
+                            :ARG1 z1)
+                   :op2 (z6 / or
+                            :op1 (z7 / pinch-01
+                                     :ARG0 z5
+                                     :ARG1 z1)
+                            :op2 (z8 / walk-01
+                                     :ARG0 z5
+                                     :direction (z9 / behind
+                                                    :op1 z1)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:11:53.690696
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Sometimes the rams would get far apart and my cousin would step in between them and then jump aside as their heads came together.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:11:53.690701
+(z0 / and
+    :op1 (z1 / get-03
+             :ARG1 (z2 / ram)
+             :ARG2 (z3 / apart
+                       :extent (z4 / far))
+             :temporal (z5 / sometimes))
+    :op2 (z6 / and
+             :op1 (z7 / step-01
+                      :ARG0 (z8 / person
+                                :ARG1-of (z9 / have-rel-role-92
+                                             :ARG2 (z10 / i)
+                                             :ARG3 (z11 / cousin)))
+                      :ARG1 z2
+                      :ARG2 (z12 / between
+                                 :op1 z2))
+             :op2 (z13 / jump-03
+                       :ARG0 z8
+                       :ARG1 (z14 / aside)
+                       :temporal (z15 / together-01
+                                      :ARG1 (z16 / head
+                                                 :part-of z2))
+                       :temporal (z17 / then))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We would sit on them, and when their heads came crashing together we would really die laughing.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:11:53.690706
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / we)
+             :ARG2 (z3 / they))
+    :op2 (z4 / die-01
+             :ARG1 z2
+             :ARG1-of (z5 / real-04)
+             :temporal (z6 / crash-01
+                           :ARG1 z3
+                           :manner (z7 / together))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When morning would come and I would be sleeping nicely, my grandfather would throw me out of bed.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:11:53.690711
+(z0 / throw-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / grandfather)))
+    :ARG1 z3
+    :ARG2 (z5 / bed)
+    :temporal (z6 / come-33
+                  :ARG1 (z7 / date-entity
+                            :dayperiod (z8 / morning))
+                  :ARG2 (z9 / sleep-01
+                            :ARG1 z3
+                            :manner (z10 / nice-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:11:53.690715
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :temporal (z3 / since
+                  :op1 (z4 / report-01
+                           :ARG1 (z5 / before
+                                     :op1 (z6 / arrive-01
+                                              :ARG1 (z7 / load
+                                                        :possessor (z8 / child)))
+                                     :mod (z9 / another)))))

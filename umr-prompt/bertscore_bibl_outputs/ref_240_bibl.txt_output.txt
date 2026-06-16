@@ -1,0 +1,83 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Over here on one side the counter ran.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:10.670866
+(z0 / run-04
+    :ARG1 (z1 / counter)
+    :place (z2 / here
+               :place (z3 / side
+                          :quant 1)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Over to one side of Black Horse the people were merely milling around.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:10.670883
+(z0 / mill-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / around)
+    :mod (z3 / mere)
+    :place (z4 / space
+               :ARG1-of (z5 / next-to-02
+                            :ARG2 (z6 / side
+                                      :part-of (z7 / horse
+                                                   :name (z8 / name
+                                                             :op1 "Black"
+                                                             :op2 "Horse")
+                                                   :wiki "Black_Horse")
+                                      :quant 1)
+                            :ARG3 (z9 / cartesian-framework-91
+                                      :ARG1 (z10 / builder)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Black Horse was standing against the counter over to one side.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:10.670887
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG2 (z3 / space
+              :ARG1-of (z4 / next-to-02
+                           :ARG2 (z5 / counter)
+                           :ARG3 (z6 / cartesian-framework-91
+                                     :ARG1 (z7 / builder))
+                           :ARG1-of (z8 / over-04
+                                        :ARG5 z6
+                                        :quant (z9 / distance-quantity
+                                                   :quant 1)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:10.670892
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Not far from there, there was a drop.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:10.670896
+(z0 / drop-01
+    :place (z1 / space
+               :ARG1-of (z2 / far-01
+                            :ARG2 (z3 / there))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt So there were three policemen.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:10.670900
+(z0 / cause-01
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / guard-01)
+              :quant 3))

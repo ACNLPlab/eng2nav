@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I pointed out to them the various things the people were suffering from.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:15.088817
+(z0 / point-out-02
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / suffer-01
+                           :ARG0 (z4 / person))
+              :mod (z5 / various))
+    :ARG2 (z6 / they))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:15.088830
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:15.088834
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:15.088839
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt as he began to make a speech to the people.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:15.088843
+(z0 / begin-01
+    :ARG1 (z1 / speak-01
+              :ARG0 (z2 / he)
+              :ARG2 (z3 / person)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:15.088847
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))

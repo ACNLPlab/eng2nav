@@ -1,0 +1,62 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That is how I saw my first bear.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:59.417333
+(z0 / see-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :ord (z3 / ordinal-entity
+                       :value 1))
+    :manner (z4 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That is how he got his start in life.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:59.417346
+(z0 / start-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / live-01
+              :ARG0 z1)
+    :domain (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This is how we arrived.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:59.417350
+(z0 / arrive-01
+    :ARG1 (z1 / we)
+    :manner (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:59.417355
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:59.417359
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That is how we used to have fun with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:59.417363
+(z0 / fun-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / ram)
+    :temporal (z3 / use-03)
+    :mod (z4 / that))

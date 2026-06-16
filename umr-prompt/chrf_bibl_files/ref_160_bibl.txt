@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt but at night they spoke about themselves, revealing their intentions.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt But the people who live over beyond yonder mountain in the area of Cove and Red Rock were thinking ugly thoughts about the plan in connection with education.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and they no doubt came with evil thoughts. The people who, lived hereabout had heard nothing of their plans
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt But one does not mention their name "bear”. People who live over there toward the mountains never say “bear”.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

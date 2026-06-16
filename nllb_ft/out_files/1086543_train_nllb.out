@@ -1,0 +1,18 @@
+========================================================
+STARTING EXPERIMENT: grn_NOsyll_600M
+Started at: Wed Mar  4 12:18:13 PM EST 2026
+========================================================
+CONFIGURATION:
+  Experiment: grn_NOsyll_600M
+  Target language: grn_Latn
+  Syllabification: --no_syllabify
+  Model: 600M
+  Learning rate: 2e-5
+  Epochs: 10
+  Batch size: 4
+  Fold: 4
+  Output dir: grn_NOsyll_600M
+========================================================
+Single-fold mode: checking for saved splits in /home/common/ACNLP/eng2nav/nllb_ft/grn_NOsyll_600M/fold_4/data
+ERROR: Saved split file not found: /home/common/ACNLP/eng2nav/nllb_ft/grn_NOsyll_600M/fold_4/data/train.eng
+Make sure you have completed a full run first to generate data splits.

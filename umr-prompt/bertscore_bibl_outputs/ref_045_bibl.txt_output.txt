@@ -1,0 +1,54 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:00.715848
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:00.715860
+(z0 / plane
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt So there were three policemen.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:00.715864
+(z0 / cause-01
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / guard-01)
+              :quant 3))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We were a selected group.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:00.715868
+(z0 / group
+    :ARG1-of (z1 / select-01)
+    :domain (z2 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:00.715872
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Many people lost stock.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:00.715876
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / stock))

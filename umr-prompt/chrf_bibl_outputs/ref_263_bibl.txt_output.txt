@@ -1,0 +1,79 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:51.054787
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:51.054806
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We went to the Navy Field.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:51.054810
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / field
+              :mod (z3 / navy)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and then we went toward Chinle.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:51.054815
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / space
+                       :ARG1-of (z4 / toward-01
+                                    :ARG2 (z5 / thing
+                                              :name (z6 / name
+                                                        :op1 "Chinle")
+                                              :wiki "Chinle")))
+             :temporal (z7 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We went out according to our instructions.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:51.054819
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :direction (z2 / out)
+    :manner (z3 / instruct-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They did this because the Winslow Airport was too small for them.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:51.054823
+(z0 / do-02
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / this)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / have-degree-91
+                           :ARG1 (z5 / airport
+                                     :name (z6 / name
+                                               :op1 "Winslow"
+                                               :op2 "Airport")
+                                     :wiki "Winslow_Airport")
+                           :ARG2 (z7 / small)
+                           :ARG3 (z8 / too)
+                           :ARG6 z1)))

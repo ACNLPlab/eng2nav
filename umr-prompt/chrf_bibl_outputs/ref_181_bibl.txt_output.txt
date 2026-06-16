@@ -1,0 +1,75 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:52.806914
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That took place down on the plain too,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:52.806926
+(z0 / event
+    :mod (z1 / that)
+    :place (z2 / plain)
+    :mod (z3 / too)
+    :place (z4 / down))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That is what I had an ambition to do at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:52.806931
+(z0 / ambition-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / that))
+    :temporal (z4 / time
+                  :mod (z5 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They say that this story took place at Gobernador Knob.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:52.806935
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / event
+              :mod (z3 / this)
+              :place (z4 / local-region
+                         :name (z5 / name
+                                   :op1 "Gobernador"
+                                   :op2 "Knob")
+                         :wiki "Gobernador_National_Wildlife_Refuge")))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt This is what that is what I heard. I wasn't at the meeting myself.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:52.806939
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / this
+              :domain (z3 / that))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There are stories which tell of the events which took place long ago on this earth of ours.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:52.806943
+(z0 / tell-01
+    :ARG0 (z1 / story)
+    :ARG1 (z2 / event
+              :place (z3 / earth
+                         :mod (z4 / this)
+                         :possessor (z5 / we))
+              :temporal (z6 / before
+                            :op1 (z7 / now)
+                            :quant (z8 / long))))

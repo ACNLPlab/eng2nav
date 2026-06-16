@@ -1,0 +1,121 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Of those menfolk who were talking to one another about it, one was called Weela. He lived over behind Round Rock
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.096415
+(z0 / include-91
+    :ARG1 (z1 / man
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / and
+                                     :op1 (z4 / talk-01
+                                              :ARG0 (z5 / man)
+                                              :ARG1 (z6 / it)
+                                              :ARG2 (z7 / other)))
+                           :op2 (z8 / person
+                                    :name (z9 / name
+                                              :op1 "Weela")
+                                    :wiki -))
+              :ARG2 (z10 / person
+                         :ARG0-of (z11 / live-01
+                                       :place (z12 / behind
+                                                   :op1 (z13 / city
+                                                             :name (z14 / name
+                                                                        :op1 "Round"
+                                                                        :op2 "Rock")
+                                                             :wiki "Round_Rock,_Texas"))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt But the people who live over beyond yonder mountain in the area of Cove and Red Rock were thinking ugly thoughts about the plan in connection with education.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.096432
+(z0 / contrast-91
+    :ARG2 (z1 / think-01
+              :ARG0 (z2 / person
+                        :ARG0-of (z3 / live-01
+                                     :place (z4 / over
+                                                :op1 (z5 / mountain
+                                                         :mod (z6 / beyond
+                                                                  :op1 (z7 / yonder))))
+                                     :place (z8 / area
+                                                :place-of (z9 / and
+                                                              :op1 (z10 / city
+                                                                        :name (z11 / name
+                                                                                   :op1 "Cove")
+                                                                        :wiki "Cove,_Florida")
+                                                              :op2 (z12 / city
+                                                                        :name (z13 / name
+                                                                                   :op1 "Red"
+                                                                                   :op2 "Rock")
+                                                                        :wiki "Red_Rock,_North_Carolina"))))
+                        :ARG1 (z14 / thing
+                                   :ARG1-of (z15 / ugly-02))
+                        :purpose (z16 / connect-01
+                                      :ARG1 (z17 / educate-01)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.096437
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt A man by the name of Black Horse was the leader of that faction.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.096441
+(z0 / lead-02
+    :ARG0 (z1 / man
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / faction
+              :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt This way we discussed our position with one another.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.096445
+(z0 / discuss-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / position
+              :possessor z1)
+    :ARG2 (z3 / other)
+    :manner (z4 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And we went about, talking enthusiastically about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.096449
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / we)
+             :direction (z3 / about)
+             :manner (z4 / talk-01
+                         :ARG0 z2
+                         :ARG1 (z5 / it)
+                         :manner (z6 / enthusiastically))))

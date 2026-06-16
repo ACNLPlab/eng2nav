@@ -1,0 +1,92 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt "Now men, is there anyone here who can do it (a chant)?
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:30.806122
+(z0 / and
+    :op1 (z1 / man)
+    :op2 (z2 / possible-01
+             :ARG1 (z3 / do-02
+                       :ARG0 (z4 / anyone
+                                 :place (z5 / here))
+                       :ARG1 (z6 / it))
+             :polarity (z7 / umr-unknown)
+             :temporal (z8 / now))
+    :op3 (z9 / sing-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt "Boys, let’s go there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:30.806140
+(z0 / and
+    :op1 (z1 / boy)
+    :op2 (z2 / go-02
+             :ARG0 (z3 / we)
+             :ARG4 (z4 / there)
+             :mode imperative))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt "Come on, you boys. Remember what you said," said Black Horse.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:30.806144
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / come-01
+                       :ARG1 (z5 / you)
+                       :ARG2 (z6 / boy)
+                       :mode imperative)
+              :op2 (z7 / remember-01
+                       :ARG0 (z8 / you)
+                       :ARG1 (z9 / thing
+                                 :ARG1-of (z10 / say-01
+                                               :ARG0 z8))
+                       :mode imperative)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt "Say, let's go to school," I said to my companion.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:30.806148
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 z1
+              :ARG1 (z3 / go-05
+                        :ARG0 z1
+                        :ARG1 (z4 / school)
+                        :quote z0)
+              :ARG2 (z5 / companion)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I was one of those who came back (on the next day) to where the people were.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:30.806153
+(z0 / include-91
+    :ARG1 (z1 / person
+              :refer-person 1st)
+    :ARG2 (z2 / person
+              :ARG0-of (z3 / come-01
+                           :ARG1 z1
+                           :ARG4 (z4 / back)
+                           :ARG4 (z5 / space
+                                     :place-of (z6 / person)
+                                     :temporal (z7 / day
+                                                   :mod (z8 / next))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt as he began to make a speech to the people.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:30.806157
+(z0 / begin-01
+    :ARG1 (z1 / speak-01
+              :ARG0 (z2 / he)
+              :ARG2 (z3 / person)))

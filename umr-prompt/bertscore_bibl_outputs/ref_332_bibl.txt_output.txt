@@ -1,0 +1,109 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We dropped them on Walpi, Shipaulovi, Shimopovi, Oraibi, Hotevilla, and Ndadziizdeli.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:18.105698
+(z0 / drop-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / and
+              :op1 (z4 / city
+                       :name (z5 / name
+                                 :op1 "Walpi")
+                       :wiki "Walpi,_Florida")
+              :op2 (z6 / city
+                       :name (z7 / name
+                                 :op1 "Shipaulovi")
+                       :wiki -)
+              :op3 (z8 / city
+                       :name (z9 / name
+                                 :op1 "Shimopovi")
+                       :wiki -)
+              :op4 (z10 / city
+                        :name (z11 / name
+                                   :op1 "Oraibi")
+                        :wiki -)
+              :op5 (z12 / city
+                        :name (z13 / name
+                                   :op1 "Hotella")
+                        :wiki -)
+              :op5 (z14 / city
+                        :name (z15 / name
+                                   :op1 "Ndadziizdeli")
+                        :wiki -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we flew over the lower end of the black lava peaks, and over Oraibi.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:18.105714
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / then)
+    :place (z3 / and
+               :op1 (z4 / space
+                        :ARG1-of (z5 / end-06
+                                     :ARG2 (z6 / peak
+                                               :color (z7 / lava))
+                                     :ARG1-of (z8 / have-degree-91
+                                                  :ARG2 (z9 / low-04
+                                                            :ARG1 z6)
+                                                  :ARG3 (z10 / more)))
+                        :op2 (z11 / space
+                                  :ARG1-of (z12 / over-04
+                                                :ARG2 (z13 / thing
+                                                           :place (z14 / ocean
+                                                                       :name (z15 / name
+                                                                                  :op1 "Oraibi")
+                                                                       :wiki "Oraibi_Internationalis")
+                                                           :ARG3 (z16 / cartesian-framework-91
+                                                                      :ARG1 (z17 / build-space))))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:18.105718
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:18.105722
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And then on down to Oljato.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:18.105726
+(z0 / and
+    :op2 (z1 / be-destined-for-91
+             :ARG2 (z2 / space
+                       :ARG1-of (z3 / down-03
+                                    :ARG5 (z4 / cartesian-framework-91
+                                              :ARG1 (z5 / build-space)))
+                       :ARG1-of (z6 / have-substitute-91))
+             :temporal (z7 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:18.105730
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))

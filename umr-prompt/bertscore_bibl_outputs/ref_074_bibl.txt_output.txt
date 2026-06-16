@@ -1,0 +1,72 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Come on! Come on!
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:32.817313
+(z0 / come-01
+    :ARG1 (z1 / you)
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt All right now! All right!
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:32.817330
+(z0 / all-right
+    :temporal (z1 / now))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Look out, look out!
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:32.817334
+(z0 / and
+    :op1 (z1 / look-01
+             :direction (z2 / trajectory
+                            :ARG5-of (z3 / out-08)))
+    :op2 (z4 / look-01
+             :direction z2))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt "Come on, you boys. Remember what you said," said Black Horse.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:32.817339
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / come-01
+                       :ARG1 (z5 / you)
+                       :ARG2 (z6 / boy)
+                       :mode imperative)
+              :op2 (z7 / remember-01
+                       :ARG0 (z8 / you)
+                       :ARG1 (z9 / thing
+                                 :ARG1-of (z10 / say-01
+                                               :ARG0 z8))
+                       :mode imperative)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Come on!", they probably said.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:32.817343
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / you)
+              :mode imperative)
+    :ARG1-of (z4 / likely-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Before they move in! Before they move in!
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:32.817347
+(z0 / before
+    :op1 (z1 / move-01
+             :ARG0 (z2 / they)))

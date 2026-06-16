@@ -1,0 +1,109 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Some of us did not know what had been done the night before.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:27.416931
+(z0 / know-01
+    :ARG0 (z1 / we
+              :quant (z2 / some))
+    :ARG1 (z3 / thing
+              :ARG1-of (z4 / do-02
+                           :temporal (z5 / date-entity
+                                         :dayperiod (z6 / night)
+                                         :mod (z7 / before))))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And since it had snowed the night before they had to go through the snow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:27.416949
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / snow-01
+                       :temporal (z3 / date-entity
+                                     :dayperiod (z4 / night)
+                                     :mod (z5 / before)))
+             :ARG1 (z6 / obligate-01
+                       :ARG2 (z7 / go-02
+                                 :ARG0 (z8 / they)
+                                 :path (z9 / through
+                                           :op1 (z10 / snow))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I do not remember in detail much of what happened before I was about ten years old.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:27.416953
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / event
+              :quant (z3 / much))
+    :manner (z4 / detail)
+    :temporal (z5 / before
+                  :op1 (z6 / age-01
+                           :ARG1 z1
+                           :ARG2 (z7 / temporal-quantity
+                                     :unit (z8 / year)
+                                     :quant 10)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He had been asking that hay be dropped at his own house for three days, but he couldn't find it himself.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:27.416958
+(z0 / contrast-91
+    :ARG1 (z1 / ask-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / drop-01
+                        :ARG1 (z4 / hay)
+                        :ARG2 (z5 / house
+                                  :possessor z2))
+              :duration (z6 / temporal-quantity
+                            :unit (z7 / day)
+                            :quant 3))
+    :ARG2 (z8 / possible-01
+              :ARG1 (z9 / find-01
+                        :ARG0 z2
+                        :ARG1 z4)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt [But at the time when we were small and used to herd our sheep up there we did not know things like this.] Only my cousin had a smattering of such information,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:27.416962
+(z0 / contrast-91
+    :ARG2 (z1 / know-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / resemble-91
+                                     :ARG2 (z5 / this)))
+              :temporal (z6 / and
+                            :op1 (z7 / small
+                                     :domain z2)
+                            :op2 (z8 / use-01
+                                     :ARG1 z2
+                                     :ARG2 (z9 / herd-01
+                                               :ARG0 z2
+                                               :ARG1 (z10 / sheep
+                                                          :possessor z2)
+                                               :place (z11 / there)))
+                            :polarity -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:27.416966
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :temporal (z3 / since
+                  :op1 (z4 / report-01
+                           :ARG1 (z5 / before
+                                     :op1 (z6 / arrive-01
+                                              :ARG1 (z7 / load
+                                                        :possessor (z8 / child)))
+                                     :mod (z9 / another)))))

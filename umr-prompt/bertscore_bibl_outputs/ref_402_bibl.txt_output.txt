@@ -1,0 +1,72 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt So this is my experience up above the land of my people.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:47.115340
+(z0 / experience-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / this)
+    :place (z3 / space
+               :ARG1-of (z4 / above-01
+                            :ARG2 (z5 / land
+                                      :possessor (z6 / person
+                                                     :possessor z1))
+                            :ARG3 (z7 / cartesian-framework-91
+                                      :ARG1 (z8 / build-space)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:47.115357
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:47.115362
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This was my people's disaster.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:47.115366
+(z0 / disaster
+    :domain (z1 / this)
+    :possessor (z2 / person
+                   :possessor (z3 / i)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt So that is the way I spent my days from that time on.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:47.115370
+(z0 / cause-01
+    :ARG1 (z1 / spend-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / day
+                        :possessor z2)
+              :ARG2 (z4 / that)
+              :temporal (z5 / from
+                            :op1 (z6 / time
+                                     :mod (z7 / that)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That is how I saw my first bear.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:47.115374
+(z0 / see-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :ord (z3 / ordinal-entity
+                       :value 1))
+    :manner (z4 / that))

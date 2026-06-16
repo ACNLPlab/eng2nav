@@ -1,0 +1,54 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Nope!
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:26.350701
+(z0 / confirm-01
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt All right now!
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:26.350712
+(z0 / all-right
+    :temporal (z1 / now))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:26.350716
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was no fun!
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:26.350720
+(z0 / fun-01
+    :ARG1 (z1 / it)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt down there
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:26.350725
+(z0 / be-destined-for-91
+    :ARG2 (z1 / there
+              :ARG1-of (z2 / down-03
+                           :ARG5 (z3 / cartesian-framework-91
+                                     :ARG1 (z4 / build-space)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:26.350729
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))

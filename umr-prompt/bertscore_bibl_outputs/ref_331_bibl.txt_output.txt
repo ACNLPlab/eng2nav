@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We dumped these on the Hopis.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:46.683039
+(z0 / dump-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / thing
+              :mod (z3 / this))
+    :ARG2 (z4 / person
+              :mod (z5 / ethnic-group
+                       :name (z6 / name
+                                 :op1 "Hopis")
+                       :wiki "Hopis")))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:46.683051
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:46.683055
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:46.683060
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:46.683064
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:46.683068
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))

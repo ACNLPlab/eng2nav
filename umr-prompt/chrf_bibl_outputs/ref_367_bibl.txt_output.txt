@@ -1,0 +1,91 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt You just sit and hope for the best.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:17:12.304896
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / you)
+             :mod (z3 / just))
+    :op2 (z4 / hope-01
+             :ARG0 z2
+             :ARG1 (z5 / thing
+                       :ARG2-of (z6 / good-02))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt In some places cattle and horses were just standing about, probably on account of the crusted snow.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:17:12.304915
+(z0 / stand-01
+    :ARG1 (z1 / and
+              :op1 (z2 / cattle)
+              :op2 (z3 / horse))
+    :mod (z4 / just)
+    :place (z5 / place
+               :quant (z6 / some))
+    :ARG1-of (z7 / cause-01
+                 :ARG0 (z8 / snow-01
+                           :ARG1-of (z9 / crusted-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They would break through this crust, and just stand there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:17:12.304919
+(z0 / and
+    :op1 (z1 / break-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / crust
+                       :mod (z4 / this)))
+    :op2 (z5 / stand-01
+             :ARG1 z2
+             :mod (z6 / just)
+             :place (z7 / there)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He stood up for the two of us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:17:12.304924
+(z0 / stand-up-07
+    :ARG0 (z1 / he)
+    :affectee (z2 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He used to be out there early in the morning with a stick especially made for that purpose.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:17:12.304928
+(z0 / have-place-91
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / there)
+    :ARG3 (z3 / stick
+              :ARG1-of (z4 / make-01
+                           :ARG2 (z5 / purpose
+                                     :mod (z6 / that))
+                           :degree (z7 / especially)))
+    :temporal (z8 / early-01
+                  :ARG2 (z9 / date-entity
+                            :dayperiod (z10 / morning))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He had been asking that hay be dropped at his own house for three days, but he couldn't find it himself.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:17:12.304932
+(z0 / contrast-91
+    :ARG1 (z1 / ask-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / drop-01
+                        :ARG1 (z4 / hay)
+                        :ARG2 (z5 / house
+                                  :possessor z2))
+              :duration (z6 / temporal-quantity
+                            :unit (z7 / day)
+                            :quant 3))
+    :ARG2 (z8 / possible-01
+              :ARG1 (z9 / find-01
+                        :ARG0 z2
+                        :ARG1 z4)
+              :polarity -))

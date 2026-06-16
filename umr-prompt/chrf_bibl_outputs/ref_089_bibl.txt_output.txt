@@ -1,0 +1,91 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He had a wagon and a team.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:07.936913
+(z0 / have-03
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / and
+              :op1 (z3 / wagon)
+              :op2 (z4 / team)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I got that glimpse of him and then I dashed away.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:07.936938
+(z0 / and
+    :op1 (z1 / sight-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / he)
+             :mod (z4 / that))
+    :op2 (z5 / dashed-01
+             :ARG0 z2
+             :direction (z6 / away)
+             :temporal (z7 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We would discuss it when we took the wagon after wood.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:07.936942
+(z0 / discuss-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / it)
+    :temporal (z3 / take-01
+                  :ARG0 z1
+                  :ARG1 (z4 / wagon)
+                  :ARG2 (z5 / after
+                            :op1 (z6 / wood))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt In the evening after we had unloaded another load of wood we started back home in the wagon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:07.936947
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :place (z3 / wagon)
+    :temporal (z4 / after
+                  :op1 (z5 / load-01
+                           :ARG0 z1
+                           :ARG1 (z6 / load
+                                     :mod (z7 / another)
+                                     :consist-of (z8 / wood))))
+    :temporal (z9 / date-entity
+                  :dayperiod (z10 / evening)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I had an uncle by the name of Forked House. He was a young man, and he adopted me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:07.936951
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / person
+                       :ARG1-of (z4 / have-rel-role-92
+                                    :ARG2 z2
+                                    :ARG3 (z5 / uncle))
+                       :ARG1-of (z6 / name
+                                    :op1 "Forked"
+                                    :op2 "House")))
+    :op2 (z7 / adopt-01
+             :ARG0 z3
+             :ARG1 z2)
+    :op3 (z8 / young-01
+             :ARG1 (z9 / he)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That is what I had an ambition to do at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:07.936955
+(z0 / ambition-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / that))
+    :temporal (z4 / time
+                  :mod (z5 / that)))

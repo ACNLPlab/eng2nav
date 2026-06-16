@@ -1,0 +1,136 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It was only after I stopped that my cousin caught up with me.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:03:24.342300
+(z0 / catch-up-04
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG2 z3
+    :temporal (z5 / after
+                  :op1 (z6 / stop-01
+                           :ARG0 z3)
+                  :mod (z7 / only)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt so one day I decided to have some fun with my cousin by running down toward him as he walked along below me.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:03:24.342318
+(z0 / cause-01
+    :ARG1 (z1 / decide-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / fun-01
+                        :ARG0 z2
+                        :ARG2 (z4 / person
+                                  :ARG1-of (z5 / have-rel-role-92
+                                               :ARG2 z2
+                                               :ARG3 (z6 / cousin)))
+                        :quant (z7 / some))
+              :manner (z8 / run-02
+                          :ARG0 z2
+                          :direction (z9 / trajectory
+                                         :ARG4-of (z10 / down-03
+                                                       :ARG5 (z11 / cartesian-framework-91
+                                                                  :ARG1 (z12 / build-space))))
+                          :temporal (z13 / walk-01
+                                         :ARG0 z4
+                                         :direction (z14 / along)
+                                         :place (z15 / below
+                                                     :op1 z2
+                                                     :ARG3 z11)))
+              :temporal (z16 / day
+                             :mod (z17 / one))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When I was little, perhaps eight years old, I used to herd sheep up on top of Lukachukai Mountain with a cousin.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:03:24.342322
+(z0 / herd-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :place (z3 / mountain
+               :name (z4 / name
+                         :op1 "Lukachukai"
+                         :op2 "Mountain")
+               :wiki "Lukachukai_National_Park")
+    :companion (z5 / person
+                   :ARG1-of (z6 / have-rel-role-92
+                                :ARG2 z1
+                                :ARG3 (z7 / cousin)))
+    :temporal (z8 / little-01
+                  :ARG1 z1
+                  :ARG2 (z9 / temporal-quantity
+                            :unit (z10 / year)
+                            :quant 8)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt While they were making this move they stopped for the night, and it is said that I was born where they halted.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:03:24.342326
+(z0 / and
+    :op1 (z1 / stop-01
+             :ARG0 (z2 / they)
+             :temporal (z3 / move-01
+                           :ARG0 z2
+                           :mod (z4 / this))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / night)))
+    :op2 (z7 / say-01
+             :ARG1 (z8 / bear-02
+                       :ARG1 (z9 / i)
+                       :place (z10 / halt-01
+                                   :ARG0 z2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:03:24.342331
+(z0 / say-01
+    :ARG1 (z1 / start-01
+              :ARG1 (z2 / wagon
+                        :companion (z3 / child))
+              :temporal (z4 / after
+                            :op1 (z5 / now)
+                            :quant (z6 / temporal-quantity
+                                       :unit (z7 / day)
+                                       :quant 2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt If you are strong you will lie hudled in death only after the dirt is torn and furrowed around you (i.e. you will give up only after a struggle)," my grandfather used to tell me.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:03:24.342335
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / grandfather)))
+    :ARG1 (z5 / lie-08
+              :ARG1 z3
+              :manner (z6 / huddle-01
+                          :ARG0 z3
+                          :ARG1 (z7 / die-01))
+              :temporal (z8 / after
+                            :op1 (z9 / and
+                                     :op1 (z10 / tear-01
+                                               :ARG1 (z11 / dirt))
+                                     :op2 (z12 / furrow-01
+                                               :ARG1 z11
+                                               :place (z13 / around
+                                                           :op1 z3))))
+              :condition (z14 / give-01
+                              :ARG0 z3
+                              :temporal (z15 / after
+                                             :op1 (z16 / struggle-01
+                                                       :ARG0 z3)
+                                             :mod (z17 / only))
+                              :condition (z18 / strong-02
+                                              :ARG1 z3)
+                              :quote z0)
+              :ARG2 z3))

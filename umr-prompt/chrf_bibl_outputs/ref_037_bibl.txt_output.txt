@@ -1,0 +1,105 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt These women too had spent the night there with them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:56.753458
+(z0 / spend-02
+    :ARG0 (z1 / woman
+              :mod (z2 / this))
+    :ARG1 (z3 / date-entity
+              :dayperiod (z4 / night))
+    :ARG2 (z5 / there)
+    :ARG3 (z6 / they)
+    :mod (z7 / too))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We spent the night there and then returned on foot.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:56.753475
+(z0 / and
+    :op1 (z1 / spend-02
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / there)
+             :ARG2 (z4 / night))
+    :op2 (z5 / return-01
+             :ARG1 z2
+             :manner (z6 / foot)
+             :temporal (z7 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And since it had snowed the night before they had to go through the snow.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:56.753480
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / snow-01
+                       :temporal (z3 / date-entity
+                                     :dayperiod (z4 / night)
+                                     :mod (z5 / before)))
+             :ARG1 (z6 / obligate-01
+                       :ARG2 (z7 / go-02
+                                 :ARG0 (z8 / they)
+                                 :path (z9 / through
+                                           :op1 (z10 / snow))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:56.753484
+(z0 / go-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / mother)))
+    :ARG4 (z5 / foot)
+    :extent (z6 / far
+                :extent-of (z7 / move-01
+                               :ARG0 (z8 / person)
+                               :temporal (z9 / date-entity
+                                             :dayperiod (z10 / day)
+                                             :mod (z11 / that)))
+                :temporal (z12 / following
+                               :op1 (z13 / date-entity
+                                         :dayperiod (z14 / night
+                                                         :temporal-of (z15 / bear-02
+                                                                           :ARG0 z1
+                                                                           :ARG1 z3))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He could be seen sitting out there silhouetted against the sun, with the light shining red through his hair.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:56.753488
+(z0 / possible-01
+    :ARG1 (z1 / see-01
+              :ARG1 (z2 / sit-01
+                        :ARG1 (z3 / he)
+                        :place (z4 / there)
+                        :manner (z5 / silhouetted-01
+                                    :ARG0 z3
+                                    :ARG1 (z6 / sun))
+                        :manner (z7 / shine-01
+                                    :ARG1 (z8 / light)
+                                    :ARG2 (z9 / through
+                                              :op1 (z10 / hair
+                                                        :possessor z3))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt but at night they spoke about themselves, revealing their intentions.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:56.753492
+(z0 / contrast-91
+    :ARG2 (z1 / speak-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / about
+                        :op1 z2)
+              :temporal (z4 / date-entity
+                            :dayperiod (z5 / night))
+              :manner (z6 / reveal-01
+                          :ARG0 z2
+                          :ARG1 (z7 / intend-01
+                                    :ARG0 z2))))

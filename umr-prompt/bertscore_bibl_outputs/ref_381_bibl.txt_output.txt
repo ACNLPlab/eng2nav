@@ -1,0 +1,77 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Some more (Navajos) followed us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:31:29.590004
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :mod (z2 / more)
+              :mod (z3 / local-region
+                       :name (z4 / name
+                                 :op1 "Navajos")
+                       :wiki "Native_Americans"))
+    :ARG1 (z5 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:31:29.590021
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:31:29.590025
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Many more joined him,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:31:29.590029
+(z0 / join-04
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We Navajos still haven't found out that God is punishing us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:31:29.590034
+(z0 / find-01
+    :ARG0 (z1 / we
+              :mod (z2 / country
+                       :name (z3 / name
+                                 :op1 "Navajos")
+                       :wiki "Navajo_Nation"))
+    :ARG1 (z4 / punish-01
+              :ARG0 (z5 / person
+                        :name (z6 / name
+                                  :op1 "God")
+                        :wiki "God")
+              :ARG1 z1)
+    :mod (z7 / still)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Many people lost stock.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:31:29.590038
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / stock))

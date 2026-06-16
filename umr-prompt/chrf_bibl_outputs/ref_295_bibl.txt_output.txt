@@ -1,0 +1,135 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We circled several times over Lukachukai,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:37.433124
+(z0 / circle-01
+    :ARG0 (z1 / we)
+    :place (z2 / over
+               :op1 (z3 / lake
+                        :name (z4 / name
+                                  :op1 "Lukachukai")
+                        :wiki "Lukachukai"))
+    :frequency (z5 / several))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt They were to go by way of Lukachukai, Tsaile, and Crystal, and on over to Fort Defiance.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:37.433143
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / they)
+             :ARG4 (z3 / and
+                       :op1 (z4 / local-region
+                                :name (z5 / name
+                                          :op1 "Lukachukai")
+                                :wiki -)
+                       :op2 (z6 / local-region
+                                :name (z7 / name
+                                          :op1 "Tsaile")
+                                :wiki -)
+                       :op3 (z8 / local-region
+                                :name (z9 / name
+                                          :op1 "Crystal")
+                                :wiki -)))
+    :op2 (z10 / go-02
+              :ARG0 z2
+              :ARG4 (z11 / local-region
+                         :name (z12 / name
+                                    :op1 "Fort"
+                                    :op2 "Defiance")
+                         :wiki "Fort_Defiance_Naval_Base")
+              :direction (z13 / trajectory
+                              :ARG4-of (z14 / over-04
+                                            :ARG5 (z15 / cartesian-framework-91
+                                                       :ARG1 (z16 / build-space))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When I was little, perhaps eight years old, I used to herd sheep up on top of Lukachukai Mountain with a cousin.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:37.433147
+(z0 / herd-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :place (z3 / mountain
+               :name (z4 / name
+                         :op1 "Lukachukai"
+                         :op2 "Mountain")
+               :wiki "Lukachukai_National_Park")
+    :companion (z5 / person
+                   :ARG1-of (z6 / have-rel-role-92
+                                :ARG2 z1
+                                :ARG3 (z7 / cousin)))
+    :temporal (z8 / little-01
+                  :ARG1 z1
+                  :ARG2 (z9 / temporal-quantity
+                            :unit (z10 / year)
+                            :quant 8)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Before we got to Shiprock we turned to go alongside the mountain range, toward Lukachukai.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:37.433151
+(z0 / turn-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / go-02
+              :ARG0 z1
+              :ARG4 (z3 / along
+                        :op1 (z4 / range
+                                 :mod (z5 / mountain)))
+              :direction (z6 / toward
+                             :op1 (z7 / lake
+                                      :name (z8 / name
+                                                :op1 "Lukachukai")
+                                      :wiki "Lukachukai"))
+              :temporal (z9 / before
+                            :op1 (z10 / get-04
+                                      :ARG0 z1
+                                      :ARG4 (z11 / city
+                                                 :name (z12 / name
+                                                            :op1 "Shiprock")
+                                                 :wiki "Shiprock,_Virginia")))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My forbears, the old men and women folk, were of the Mexican People Clan. With great hardship they came back from the place called Fort Sumner, packing their goods on their backs, and afterward lived here at Lukachukai.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:37.433155
+(z0 / and
+    :op1 (z1 / have-org-role-92
+             :ARG1 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / forbear)))
+             :ARG2 (z6 / folk
+                       :ARG1-of (z7 / old-01))
+             :ARG3 (z8 / folk
+                       :ARG1-of (z9 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z10 / woman))))
+    :ARG2 (z11 / ethnic-group
+               :name (z12 / name
+                          :op1 "Mexican"
+                          :op2 "People"
+                          :op3 "Clan")
+               :wiki "Mexican_People"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He wouldn't do anything under these circumstances even if one got very close to him.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:47:37.433159
+(z0 / do-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / anything)
+    :temporal (z3 / circumstance
+                  :mod (z4 / this))
+    :concession (z5 / even-if
+                    :op1 (z6 / close-10
+                             :ARG1 (z7 / one)
+                             :ARG2 z1
+                             :degree (z8 / very))
+                    :polarity -))

@@ -1,0 +1,69 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That is how his mind began to develop. He got ahead and now here he is in his enviable position.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:46:28.811819
+(z0 / and
+    :op1 (z1 / develop-02
+             :ARG1 (z2 / mind
+                       :possessor (z3 / he)))
+    :op2 (z4 / get-04
+             :ARG1 z3
+             :ARG2 (z5 / ahead))
+    :op3 (z6 / have-place-91
+             :ARG1 z3
+             :ARG2 (z7 / here)
+             :ARG3 (z8 / position
+                       :ARG1-of (z9 / enviable-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That is how he got his start in life.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:46:28.811834
+(z0 / start-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / live-01
+              :ARG0 z1)
+    :domain (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This is how we arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:46:28.811838
+(z0 / arrive-01
+    :ARG1 (z1 / we)
+    :manner (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:46:28.811843
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:46:28.811847
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That is how I saw my first bear.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:46:28.811851
+(z0 / see-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :ord (z3 / ordinal-entity
+                       :value 1))
+    :manner (z4 / that))

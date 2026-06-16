@@ -1,0 +1,61 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He stood growling.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.456709
+(z0 / stand-01
+    :ARG1 (z1 / he)
+    :manner (z2 / growl-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.456722
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.456726
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt they asked me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.456730
+(z0 / ask-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He did not speak in anger.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.456734
+(z0 / speak-01
+    :ARG0 (z1 / he)
+    :manner (z2 / anger)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.456739
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)

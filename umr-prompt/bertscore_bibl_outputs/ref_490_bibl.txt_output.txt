@@ -1,0 +1,84 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It turns out that must be a bear.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:04:43.153960
+(z0 / turn-02
+    :ARG1 (z1 / obligate-01
+              :ARG1 (z2 / that)
+              :ARG2 (z3 / bear)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We said they must be fighting over the firewood.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:04:43.153976
+(z0 / say-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / obligate-01
+              :ARG1 (z3 / fight-01
+                        :ARG0 (z4 / they)
+                        :ARG2 (z5 / firewood))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And it turned out that my grandfather, who was called Big Mexican Clansman, was there too.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:04:43.153980
+(z0 / and
+    :op2 (z1 / turn-01
+             :ARG1 (z2 / there
+                       :place-of (z3 / person
+                                     :ARG1-of (z4 / have-rel-role-92
+                                                  :ARG2 (z5 / i)
+                                                  :ARG3 (z6 / grandfather))
+                                     :ARG1-of (z7 / call-01
+                                                  :ARG2 (z8 / cultural-group
+                                                            :name (z9 / name
+                                                                      :op1 "Big"
+                                                                      :op2 "Mexican"
+                                                                      :op3 "Clansman")
+                                                            :wiki "Big_Mexican_Clansman")))
+                       :mod (z10 / too))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is how I saw my first bear.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:04:43.153985
+(z0 / see-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :ord (z3 / ordinal-entity
+                       :value 1))
+    :manner (z4 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:04:43.153989
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I got over to where the dog was barking, and there I saw a bear standing.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:04:43.153994
+(z0 / and
+    :op1 (z1 / get-01
+             :ARG0 (z2 / i)
+             :ARG4 (z3 / over
+                       :op1 (z4 / barking-01
+                                :ARG0 (z5 / dog))))
+    :op2 (z6 / see-01
+             :ARG0 z2
+             :ARG1 (z7 / stand-01
+                       :ARG1 (z8 / bear))
+             :place z3))

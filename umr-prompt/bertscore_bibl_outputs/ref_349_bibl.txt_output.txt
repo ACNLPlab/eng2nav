@@ -1,0 +1,64 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt hauling only hay.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:55.466601
+(z0 / haul-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / hay)
+    :mod (z3 / only))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The main thing we hauled was hay.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:55.466613
+(z0 / haul-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / hay)
+    :ARG1-of (z3 / have-degree-91
+                 :ARG2 (z4 / main)
+                 :ARG3 (z5 / most)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:55.466617
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and chaos followed.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:55.466622
+(z0 / and
+    :op2 (z1 / follow-01
+             :ARG1 (z2 / chaos)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:55.466626
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:55.466630
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))

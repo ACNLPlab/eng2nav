@@ -1,0 +1,120 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:19.052793
+(z0 / say-01
+    :ARG1 (z1 / start-01
+              :ARG1 (z2 / wagon
+                        :companion (z3 / child))
+              :temporal (z4 / after
+                            :op1 (z5 / now)
+                            :quant (z6 / temporal-quantity
+                                       :unit (z7 / day)
+                                       :quant 2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:19.052811
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:19.052815
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :temporal (z3 / since
+                  :op1 (z4 / report-01
+                           :ARG1 (z5 / before
+                                     :op1 (z6 / arrive-01
+                                              :ARG1 (z7 / load
+                                                        :possessor (z8 / child)))
+                                     :mod (z9 / another)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt On the morrow we would start off with them. So for that purpose, in the morning we again started off from the hogan afoot.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:19.052819
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG2 (z2 / they)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / morrow))
+    :purpose (z5 / start-01
+                 :ARG0 z1
+                 :ARG1 z2
+                 :place (z6 / hogan
+                            :ARG1-of (z7 / afoot-01))
+                 :temporal (z8 / date-entity
+                               :dayperiod (z9 / morning))
+                 :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:19.052823
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:19.052828
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))

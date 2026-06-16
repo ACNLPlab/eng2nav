@@ -1,0 +1,74 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt so we just went with the crowd.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:25.239956
+(z0 / cause-01
+    :ARG1 (z1 / go-02
+              :ARG0 (z2 / we)
+              :ARG3 (z3 / crowd)
+              :mod (z4 / just)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt You just sit and hope for the best.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:25.239968
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / you)
+             :mod (z3 / just))
+    :op2 (z4 / hope-01
+             :ARG0 z2
+             :ARG1 (z5 / thing
+                       :ARG2-of (z6 / good-02))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:25.239972
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:25.239977
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:25.239981
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And we went about, talking enthusiastically about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:25.239985
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / we)
+             :direction (z3 / about)
+             :manner (z4 / talk-01
+                         :ARG0 z2
+                         :ARG1 (z5 / it)
+                         :manner (z6 / enthusiastically))))

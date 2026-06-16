@@ -1,0 +1,102 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It happened eighteen years ago too.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:37:43.968088
+(z0 / event
+    :temporal (z1 / before
+                  :op1 (z2 / now)
+                  :quant (z3 / temporal-quantity
+                             :unit (z4 / year)
+                             :quant 18)
+                  :mod (z5 / too)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I do not remember in detail much of what happened before I was about ten years old.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:37:43.968120
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / event
+              :quant (z3 / much))
+    :manner (z4 / detail)
+    :temporal (z5 / before
+                  :op1 (z6 / age-01
+                           :ARG1 z1
+                           :ARG2 (z7 / temporal-quantity
+                                     :unit (z8 / year)
+                                     :quant 10)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It happened that way.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:37:43.968125
+(z0 / have-direction-91
+    :ARG1 (z1 / it)
+    :ARG2 (z2 / way))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That happened to two of us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:37:43.968130
+(z0 / event
+    :mod (z1 / that)
+    :ARG2 (z2 / we
+              :quant 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In the evening, on our return trip, one of the motors caught fire. It happened between Flagstaff and Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:37:43.968135
+(z0 / burn-01
+    :ARG1 (z1 / motor
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / motor)))
+    :temporal (z4 / date-entity
+                  :dayperiod (z5 / evening))
+    :temporal (z6 / return-01
+                  :ARG1 (z7 / we))
+    :place (z8 / between
+               :op1 (z9 / city
+                        :name (z10 / name
+                                   :op1 "Flagstaff")
+                        :wiki "Flagstaff,_Arizona")
+               :op2 (z11 / city
+                         :name (z12 / name
+                                    :op1 "Phoenix")
+                         :wiki "Phoenix")))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt At the time I was about eighteen years old the person who started the present trading post at Blue Clay Point moved there - I used to know just when it was.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:37:43.968139
+(z0 / and
+    :op1 (z1 / move-01
+             :ARG0 (z2 / person
+                       :ARG0-of (z3 / start-01
+                                    :ARG1 (z4 / post
+                                              :mod (z5 / present-02)
+                                              :place (z6 / point
+                                                         :name (z7 / name
+                                                                   :op1 "Blue"
+                                                                   :op2 "Clay"
+                                                                   :op3 "Point")
+                                                         :wiki "Blue_Clay_Point"))))
+             :ARG1 (z8 / there)
+             :temporal (z9 / age-01
+                           :ARG1 (z10 / i)
+                           :ARG2 (z11 / about
+                                      :op1 (z12 / temporal-quantity
+                                                :unit (z13 / year)
+                                                :quant 18))))
+    :op2 (z14 / know-01
+              :ARG0 z10
+              :ARG1 (z15 / time
+                         :temporal-of (z16 / it)
+                         :mod (z17 / just))))

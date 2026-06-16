@@ -1,0 +1,77 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt These people from the other side of the mountain were saying this.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:27:15.889002
+(z0 / say-01
+    :ARG0 (z1 / person
+              :mod (z2 / this)
+              :source (z3 / side
+                          :ARG1-of (z4 / other-01)
+                          :part-of (z5 / mountain)))
+    :ARG1 (z6 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I heard them saying that.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:27:15.889014
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 (z3 / they)
+              :ARG1 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Many people lost stock.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:27:15.889019
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / stock))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The people of his band were standing with him.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:27:15.889023
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-org-role-92
+                           :ARG2 (z3 / he)
+                           :ARG3 (z4 / band
+                                     :possessor z3)))
+    :ARG2 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt One of these women had come from over beyond the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:27:15.889028
+(z0 / come-01
+    :ARG1 (z1 / woman
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / woman
+                                     :mod (z4 / this))))
+    :ARG3 (z5 / over
+              :op1 (z6 / mountain)
+              :ARG5 (z7 / cartesian-framework-91
+                        :ARG1 (z8 / builder))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Someone by the name of Black Horse had brought a party from the other side of the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:27:15.889032
+(z0 / bring-01
+    :ARG0 (z1 / someone
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / party)
+    :ARG4 (z4 / side
+              :ARG1-of (z5 / other-01)
+              :part-of (z6 / mountain)))

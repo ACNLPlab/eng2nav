@@ -1,0 +1,93 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt On the morrow we would start off with them. So for that purpose, in the morning we again started off from the hogan afoot.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.667860
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG2 (z2 / they)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / morrow))
+    :purpose (z5 / start-01
+                 :ARG0 z1
+                 :ARG1 z2
+                 :place (z6 / hogan
+                            :ARG1-of (z7 / afoot-01))
+                 :temporal (z8 / date-entity
+                               :dayperiod (z9 / morning))
+                 :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt In the morning the women again prepared food for them.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.667876
+(z0 / make-01
+    :ARG0 (z1 / woman)
+    :ARG1 (z2 / food)
+    :ARG2 (z3 / they)
+    :temporal (z4 / date-entity
+                  :dayperiod (z5 / morning))
+    :mod (z6 / again))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.667881
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.667885
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt On the next day, February 4, we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.667889
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :mod (z2 / again)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / day)
+                  :mod (z5 / next)
+                  :ARG4-of (z6 / have-temporal-91
+                               :ARG1 z1
+                               :ARG3 (z7 / date-entity
+                                         :month 4))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt On February 2, four of us set out from Tuba City.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.667893
+(z0 / set-out-04
+    :ARG0 (z1 / we
+              :quant 4)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Tuba"
+                        :op2 "City")
+              :wiki "Tuba_City")
+    :temporal (z4 / date-entity
+                  :month 2))

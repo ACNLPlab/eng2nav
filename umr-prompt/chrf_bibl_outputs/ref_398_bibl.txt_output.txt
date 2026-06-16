@@ -1,0 +1,85 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt In flight the crew would discuss position.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:52.049037
+(z0 / discuss-01
+    :ARG0 (z1 / crew)
+    :ARG1 (z2 / position)
+    :temporal (z3 / fly-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We would discuss it when we took the wagon after wood.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:52.049053
+(z0 / discuss-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / it)
+    :temporal (z3 / take-01
+                  :ARG0 z1
+                  :ARG1 (z4 / wagon)
+                  :ARG2 (z5 / after
+                            :op1 (z6 / wood))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This way we discussed our position with one another.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:52.049057
+(z0 / discuss-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / position
+              :possessor z1)
+    :ARG2 (z3 / other)
+    :manner (z4 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt but at night they spoke about themselves, revealing their intentions.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:52.049062
+(z0 / contrast-91
+    :ARG2 (z1 / speak-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / about
+                        :op1 z2)
+              :temporal (z4 / date-entity
+                            :dayperiod (z5 / night))
+              :manner (z6 / reveal-01
+                          :ARG0 z2
+                          :ARG1 (z7 / intend-01
+                                    :ARG0 z2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is how his mind began to develop. He got ahead and now here he is in his enviable position.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:52.049066
+(z0 / and
+    :op1 (z1 / develop-02
+             :ARG1 (z2 / mind
+                       :possessor (z3 / he)))
+    :op2 (z4 / get-04
+             :ARG1 z3
+             :ARG2 (z5 / ahead))
+    :op3 (z6 / have-place-91
+             :ARG1 z3
+             :ARG2 (z7 / here)
+             :ARG3 (z8 / position
+                       :ARG1-of (z9 / enviable-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:52.049070
+(z0 / say-01
+    :ARG1 (z1 / start-01
+              :ARG1 (z2 / wagon
+                        :companion (z3 / child))
+              :temporal (z4 / after
+                            :op1 (z5 / now)
+                            :quant (z6 / temporal-quantity
+                                       :unit (z7 / day)
+                                       :quant 2))))

@@ -1,0 +1,54 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And it is true.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:15.615822
+(z0 / and
+    :op2 (z1 / true-01
+             :ARG1 (z2 / it)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That's the way it is.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:15.615833
+(z0 / way
+    :domain (z1 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt But that was right. We had volunteered for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:15.615838
+(z0 / contrast-91
+    :ARG2 (z1 / right-06
+              :ARG2 (z2 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and her hair is white.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:15.615842
+(z0 / and
+    :op2 (z1 / white-03
+             :ARG1 (z2 / hair
+                       :possessor (z3 / she))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:15.615846
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt But it was destined to turn out differently.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:15.615850
+(z0 / contrast-91
+    :ARG2 (z1 / destined-01
+              :ARG1 (z2 / it)
+              :ARG2 (z3 / differ-02
+                        :ARG1 z2)))

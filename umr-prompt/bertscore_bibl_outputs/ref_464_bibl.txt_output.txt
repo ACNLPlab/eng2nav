@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There could be some of them right here nearby.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:42.459999
+(z0 / possible-01
+    :ARG1 (z1 / possible-01
+              :ARG1 (z2 / they
+                        :quant (z3 / some)
+                        :place (z4 / here
+                                   :mod (z5 / right-yy)
+                                   :ARG1-of (z6 / have-place-91
+                                                :ARG2 (z7 / nearby))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:42.460011
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He simply couldn't find it.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:42.460016
+(z0 / possible-01
+    :ARG1 (z1 / find-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / it)
+              :mod (z4 / simple))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I heard them saying that.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:42.460020
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 (z3 / they)
+              :ARG1 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:42.460024
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:42.460028
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))

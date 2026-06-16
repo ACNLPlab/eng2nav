@@ -1,0 +1,72 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The old folks all used to say that.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:02.493242
+(z0 / say-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / old-01)
+              :mod (z3 / all))
+    :ARG1 (z4 / that)
+    :temporal (z5 / use-03))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I heard them saying that.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:02.493254
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 (z3 / they)
+              :ARG1 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These people from the other side of the mountain were saying this.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:02.493258
+(z0 / say-01
+    :ARG0 (z1 / person
+              :mod (z2 / this)
+              :source (z3 / side
+                          :ARG1-of (z4 / other-01)
+                          :part-of (z5 / mountain)))
+    :ARG1 (z6 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and he used to teach me what he knew.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:02.493262
+(z0 / and
+    :op2 (z1 / use-01
+             :ARG0 (z2 / he)
+             :ARG1 (z3 / teach-01
+                       :ARG0 z2
+                       :ARG1 (z4 / thing
+                                 :ARG1-of (z5 / know-02
+                                              :ARG0 z2))
+                       :ARG2 (z6 / i))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:02.493267
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:02.493271
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)

@@ -1,0 +1,63 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt not in the mountains.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:10.503160
+(z0 / have-place-91
+    :ARG2 (z1 / mountain)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:10.503172
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt for the Navajo country.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:10.503177
+(z0 / concern-02
+    :ARG1 (z1 / country
+              :name (z2 / name
+                        :op1 "Navajo")
+              :wiki "Navajo_country"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:10.503181
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:10.503185
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Go run a race.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:10.503189
+(z0 / go-02
+    :ARG0 (z1 / you)
+    :ARG4 (z2 / run-02
+              :ARG0 z1
+              :ARG1 (z3 / race))
+    :mode imperative)

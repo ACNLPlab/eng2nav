@@ -1,0 +1,61 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That’s what I think.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.052850
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That was what I thought.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.052863
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.052867
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That's what the pilot (of this plane) told me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.052871
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / pilot-01
+                           :ARG1 (z3 / plane
+                                     :mod (z4 / this))))
+    :ARG1 (z5 / that)
+    :ARG2 (z6 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That's the way it is.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.052876
+(z0 / way
+    :domain (z1 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That is what I had an ambition to do at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.052880
+(z0 / ambition-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / that))
+    :temporal (z4 / time
+                  :mod (z5 / that)))

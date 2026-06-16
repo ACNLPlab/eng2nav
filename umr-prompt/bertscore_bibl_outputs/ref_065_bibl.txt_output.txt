@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt In those days people went about only on horseback
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:53.288681
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / about)
+    :manner (z3 / horseback)
+    :mod (z4 / only)
+    :temporal (z5 / day
+                  :mod (z6 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt At that time horses were the only means people had for transportation.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:53.288693
+(z0 / horse
+    :temporal (z1 / time
+                  :mod (z2 / that))
+    :domain (z3 / means
+                :mod (z4 / only)
+                :purpose (z5 / transport-01
+                             :ARG0 (z6 / person))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At that time he was a policeman.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:53.288697
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It is remarkable how risky life was in those days.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:53.288702
+(z0 / remarkable-02
+    :ARG1 (z1 / risk-01
+              :ARG1 (z2 / live-01))
+    :temporal (z3 / day
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Many horses were standing about.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:53.288706
+(z0 / stand-01
+    :ARG1 (z1 / horse
+              :quant (z2 / many))
+    :ARG2 (z3 / about))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Back at that time it was different.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:51:53.288710
+(z0 / differ-02
+    :ARG1 (z1 / it)
+    :temporal (z2 / time
+                  :mod (z3 / that)))

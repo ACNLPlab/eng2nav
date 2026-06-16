@@ -1,0 +1,131 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt After we had inspected the reservation we flew back, but to Tucson.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:02.255729
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Tucson")
+              :wiki "Tucson,_Arizona")
+    :temporal (z4 / after
+                  :op1 (z5 / inspect-01
+                           :ARG0 z1
+                           :ARG1 (z6 / reservation))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When we passed the reservation boundary they said to me, “From now on it's up to you.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:02.255745
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / end-up-03
+              :ARG1 (z3 / it)
+              :ARG2 (z4 / i)
+              :temporal (z5 / now)
+              :quote z0)
+    :ARG2 z4
+    :temporal (z6 / pass-01
+                  :ARG0 (z7 / we)
+                  :ARG1 (z8 / boundary
+                            :mod (z9 / reservation))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt In the evening after we had unloaded another load of wood we started back home in the wagon.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:02.255750
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :place (z3 / wagon)
+    :temporal (z4 / after
+                  :op1 (z5 / load-01
+                           :ARG0 z1
+                           :ARG1 (z6 / load
+                                     :mod (z7 / another)
+                                     :consist-of (z8 / wood))))
+    :temporal (z9 / date-entity
+                  :dayperiod (z10 / evening)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we flew over the lower end of the black lava peaks, and over Oraibi.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:02.255754
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / then)
+    :place (z3 / and
+               :op1 (z4 / space
+                        :ARG1-of (z5 / end-06
+                                     :ARG2 (z6 / peak
+                                               :color (z7 / lava))
+                                     :ARG1-of (z8 / have-degree-91
+                                                  :ARG2 (z9 / low-04
+                                                            :ARG1 z6)
+                                                  :ARG3 (z10 / more)))
+                        :op2 (z11 / space
+                                  :ARG1-of (z12 / over-04
+                                                :ARG2 (z13 / thing
+                                                           :place (z14 / ocean
+                                                                       :name (z15 / name
+                                                                                  :op1 "Oraibi")
+                                                                       :wiki "Oraibi_Internationalis")
+                                                           :ARG3 (z16 / cartesian-framework-91
+                                                                      :ARG1 (z17 / build-space))))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt At the time I was about eighteen years old the person who started the present trading post at Blue Clay Point moved there - I used to know just when it was.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:02.255758
+(z0 / and
+    :op1 (z1 / move-01
+             :ARG0 (z2 / person
+                       :ARG0-of (z3 / start-01
+                                    :ARG1 (z4 / post
+                                              :mod (z5 / present-02)
+                                              :place (z6 / point
+                                                         :name (z7 / name
+                                                                   :op1 "Blue"
+                                                                   :op2 "Clay"
+                                                                   :op3 "Point")
+                                                         :wiki "Blue_Clay_Point"))))
+             :ARG1 (z8 / there)
+             :temporal (z9 / age-01
+                           :ARG1 (z10 / i)
+                           :ARG2 (z11 / about
+                                      :op1 (z12 / temporal-quantity
+                                                :unit (z13 / year)
+                                                :quant 18))))
+    :op2 (z14 / know-01
+              :ARG0 z10
+              :ARG1 (z15 / time
+                         :temporal-of (z16 / it)
+                         :mod (z17 / just))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt [But at the time when we were small and used to herd our sheep up there we did not know things like this.] Only my cousin had a smattering of such information,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:07:02.255763
+(z0 / contrast-91
+    :ARG2 (z1 / know-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / resemble-91
+                                     :ARG2 (z5 / this)))
+              :temporal (z6 / and
+                            :op1 (z7 / small
+                                     :domain z2)
+                            :op2 (z8 / use-01
+                                     :ARG1 z2
+                                     :ARG2 (z9 / herd-01
+                                               :ARG0 z2
+                                               :ARG1 (z10 / sheep
+                                                          :possessor z2)
+                                               :place (z11 / there)))
+                            :polarity -)))

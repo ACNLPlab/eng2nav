@@ -1,0 +1,96 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:03.738786
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:03.738824
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / thing
+                       :ARG1-of (z4 / tell-01
+                                    :ARG0 (z5 / he)
+                                    :ARG2 (z6 / mention-01
+                                              :ARG0 z5
+                                              :ARG1 (z7 / word)
+                                              :polarity -)))
+             :temporal (z8 / go-02
+                           :ARG0 z2
+                           :ARG4 (z9 / there)
+                           :direction (z10 / up))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We made about two runs over these villages.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:03.738828
+(z0 / make-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / run-02
+              :ARG0 z1
+              :path (z3 / over
+                        :op1 (z4 / village
+                                 :mod (z5 / this))
+                        :ARG5 (z6 / cartesian-framework-91
+                                  :ARG1 (z7 / build-space))
+                        :quant (z8 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That's what the pilot (of this plane) told me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:03.738833
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / pilot-01
+                           :ARG1 (z3 / plane
+                                     :mod (z4 / this))))
+    :ARG1 (z5 / that)
+    :ARG2 (z6 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The people who had promised their children for school were named, and we were told many things about the school.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:03.738837
+(z0 / and
+    :op1 (z1 / name-01
+             :ARG1 (z2 / person
+                       :ARG0-of (z3 / promise-01
+                                    :ARG1 (z4 / person
+                                              :ARG1-of (z5 / have-rel-role-92
+                                                           :ARG2 (z6 / parent)
+                                                           :ARG3 (z7 / child)))
+                                    :purpose (z8 / school))))
+    :op2 (z9 / tell-01
+             :ARG0 z6
+             :ARG1 (z10 / thing
+                        :quant (z11 / many)
+                        :topic (z12 / school))
+             :ARG2 (z13 / we)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That is the way my grandfather drove me about and spoke to me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:03.738841
+(z0 / and
+    :op1 (z1 / drive-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather))
+                       :direction (z6 / about))
+             :op2 (z7 / speak-01
+                      :ARG0 z2
+                      :ARG2 z4))
+    :domain (z8 / that))

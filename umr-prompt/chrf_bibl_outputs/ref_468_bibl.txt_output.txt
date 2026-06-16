@@ -1,0 +1,159 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We trailed them for quite a while when suddenly, from within a nearby oak clump, there came the sound of dogs barking loudly.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:57:48.170636
+(z0 / lag-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :duration (z3 / while
+                  :degree (z4 / quite))
+    :temporal (z5 / sudden)
+    :temporal (z6 / sound-02
+                  :ARG0 (z7 / dog)
+                  :ARG1 (z8 / bark-01
+                            :ARG0 z7
+                            :manner (z9 / loud))
+                  :source (z10 / clump
+                               :mod (z11 / nearby))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When he said the plane nearly turned over with him it was because (this plane was flying low and to gain altitude) the plane had to fly at a steep climb - (it seemed that it would fall over backward).
+# ::annotator bart-amr
+# ::date 2025-10-22 00:57:48.170654
+(z0 / cause-01
+    :ARG0 (z1 / obligate-01
+              :ARG1 (z2 / plane
+                        :mod (z3 / this))
+              :ARG2 (z4 / fly-01
+                        :ARG0 z2
+                        :purpose (z5 / gain-02
+                                     :ARG0 z2
+                                     :ARG1 (z6 / altitude))
+                        :manner (z7 / climb-01
+                                    :ARG1 z2
+                                    :manner (z8 / steep)))
+              :ARG1 (z9 / seem-01
+                        :ARG1 (z10 / fall-over-04
+                                   :ARG1 z2
+                                   :direction (z11 / trajectory
+                                                   :ARG4-of (z12 / backward-02
+                                                                 :ARG3 (z13 / cartesian-framework-91
+                                                                            :ARG1 (z14 / builder)))))
+                        :temporal (z15 / say-01
+                                       :ARG0 (z16 / he)
+                                       :ARG1 (z17 / turn-over-03
+                                                  :ARG1 z2
+                                                  :companion z16
+                                                  :degree (z18 / near))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At the time we had brought the last load of wood; while we were unloading it we noticed two women leading a horse nearby.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:57:48.170659
+(z0 / notice-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / lead-02
+              :ARG0 (z3 / woman
+                        :quant 2)
+              :ARG1 (z4 / horse)
+              :place (z5 / nearby)
+              :temporal (z6 / bring-01
+                            :ARG0 z1
+                            :ARG1 (z7 / load
+                                      :consist-of (z8 / wood)
+                                      :ord (z9 / ordinal-entity
+                                               :value "-1")))
+              :temporal (z10 / while
+                             :op1 (z11 / load-01
+                                       :ARG0 z1
+                                       :ARG1 z7))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:57:48.170663
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then Black Horse spoke up and said, "This business of taking children away from people to put them in school - when is it going to affect the people from over beyond the mountain?"
+# ::annotator bart-amr
+# ::date 2025-10-22 00:57:48.170668
+(z0 / speak-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / affect-01
+              :ARG0 (z4 / business
+                        :purpose (z5 / take-away-05
+                                     :ARG0 z4
+                                     :ARG1 (z6 / child)
+                                     :ARG2 (z7 / person)
+                                     :purpose (z8 / put-01
+                                                  :ARG0 z4
+                                                  :ARG1 z6
+                                                  :ARG2 (z9 / school))))
+              :ARG1 (z10 / umr-unknown)
+              :ARG2 (z11 / person
+                         :source (z12 / over
+                                      :op1 (z13 / mountain)
+                                      :ARG5 (z14 / cartesian-framework-91
+                                                 :ARG1 (z15 / build-space))))
+              :temporal (z16 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They built the trading post and four years later perhaps, I do not recall exactly when, the one I called my uncle told us to haul wood there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:57:48.170672
+(z0 / and
+    :op1 (z1 / build-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / post
+                       :mod (z4 / trade))
+             :temporal (z5 / after
+                           :quant (z6 / temporal-quantity
+                                      :unit (z7 / year)
+                                      :quant 4))
+             :op2 (z8 / recall-02
+                      :ARG0 (z9 / i)
+                      :ARG1 (z10 / tell-01
+                                 :ARG0 (z11 / one
+                                            :ARG1-of (z12 / call-01
+                                                          :ARG0 z9
+                                                          :ARG2 (z13 / person
+                                                                     :ARG1-of (z14 / have-rel-role-92
+                                                                                   :ARG2 z9
+                                                                                   :ARG3 (z15 / uncle)))))
+                                 :ARG1 (z16 / haul-01
+                                            :ARG0 z9
+                                            :ARG1 (z17 / wood)
+                                            :ARG2 (z18 / there))
+                                 :ARG1-of (z19 / possible-01))
+                      :polarity -)))

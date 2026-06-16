@@ -1,0 +1,97 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:53.093342
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:53.093359
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I got over to where the dog was barking, and there I saw a bear standing.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:53.093364
+(z0 / and
+    :op1 (z1 / get-01
+             :ARG0 (z2 / i)
+             :ARG4 (z3 / over
+                       :op1 (z4 / barking-01
+                                :ARG0 (z5 / dog))))
+    :op2 (z6 / see-01
+             :ARG0 z2
+             :ARG1 (z7 / stand-01
+                       :ARG1 (z8 / bear))
+             :place z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we took off
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:53.093368
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :temporal (z2 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When the sheep would be on the side of the mountain, I'd skirt them from above.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:53.093372
+(z0 / skirt-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :source (z3 / above-01
+                :ARG3 (z4 / cartesian-framework-91
+                          :ARG1 (z5 / build-space)))
+    :temporal (z6 / have-place-91
+                  :ARG1 z2
+                  :ARG2 (z7 / side
+                            :part-of (z8 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt These two men got aboard and we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:53.093377
+(z0 / and
+    :op1 (z1 / get-30
+             :ARG1 (z2 / man
+                       :mod (z3 / this)
+                       :quant 2)
+             :ARG2 (z4 / aboard))
+    :op2 (z5 / take-off-07
+             :ARG0 (z6 / we)
+             :mod (z7 / again)))

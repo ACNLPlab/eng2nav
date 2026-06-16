@@ -1,0 +1,60 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:54.572238
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt not in the mountains.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:54.572250
+(z0 / have-place-91
+    :ARG2 (z1 / mountain)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt for the Navajo country.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:54.572255
+(z0 / concern-02
+    :ARG1 (z1 / country
+              :name (z2 / name
+                        :op1 "Navajo")
+              :wiki "Navajo_country"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Go run a race.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:54.572259
+(z0 / go-02
+    :ARG0 (z1 / you)
+    :ARG4 (z2 / run-02
+              :ARG0 z1
+              :ARG1 (z3 / race))
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt to carry on the ceremony.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:54.572263
+(z0 / have-purpose-91
+    :ARG2 (z1 / carry-01
+              :ARG1 (z2 / ceremony)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:54.572267
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))

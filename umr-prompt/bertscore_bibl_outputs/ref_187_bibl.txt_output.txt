@@ -1,0 +1,62 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He stood up for the two of us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:32:41.818899
+(z0 / stand-up-07
+    :ARG0 (z1 / he)
+    :affectee (z2 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:32:41.818911
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:32:41.818916
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That happened to two of us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:32:41.818920
+(z0 / event
+    :mod (z1 / that)
+    :ARG2 (z2 / we
+              :quant 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:32:41.818924
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He was keeping them together.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:32:41.818928
+(z0 / keep-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / together-01
+              :ARG1 (z3 / they)))

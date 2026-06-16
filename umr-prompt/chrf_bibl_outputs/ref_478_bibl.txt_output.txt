@@ -1,0 +1,98 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He used sticks to strike among them
+# ::annotator bart-amr
+# ::date 2025-10-22 01:01:20.675081
+(z0 / use-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / strike-01
+              :ARG0 z1
+              :ARG1 (z3 / stick)
+              :place (z4 / among
+                         :op1 (z5 / they))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt As they were taking him outside I crawled and squeezed myself out among them.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:01:20.675097
+(z0 / and
+    :op1 (z1 / crawl-01
+             :ARG0 (z2 / i)
+             :temporal (z3 / take-01
+                           :ARG0 (z4 / they)
+                           :ARG1 (z5 / he)
+                           :ARG2 (z6 / outside))
+             :op2 (z7 / squeeze-01
+                      :ARG0 z2
+                      :ARG1 z2
+                      :place (z8 / among
+                                 :op1 (z9 / they)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He used to be out there early in the morning with a stick especially made for that purpose.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:01:20.675101
+(z0 / have-place-91
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / there)
+    :ARG3 (z3 / stick
+              :ARG1-of (z4 / make-01
+                           :ARG2 (z5 / purpose
+                                     :mod (z6 / that))
+                           :degree (z7 / especially)))
+    :temporal (z8 / early-01
+                  :ARG2 (z9 / date-entity
+                            :dayperiod (z10 / morning))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:01:20.675106
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and among these were some women.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:01:20.675110
+(z0 / and
+    :op2 (z1 / include-91
+             :ARG1 (z2 / woman
+                       :quant (z3 / some))
+             :ARG2 (z4 / this)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He was picking up things that were scattered on the ground about him, such as sticks and stones,
+# ::annotator bart-amr
+# ::date 2025-10-22 01:01:20.675114
+(z0 / pick-up-04
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / scatter-01
+                           :ARG2 (z4 / ground)
+                           :place (z5 / about
+                                      :op1 z1))
+              :example (z6 / and
+                           :op1 (z7 / stick)
+                           :op2 (z8 / stone))))

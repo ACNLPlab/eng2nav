@@ -1,0 +1,54 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That's the way it is.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:43:15.323334
+(z0 / way
+    :domain (z1 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That’s what I think.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:43:15.323346
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And it is true.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:43:15.323350
+(z0 / and
+    :op2 (z1 / true-01
+             :ARG1 (z2 / it)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:43:15.323355
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:43:15.323359
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt This is how we arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:43:15.323363
+(z0 / arrive-01
+    :ARG1 (z1 / we)
+    :manner (z2 / this))

@@ -1,0 +1,109 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It is remarkable how risky life was in those days.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:58.833946
+(z0 / remarkable-02
+    :ARG1 (z1 / risk-01
+              :ARG1 (z2 / live-01))
+    :temporal (z3 / day
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt In those days people went about only on horseback
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:58.833962
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / about)
+    :manner (z3 / horseback)
+    :mod (z4 / only)
+    :temporal (z5 / day
+                  :mod (z6 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt A man of the Salty Water Clan whose name was Slender Lava had his family there, and his wife cooked all night for the men who were making the trouble.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:58.833967
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / man
+                       :mod (z3 / clan
+                                :name (z4 / name
+                                          :op1 "Salty"
+                                          :op2 "Water"
+                                          :op3 "Clan")
+                                :wiki "Salty_Water")
+                       :ARG1-of (z5 / name
+                                    :op1 "Slender"
+                                    :op3 "Lava"))
+             :ARG1 (z6 / there))
+    :op2 (z7 / eat-01
+             :ARG0 (z8 / woman
+                       :ARG1-of (z9 / have-rel-role-92
+                                    :ARG2 z2
+                                    :ARG3 (z10 / wife)))
+             :ARG2 (z11 / man
+                        :ARG0-of (z12 / trouble-01))
+             :duration (z13 / date-entity
+                            :dayperiod (z14 / night))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Quite some time ago when they moved back from Fort Sumner he had a hard time. He started his life by poking around in the horse manure in a stable.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:58.833971
+(z0 / hard-02
+    :ARG1 (z1 / he)
+    :temporal (z2 / before
+                  :op1 (z3 / now)
+                  :quant (z4 / quite))
+    :temporal (z5 / move-01
+                  :ARG0 (z6 / they)
+                  :ARG4 (z7 / city
+                            :name (z8 / name
+                                      :op1 "Fort"
+                                      :op2 "Sumner")
+                            :wiki "Fort_Sumner,_North_Carolina")))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt After three days (of flying), a man from Kayenta said that he had been unable to spot his own hogan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:58.833976
+(z0 / say-01
+    :ARG0 (z1 / man
+              :source (z2 / city
+                          :name (z3 / name
+                                    :op1 "Kayenta")
+                          :wiki -))
+    :ARG1 (z4 / possible-01
+              :ARG1 (z5 / spot-01
+                        :ARG0 z1
+                        :ARG1 (z6 / hogan
+                                  :possessor z1)
+                        :polarity -)
+              :temporal (z7 / after
+                            :op1 (z8 / fly-01
+                                     :ARG1 z1
+                                     :duration (z9 / temporal-quantity
+                                                   :unit (z10 / day)
+                                                   :quant 3)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Let’s see, I believe it was in the month of October
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:58.833980
+(z0 / and
+    :op1 (z1 / see-01
+             :ARG0 (z2 / we)
+             :mode imperative)
+    :op2 (z3 / believe-01
+             :ARG0 (z4 / i)
+             :ARG1 (z5 / have-place-91
+                       :ARG1 (z6 / it)
+                       :ARG2 (z7 / date-entity
+                                 :month 10))))

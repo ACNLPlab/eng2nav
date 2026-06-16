@@ -1,0 +1,65 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There the two men got off
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:47.944247
+(z0 / get-05
+    :ARG1 (z1 / man
+              :quant 2)
+    :direction (z2 / off)
+    :place (z3 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we took off
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:47.944259
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :temporal (z2 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These two men got aboard and we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:47.944263
+(z0 / and
+    :op1 (z1 / get-30
+             :ARG1 (z2 / man
+                       :mod (z3 / this)
+                       :quant 2)
+             :ARG2 (z4 / aboard))
+    :op2 (z5 / take-off-07
+             :ARG0 (z6 / we)
+             :mod (z7 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt So there were three policemen.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:47.944268
+(z0 / cause-01
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / guard-01)
+              :quant 3))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:47.944272
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Many people lost stock.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:47.944276
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / stock))

@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Back at that time it was different.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:53:20.237064
+(z0 / differ-02
+    :ARG1 (z1 / it)
+    :temporal (z2 / time
+                  :mod (z3 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt At that time he was a policeman.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:53:20.237075
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and was one of the leaders at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:53:20.237080
+(z0 / and
+    :op2 (z1 / person
+             :ARG1-of (z2 / lead-02
+                          :temporal (z3 / time
+                                        :mod (z4 / that)))
+             :quant 1))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is what I had an ambition to do at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:53:20.237084
+(z0 / ambition-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / that))
+    :temporal (z4 / time
+                  :mod (z5 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We were punished at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:53:20.237088
+(z0 / punish-01
+    :ARG1 (z1 / we)
+    :temporal (z2 / time
+                  :mod (z3 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt At that time, when they acted as they did, they were young men.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:53:20.237092
+(z0 / have-age-91
+    :ARG1 (z1 / they)
+    :ARG2 (z2 / man)
+    :ARG3 (z3 / young)
+    :temporal (z4 / act-02
+                  :ARG0 z1
+                  :manner (z5 / do-02
+                              :ARG0 z1))
+    :temporal (z6 / time
+                  :mod (z7 / that)))

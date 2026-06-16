@@ -1,0 +1,90 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That is how it came about that the one who would be called The Interpreter (Chee Dodge) and the one who would be named Big Lump Setting Up came to move there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:06.202414
+(z0 / come-33
+    :ARG1 (z1 / and
+              :op1 (z2 / one
+                       :ARG1-of (z3 / call-01
+                                    :ARG2 (z4 / interpreter))
+                       :op2 (z5 / person
+                                :name (z6 / name
+                                          :op1 "Chee"
+                                          :op2 "Dodge")
+                                :wiki -)
+                       :op3 (z7 / one
+                                :ARG1-of (z8 / name-01
+                                             :ARG2 (z9 / set-up-03))))
+              :ARG2 (z10 / there))
+    :ARG2 (z11 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt This is how he came to be called Chee (Red).
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:06.202432
+(z0 / come-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / call-01
+              :ARG1 z1
+              :ARG2 (z3 / name
+                        :op1 "Chee"
+                        :op2 "(_<pointer:4>_red")))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This is how we arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:06.202436
+(z0 / arrive-01
+    :ARG1 (z1 / we)
+    :manner (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is how he got his start in life.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:06.202440
+(z0 / start-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / live-01
+              :ARG0 z1)
+    :domain (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:06.202444
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They used to call the Former Old Interpreter (Chee Dodge) Chee (Red) when I first heard of him.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:06.202448
+(z0 / call-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / person
+                       :name (z4 / name
+                                 :op1 "Chee"
+                                 :op2 "Dodge")
+                       :wiki -)
+              :op2 (z5 / person
+                       :name (z6 / name
+                                 :op1 "Former"
+                                 :op2 "Old"
+                                 :op3 "Interpreter")
+                       :wiki -)
+              :op3 (z7 / person
+                       :color (z8 / red))
+              :temporal (z9 / hear-01
+                            :ARG0 (z10 / i)
+                            :ARG1 z2
+                            :ord (z11 / ordinal-entity
+                                      :value 1))))

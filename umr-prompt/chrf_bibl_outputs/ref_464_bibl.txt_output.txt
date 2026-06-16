@@ -1,0 +1,90 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There could be some of them right here nearby.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:59.449261
+(z0 / possible-01
+    :ARG1 (z1 / possible-01
+              :ARG1 (z2 / they
+                        :quant (z3 / some)
+                        :place (z4 / here
+                                   :mod (z5 / right-yy)
+                                   :ARG1-of (z6 / have-place-91
+                                                :ARG2 (z7 / nearby))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt All of them had their horses standing there nearby.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:59.449279
+(z0 / have-03
+    :ARG0 (z1 / they
+              :mod (z2 / all))
+    :ARG1 (z3 / stand-01
+              :ARG1 (z4 / horse
+                        :possessor z1)
+              :ARG2 (z5 / there
+                        :ARG1-of (z6 / nearby-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The sheep would be grazing nearby, and we would spend the whole day playing with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:59.449284
+(z0 / and
+    :op1 (z1 / grazing-01
+             :ARG1 (z2 / sheep)
+             :place (z3 / nearby))
+    :op2 (z4 / spend-02
+             :ARG0 (z5 / we)
+             :ARG1 (z6 / play-01
+                       :ARG0 z5
+                       :ARG1 (z7 / ram)
+                       :extent (z8 / whole))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We’ll take them right over there in the flat.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:59.449288
+(z0 / take-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / there
+              :mod (z4 / right)
+              :place (z5 / flat)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He could be seen sitting out there silhouetted against the sun, with the light shining red through his hair.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:59.449292
+(z0 / possible-01
+    :ARG1 (z1 / see-01
+              :ARG1 (z2 / sit-01
+                        :ARG1 (z3 / he)
+                        :place (z4 / there)
+                        :manner (z5 / silhouetted-01
+                                    :ARG0 z3
+                                    :ARG1 (z6 / sun))
+                        :manner (z7 / shine-01
+                                    :ARG1 (z8 / light)
+                                    :ARG2 (z9 / through
+                                              :op1 (z10 / hair
+                                                        :possessor z3))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Someone by the name of Black Horse had brought a party from the other side of the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:59.449296
+(z0 / bring-01
+    :ARG0 (z1 / someone
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / party)
+    :ARG4 (z4 / side
+              :ARG1-of (z5 / other-01)
+              :part-of (z6 / mountain)))

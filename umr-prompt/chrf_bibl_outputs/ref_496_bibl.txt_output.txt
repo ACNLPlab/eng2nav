@@ -1,0 +1,98 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That is how we used to have fun with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:09:04.946205
+(z0 / fun-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / ram)
+    :temporal (z3 / use-03)
+    :mod (z4 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The sheep would be grazing nearby, and we would spend the whole day playing with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:09:04.946243
+(z0 / and
+    :op1 (z1 / grazing-01
+             :ARG1 (z2 / sheep)
+             :place (z3 / nearby))
+    :op2 (z4 / spend-02
+             :ARG0 (z5 / we)
+             :ARG1 (z6 / play-01
+                       :ARG0 z5
+                       :ARG1 (z7 / ram)
+                       :extent (z8 / whole))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt so one day I decided to have some fun with my cousin by running down toward him as he walked along below me.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:09:04.946247
+(z0 / cause-01
+    :ARG1 (z1 / decide-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / fun-01
+                        :ARG0 z2
+                        :ARG2 (z4 / person
+                                  :ARG1-of (z5 / have-rel-role-92
+                                               :ARG2 z2
+                                               :ARG3 (z6 / cousin)))
+                        :quant (z7 / some))
+              :manner (z8 / run-02
+                          :ARG0 z2
+                          :direction (z9 / trajectory
+                                         :ARG4-of (z10 / down-03
+                                                       :ARG5 (z11 / cartesian-framework-91
+                                                                  :ARG1 (z12 / build-space))))
+                          :temporal (z13 / walk-01
+                                         :ARG0 z4
+                                         :direction (z14 / along)
+                                         :place (z15 / below
+                                                     :op1 z2
+                                                     :ARG3 z11)))
+              :temporal (z16 / day
+                             :mod (z17 / one))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We had the rams in the herd, and they used to really fight with one another.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:09:04.946251
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / ram
+                       :place (z4 / herd)))
+    :op2 (z5 / fight-01
+             :ARG0 z3
+             :ARG2 (z6 / other)
+             :degree (z7 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is how the trading post got its name.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:09:04.946256
+(z0 / name-01
+    :ARG1 (z1 / post
+              :purpose (z2 / trade-01))
+    :ARG2 (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That was how it was too with the other Navajos with whom I went to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:09:04.946260
+(z0 / resemble-91
+    :ARG2 (z1 / that)
+    :ARG3 (z2 / person
+              :mod (z3 / other)
+              :ARG1-of (z4 / go-01
+                           :ARG0 (z5 / i)
+                           :ARG4 (z6 / city
+                                     :name (z7 / name
+                                               :op1 "Phoenix")
+                                     :wiki "Phoenix")))
+    :mod (z8 / too))

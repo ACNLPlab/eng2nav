@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt "Throw him down there!"
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:27.924856
+(z0 / throw-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / he)
+    :ARG2 (z3 / there)
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt "Outside with him!" voices were saying.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:27.924872
+(z0 / say-01
+    :ARG0 (z1 / voice)
+    :ARG1 (z2 / outside
+              :companion (z3 / he)
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:27.924876
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We’ll take them right over there in the flat.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:27.924880
+(z0 / take-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / there
+              :mod (z4 / right)
+              :place (z5 / flat)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They were beating him up.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:27.924884
+(z0 / beat-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We stayed down there and herded the sheep until noon.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:27.924889
+(z0 / stay-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / there
+              :ARG1-of (z3 / down-03
+                           :ARG5 (z4 / cartesian-framework-91
+                                     :ARG1 (z5 / build-space))))
+    :op3 (z6 / herded-01
+             :ARG0 z1
+             :ARG1 (z7 / sheep)
+             :temporal (z8 / until
+                           :op1 (z9 / date-entity
+                                    :dayperiod (z10 / noon)))))

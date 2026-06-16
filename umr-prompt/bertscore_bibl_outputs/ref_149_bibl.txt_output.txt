@@ -1,0 +1,73 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt So they began to think of the matter with bitterness.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:19:47.900116
+(z0 / cause-01
+    :ARG1 (z1 / begin-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / think-01
+                        :ARG0 z2
+                        :ARG1 (z4 / matter)
+                        :manner (z5 / bitterness))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt So people began to think along the lines of their planning.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:19:47.900127
+(z0 / cause-01
+    :ARG1 (z1 / begin-01
+              :ARG0 (z2 / person)
+              :ARG1 (z3 / think-01
+                        :ARG0 z2
+                        :manner (z4 / along-lines
+                                    :op1 (z5 / plan-01
+                                             :ARG0 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt as he began to make a speech to the people.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:19:47.900132
+(z0 / begin-01
+    :ARG1 (z1 / speak-01
+              :ARG0 (z2 / he)
+              :ARG2 (z3 / person)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Here they began life anew.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:19:47.900136
+(z0 / begin-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / new-01))
+    :place (z4 / here))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:19:47.900140
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And we went about, talking enthusiastically about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:19:47.900144
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / we)
+             :direction (z3 / about)
+             :manner (z4 / talk-01
+                         :ARG0 z2
+                         :ARG1 (z5 / it)
+                         :manner (z6 / enthusiastically))))

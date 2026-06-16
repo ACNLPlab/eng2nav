@@ -1,0 +1,80 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt a Red Streak Into Water Clansman. This man was killed recently at St. Michaels at a rodeo. He was killed by a racehorse on the track during the race.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:48.145693
+(z0 / kill-01
+    :ARG1 (z1 / man
+              :mod (z2 / this))
+    :place (z3 / event
+               :name (z4 / name
+                         :op1 "St."
+                         :op2 "Michaels")
+               :wiki "St._Michaels_(p3000 / province)")
+    :temporal (z5 / recent)
+    :place (z6 / event
+               :name (z7 / name
+                         :op1 "Water"
+                         :op2 "Clansman")
+               :wiki -))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Go run a race.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:48.145710
+(z0 / go-02
+    :ARG0 (z1 / you)
+    :ARG4 (z2 / run-02
+              :ARG0 z1
+              :ARG1 (z3 / race))
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Quite some time ago when they moved back from Fort Sumner he had a hard time. He started his life by poking around in the horse manure in a stable.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:48.145714
+(z0 / hard-02
+    :ARG1 (z1 / he)
+    :temporal (z2 / before
+                  :op1 (z3 / now)
+                  :quant (z4 / quite))
+    :temporal (z5 / move-01
+                  :ARG0 (z6 / they)
+                  :ARG4 (z7 / city
+                            :name (z8 / name
+                                      :op1 "Fort"
+                                      :op2 "Sumner")
+                            :wiki "Fort_Sumner,_North_Carolina")))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:48.145718
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:48.145723
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:48.145727
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))

@@ -1,0 +1,74 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Like this I went across our land unloading bales of hay.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:15.704234
+(z0 / go-01
+    :ARG0 (z1 / i)
+    :ARG4 (z2 / across
+              :op1 (z3 / land
+                       :possessor (z4 / we)))
+    :purpose (z5 / load-01
+                 :ARG0 z1
+                 :ARG1 (z6 / hay))
+    :ARG1-of (z7 / resemble-91
+                 :ARG2 (z8 / this)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That's how we went about over our land dropping hay.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:15.704248
+(z0 / drop-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / hay)
+    :place (z3 / over
+               :op1 (z4 / land
+                        :possessor z1))
+    :manner (z5 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:15.704253
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:15.704257
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:15.704261
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The main thing we hauled was hay.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:15.704265
+(z0 / haul-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / hay)
+    :ARG1-of (z3 / have-degree-91
+                 :ARG2 (z4 / main)
+                 :ARG3 (z5 / most)))

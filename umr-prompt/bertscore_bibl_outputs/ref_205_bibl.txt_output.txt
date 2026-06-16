@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It happened that way.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:38:32.666855
+(z0 / have-direction-91
+    :ARG1 (z1 / it)
+    :ARG2 (z2 / way))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That happened to two of us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:38:32.666867
+(z0 / event
+    :mod (z1 / that)
+    :ARG2 (z2 / we
+              :quant 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It happened eighteen years ago too.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:38:32.666872
+(z0 / event
+    :temporal (z1 / before
+                  :op1 (z2 / now)
+                  :quant (z3 / temporal-quantity
+                             :unit (z4 / year)
+                             :quant 18)
+                  :mod (z5 / too)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:38:32.666876
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I heard them saying that.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:38:32.666880
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 (z3 / they)
+              :ARG1 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We started doing that kind of work.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:38:32.666885
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / work-01
+                                     :degree (z5 / kind-of)))))

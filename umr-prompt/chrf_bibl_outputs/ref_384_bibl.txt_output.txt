@@ -1,0 +1,75 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I heard them saying that.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:38.798207
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 (z3 / they)
+              :ARG1 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt “What do you mean by dashing around and saying that?
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:38.798219
+(z0 / mean-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / umr-unknown)
+    :ARG2 (z3 / and
+              :op1 (z4 / dashing-01
+                       :direction (z5 / around))
+              :op2 (z6 / say-01
+                       :ARG0 z1
+                       :ARG1 (z7 / that))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:38.798223
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt down there" voices were heard saying.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:38.798227
+(z0 / say-01
+    :ARG0 (z1 / voice
+              :place (z2 / there
+                         :ARG1-of (z3 / down-03
+                                      :ARG5 (z4 / cartesian-framework-91
+                                                :ARG1 (z5 / build-space))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt This is what that is what I heard. I wasn't at the meeting myself.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:38.798232
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / this
+              :domain (z3 / that))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt These people from the other side of the mountain were saying this.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:23:38.798236
+(z0 / say-01
+    :ARG0 (z1 / person
+              :mod (z2 / this)
+              :source (z3 / side
+                          :ARG1-of (z4 / other-01)
+                          :part-of (z5 / mountain)))
+    :ARG1 (z6 / this))

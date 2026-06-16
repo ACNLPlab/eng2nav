@@ -1,0 +1,81 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I don't know what she had in mind in so saying.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:42.324959
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / think-01
+                           :ARG0 (z4 / she)
+                           :ARG1 (z5 / say-01
+                                     :ARG0 z4)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And I don't know just how this chant goes.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:42.324976
+(z0 / and
+    :op2 (z1 / know-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / go-35
+                       :ARG1 (z4 / chant
+                                 :mod (z5 / this))
+                       :mod (z6 / just))
+             :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Some of us did not know what had been done the night before.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:42.324981
+(z0 / know-01
+    :ARG0 (z1 / we
+              :quant (z2 / some))
+    :ARG1 (z3 / thing
+              :ARG1-of (z4 / do-02
+                           :temporal (z5 / date-entity
+                                         :dayperiod (z6 / night)
+                                         :mod (z7 / before))))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:42.324985
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I don't know how it was done.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:42.324989
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG1 (z3 / it))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I don't know how far above the clouds.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:42.324993
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / distance-quantity
+              :quant-of (z3 / above-01
+                            :ARG2 (z4 / cloud)
+                            :ARG3 (z5 / cartesian-framework-91
+                                      :ARG1 (z6 / build-space))))
+    :polarity -)

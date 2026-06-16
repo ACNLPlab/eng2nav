@@ -1,0 +1,129 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That was how it was too with the other Navajos with whom I went to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:20.111631
+(z0 / resemble-91
+    :ARG2 (z1 / that)
+    :ARG3 (z2 / person
+              :mod (z3 / other)
+              :ARG1-of (z4 / go-01
+                           :ARG0 (z5 / i)
+                           :ARG4 (z6 / city
+                                     :name (z7 / name
+                                               :op1 "Phoenix")
+                                     :wiki "Phoenix")))
+    :mod (z8 / too))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We ate and then flew right back over on the same route, and everything that had happened seemed like a dream. It was late in the afternoon when we got back to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:20.111647
+(z0 / and
+    :op1 (z1 / eat-01
+             :ARG0 (z2 / we))
+    :op2 (z3 / fly-01
+             :ARG0 z2
+             :ARG4 (z4 / back
+                       :destination (z5 / city
+                                        :name (z6 / name
+                                                  :op1 "Phoenix")
+                                        :wiki "Phoenix,_Arizona")
+                       :direction (z7 / route
+                                      :ARG1-of (z8 / same-01)
+                                      :mod (z9 / right-yy)))
+             :temporal (z10 / late-01
+                            :ARG2 (z11 / date-entity
+                                       :dayperiod (z12 / afternoon)))
+             :op3 (z13 / seem-01
+                       :ARG1 (z14 / everything
+                                  :ARG1-of (z15 / do-02))
+                       :ARG2 (z16 / dream-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt with the one who would thumbprint the papers for us and who would vouch for us. It was my grandfather, Big Mexican Clansman.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:20.111652
+(z0 / and
+    :op1 (z1 / one
+             :ARG0-of (z2 / thumbprint-01
+                          :ARG1 (z3 / paper)
+                          :ARG2 (z4 / we))
+             :ARG0-of (z5 / vouch-01
+                          :ARG1 z4
+                          :ARG2 z4)
+             :domain (z6 / person
+                         :ARG1-of (z7 / have-org-role-92
+                                      :ARG2 (z8 / country
+                                                :name (z9 / name
+                                                          :op1 "Big"
+                                                          :op2 "Mexican"
+                                                          :op3 "Clansman")
+                                                :wiki "Big_Mexican_Clansman")
+                                      :ARG3 (z10 / grandfather)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:20.111656
+(z0 / go-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / mother)))
+    :ARG4 (z5 / foot)
+    :extent (z6 / far
+                :extent-of (z7 / move-01
+                               :ARG0 (z8 / person)
+                               :temporal (z9 / date-entity
+                                             :dayperiod (z10 / day)
+                                             :mod (z11 / that)))
+                :temporal (z12 / following
+                               :op1 (z13 / date-entity
+                                         :dayperiod (z14 / night
+                                                         :temporal-of (z15 / bear-02
+                                                                           :ARG0 z1
+                                                                           :ARG1 z3))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:20.111661
+(z0 / say-01
+    :ARG1 (z1 / start-01
+              :ARG1 (z2 / wagon
+                        :companion (z3 / child))
+              :temporal (z4 / after
+                            :op1 (z5 / now)
+                            :quant (z6 / temporal-quantity
+                                       :unit (z7 / day)
+                                       :quant 2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:22:20.111665
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))

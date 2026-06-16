@@ -1,0 +1,110 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:42:44.884366
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We saw the people going inside the trading post,
+# ::annotator bart-amr
+# ::date 2025-10-21 21:42:44.884385
+(z0 / see-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / go-02
+              :ARG0 (z3 / person)
+              :ARG4 (z4 / inside
+                        :op1 (z5 / post
+                                 :mod (z6 / trade)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The house served the purpose of providing a place to sleep for the people who came to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:42:44.884389
+(z0 / serve-01
+    :ARG0 (z1 / house)
+    :ARG1 (z2 / provide-01
+              :ARG1 (z3 / place
+                        :purpose (z4 / sleep-01
+                                     :ARG0 (z5 / person
+                                               :ARG0-of (z6 / come-01
+                                                            :ARG1 (z7 / post
+                                                                      :mod (z8 / trade))))))
+              :ARG2 z5))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt On the next day we went to the trading post, and my grandfather put his thumbprint on a paper for us.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:42:44.884393
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / post
+                       :mod (z4 / trade))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / day)
+                           :mod (z7 / next))
+             :op2 (z8 / put-01
+                      :ARG0 (z9 / person
+                                :ARG1-of (z10 / have-rel-role-92
+                                              :ARG2 z2
+                                              :ARG3 (z11 / grandfather)))
+                      :ARG1 (z12 / thing
+                                 :ARG1-of (z13 / thumbprint-01
+                                               :ARG0 z9))
+                      :ARG2 (z14 / paper))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The people went into the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:42:44.884398
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / post
+              :mod (z3 / trade)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt South from the trading post there is a ruin which we call in Navajo "Shattered House." Someone burned it long ago.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:42:44.884402
+(z0 / ruin-01
+    :ARG1-of (z1 / call-01
+                 :ARG0 (z2 / we)
+                 :ARG2 (z3 / house
+                           :name (z4 / name
+                                     :op1 "Shattered"
+                                     :op2 "House")
+                           :wiki "Shattered_House"))
+    :place (z5 / space
+               :ARG1-of (z6 / south-01
+                            :ARG2 (z7 / post
+                                      :mod (z8 / trade))
+                            :ARG3 (z9 / cartesian-framework-91
+                                      :ARG1 (z10 / builder)))
+               :ARG1-of (z11 / burn-01
+                             :ARG0 (z12 / someone)
+                             :temporal (z13 / before
+                                            :op1 (z14 / now)
+                                            :quant (z15 / long)))))

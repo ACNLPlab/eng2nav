@@ -1,0 +1,94 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Nevertheless, we hauled two loads that day.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.700522
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :temporal (z4 / day
+                            :mod (z5 / that))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Nonetheless we hauled two loads again by the time the sun went down
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.700541
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :mod (z4 / again)
+              :temporal (z5 / by-the-time
+                            :op1 (z6 / go-02
+                                     :ARG1 (z7 / sun)
+                                     :direction (z8 / down)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.700545
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.700550
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.700554
+(z0 / go-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / mother)))
+    :ARG4 (z5 / foot)
+    :extent (z6 / far
+                :extent-of (z7 / move-01
+                               :ARG0 (z8 / person)
+                               :temporal (z9 / date-entity
+                                             :dayperiod (z10 / day)
+                                             :mod (z11 / that)))
+                :temporal (z12 / following
+                               :op1 (z13 / date-entity
+                                         :dayperiod (z14 / night
+                                                         :temporal-of (z15 / bear-02
+                                                                           :ARG0 z1
+                                                                           :ARG1 z3))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The small planes - the two motored ones - loaded at Winslow and hauled from there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:00:11.700558
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG1 (z2 / plane
+                       :mod (z3 / small)
+                       :ARG1-of (z4 / motored-01)
+                       :quant 2)
+             :ARG2 (z5 / city
+                       :name (z6 / name
+                                 :op1 "Winslow")
+                       :wiki "Winslow,_Virginia"))
+    :op2 (z7 / haul-01
+             :ARG1 z2
+             :source z5))

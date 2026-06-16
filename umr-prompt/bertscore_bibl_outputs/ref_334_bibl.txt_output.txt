@@ -1,0 +1,91 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt As we flew over them we watched and saw people swarming about.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:53.809597
+(z0 / and
+    :op1 (z1 / watch-01
+             :ARG0 (z2 / we)
+             :temporal (z3 / over-04
+                           :ARG1 z2
+                           :ARG2 (z4 / they)
+                           :ARG3 (z5 / cartesian-framework-91
+                                     :ARG1 (z6 / build-space))))
+    :op2 (z7 / see-01
+             :ARG0 z2
+             :ARG1 (z8 / swarm-01
+                       :ARG0 (z9 / person)
+                       :place (z10 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt While we were flying through there, there were other planes flying alongside us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:53.809612
+(z0 / fly-01
+    :ARG1 (z1 / plane
+              :ARG1-of (z2 / other-01))
+    :temporal (z3 / through
+                  :op1 (z4 / there))
+    :place (z5 / beside
+               :op1 (z6 / we)
+               :ARG3 (z7 / cartesian-framework-91
+                         :ARG1 z6
+                         :FR (z8 / relative-to-builder))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When we got to the store we found that many people had assembled.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:53.809616
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / assemble-02
+              :ARG0 (z3 / person
+                        :quant (z4 / many)))
+    :temporal (z5 / get-01
+                  :ARG0 z1
+                  :ARG4 (z6 / store)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we flew over Mexican Hat.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:53.809621
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / hat
+              :name (z3 / name
+                        :op1 "Mexican"
+                        :op2 "Hat")
+              :wiki "Mexican_Hat")
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:53.809625
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I got over to where the dog was barking, and there I saw a bear standing.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:53.809629
+(z0 / and
+    :op1 (z1 / get-01
+             :ARG0 (z2 / i)
+             :ARG4 (z3 / over
+                       :op1 (z4 / barking-01
+                                :ARG0 (z5 / dog))))
+    :op2 (z6 / see-01
+             :ARG0 z2
+             :ARG1 (z7 / stand-01
+                       :ARG1 (z8 / bear))
+             :place z3))

@@ -1,0 +1,81 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Come on!", they probably said.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:41:28.535201
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / you)
+              :mode imperative)
+    :ARG1-of (z4 / likely-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt They probably said this because they knew of the wars that were going on.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:41:28.535218
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / this)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / know-01
+                           :ARG0 z1
+                           :ARG1 (z5 / war-01)))
+    :ARG1-of (z6 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They probably planned to go in to see the Agent on the next day.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:41:28.535223
+(z0 / plan-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / go-02
+              :ARG0 z1
+              :ARG4 (z3 / see-01
+                        :ARG0 z1
+                        :ARG1 (z4 / person
+                                  :ARG1-of (z5 / have-org-role-92
+                                               :ARG3 (z6 / agent))))
+              :temporal (z7 / date-entity
+                            :dayperiod (z8 / day)
+                            :mod (z9 / next))
+              :ARG1-of (z10 / probable)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They were probably on their way home.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:41:28.535227
+(z0 / have-place-91
+    :ARG1 (z1 / they)
+    :ARG2 (z2 / home)
+    :ARG1-of (z3 / likely-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt So they probably set out from there for this purpose (of opposing the placing of children in school).
+# ::annotator bart-amr
+# ::date 2025-10-21 22:41:28.535231
+(z0 / have-reason-91
+    :ARG1 (z1 / go-02
+              :ARG0 (z2 / they)
+              :direction (z3 / out)
+              :source (z4 / there)
+              :purpose (z5 / oppose-01
+                           :ARG0 z2
+                           :ARG1 (z6 / place-01
+                                     :ARG1 (z7 / child)
+                                     :ARG2 (z8 / school))))
+    :ARG2 (z9 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That was probably their plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:41:28.535235
+(z0 / plan-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / that)
+    :mod (z3 / probable))

@@ -1,0 +1,79 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And they went on the basis of how many minutes it would take.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:28.828661
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / they)
+             :manner (z3 / basis
+                         :op1 (z4 / temporal-quantity
+                                  :unit (z5 / minute)
+                                  :quant-of (z6 / take-10
+                                                :ARG1 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt so we just went with the crowd.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:28.828678
+(z0 / cause-01
+    :ARG1 (z1 / go-02
+              :ARG0 (z2 / we)
+              :ARG3 (z3 / crowd)
+              :mod (z4 / just)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:28.828682
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They work on a basis of single minutes. They would say it's so far between certain points.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:28.828686
+(z0 / and
+    :op1 (z1 / work-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / temporal-quantity
+                       :unit (z4 / minute)
+                       :quant 1))
+    :op2 (z5 / say-01
+             :ARG0 z2
+             :ARG1 (z6 / between-01
+                       :ARG1 (z7 / it)
+                       :ARG2 (z8 / point
+                                 :mod (z9 / certain))
+                       :ARG3 (z10 / so))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:28.828690
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It took us 30 minutes to get there.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:28.828694
+(z0 / take-10
+    :ARG1 (z1 / get-30
+              :ARG1 (z2 / we)
+              :ARG2 (z3 / there))
+    :ARG2 (z4 / temporal-quantity
+              :unit (z5 / minute)
+              :quant 30))

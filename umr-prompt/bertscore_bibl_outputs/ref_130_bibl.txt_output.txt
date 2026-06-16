@@ -1,0 +1,85 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt "I am putting these two boys in schcool." he said by way of promise.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:45.671601
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / put-01
+              :ARG0 z1
+              :ARG1 (z3 / boy
+                        :mod (z4 / this)
+                        :quant 2)
+              :ARG2 (z5 / cool-04)
+              :quote z0)
+    :manner (z6 / promise-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt "All right," he said.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:45.671619
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / all-right))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt "Come on, you boys. Remember what you said," said Black Horse.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:45.671623
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / come-01
+                       :ARG1 (z5 / you)
+                       :ARG2 (z6 / boy)
+                       :mode imperative)
+              :op2 (z7 / remember-01
+                       :ARG0 (z8 / you)
+                       :ARG1 (z9 / thing
+                                 :ARG1-of (z10 / say-01
+                                               :ARG0 z8))
+                       :mode imperative)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt "Say, let's go to school," I said to my companion.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:45.671627
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 z1
+              :ARG1 (z3 / go-05
+                        :ARG0 z1
+                        :ARG1 (z4 / school)
+                        :quote z0)
+              :ARG2 (z5 / companion)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt "They are putting chidlren in school, it is said."
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:45.671631
+(z0 / say-01
+    :ARG1 (z1 / put-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / child
+                        :quant (z4 / little))
+              :ARG2 (z5 / school)
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He stood up for the two of us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:12:45.671635
+(z0 / stand-up-07
+    :ARG0 (z1 / he)
+    :affectee (z2 / we))

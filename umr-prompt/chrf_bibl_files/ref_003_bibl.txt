@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Those called First Man and First Woman, and White Shell Woman and Changing Woman had come together and they were sitting.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Just as dawn was breaking First Man went out doors to urinate; he glanced over at the peak of Gobernador Knob, and saw a little cloud hanging there, it is said.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt My gradnfather, a man by the name of White Mexican Clansman, and another man called The Son of Former Sweathouse, were the only men. They and several womenfolk worked hard on me.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Sometimes the rams would get far apart and my cousin would step in between them and then jump aside as their heads came together.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That is how it came about that the one who would be called The Interpreter (Chee Dodge) and the one who would be named Big Lump Setting Up came to move there.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

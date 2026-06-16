@@ -1,0 +1,79 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He started sending me on chores.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:29.381165
+(z0 / start-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / send-01
+              :ARG0 z1
+              :ARG1 (z3 / i)
+              :ARG2 (z4 / chore)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We started doing that kind of work.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:29.381181
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / work-01
+                                     :degree (z5 / kind-of)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And then we started back to Phoenix,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:29.381186
+(z0 / and
+    :op2 (z1 / start-01
+             :ARG0 (z2 / we)
+             :place (z3 / city
+                        :name (z4 / name
+                                  :op1 "Phoenix")
+                        :wiki "Phoenix,_Arizona")
+             :temporal (z5 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:29.381190
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Many horses were standing about.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:29.381194
+(z0 / stand-01
+    :ARG1 (z1 / horse
+              :quant (z2 / many))
+    :ARG2 (z3 / about))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Quite some time ago when they moved back from Fort Sumner he had a hard time. He started his life by poking around in the horse manure in a stable.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:29.381198
+(z0 / hard-02
+    :ARG1 (z1 / he)
+    :temporal (z2 / before
+                  :op1 (z3 / now)
+                  :quant (z4 / quite))
+    :temporal (z5 / move-01
+                  :ARG0 (z6 / they)
+                  :ARG4 (z7 / city
+                            :name (z8 / name
+                                      :op1 "Fort"
+                                      :op2 "Sumner")
+                            :wiki "Fort_Sumner,_North_Carolina")))

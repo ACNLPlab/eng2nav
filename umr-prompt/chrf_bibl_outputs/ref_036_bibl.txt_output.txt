@@ -1,0 +1,95 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and among these were some women.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:33.193814
+(z0 / and
+    :op2 (z1 / include-91
+             :ARG1 (z2 / woman
+                       :quant (z3 / some))
+             :ARG2 (z4 / this)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:33.193832
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:33.193837
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt One of these women had come from over beyond the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:33.193841
+(z0 / come-01
+    :ARG1 (z1 / woman
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / woman
+                                     :mod (z4 / this))))
+    :ARG3 (z5 / over
+              :op1 (z6 / mountain)
+              :ARG5 (z7 / cartesian-framework-91
+                        :ARG1 (z8 / builder))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt One of these women had promised her son for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:33.193845
+(z0 / promise-01
+    :ARG0 (z1 / woman
+              :mod (z2 / this))
+    :ARG1 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 z1
+                           :ARG3 (z5 / son)))
+    :ARG2 (z6 / school))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt As they were taking him outside I crawled and squeezed myself out among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:33.193849
+(z0 / and
+    :op1 (z1 / crawl-01
+             :ARG0 (z2 / i)
+             :temporal (z3 / take-01
+                           :ARG0 (z4 / they)
+                           :ARG1 (z5 / he)
+                           :ARG2 (z6 / outside))
+             :op2 (z7 / squeeze-01
+                      :ARG0 z2
+                      :ARG1 z2
+                      :place (z8 / among
+                                 :op1 (z9 / they)))))

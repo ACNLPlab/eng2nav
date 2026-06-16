@@ -1,0 +1,104 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They used to call the Former Old Interpreter (Chee Dodge) Chee (Red) when I first heard of him.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:59.427006
+(z0 / call-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / person
+                       :name (z4 / name
+                                 :op1 "Chee"
+                                 :op2 "Dodge")
+                       :wiki -)
+              :op2 (z5 / person
+                       :name (z6 / name
+                                 :op1 "Former"
+                                 :op2 "Old"
+                                 :op3 "Interpreter")
+                       :wiki -)
+              :op3 (z7 / person
+                       :color (z8 / red))
+              :temporal (z9 / hear-01
+                            :ARG0 (z10 / i)
+                            :ARG1 z2
+                            :ord (z11 / ordinal-entity
+                                      :value 1))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt This is how he came to be called Chee (Red).
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:59.427024
+(z0 / come-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / call-01
+              :ARG1 z1
+              :ARG2 (z3 / name
+                        :op1 "Chee"
+                        :op2 "(_<pointer:4>_red")))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That is how it came about that the one who would be called The Interpreter (Chee Dodge) and the one who would be named Big Lump Setting Up came to move there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:59.427029
+(z0 / come-33
+    :ARG1 (z1 / and
+              :op1 (z2 / one
+                       :ARG1-of (z3 / call-01
+                                    :ARG2 (z4 / interpreter))
+                       :op2 (z5 / person
+                                :name (z6 / name
+                                          :op1 "Chee"
+                                          :op2 "Dodge")
+                                :wiki -)
+                       :op3 (z7 / one
+                                :ARG1-of (z8 / name-01
+                                             :ARG2 (z9 / set-up-03))))
+              :ARG2 (z10 / there))
+    :ARG2 (z11 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Another was Interprete's (i.e. Chee Dodge's) brother-in-law,
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:59.427034
+(z0 / person
+    :mod (z1 / another)
+    :ARG1-of (z2 / have-rel-role-92
+                 :ARG2 (z3 / person
+                           :name (z4 / name
+                                     :op1 "Interprete")
+                           :wiki -)
+                 :ARG3 (z5 / brother)
+                 :ARG4 (z6 / person
+                           :name (z7 / name
+                                     :op1 "Chee"
+                                     :op2 "Dodge")
+                           :wiki -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and he used to teach me what he knew.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:59.427038
+(z0 / and
+    :op2 (z1 / use-01
+             :ARG0 (z2 / he)
+             :ARG1 (z3 / teach-01
+                       :ARG0 z2
+                       :ARG1 (z4 / thing
+                                 :ARG1-of (z5 / know-02
+                                              :ARG0 z2))
+                       :ARG2 (z6 / i))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:59.427042
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))

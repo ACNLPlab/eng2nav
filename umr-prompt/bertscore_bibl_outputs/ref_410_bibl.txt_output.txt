@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt People would merely bring them branches.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:52.138283
+(z0 / bring-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / branch)
+    :ARG2 (z3 / they)
+    :mod (z4 / mere))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:52.138301
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:52.138305
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He started sending me on chores.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:52.138310
+(z0 / start-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / send-01
+              :ARG0 z1
+              :ARG1 (z3 / i)
+              :ARG2 (z4 / chore)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He simply couldn't find it.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:52.138314
+(z0 / possible-01
+    :ARG1 (z1 / find-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / it)
+              :mod (z4 / simple))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He was keeping them together.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:52.138318
+(z0 / keep-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / together-01
+              :ARG1 (z3 / they)))

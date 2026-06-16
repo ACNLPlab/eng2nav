@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Travel by plane means that death is involved
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:19.215627
+(z0 / mean-01
+    :ARG1 (z1 / travel-01
+              :manner (z2 / plane))
+    :ARG2 (z3 / involve-01
+              :ARG1 (z4 / die-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Even if you jump out you'll lose your life.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:19.215639
+(z0 / lose-02
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / life)
+    :condition (z3 / jump-03
+                   :ARG0 z1
+                   :direction (z4 / out)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These planes can even carry automobiles.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:19.215643
+(z0 / possible-01
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / plane
+                        :mod (z3 / this))
+              :ARG1 (z4 / automobile)
+              :mod (z5 / even)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt These big planes have four motors.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:19.215648
+(z0 / have-03
+    :ARG0 (z1 / plane
+              :mod (z2 / big)
+              :mod (z3 / this))
+    :ARG1 (z4 / motor
+              :quant 4))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt because the plane had made me somewhat deaf.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:19.215652
+(z0 / cause-01
+    :ARG0 (z1 / make-02
+              :ARG0 (z2 / plane)
+              :ARG1 (z3 / deaf
+                        :degree (z4 / somewhat))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt In flight the crew would discuss position.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:27:19.215656
+(z0 / discuss-01
+    :ARG0 (z1 / crew)
+    :ARG1 (z2 / position)
+    :temporal (z3 / fly-01))

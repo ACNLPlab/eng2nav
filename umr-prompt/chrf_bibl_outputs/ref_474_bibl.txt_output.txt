@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:59:50.147210
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That day the fog was really thick.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:59:50.147237
+(z0 / thick-03
+    :ARG1 (z1 / fog)
+    :degree (z2 / really)
+    :temporal (z3 / day
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I came back to where he was, and he was certainly angry.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:59:50.147241
+(z0 / and
+    :op1 (z1 / come-01
+             :ARG1 (z2 / i)
+             :ARG4 (z3 / space
+                       :ARG2-of (z4 / have-place-91
+                                    :ARG1 (z5 / he)))
+             :direction (z6 / back))
+    :op2 (z7 / anger-01
+             :ARG0 z5
+             :degree (z8 / certain)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt But his boys were really impatient.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:59:50.147246
+(z0 / contrast-91
+    :ARG2 (z1 / patient-01
+              :ARG1 (z2 / boy
+                        :possessor (z3 / he))
+              :degree (z4 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He was a very strong, husky man.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:59:50.147250
+(z0 / man
+    :domain (z1 / he)
+    :ARG1-of (z2 / strong-02
+                 :degree (z3 / very))
+    :ARG1-of (z4 / husky-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Some times we would fall off, and we would really laugh then too.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:59:50.147254
+(z0 / and
+    :op1 (z1 / fall-off-04
+             :ARG1 (z2 / we)
+             :temporal (z3 / sometimes))
+    :op2 (z4 / laugh-01
+             :ARG0 z2
+             :temporal (z5 / then)
+             :degree (z6 / really)))

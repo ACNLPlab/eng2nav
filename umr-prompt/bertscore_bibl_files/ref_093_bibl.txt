@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Chee was a good friend of a white man from Ugly House (Manuelito, N.M.) known as Big Lump Setting Up (S.E. Aldrich).
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt A man by the name of Black Horse was the leader of that faction.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Chee was his interpreter
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is how it came about that the one who would be called The Interpreter (Chee Dodge) and the one who would be named Big Lump Setting Up came to move there.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He had come on ahead with the white man from Fort Defiance called Little Chief (Agent Dana Shipley).
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and was one of the leaders at that time.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

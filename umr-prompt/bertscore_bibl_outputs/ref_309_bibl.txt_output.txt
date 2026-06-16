@@ -1,0 +1,90 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And they told us there'd be another flight on the next morning.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:34.449092
+(z0 / and
+    :op2 (z1 / tell-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / there
+                       :ARG1 (z4 / fly-01
+                                 :mod (z5 / another))
+                       :ARG2 (z6 / we)
+                       :temporal (z7 / date-entity
+                                     :dayperiod (z8 / morning)
+                                     :mod (z9 / next)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When we got back we were told that we could have the next day off.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:34.449109
+(z0 / tell-01
+    :ARG1 (z1 / possible-01
+              :ARG1 (z2 / have-03
+                        :ARG0 (z3 / we)
+                        :ARG1 (z4 / day
+                                  :mod (z5 / next))
+                        :ARG2 (z6 / off-06
+                                  :ARG1 z3))
+              :ARG2 z3
+              :temporal (z7 / return-01
+                            :ARG1 z3)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:34.449113
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They probably planned to go in to see the Agent on the next day.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:34.449118
+(z0 / plan-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / go-02
+              :ARG0 z1
+              :ARG4 (z3 / see-01
+                        :ARG0 z1
+                        :ARG1 (z4 / person
+                                  :ARG1-of (z5 / have-org-role-92
+                                               :ARG3 (z6 / agent))))
+              :temporal (z7 / date-entity
+                            :dayperiod (z8 / day)
+                            :mod (z9 / next))
+              :ARG1-of (z10 / probable)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt On the next day, February 4, we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:34.449122
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :mod (z2 / again)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / day)
+                  :mod (z5 / next)
+                  :ARG4-of (z6 / have-temporal-91
+                               :ARG1 z1
+                               :ARG3 (z7 / date-entity
+                                         :month 4))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we were told that the time had come.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:34.449126
+(z0 / tell-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / time))
+    :temporal (z4 / then))

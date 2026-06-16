@@ -1,0 +1,89 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Even if you jump out you'll lose your life.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:08.048826
+(z0 / lose-02
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / life)
+    :condition (z3 / jump-03
+                   :ARG0 z1
+                   :direction (z4 / out)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt If you're weak the first harmful thing that comes along will run over you.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:08.048842
+(z0 / run-04
+    :ARG1 (z1 / thing
+              :ord (z2 / ordinal-entity
+                       :value 1)
+              :ARG1-of (z3 / harmful-02))
+    :ARG2 (z4 / you)
+    :condition (z5 / weak-02
+                   :ARG1 z4))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt "We'll not give you a one of our children.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:08.048847
+(z0 / give-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / one
+              :ARG1-of (z3 / have-rel-role-92
+                           :ARG2 z1
+                           :ARG3 (z4 / child
+                                     :possessor z1)))
+    :ARG2 (z5 / you)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He wouldn't do anything under these circumstances even if one got very close to him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:08.048851
+(z0 / do-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / anything)
+    :temporal (z3 / circumstance
+                  :mod (z4 / this))
+    :concession (z5 / even-if
+                    :op1 (z6 / close-10
+                             :ARG1 (z7 / one)
+                             :ARG2 z1
+                             :degree (z8 / very))
+                    :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Don't you remember that I told you that you are not say that
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:08.048855
+(z0 / remember-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / tell-01
+              :ARG0 (z3 / i)
+              :ARG1 (z4 / say-01
+                        :ARG0 z1
+                        :ARG1 (z5 / that)
+                        :polarity -)
+              :ARG2 z1)
+    :polarity -
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Don't you remember? That's why I told you that.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:08.048859
+(z0 / remember-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / that)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / tell-01
+                           :ARG0 z1
+                           :ARG1 (z5 / that)
+                           :ARG2 z1))
+    :polarity -)

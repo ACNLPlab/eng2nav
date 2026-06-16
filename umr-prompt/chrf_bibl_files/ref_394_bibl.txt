@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The small planes - the two motored ones - loaded at Winslow and hauled from there.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt They loaded and hauled from Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt In the fall of that same year we moved from the mountain back down into the valley to herd down there.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They built the trading post and four years later perhaps, I do not recall exactly when, the one I called my uncle told us to haul wood there.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The brother of The One Who Has Eyeglasses (John Lorenzo Hubell) from Ganado, a man called the Bat, was a clerk there. He was over to one side behind the counter.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt South from the trading post there is a ruin which we call in Navajo "Shattered House." Someone burned it long ago.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

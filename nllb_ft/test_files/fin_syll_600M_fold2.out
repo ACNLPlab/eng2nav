@@ -1,0 +1,225 @@
+==========================================
+Testing English→Navajo Model
+Job ID: 1094069
+Node: dgx001
+==========================================
+================================================================================
+Checkpoint  : /home/common/ACNLP/eng2nav/nllb_ft/fin_syll_600M/fold_2/checkpoint-15970
+Data dir    : /home/common/ACNLP/eng2nav/nllb_ft/fin_syll_600M/fold_2/data
+Target lang : fin_Latn
+Output file : /home/common/ACNLP/eng2nav/nllb_ft/fin_syll_600M/fold_2/test_preds.txt
+================================================================================
+
+Loading model...
+Model loaded on cuda
+
+Loading test data...
+Loaded 3196 sentence pairs
+
+Translating...
+  Translated 16/3196
+  Translated 32/3196
+  Translated 48/3196
+  Translated 64/3196
+  Translated 80/3196
+  Translated 96/3196
+  Translated 112/3196
+  Translated 128/3196
+  Translated 144/3196
+  Translated 160/3196
+  Translated 176/3196
+  Translated 192/3196
+  Translated 208/3196
+  Translated 224/3196
+  Translated 240/3196
+  Translated 256/3196
+  Translated 272/3196
+  Translated 288/3196
+  Translated 304/3196
+  Translated 320/3196
+  Translated 336/3196
+  Translated 352/3196
+  Translated 368/3196
+  Translated 384/3196
+  Translated 400/3196
+  Translated 416/3196
+  Translated 432/3196
+  Translated 448/3196
+  Translated 464/3196
+  Translated 480/3196
+  Translated 496/3196
+  Translated 512/3196
+  Translated 528/3196
+  Translated 544/3196
+  Translated 560/3196
+  Translated 576/3196
+  Translated 592/3196
+  Translated 608/3196
+  Translated 624/3196
+  Translated 640/3196
+  Translated 656/3196
+  Translated 672/3196
+  Translated 688/3196
+  Translated 704/3196
+  Translated 720/3196
+  Translated 736/3196
+  Translated 752/3196
+  Translated 768/3196
+  Translated 784/3196
+  Translated 800/3196
+  Translated 816/3196
+  Translated 832/3196
+  Translated 848/3196
+  Translated 864/3196
+  Translated 880/3196
+  Translated 896/3196
+  Translated 912/3196
+  Translated 928/3196
+  Translated 944/3196
+  Translated 960/3196
+  Translated 976/3196
+  Translated 992/3196
+  Translated 1008/3196
+  Translated 1024/3196
+  Translated 1040/3196
+  Translated 1056/3196
+  Translated 1072/3196
+  Translated 1088/3196
+  Translated 1104/3196
+  Translated 1120/3196
+  Translated 1136/3196
+  Translated 1152/3196
+  Translated 1168/3196
+  Translated 1184/3196
+  Translated 1200/3196
+  Translated 1216/3196
+  Translated 1232/3196
+  Translated 1248/3196
+  Translated 1264/3196
+  Translated 1280/3196
+  Translated 1296/3196
+  Translated 1312/3196
+  Translated 1328/3196
+  Translated 1344/3196
+  Translated 1360/3196
+  Translated 1376/3196
+  Translated 1392/3196
+  Translated 1408/3196
+  Translated 1424/3196
+  Translated 1440/3196
+  Translated 1456/3196
+  Translated 1472/3196
+  Translated 1488/3196
+  Translated 1504/3196
+  Translated 1520/3196
+  Translated 1536/3196
+  Translated 1552/3196
+  Translated 1568/3196
+  Translated 1584/3196
+  Translated 1600/3196
+  Translated 1616/3196
+  Translated 1632/3196
+  Translated 1648/3196
+  Translated 1664/3196
+  Translated 1680/3196
+  Translated 1696/3196
+  Translated 1712/3196
+  Translated 1728/3196
+  Translated 1744/3196
+  Translated 1760/3196
+  Translated 1776/3196
+  Translated 1792/3196
+  Translated 1808/3196
+  Translated 1824/3196
+  Translated 1840/3196
+  Translated 1856/3196
+  Translated 1872/3196
+  Translated 1888/3196
+  Translated 1904/3196
+  Translated 1920/3196
+  Translated 1936/3196
+  Translated 1952/3196
+  Translated 1968/3196
+  Translated 1984/3196
+  Translated 2000/3196
+  Translated 2016/3196
+  Translated 2032/3196
+  Translated 2048/3196
+  Translated 2064/3196
+  Translated 2080/3196
+  Translated 2096/3196
+  Translated 2112/3196
+  Translated 2128/3196
+  Translated 2144/3196
+  Translated 2160/3196
+  Translated 2176/3196
+  Translated 2192/3196
+  Translated 2208/3196
+  Translated 2224/3196
+  Translated 2240/3196
+  Translated 2256/3196
+  Translated 2272/3196
+  Translated 2288/3196
+  Translated 2304/3196
+  Translated 2320/3196
+  Translated 2336/3196
+  Translated 2352/3196
+  Translated 2368/3196
+  Translated 2384/3196
+  Translated 2400/3196
+  Translated 2416/3196
+  Translated 2432/3196
+  Translated 2448/3196
+  Translated 2464/3196
+  Translated 2480/3196
+  Translated 2496/3196
+  Translated 2512/3196
+  Translated 2528/3196
+  Translated 2544/3196
+  Translated 2560/3196
+  Translated 2576/3196
+  Translated 2592/3196
+  Translated 2608/3196
+  Translated 2624/3196
+  Translated 2640/3196
+  Translated 2656/3196
+  Translated 2672/3196
+  Translated 2688/3196
+  Translated 2704/3196
+  Translated 2720/3196
+  Translated 2736/3196
+  Translated 2752/3196
+  Translated 2768/3196
+  Translated 2784/3196
+  Translated 2800/3196
+  Translated 2816/3196
+  Translated 2832/3196
+  Translated 2848/3196
+  Translated 2864/3196
+  Translated 2880/3196
+  Translated 2896/3196
+  Translated 2912/3196
+  Translated 2928/3196
+  Translated 2944/3196
+  Translated 2960/3196
+  Translated 2976/3196
+  Translated 2992/3196
+  Translated 3008/3196
+  Translated 3024/3196
+  Translated 3040/3196
+  Translated 3056/3196
+  Translated 3072/3196
+  Translated 3088/3196
+  Translated 3104/3196
+  Translated 3120/3196
+  Translated 3136/3196
+  Translated 3152/3196
+  Translated 3168/3196
+  Translated 3184/3196
+  Translated 3196/3196
+
+Done.
+Saved predictions to: /home/common/ACNLP/eng2nav/nllb_ft/fin_syll_600M/fold_2/test_preds.txt
+==========================================
+Testing complete!
+==========================================

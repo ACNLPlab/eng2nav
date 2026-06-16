@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Why are you lying down?
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:48.775861
+(z0 / lie-07
+    :ARG1 (z1 / you)
+    :ARG1-of (z2 / cause-01
+                 :ARG0 (z3 / umr-unknown)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt What is it that the dogs can be heard barking at?
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:48.775874
+(z0 / possible-01
+    :ARG1 (z1 / hear-01
+              :ARG1 (z2 / barking-01
+                        :ARG0 (z3 / dog)
+                        :ARG1 (z4 / umr-unknown))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They were beating him up.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:48.775878
+(z0 / beat-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Even if you jump out you'll lose your life.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:48.775882
+(z0 / lose-02
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / life)
+    :condition (z3 / jump-03
+                   :ARG0 z1
+                   :direction (z4 / out)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:48.775886
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt “What do you mean by dashing around and saying that?
+# ::annotator bart-amr
+# ::date 2025-10-21 21:54:48.775891
+(z0 / mean-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / umr-unknown)
+    :ARG2 (z3 / and
+              :op1 (z4 / dashing-01
+                       :direction (z5 / around))
+              :op2 (z6 / say-01
+                       :ARG0 z1
+                       :ARG1 (z7 / that))))

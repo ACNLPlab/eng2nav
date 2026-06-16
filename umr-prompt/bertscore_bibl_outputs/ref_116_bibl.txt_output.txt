@@ -1,0 +1,95 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt "They are putting chidlren in school, it is said."
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:03.248608
+(z0 / say-01
+    :ARG1 (z1 / put-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / child
+                        :quant (z4 / little))
+              :ARG2 (z5 / school)
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We heard reports that there were people going about to get children put into school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:03.248625
+(z0 / hear-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / report-01
+              :ARG1 (z3 / get-01
+                        :ARG0 (z4 / person)
+                        :ARG1 (z5 / put-01
+                                  :ARG1 (z6 / child)
+                                  :ARG2 (z7 / school))
+                        :temporal (z8 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:03.248629
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt "I am putting these two boys in schcool." he said by way of promise.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:03.248633
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / put-01
+              :ARG0 z1
+              :ARG1 (z3 / boy
+                        :mod (z4 / this)
+                        :quant 2)
+              :ARG2 (z5 / cool-04)
+              :quote z0)
+    :manner (z6 / promise-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt So they probably set out from there for this purpose (of opposing the placing of children in school).
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:03.248638
+(z0 / have-reason-91
+    :ARG1 (z1 / go-02
+              :ARG0 (z2 / they)
+              :direction (z3 / out)
+              :source (z4 / there)
+              :purpose (z5 / oppose-01
+                           :ARG0 z2
+                           :ARG1 (z6 / place-01
+                                     :ARG1 (z7 / child)
+                                     :ARG2 (z8 / school))))
+    :ARG2 (z9 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:03.248642
+(z0 / say-01
+    :ARG1 (z1 / start-01
+              :ARG1 (z2 / wagon
+                        :companion (z3 / child))
+              :temporal (z4 / after
+                            :op1 (z5 / now)
+                            :quant (z6 / temporal-quantity
+                                       :unit (z7 / day)
+                                       :quant 2))))

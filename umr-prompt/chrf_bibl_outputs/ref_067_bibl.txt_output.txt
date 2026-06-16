@@ -1,0 +1,109 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And since it had snowed the night before they had to go through the snow.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:31.362143
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / snow-01
+                       :temporal (z3 / date-entity
+                                     :dayperiod (z4 / night)
+                                     :mod (z5 / before)))
+             :ARG1 (z6 / obligate-01
+                       :ARG2 (z7 / go-02
+                                 :ARG0 (z8 / they)
+                                 :path (z9 / through
+                                           :op1 (z10 / snow))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Some of us did not know what had been done the night before.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:31.362169
+(z0 / know-01
+    :ARG0 (z1 / we
+              :quant (z2 / some))
+    :ARG1 (z3 / thing
+              :ARG1-of (z4 / do-02
+                           :temporal (z5 / date-entity
+                                         :dayperiod (z6 / night)
+                                         :mod (z7 / before))))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt While they were making this move they stopped for the night, and it is said that I was born where they halted.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:31.362174
+(z0 / and
+    :op1 (z1 / stop-01
+             :ARG0 (z2 / they)
+             :temporal (z3 / move-01
+                           :ARG0 z2
+                           :mod (z4 / this))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / night)))
+    :op2 (z7 / say-01
+             :ARG1 (z8 / bear-02
+                       :ARG1 (z9 / i)
+                       :place (z10 / halt-01
+                                   :ARG0 z2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:31.362178
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :temporal (z3 / since
+                  :op1 (z4 / report-01
+                           :ARG1 (z5 / before
+                                     :op1 (z6 / arrive-01
+                                              :ARG1 (z7 / load
+                                                        :possessor (z8 / child)))
+                                     :mod (z9 / another)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He could be seen sitting out there silhouetted against the sun, with the light shining red through his hair.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:31.362182
+(z0 / possible-01
+    :ARG1 (z1 / see-01
+              :ARG1 (z2 / sit-01
+                        :ARG1 (z3 / he)
+                        :place (z4 / there)
+                        :manner (z5 / silhouetted-01
+                                    :ARG0 z3
+                                    :ARG1 (z6 / sun))
+                        :manner (z7 / shine-01
+                                    :ARG1 (z8 / light)
+                                    :ARG2 (z9 / through
+                                              :op1 (z10 / hair
+                                                        :possessor z3))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:31.362187
+(z0 / go-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / mother)))
+    :ARG4 (z5 / foot)
+    :extent (z6 / far
+                :extent-of (z7 / move-01
+                               :ARG0 (z8 / person)
+                               :temporal (z9 / date-entity
+                                             :dayperiod (z10 / day)
+                                             :mod (z11 / that)))
+                :temporal (z12 / following
+                               :op1 (z13 / date-entity
+                                         :dayperiod (z14 / night
+                                                         :temporal-of (z15 / bear-02
+                                                                           :ARG0 z1
+                                                                           :ARG1 z3))))))

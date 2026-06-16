@@ -1,0 +1,72 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He used sticks to strike among them
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:06.086029
+(z0 / use-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / strike-01
+              :ARG0 z1
+              :ARG1 (z3 / stick)
+              :place (z4 / among
+                         :op1 (z5 / they))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:06.086042
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They were beating him up.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:06.086046
+(z0 / beat-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:06.086051
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We made about two runs over these villages.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:06.086055
+(z0 / make-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / run-02
+              :ARG0 z1
+              :path (z3 / over
+                        :op1 (z4 / village
+                                 :mod (z5 / this))
+                        :ARG5 (z6 / cartesian-framework-91
+                                  :ARG1 (z7 / build-space))
+                        :quant (z8 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:06.086059
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)

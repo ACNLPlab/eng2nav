@@ -1,0 +1,77 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He knows English", I said.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:27.715481
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / know-02
+              :ARG0 (z3 / he)
+              :ARG1 (z4 / language
+                        :name (z5 / name
+                                  :op1 "English")
+                        :wiki "English_language")
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He knew a little English,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:27.715497
+(z0 / know-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / language
+              :name (z3 / name
+                        :op1 "English")
+              :wiki "English_language"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt "They are putting chidlren in school, it is said."
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:27.715502
+(z0 / say-01
+    :ARG1 (z1 / put-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / child
+                        :quant (z4 / little))
+              :ARG2 (z5 / school)
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt "Say, let's go to school," I said to my companion.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:27.715506
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 z1
+              :ARG1 (z3 / go-05
+                        :ARG0 z1
+                        :ARG1 (z4 / school)
+                        :quote z0)
+              :ARG2 (z5 / companion)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt A bear! A bear!” I said, as I went zooming by him.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:27.715510
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :mode expressive)
+    :temporal (z3 / go-02
+                  :ARG0 z1
+                  :ARG4 (z4 / by
+                            :op1 (z5 / he))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt "All right," he said.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:20:27.715521
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / all-right))

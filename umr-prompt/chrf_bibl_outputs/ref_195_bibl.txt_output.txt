@@ -1,0 +1,105 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt making out papers for more of our children.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:42.158236
+(z0 / make-01
+    :ARG1 (z1 / paper)
+    :ARG2 (z2 / person
+              :ARG1-of (z3 / have-rel-role-92
+                           :ARG2 (z4 / we)
+                           :ARG3 (z5 / child
+                                     :ARG1-of (z6 / have-rel-role-92
+                                                  :ARG2 z4
+                                                  :ARG3 (z7 / more))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt "We'll not give you a one of our children.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:42.158253
+(z0 / give-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / one
+              :ARG1-of (z3 / have-rel-role-92
+                           :ARG2 z1
+                           :ARG3 (z4 / child
+                                     :possessor z1)))
+    :ARG2 (z5 / you)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt As we came to find out, they were saying that (the school) would not get a one of their children.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:42.158258
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / get-01
+              :ARG0 (z3 / school)
+              :ARG1 (z4 / one
+                        :ARG1-of (z5 / have-rel-role-92
+                                     :ARG2 z1
+                                     :ARG3 (z6 / child)))
+              :polarity -)
+    :temporal (z7 / come-01
+                  :ARG1 (z8 / we)
+                  :ARG2 (z9 / thing
+                            :ARG1-of (z10 / find-01
+                                          :ARG0 z8))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:42.158262
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt So they probably set out from there for this purpose (of opposing the placing of children in school).
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:42.158267
+(z0 / have-reason-91
+    :ARG1 (z1 / go-02
+              :ARG0 (z2 / they)
+              :direction (z3 / out)
+              :source (z4 / there)
+              :purpose (z5 / oppose-01
+                           :ARG0 z2
+                           :ARG1 (z6 / place-01
+                                     :ARG1 (z7 / child)
+                                     :ARG2 (z8 / school))))
+    :ARG2 (z9 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:42.158271
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)

@@ -1,0 +1,76 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Here they began life anew.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:59.472954
+(z0 / begin-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / new-01))
+    :place (z4 / here))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt So they began to think of the matter with bitterness.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:59.472969
+(z0 / cause-01
+    :ARG1 (z1 / begin-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / think-01
+                        :ARG0 z2
+                        :ARG1 (z4 / matter)
+                        :manner (z5 / bitterness))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was said that they were then over at Chinle,
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:59.472974
+(z0 / say-01
+    :ARG1 (z1 / over-04
+              :ARG1 (z2 / they)
+              :ARG2 (z3 / facility
+                        :name (z4 / name
+                                  :op1 "Chinle")
+                        :wiki -)
+              :temporal (z5 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then they would starve or freeze to death right where they stood.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:59.472978
+(z0 / or
+    :op1 (z1 / starve-01
+             :ARG1 (z2 / they))
+    :op2 (z3 / freeze-02
+             :ARG1 z2)
+    :temporal (z4 / then)
+    :place (z5 / stand-01
+               :ARG1 z2
+               :mod (z6 / right-yy)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt You know where the people live.”
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:59.472982
+(z0 / know-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / location
+              :ARG2-of (z3 / live-01
+                           :ARG0 (z4 / person))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt At that time horses were the only means people had for transportation.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:56:59.472986
+(z0 / horse
+    :temporal (z1 / time
+                  :mod (z2 / that))
+    :domain (z3 / means
+                :mod (z4 / only)
+                :purpose (z5 / transport-01
+                             :ARG0 (z6 / person))))

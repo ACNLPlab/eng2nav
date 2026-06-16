@@ -1,0 +1,115 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:02.872171
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:02.872198
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt On the morrow we would start off with them. So for that purpose, in the morning we again started off from the hogan afoot.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:02.872203
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG2 (z2 / they)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / morrow))
+    :purpose (z5 / start-01
+                 :ARG0 z1
+                 :ARG1 z2
+                 :place (z6 / hogan
+                            :ARG1-of (z7 / afoot-01))
+                 :temporal (z8 / date-entity
+                               :dayperiod (z9 / morning))
+                 :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He used to be out there early in the morning with a stick especially made for that purpose.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:02.872207
+(z0 / have-place-91
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / there)
+    :ARG3 (z3 / stick
+              :ARG1-of (z4 / make-01
+                           :ARG2 (z5 / purpose
+                                     :mod (z6 / that))
+                           :degree (z7 / especially)))
+    :temporal (z8 / early-01
+                  :ARG2 (z9 / date-entity
+                            :dayperiod (z10 / morning))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When the sheep would be on the side of the mountain, I'd skirt them from above.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:02.872212
+(z0 / skirt-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :source (z3 / above-01
+                :ARG3 (z4 / cartesian-framework-91
+                          :ARG1 (z5 / build-space)))
+    :temporal (z6 / have-place-91
+                  :ARG1 z2
+                  :ARG2 (z7 / side
+                            :part-of (z8 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt When morning would come and I would be sleeping nicely, my grandfather would throw me out of bed.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:47:02.872216
+(z0 / throw-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / grandfather)))
+    :ARG1 z3
+    :ARG2 (z5 / bed)
+    :temporal (z6 / come-33
+                  :ARG1 (z7 / date-entity
+                            :dayperiod (z8 / morning))
+                  :ARG2 (z9 / sleep-01
+                            :ARG1 z3
+                            :manner (z10 / nice-01))))

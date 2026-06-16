@@ -1,0 +1,75 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt “Look what happened?”
+# ::annotator bart-amr
+# ::date 2025-10-22 00:13:58.265238
+(z0 / look-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / umr-unknown)
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That happened to two of us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:13:58.265256
+(z0 / event
+    :mod (z1 / that)
+    :ARG2 (z2 / we
+              :quant 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It happened that way.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:13:58.265260
+(z0 / have-direction-91
+    :ARG1 (z1 / it)
+    :ARG2 (z2 / way))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It happened eighteen years ago too.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:13:58.265264
+(z0 / event
+    :temporal (z1 / before
+                  :op1 (z2 / now)
+                  :quant (z3 / temporal-quantity
+                             :unit (z4 / year)
+                             :quant 18)
+                  :mod (z5 / too)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I do not remember in detail much of what happened before I was about ten years old.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:13:58.265269
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / event
+              :quant (z3 / much))
+    :manner (z4 / detail)
+    :temporal (z5 / before
+                  :op1 (z6 / age-01
+                           :ARG1 z1
+                           :ARG2 (z7 / temporal-quantity
+                                     :unit (z8 / year)
+                                     :quant 10)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There is a passage where God says that the people will be punished, and that's what happened.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:13:58.265273
+(z0 / and
+    :op1 (z1 / passage
+             :place-of (z2 / say-01
+                           :ARG0 (z3 / person
+                                     :name (z4 / name
+                                               :op1 "God")
+                                     :wiki "God")
+                           :ARG1 (z5 / punish-01
+                                     :ARG1 (z6 / person))))
+    :op2 (z7 / event))

@@ -1,0 +1,68 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Black Horse's party went over there,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:22:28.588860
+(z0 / go-02
+    :ARG0 (z1 / party
+              :possessor (z2 / person
+                             :name (z3 / name
+                                       :op1 "Black"
+                                       :op2 "Horse")
+                             :wiki -))
+    :ARG4 (z4 / there)
+    :direction (z5 / over))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:22:28.588872
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The people went into the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:22:28.588877
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / post
+              :mod (z3 / trade)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:22:28.588881
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We went to the Navy Field.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:22:28.588885
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / field
+              :mod (z3 / navy)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We would take the sheep out,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:22:28.588889
+(z0 / take-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / sheep)
+    :direction (z3 / out))

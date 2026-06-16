@@ -1,0 +1,70 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We were awakened from sleep at four o'clock, before dawn.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:09.602979
+(z0 / wake-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / sleep-01
+              :ARG0 z1)
+    :temporal (z3 / before
+                  :op1 (z4 / date-entity
+                           :dayperiod (z5 / dawn))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt However, we didn't take off until six o'clock.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:09.602992
+(z0 / contrast-91
+    :ARG2 (z1 / take-off-07
+              :ARG0 (z2 / we)
+              :temporal (z3 / until
+                            :op1 (z4 / date-entity
+                                     :time 6))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At six o'clock we were put aboard a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:09.602997
+(z0 / put-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :time 6))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt where we arrived at noon.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:09.603001
+(z0 / have-place-91
+    :ARG2 (z1 / arrive-01
+              :ARG1 (z2 / we)
+              :temporal (z3 / date-entity
+                            :time "12:00")))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt At dusk we took off in a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:09.603005
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :ARG3 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / dusk)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:09.603010
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))

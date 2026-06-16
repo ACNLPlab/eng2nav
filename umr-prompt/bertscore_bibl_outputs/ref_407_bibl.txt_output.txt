@@ -1,0 +1,61 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They wouldn't go on.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:04.975549
+(z0 / go-06
+    :ARG0 (z1 / they)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He did not speak harshly.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:04.975561
+(z0 / speak-01
+    :ARG0 (z1 / he)
+    :manner (z2 / harshly)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He simply couldn't find it.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:04.975566
+(z0 / possible-01
+    :ARG1 (z1 / find-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / it)
+              :mod (z4 / simple))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He did not speak in anger.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:04.975570
+(z0 / speak-01
+    :ARG0 (z1 / he)
+    :manner (z2 / anger)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:04.975574
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:04.975579
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))

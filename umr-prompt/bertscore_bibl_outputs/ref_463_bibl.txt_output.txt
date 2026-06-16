@@ -1,0 +1,61 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt under any circumstance?
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:27.017499
+(z0 / have-condition-91
+    :ARG2 (z1 / circumstance
+              :mod (z2 / any))
+    :ARG1-of (z3 / request-confirmation-91))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and chaos followed.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:27.017510
+(z0 / and
+    :op2 (z1 / follow-01
+             :ARG1 (z2 / chaos)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:27.017515
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and stopped beside Chee.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:27.017519
+(z0 / and
+    :op2 (z1 / stop-01
+             :place (z2 / beside
+                        :op1 (z3 / person
+                                 :name (z4 / name
+                                           :op1 "Chee")
+                                 :wiki -))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt for the Navajo country.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:27.017523
+(z0 / concern-02
+    :ARG1 (z1 / country
+              :name (z2 / name
+                        :op1 "Navajo")
+              :wiki "Navajo_country"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and one which I tell to the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:56:27.017527
+(z0 / and
+    :op2 (z1 / one
+             :ARG1-of (z2 / tell-01
+                          :ARG0 (z3 / i)
+                          :ARG2 (z4 / child))))

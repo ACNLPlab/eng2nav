@@ -1,0 +1,111 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I wondered what the dogs were barking at so I ran over there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:29.926311
+(z0 / cause-01
+    :ARG0 (z1 / wonder-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / bark-01
+                                     :ARG0 (z5 / dog))))
+    :ARG1 (z6 / run-04
+              :ARG0 z2
+              :ARG4 (z7 / there)
+              :direction (z8 / over)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then the people noticed that the soldiers were moving along over there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:29.926328
+(z0 / notice-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / move-01
+              :ARG0 (z3 / person
+                        :ARG1-of (z4 / have-org-role-92
+                                     :ARG3 (z5 / soldier)))
+              :direction (z6 / along)
+              :place (z7 / there)
+              :temporal (z8 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I got over to where the dog was barking, and there I saw a bear standing.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:29.926332
+(z0 / and
+    :op1 (z1 / get-01
+             :ARG0 (z2 / i)
+             :ARG4 (z3 / over
+                       :op1 (z4 / barking-01
+                                :ARG0 (z5 / dog))))
+    :op2 (z6 / see-01
+             :ARG0 z2
+             :ARG1 (z7 / stand-01
+                       :ARG1 (z8 / bear))
+             :place z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt What is it that the dogs can be heard barking at?
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:29.926336
+(z0 / possible-01
+    :ARG1 (z1 / hear-01
+              :ARG1 (z2 / barking-01
+                        :ARG0 (z3 / dog)
+                        :ARG1 (z4 / umr-unknown))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When he went back inside he said, "I wonder why it is that there is a little cloud hanging over there on the summit of Gobernador Knob?”
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:29.926341
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / wonder-01
+              :ARG0 z1
+              :ARG1 (z3 / umr-unknown
+                        :ARG0-of (z4 / cause-01
+                                     :ARG1 (z5 / overhang-01
+                                               :ARG1 (z6 / cloud
+                                                         :quant (z7 / little))
+                                               :ARG2 (z8 / summit
+                                                         :part-of (z9 / mountain
+                                                                      :name (z10 / name
+                                                                                 :op1 "Gobernador"
+                                                                                 :op2 "Knob")
+                                                                      :wiki "Gobernador_National_Park")))))
+              :temporal (z11 / go-02
+                             :ARG0 z1
+                             :ARG4 (z12 / inside)
+                             :direction (z13 / back))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:29.926344
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))

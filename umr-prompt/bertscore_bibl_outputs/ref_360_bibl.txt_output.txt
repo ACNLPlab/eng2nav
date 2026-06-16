@@ -1,0 +1,92 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I looked and saw a fire sitting out alongside.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:08.917035
+(z0 / and
+    :op1 (z1 / look-01
+             :ARG0 (z2 / i))
+    :op2 (z3 / see-01
+             :ARG0 z2
+             :ARG1 (z4 / sit-down-02
+                       :ARG1 (z5 / fire)
+                       :ARG2 (z6 / space
+                                 :ARG1-of (z7 / alongside-01)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I got over to where the dog was barking, and there I saw a bear standing.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:08.917051
+(z0 / and
+    :op1 (z1 / get-01
+             :ARG0 (z2 / i)
+             :ARG4 (z3 / over
+                       :op1 (z4 / barking-01
+                                :ARG0 (z5 / dog))))
+    :op2 (z6 / see-01
+             :ARG0 z2
+             :ARG1 (z7 / stand-01
+                       :ARG1 (z8 / bear))
+             :place z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:08.917056
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:08.917060
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:08.917064
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We saw the people going inside the trading post,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:08.917068
+(z0 / see-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / go-02
+              :ARG0 (z3 / person)
+              :ARG4 (z4 / inside
+                        :op1 (z5 / post
+                                 :mod (z6 / trade)))))

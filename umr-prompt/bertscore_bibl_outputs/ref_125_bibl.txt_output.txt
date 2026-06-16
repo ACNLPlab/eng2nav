@@ -1,0 +1,101 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt One was called Bead Clan Gambler, and he was a member of the police force.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:08.378515
+(z0 / and
+    :op1 (z1 / call-01
+             :ARG1 (z2 / one)
+             :ARG2 (z3 / business
+                       :name (z4 / name
+                                 :op1 "Bade"
+                                 :op2 "Clan"
+                                 :op3 "Gambler")
+                       :wiki "Bead_Clan"))
+    :op2 (z5 / have-org-role-92
+             :ARG1 z2
+             :ARG2 (z6 / police)
+             :ARG3 (z7 / member)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was from Chinle, but he was a member of the police force at Fort Defiance.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:08.378535
+(z0 / contrast-91
+    :ARG1 (z1 / have-place-91
+              :ARG1 (z2 / he)
+              :ARG2 (z3 / city
+                        :name (z4 / name
+                                  :op1 "Chinle")
+                        :wiki "Chinle,_Alabama"))
+    :ARG2 (z5 / have-org-role-92
+              :ARG1 z2
+              :ARG2 (z6 / member)
+              :ARG3 (z7 / police)
+              :place (z8 / facility
+                         :name (z9 / name
+                                   :op1 "Fort"
+                                   :op2 "Defiance")
+                         :wiki "Fort_Defiance_Naval_Base")))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt But as they carried him further away the one called Bead Clan Gambler went running from here where we were standing.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:08.378539
+(z0 / contrast-91
+    :ARG2 (z1 / go-02
+              :ARG0 (z2 / one
+                        :ARG1-of (z3 / call-01
+                                     :ARG2 (z4 / book
+                                               :name (z5 / name
+                                                         :op1 "Bead"
+                                                         :op2 "Clan"
+                                                         :op3 "Gambler")
+                                               :wiki "Bead_Clan")))
+              :ARG4 (z6 / here
+                        :ARG2-of (z7 / stand-01
+                                     :ARG1 (z8 / we)))
+              :temporal (z9 / carry-01
+                            :ARG0 (z10 / they)
+                            :ARG1 z2
+                            :direction (z11 / away
+                                            :extent (z12 / more)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt At that time he was a policeman.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:08.378543
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt A man by the name of Black Horse was the leader of that faction.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:08.378548
+(z0 / lead-02
+    :ARG0 (z1 / man
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / faction
+              :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and was one of the leaders at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:08.378552
+(z0 / and
+    :op2 (z1 / person
+             :ARG1-of (z2 / lead-02
+                          :temporal (z3 / time
+                                        :mod (z4 / that)))
+             :quant 1))

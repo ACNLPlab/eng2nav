@@ -1,0 +1,98 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and then we went toward Chinle.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:48:00.380812
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / space
+                       :ARG1-of (z4 / toward-01
+                                    :ARG2 (z5 / thing
+                                              :name (z6 / name
+                                                        :op1 "Chinle")
+                                              :wiki "Chinle")))
+             :temporal (z7 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And then we started back to Phoenix,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:48:00.380830
+(z0 / and
+    :op2 (z1 / start-01
+             :ARG0 (z2 / we)
+             :place (z3 / city
+                        :name (z4 / name
+                                  :op1 "Phoenix")
+                        :wiki "Phoenix,_Arizona")
+             :temporal (z5 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And then we flew up along the San Juan River.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:48:00.380834
+(z0 / and
+    :op2 (z1 / fly-01
+             :ARG0 (z2 / we)
+             :direction (z3 / trajectory
+                            :ARG2-of (z4 / up-03
+                                         :ARG5 (z5 / cartesian-framework-91
+                                                   :ARG1 (z6 / build-space)))
+                            :ARG4-of (z7 / along-01
+                                         :ARG2 (z8 / river
+                                                   :name (z9 / name
+                                                             :op1 "San"
+                                                             :op2 "Juan"
+                                                             :op3 "River")
+                                                   :wiki "San_Juan_River")))
+             :temporal (z10 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we were told that the time had come.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:48:00.380838
+(z0 / tell-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / time))
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was said that they were then over at Chinle,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:48:00.380843
+(z0 / say-01
+    :ARG1 (z1 / over-04
+              :ARG1 (z2 / they)
+              :ARG2 (z3 / facility
+                        :name (z4 / name
+                                  :op1 "Chinle")
+                        :wiki -)
+              :temporal (z5 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt On the next day we went to the trading post, and my grandfather put his thumbprint on a paper for us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:48:00.380847
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / post
+                       :mod (z4 / trade))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / day)
+                           :mod (z7 / next))
+             :op2 (z8 / put-01
+                      :ARG0 (z9 / person
+                                :ARG1-of (z10 / have-rel-role-92
+                                              :ARG2 z2
+                                              :ARG3 (z11 / grandfather)))
+                      :ARG1 (z12 / thing
+                                 :ARG1-of (z13 / thumbprint-01
+                                               :ARG0 z9))
+                      :ARG2 (z14 / paper))))

@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt These areas were dense with pine, spruce, aspen and oak.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The one I referred to as Limper was standing near Black Horse with a blanket wrapped around his middle.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The one I referred to as River Man, who is now known as Short Hair, and another boy with him. These were the ones who were locked inside.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The sheep would be grazing nearby, and we would spend the whole day playing with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We trailed them for quite a while when suddenly, from within a nearby oak clump, there came the sound of dogs barking loudly.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There was an epidemic in progress, and we now refer to it as "the time when the throat killed many."
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

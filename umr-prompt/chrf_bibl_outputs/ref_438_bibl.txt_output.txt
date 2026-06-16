@@ -1,0 +1,85 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He would say as he taught me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:25.797318
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / teach-01
+              :ARG0 z1
+              :ARG1 (z3 / i)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt he would say, instructing me. "In the summer time it is called 'bushy-tail'.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:25.797336
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / instruct-01
+              :ARG0 z1
+              :ARG1 (z3 / i)
+              :temporal (z4 / time
+                            :temporal-of (z5 / summer))
+              :temporal (z6 / call-01
+                            :ARG1 (z7 / it)
+                            :ARG2 (z8 / bushy-tail))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Some times we would fall off, and we would really laugh then too.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:25.797341
+(z0 / and
+    :op1 (z1 / fall-off-04
+             :ARG1 (z2 / we)
+             :temporal (z3 / sometimes))
+    :op2 (z4 / laugh-01
+             :ARG0 z2
+             :temporal (z5 / then)
+             :degree (z6 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We would sit on them, and when their heads came crashing together we would really die laughing.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:25.797345
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / we)
+             :ARG2 (z3 / they))
+    :op2 (z4 / die-01
+             :ARG1 z2
+             :ARG1-of (z5 / real-04)
+             :temporal (z6 / crash-01
+                           :ARG1 z3
+                           :manner (z7 / together))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We would take the sheep out,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:25.797350
+(z0 / take-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / sheep)
+    :direction (z3 / out))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They work on a basis of single minutes. They would say it's so far between certain points.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:25.797354
+(z0 / and
+    :op1 (z1 / work-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / temporal-quantity
+                       :unit (z4 / minute)
+                       :quant 1))
+    :op2 (z5 / say-01
+             :ARG0 z2
+             :ARG1 (z6 / between-01
+                       :ARG1 (z7 / it)
+                       :ARG2 (z8 / point
+                                 :mod (z9 / certain))
+                       :ARG3 (z10 / so))))

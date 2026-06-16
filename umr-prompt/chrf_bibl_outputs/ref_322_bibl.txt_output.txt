@@ -1,0 +1,106 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The pilot told me he didn't blame me for being scared.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:25.082601
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / fly-01))
+    :ARG1 (z3 / blame-01
+              :ARG0 z1
+              :ARG1 (z4 / i)
+              :ARG2 (z5 / fear-01
+                        :ARG0 z4)
+              :polarity -)
+    :ARG2 z4)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That's what the pilot (of this plane) told me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:25.082618
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / pilot-01
+                           :ARG1 (z3 / plane
+                                     :mod (z4 / this))))
+    :ARG1 (z5 / that)
+    :ARG2 (z6 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The people who had promised their children for school were named, and we were told many things about the school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:25.082623
+(z0 / and
+    :op1 (z1 / name-01
+             :ARG1 (z2 / person
+                       :ARG0-of (z3 / promise-01
+                                    :ARG1 (z4 / person
+                                              :ARG1-of (z5 / have-rel-role-92
+                                                           :ARG2 (z6 / parent)
+                                                           :ARG3 (z7 / child)))
+                                    :purpose (z8 / school))))
+    :op2 (z9 / tell-01
+             :ARG0 z6
+             :ARG1 (z10 / thing
+                        :quant (z11 / many)
+                        :topic (z12 / school))
+             :ARG2 (z13 / we)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:25.082627
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / thing
+                       :ARG1-of (z4 / tell-01
+                                    :ARG0 (z5 / he)
+                                    :ARG2 (z6 / mention-01
+                                              :ARG0 z5
+                                              :ARG1 (z7 / word)
+                                              :polarity -)))
+             :temporal (z8 / go-02
+                           :ARG0 z2
+                           :ARG4 (z9 / there)
+                           :direction (z10 / up))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt One was called Bead Clan Gambler, and he was a member of the police force.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:25.082632
+(z0 / and
+    :op1 (z1 / call-01
+             :ARG1 (z2 / one)
+             :ARG2 (z3 / business
+                       :name (z4 / name
+                                 :op1 "Bade"
+                                 :op2 "Clan"
+                                 :op3 "Gambler")
+                       :wiki "Bead_Clan"))
+    :op2 (z5 / have-org-role-92
+             :ARG1 z2
+             :ARG2 (z6 / police)
+             :ARG3 (z7 / member)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I do not remember in detail much of what happened before I was about ten years old.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:25.082636
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / event
+              :quant (z3 / much))
+    :manner (z4 / detail)
+    :temporal (z5 / before
+                  :op1 (z6 / age-01
+                           :ARG1 z1
+                           :ARG2 (z7 / temporal-quantity
+                                     :unit (z8 / year)
+                                     :quant 10)))
+    :polarity -)

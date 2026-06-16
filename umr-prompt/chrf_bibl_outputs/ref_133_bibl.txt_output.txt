@@ -1,0 +1,89 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And we found that the children had arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:02.616624
+(z0 / and
+    :op2 (z1 / find-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / arrive-01
+                       :ARG1 (z4 / child))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And I found that the people from beyond the mountain - those among whom the news had been spread, and who were sent for - had arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:02.616640
+(z0 / and
+    :op2 (z1 / find-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / arrive-01
+                       :ARG1 (z4 / person
+                                 :source (z5 / beyond
+                                             :op1 (z6 / mountain))
+                                 :ARG1-of (z7 / include-91
+                                              :ARG2 (z8 / and
+                                                        :op1 (z9 / spread-03
+                                                                 :ARG1 (z10 / news))
+                                                        :op2 (z11 / send-01
+                                                                  :ARG1 z4)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:02.616645
+(z0 / say-01
+    :ARG1 (z1 / start-01
+              :ARG1 (z2 / wagon
+                        :companion (z3 / child))
+              :temporal (z4 / after
+                            :op1 (z5 / now)
+                            :quant (z6 / temporal-quantity
+                                       :unit (z7 / day)
+                                       :quant 2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and that was probably why he was told to take care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:02.616649
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / that)
+             :ARG1 (z3 / tell-01
+                       :ARG1 (z4 / care-03
+                                 :ARG0 (z5 / he)
+                                 :ARG1 (z6 / child))
+                       :ARG2 z5)
+             :ARG1-of (z7 / likely-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When we got to the store we found that many people had assembled.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:02.616653
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / assemble-02
+              :ARG0 (z3 / person
+                        :quant (z4 / many)))
+    :temporal (z5 / get-01
+                  :ARG0 z1
+                  :ARG4 (z6 / store)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:02.616657
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :temporal (z3 / since
+                  :op1 (z4 / report-01
+                           :ARG1 (z5 / before
+                                     :op1 (z6 / arrive-01
+                                              :ARG1 (z7 / load
+                                                        :possessor (z8 / child)))
+                                     :mod (z9 / another)))))

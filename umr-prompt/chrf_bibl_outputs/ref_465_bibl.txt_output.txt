@@ -1,0 +1,100 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Don't you remember? That's why I told you that.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:56:19.139051
+(z0 / remember-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / that)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / tell-01
+                           :ARG0 z1
+                           :ARG1 (z5 / that)
+                           :ARG2 z1))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Don't you remember that I told you that you are not say that
+# ::annotator bart-amr
+# ::date 2025-10-22 00:56:19.139067
+(z0 / remember-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / tell-01
+              :ARG0 (z3 / i)
+              :ARG1 (z4 / say-01
+                        :ARG0 z1
+                        :ARG1 (z5 / that)
+                        :polarity -)
+              :ARG2 z1)
+    :polarity -
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I told you that they have a different name,” he said as he scolded me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:56:19.139071
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / tell-01
+              :ARG0 z1
+              :ARG1 (z3 / have-03
+                        :ARG0 (z4 / they)
+                        :ARG1 (z5 / name
+                                  :ARG1-of (z6 / differ-02))
+                        :ARG2 (z7 / you))
+              :temporal (z8 / scold-01
+                            :ARG0 z1
+                            :ARG1 z7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I do not remember in detail much of what happened before I was about ten years old.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:56:19.139076
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / event
+              :quant (z3 / much))
+    :manner (z4 / detail)
+    :temporal (z5 / before
+                  :op1 (z6 / age-01
+                           :ARG1 z1
+                           :ARG2 (z7 / temporal-quantity
+                                     :unit (z8 / year)
+                                     :quant 10)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That's what the pilot (of this plane) told me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:56:19.139080
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / pilot-01
+                           :ARG1 (z3 / plane
+                                     :mod (z4 / this))))
+    :ARG1 (z5 / that)
+    :ARG2 (z6 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:56:19.139084
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / thing
+                       :ARG1-of (z4 / tell-01
+                                    :ARG0 (z5 / he)
+                                    :ARG2 (z6 / mention-01
+                                              :ARG0 z5
+                                              :ARG1 (z7 / word)
+                                              :polarity -)))
+             :temporal (z8 / go-02
+                           :ARG0 z2
+                           :ARG4 (z9 / there)
+                           :direction (z10 / up))))

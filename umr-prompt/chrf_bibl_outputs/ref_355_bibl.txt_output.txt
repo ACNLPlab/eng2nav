@@ -1,0 +1,87 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt You couldn't see the earth below.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:12:44.136475
+(z0 / possible-01
+    :ARG1 (z1 / see-01
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / earth
+                        :ARG1-of (z4 / below-01
+                                     :ARG3 (z5 / cartesian-framework-91
+                                               :ARG1 (z6 / build-space))))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He had been asking that hay be dropped at his own house for three days, but he couldn't find it himself.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:12:44.136492
+(z0 / contrast-91
+    :ARG1 (z1 / ask-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / drop-01
+                        :ARG1 (z4 / hay)
+                        :ARG2 (z5 / house
+                                  :possessor z2))
+              :duration (z6 / temporal-quantity
+                            :unit (z7 / day)
+                            :quant 3))
+    :ARG2 (z8 / possible-01
+              :ARG1 (z9 / find-01
+                        :ARG0 z2
+                        :ARG1 z4)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He wouldn't do anything under these circumstances even if one got very close to him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:12:44.136496
+(z0 / do-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / anything)
+    :temporal (z3 / circumstance
+                  :mod (z4 / this))
+    :concession (z5 / even-if
+                    :op1 (z6 / close-10
+                             :ARG1 (z7 / one)
+                             :ARG2 z1
+                             :degree (z8 / very))
+                    :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He simply couldn't find it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:12:44.136500
+(z0 / possible-01
+    :ARG1 (z1 / find-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / it)
+              :mod (z4 / simple))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt You can't tell where you are in that kind of weather.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:12:44.136505
+(z0 / possible-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / space
+                        :place-of z2)
+              :temporal (z4 / weather
+                            :mod (z5 / kind
+                                     :mod (z6 / that)))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They wouldn't go on.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:12:44.136509
+(z0 / go-06
+    :ARG0 (z1 / they)
+    :polarity -)

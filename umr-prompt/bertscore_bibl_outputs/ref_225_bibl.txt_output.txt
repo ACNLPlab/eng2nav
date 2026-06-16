@@ -1,0 +1,78 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Quite some time ago when they moved back from Fort Sumner he had a hard time. He started his life by poking around in the horse manure in a stable.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:50.732054
+(z0 / hard-02
+    :ARG1 (z1 / he)
+    :temporal (z2 / before
+                  :op1 (z3 / now)
+                  :quant (z4 / quite))
+    :temporal (z5 / move-01
+                  :ARG0 (z6 / they)
+                  :ARG4 (z7 / city
+                            :name (z8 / name
+                                      :op1 "Fort"
+                                      :op2 "Sumner")
+                            :wiki "Fort_Sumner,_North_Carolina")))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That is how he got his start in life.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:50.732070
+(z0 / start-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / live-01
+              :ARG0 z1)
+    :domain (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At that time he was a policeman.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:50.732074
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:50.732078
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:50.732083
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Here they began life anew.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:50.732087
+(z0 / begin-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / new-01))
+    :place (z4 / here))

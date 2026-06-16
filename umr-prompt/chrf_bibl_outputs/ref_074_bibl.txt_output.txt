@@ -1,0 +1,85 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Come on! Come on!
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:30.811057
+(z0 / come-01
+    :ARG1 (z1 / you)
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Come on!", they probably said.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:30.811073
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / you)
+              :mode imperative)
+    :ARG1-of (z4 / likely-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt "Come on, you boys. Remember what you said," said Black Horse.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:30.811078
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / come-01
+                       :ARG1 (z5 / you)
+                       :ARG2 (z6 / boy)
+                       :mode imperative)
+              :op2 (z7 / remember-01
+                       :ARG0 (z8 / you)
+                       :ARG1 (z9 / thing
+                                 :ARG1-of (z10 / say-01
+                                               :ARG0 z8))
+                       :mode imperative)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and among these were some women.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:30.811082
+(z0 / and
+    :op2 (z1 / include-91
+             :ARG1 (z2 / woman
+                       :quant (z3 / some))
+             :ARG2 (z4 / this)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Someone by the name of Black Horse had brought a party from the other side of the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:30.811086
+(z0 / bring-01
+    :ARG0 (z1 / someone
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / party)
+    :ARG4 (z4 / side
+              :ARG1-of (z5 / other-01)
+              :part-of (z6 / mountain)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt One of these women had come from over beyond the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:30.811090
+(z0 / come-01
+    :ARG1 (z1 / woman
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / woman
+                                     :mod (z4 / this))))
+    :ARG3 (z5 / over
+              :op1 (z6 / mountain)
+              :ARG5 (z7 / cartesian-framework-91
+                        :ARG1 (z8 / builder))))

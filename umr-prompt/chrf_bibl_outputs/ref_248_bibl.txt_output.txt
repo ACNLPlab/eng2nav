@@ -1,0 +1,87 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt as he began to make a speech to the people.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:11.834768
+(z0 / begin-01
+    :ARG1 (z1 / speak-01
+              :ARG0 (z2 / he)
+              :ARG2 (z3 / person)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt So people began to think along the lines of their planning.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:11.834784
+(z0 / cause-01
+    :ARG1 (z1 / begin-01
+              :ARG0 (z2 / person)
+              :ARG1 (z3 / think-01
+                        :ARG0 z2
+                        :manner (z4 / along-lines
+                                    :op1 (z5 / plan-01
+                                             :ARG0 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:11.834788
+(z0 / go-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / mother)))
+    :ARG4 (z5 / foot)
+    :extent (z6 / far
+                :extent-of (z7 / move-01
+                               :ARG0 (z8 / person)
+                               :temporal (z9 / date-entity
+                                             :dayperiod (z10 / day)
+                                             :mod (z11 / that)))
+                :temporal (z12 / following
+                               :op1 (z13 / date-entity
+                                         :dayperiod (z14 / night
+                                                         :temporal-of (z15 / bear-02
+                                                                           :ARG0 z1
+                                                                           :ARG1 z3))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The people went into the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:11.834792
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / post
+              :mod (z3 / trade)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I pointed out to them the various things the people were suffering from.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:11.834796
+(z0 / point-out-02
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / suffer-01
+                           :ARG0 (z4 / person))
+              :mod (z5 / various))
+    :ARG2 (z6 / they))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I was one of those who came back (on the next day) to where the people were.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:11.834800
+(z0 / include-91
+    :ARG1 (z1 / person
+              :refer-person 1st)
+    :ARG2 (z2 / person
+              :ARG0-of (z3 / come-01
+                           :ARG1 z1
+                           :ARG4 (z4 / back)
+                           :ARG4 (z5 / space
+                                     :place-of (z6 / person)
+                                     :temporal (z7 / day
+                                                   :mod (z8 / next))))))

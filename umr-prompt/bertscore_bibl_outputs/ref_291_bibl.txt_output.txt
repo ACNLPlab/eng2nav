@@ -1,0 +1,85 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt This way we discussed our position with one another.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:05:23.610590
+(z0 / discuss-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / position
+              :possessor z1)
+    :ARG2 (z3 / other)
+    :manner (z4 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:05:23.610607
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt but at night they spoke about themselves, revealing their intentions.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:05:23.610612
+(z0 / contrast-91
+    :ARG2 (z1 / speak-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / about
+                        :op1 z2)
+              :temporal (z4 / date-entity
+                            :dayperiod (z5 / night))
+              :manner (z6 / reveal-01
+                          :ARG0 z2
+                          :ARG1 (z7 / intend-01
+                                    :ARG0 z2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt In flight the crew would discuss position.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:05:23.610617
+(z0 / discuss-01
+    :ARG0 (z1 / crew)
+    :ARG1 (z2 / position)
+    :temporal (z3 / fly-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Speaking this way to each other the Agent and Black Horse exchanged many words.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:05:23.610621
+(z0 / converse-01
+    :ARG0 (z1 / and
+              :op1 (z2 / person
+                       :ARG1-of (z3 / have-org-role-92
+                                    :ARG3 (z4 / agent)))
+              :op2 (z5 / person
+                       :name (z6 / name
+                                 :op1 "Black"
+                                 :op2 "Horse")
+                       :wiki -))
+    :ARG1 (z7 / word
+              :quant (z8 / many))
+    :ARG2 (z9 / speak-01
+              :ARG0 z1
+              :manner (z10 / this)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We had earphones on, and talked to one another by radio.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:05:23.610625
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / earphone))
+    :op2 (z4 / talk-01
+             :ARG0 z2
+             :ARG2 z2
+             :manner (z5 / radio)))

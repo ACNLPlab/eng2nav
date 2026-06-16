@@ -1,0 +1,18 @@
+========================================================
+STARTING EXPERIMENT: grn_NOsyll_600M
+Started at: Tue Mar  3 10:27:38 AM EST 2026
+========================================================
+CONFIGURATION:
+  Experiment: grn_NOsyll_600M
+  Target language: grn_Latn
+  Syllabification: --no_syllabify
+  Model: 600M
+  Learning rate: 2e-5
+  Epochs: 10
+  Batch size: 4
+  Output dir: grn_NOsyll_600M
+========================================================
+All input files found.
+========================================================
+NVIDIA A100-SXM4-80GB, 81920 MiB
+Starting training at: Tue Mar  3 10:27:39 AM EST 2026

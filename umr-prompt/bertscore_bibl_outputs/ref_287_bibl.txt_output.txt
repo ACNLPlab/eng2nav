@@ -1,0 +1,98 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then we flew over Mexican Hat.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:11.788071
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / hat
+              :name (z3 / name
+                        :op1 "Mexican"
+                        :op2 "Hat")
+              :wiki "Mexican_Hat")
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:11.788088
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and then we went toward Chinle.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:11.788092
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / space
+                       :ARG1-of (z4 / toward-01
+                                    :ARG2 (z5 / thing
+                                              :name (z6 / name
+                                                        :op1 "Chinle")
+                                              :wiki "Chinle")))
+             :temporal (z7 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we took off
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:11.788097
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :temporal (z2 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And then we flew up along the San Juan River.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:11.788101
+(z0 / and
+    :op2 (z1 / fly-01
+             :ARG0 (z2 / we)
+             :direction (z3 / trajectory
+                            :ARG2-of (z4 / up-03
+                                         :ARG5 (z5 / cartesian-framework-91
+                                                   :ARG1 (z6 / build-space)))
+                            :ARG4-of (z7 / along-01
+                                         :ARG2 (z8 / river
+                                                   :name (z9 / name
+                                                             :op1 "San"
+                                                             :op2 "Juan"
+                                                             :op3 "River")
+                                                   :wiki "San_Juan_River")))
+             :temporal (z10 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we flew over the lower end of the black lava peaks, and over Oraibi.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:11.788105
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / then)
+    :place (z3 / and
+               :op1 (z4 / space
+                        :ARG1-of (z5 / end-06
+                                     :ARG2 (z6 / peak
+                                               :color (z7 / lava))
+                                     :ARG1-of (z8 / have-degree-91
+                                                  :ARG2 (z9 / low-04
+                                                            :ARG1 z6)
+                                                  :ARG3 (z10 / more)))
+                        :op2 (z11 / space
+                                  :ARG1-of (z12 / over-04
+                                                :ARG2 (z13 / thing
+                                                           :place (z14 / ocean
+                                                                       :name (z15 / name
+                                                                                  :op1 "Oraibi")
+                                                                       :wiki "Oraibi_Internationalis")
+                                                           :ARG3 (z16 / cartesian-framework-91
+                                                                      :ARG1 (z17 / build-space))))))))

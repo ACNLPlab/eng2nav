@@ -1,0 +1,85 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We just laughed about it afterward.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:59.719175
+(z0 / laugh-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / it)
+    :temporal (z3 / afterward)
+    :mod (z4 / just))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We had not heard of this and knew nothing about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:59.719187
+(z0 / and
+    :op1 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / this)
+             :polarity -)
+    :op2 (z4 / know-01
+             :ARG0 z2
+             :ARG1 z3
+             :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And we went about, talking enthusiastically about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:59.719191
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / we)
+             :direction (z3 / about)
+             :manner (z4 / talk-01
+                         :ARG0 z2
+                         :ARG1 (z5 / it)
+                         :manner (z6 / enthusiastically))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We would discuss it when we took the wagon after wood.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:59.719196
+(z0 / discuss-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / it)
+    :temporal (z3 / take-01
+                  :ARG0 z1
+                  :ARG1 (z4 / wagon)
+                  :ARG2 (z5 / after
+                            :op1 (z6 / wood))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In some places cattle and horses were just standing about, probably on account of the crusted snow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:59.719200
+(z0 / stand-01
+    :ARG1 (z1 / and
+              :op1 (z2 / cattle)
+              :op2 (z3 / horse))
+    :mod (z4 / just)
+    :place (z5 / place
+               :quant (z6 / some))
+    :ARG1-of (z7 / cause-01
+                 :ARG0 (z8 / snow-01
+                           :ARG1-of (z9 / crusted-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was only after I stopped that my cousin caught up with me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:14:59.719204
+(z0 / catch-up-04
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG2 z3
+    :temporal (z5 / after
+                  :op1 (z6 / stop-01
+                           :ARG0 z3)
+                  :mod (z7 / only)))

@@ -1,0 +1,61 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt If there are four flights there are four pilots (one taking each flight).
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:20.867876
+(z0 / person
+    :ARG0-of (z1 / pilot-01)
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:20.867888
+(z0 / plane
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These big planes have four motors.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:20.867893
+(z0 / have-03
+    :ARG0 (z1 / plane
+              :mod (z2 / big)
+              :mod (z3 / this))
+    :ARG1 (z4 / motor
+              :quant 4))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt So there were three policemen.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:20.867897
+(z0 / cause-01
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / guard-01)
+              :quant 3))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:20.867901
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That day we made four flights,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:20.867905
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / day)
+                  :mod (z4 / that))
+    :frequency 4)

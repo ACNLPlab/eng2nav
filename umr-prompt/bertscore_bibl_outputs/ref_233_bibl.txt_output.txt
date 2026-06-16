@@ -1,0 +1,69 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That is what I had an ambition to do at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:09.896981
+(z0 / ambition-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / that))
+    :temporal (z4 / time
+                  :mod (z5 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That was what I thought.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:09.896993
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt So that is the way I spent my days from that time on.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:09.896997
+(z0 / cause-01
+    :ARG1 (z1 / spend-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / day
+                        :possessor z2)
+              :ARG2 (z4 / that)
+              :temporal (z5 / from
+                            :op1 (z6 / time
+                                     :mod (z7 / that)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is how he got his start in life.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:09.897002
+(z0 / start-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / live-01
+              :ARG0 z1)
+    :domain (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Back at that time it was different.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:09.897006
+(z0 / differ-02
+    :ARG1 (z1 / it)
+    :temporal (z2 / time
+                  :mod (z3 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and was one of the leaders at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:47:09.897010
+(z0 / and
+    :op2 (z1 / person
+             :ARG1-of (z2 / lead-02
+                          :temporal (z3 / time
+                                        :mod (z4 / that)))
+             :quant 1))

@@ -1,0 +1,109 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt But when one would be riding the burro the billy goat would merely look up if one teased him.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:12:37.150770
+(z0 / contrast-91
+    :ARG2 (z1 / look-01
+              :ARG0 (z2 / goat
+                        :mod (z3 / billy))
+              :ARG1 (z4 / up)
+              :condition (z5 / tease-01
+                             :ARG0 (z6 / one)
+                             :ARG1 z2)
+              :mod (z7 / mere)
+              :condition (z8 / ride-01
+                             :ARG0 z6
+                             :ARG1 (z9 / burro))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:12:37.150788
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :temporal (z3 / since
+                  :op1 (z4 / report-01
+                           :ARG1 (z5 / before
+                                     :op1 (z6 / arrive-01
+                                              :ARG1 (z7 / load
+                                                        :possessor (z8 / child)))
+                                     :mod (z9 / another)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:12:37.150792
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / thing
+                       :ARG1-of (z4 / tell-01
+                                    :ARG0 (z5 / he)
+                                    :ARG2 (z6 / mention-01
+                                              :ARG0 z5
+                                              :ARG1 (z7 / word)
+                                              :polarity -)))
+             :temporal (z8 / go-02
+                           :ARG0 z2
+                           :ARG4 (z9 / there)
+                           :direction (z10 / up))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is how it came about that the one who would be called The Interpreter (Chee Dodge) and the one who would be named Big Lump Setting Up came to move there.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:12:37.150796
+(z0 / come-33
+    :ARG1 (z1 / and
+              :op1 (z2 / one
+                       :ARG1-of (z3 / call-01
+                                    :ARG2 (z4 / interpreter))
+                       :op2 (z5 / person
+                                :name (z6 / name
+                                          :op1 "Chee"
+                                          :op2 "Dodge")
+                                :wiki -)
+                       :op3 (z7 / one
+                                :ARG1-of (z8 / name-01
+                                             :ARG2 (z9 / set-up-03))))
+              :ARG2 (z10 / there))
+    :ARG2 (z11 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We would sit on them, and when their heads came crashing together we would really die laughing.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:12:37.150801
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / we)
+             :ARG2 (z3 / they))
+    :op2 (z4 / die-01
+             :ARG1 z2
+             :ARG1-of (z5 / real-04)
+             :temporal (z6 / crash-01
+                           :ARG1 z3
+                           :manner (z7 / together))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt When morning would come and I would be sleeping nicely, my grandfather would throw me out of bed.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:12:37.150805
+(z0 / throw-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / grandfather)))
+    :ARG1 z3
+    :ARG2 (z5 / bed)
+    :temporal (z6 / come-33
+                  :ARG1 (z7 / date-entity
+                            :dayperiod (z8 / morning))
+                  :ARG2 (z9 / sleep-01
+                            :ARG1 z3
+                            :manner (z10 / nice-01))))

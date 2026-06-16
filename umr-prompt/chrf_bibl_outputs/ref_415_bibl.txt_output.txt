@@ -1,0 +1,63 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:35:52.836079
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:35:52.836097
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt “To what extent are the people suffering,”
+# ::annotator bart-amr
+# ::date 2025-10-22 00:35:52.836101
+(z0 / suffer-01
+    :ARG0 (z1 / person)
+    :extent (z2 / umr-unknown))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This was my people's disaster.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:35:52.836105
+(z0 / disaster
+    :domain (z1 / this)
+    :possessor (z2 / person
+                   :possessor (z3 / i)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt This is how we arrived.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:35:52.836110
+(z0 / arrive-01
+    :ARG1 (z1 / we)
+    :manner (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt So this is my experience up above the land of my people.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:35:52.836114
+(z0 / experience-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / this)
+    :place (z3 / space
+               :ARG1-of (z4 / above-01
+                            :ARG2 (z5 / land
+                                      :possessor (z6 / person
+                                                     :possessor z1))
+                            :ARG3 (z7 / cartesian-framework-91
+                                      :ARG1 (z8 / build-space)))))

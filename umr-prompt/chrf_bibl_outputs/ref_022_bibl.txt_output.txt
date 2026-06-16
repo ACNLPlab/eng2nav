@@ -1,0 +1,79 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That is how the trading post got its name.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:07.106895
+(z0 / name-01
+    :ARG1 (z1 / post
+              :purpose (z2 / trade-01))
+    :ARG2 (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The people went into the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:07.106912
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / post
+              :mod (z3 / trade)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We saw the people going inside the trading post,
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:07.106916
+(z0 / see-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / go-02
+              :ARG0 (z3 / person)
+              :ARG4 (z4 / inside
+                        :op1 (z5 / post
+                                 :mod (z6 / trade)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:07.106920
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Near the trading post there was a house which
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:07.106924
+(z0 / house-01
+    :ARG1-of (z1 / have-place-91
+                 :ARG2 (z2 / near-02
+                           :ARG2 (z3 / post
+                                     :mod (z4 / trade)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:07.106929
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))

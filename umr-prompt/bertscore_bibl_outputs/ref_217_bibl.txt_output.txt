@@ -1,0 +1,100 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Golly, why they are big enough to be of use here now.", she said of us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:42:39.435363
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / thing
+              :ARG0-of (z3 / cause-01
+                           :ARG1 (z4 / big-01
+                                     :ARG1 (z5 / they)
+                                     :ARG2-of (z6 / have-degree-91
+                                                  :ARG1 z5
+                                                  :ARG3 (z7 / enough)
+                                                  :ARG6 (z8 / use-01
+                                                            :ARG1 z5
+                                                            :temporal (z9 / now)))))
+              :quote z0)
+    :ARG2 (z10 / person
+               :refer-person 3rd))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt "Say, let's go to school," I said to my companion.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:42:39.435378
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 z1
+              :ARG1 (z3 / go-05
+                        :ARG0 z1
+                        :ARG1 (z4 / school)
+                        :quote z0)
+              :ARG2 (z5 / companion)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt "Outside with him!" voices were saying.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:42:39.435382
+(z0 / say-01
+    :ARG0 (z1 / voice)
+    :ARG1 (z2 / outside
+              :companion (z3 / he)
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:42:39.435386
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I told you that they have a different name,” he said as he scolded me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:42:39.435390
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / tell-01
+              :ARG0 z1
+              :ARG1 (z3 / have-03
+                        :ARG0 (z4 / they)
+                        :ARG1 (z5 / name
+                                  :ARG1-of (z6 / differ-02))
+                        :ARG2 (z7 / you))
+              :temporal (z8 / scold-01
+                            :ARG0 z1
+                            :ARG1 z7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt "Come on, you boys. Remember what you said," said Black Horse.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:42:39.435394
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / come-01
+                       :ARG1 (z5 / you)
+                       :ARG2 (z6 / boy)
+                       :mode imperative)
+              :op2 (z7 / remember-01
+                       :ARG0 (z8 / you)
+                       :ARG1 (z9 / thing
+                                 :ARG1-of (z10 / say-01
+                                               :ARG0 z8))
+                       :mode imperative)))

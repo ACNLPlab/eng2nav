@@ -1,0 +1,90 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt In the late evening we all returned to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:59.161139
+(z0 / return-01
+    :ARG1 (z1 / we
+              :mod (z2 / all))
+    :ARG4 (z3 / city
+              :name (z4 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona")
+    :temporal (z5 / late-01
+                  :ARG2 (z6 / date-entity
+                            :dayperiod (z7 / evening))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt At dusk we took off in a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:59.161156
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :ARG3 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / dusk)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt In the evening after we had unloaded another load of wood we started back home in the wagon.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:59.161160
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :place (z3 / wagon)
+    :temporal (z4 / after
+                  :op1 (z5 / load-01
+                           :ARG0 z1
+                           :ARG1 (z6 / load
+                                     :mod (z7 / another)
+                                     :consist-of (z8 / wood))))
+    :temporal (z9 / date-entity
+                  :dayperiod (z10 / evening)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:59.161164
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In the evening, on our return trip, one of the motors caught fire. It happened between Flagstaff and Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:59.161168
+(z0 / burn-01
+    :ARG1 (z1 / motor
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / motor)))
+    :temporal (z4 / date-entity
+                  :dayperiod (z5 / evening))
+    :temporal (z6 / return-01
+                  :ARG1 (z7 / we))
+    :place (z8 / between
+               :op1 (z9 / city
+                        :name (z10 / name
+                                   :op1 "Flagstaff")
+                        :wiki "Flagstaff,_Arizona")
+               :op2 (z11 / city
+                         :name (z12 / name
+                                    :op1 "Phoenix")
+                         :wiki "Phoenix")))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt where we arrived at noon.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:59.161173
+(z0 / have-place-91
+    :ARG2 (z1 / arrive-01
+              :ARG1 (z2 / we)
+              :temporal (z3 / date-entity
+                            :time "12:00")))

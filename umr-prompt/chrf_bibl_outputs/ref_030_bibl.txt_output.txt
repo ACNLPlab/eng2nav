@@ -1,0 +1,118 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt As the people carried the Agent along they beat him with their fists.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:44:00.125773
+(z0 / beat-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / have-org-role-92
+                           :ARG3 (z3 / agent
+                                     :ARG1-of z0)))
+    :instrument (z4 / fist)
+    :temporal (z5 / carry-01
+                  :ARG0 (z6 / person)
+                  :ARG1 z3
+                  :direction (z7 / along)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:44:00.125789
+(z0 / go-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / mother)))
+    :ARG4 (z5 / foot)
+    :extent (z6 / far
+                :extent-of (z7 / move-01
+                               :ARG0 (z8 / person)
+                               :temporal (z9 / date-entity
+                                             :dayperiod (z10 / day)
+                                             :mod (z11 / that)))
+                :temporal (z12 / following
+                               :op1 (z13 / date-entity
+                                         :dayperiod (z14 / night
+                                                         :temporal-of (z15 / bear-02
+                                                                           :ARG0 z1
+                                                                           :ARG1 z3))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and they no doubt came with evil thoughts. The people who, lived hereabout had heard nothing of their plans
+# ::annotator bart-amr
+# ::date 2025-10-21 21:44:00.125794
+(z0 / and
+    :op2 (z1 / doubt-01
+             :ARG1 (z2 / come-01
+                       :ARG1 (z3 / they)
+                       :ARG3 (z4 / think-01
+                                 :ARG0 z3
+                                 :ARG1 (z5 / evil))))
+    :op3 (z6 / person
+             :ARG0-of (z7 / hear-01
+                          :ARG1 (z8 / nothing
+                                    :ARG1-of (z9 / plan-01
+                                                 :ARG0 z3))
+                          :place (z10 / here))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The one called Limper was the first to hop in there, and he grabbed the Agent by the collar.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:44:00.125798
+(z0 / and
+    :op1 (z1 / hop-01
+             :ARG0 (z2 / one
+                       :ARG1-of (z3 / call-01
+                                    :ARG2 (z4 / limper)))
+             :ARG1 (z5 / there)
+             :ord (z6 / ordinal-entity
+                      :value 1))
+    :op2 (z7 / grab-01
+             :ARG0 z2
+             :ARG1 (z8 / person
+                       :ARG1-of (z9 / have-org-role-92
+                                    :ARG3 (z10 / agent)))
+             :ARG2 (z11 / collar)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then the people noticed that the soldiers were moving along over there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:44:00.125803
+(z0 / notice-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / move-01
+              :ARG0 (z3 / person
+                        :ARG1-of (z4 / have-org-role-92
+                                     :ARG3 (z5 / soldier)))
+              :direction (z6 / along)
+              :place (z7 / there)
+              :temporal (z8 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:44:00.125807
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))

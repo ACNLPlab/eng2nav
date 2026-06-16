@@ -1,0 +1,81 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It was at that time, in the spring, that they moved to Blue Clay Point, it was said.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:42.187436
+(z0 / say-01
+    :ARG1 (z1 / move-01
+              :ARG0 (z2 / they)
+              :ARG4 (z3 / point
+                        :name (z4 / name
+                                  :op1 "Blue"
+                                  :op2 "Clay"
+                                  :op3 "Point")
+                        :wiki -)
+              :temporal (z5 / date-entity
+                            :month (z6 / spring))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It was in the Spring when they moved there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:42.187453
+(z0 / move-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / there)
+    :temporal (z3 / date-entity
+                  :year 2016))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was there that they carried on the ceremony.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:42.187458
+(z0 / carry-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / ceremony)
+    :place (z3 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was there that my grandfather spoke and promised us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:42.187462
+(z0 / and
+    :op1 (z1 / speak-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather))))
+    :op2 (z6 / promise-01
+             :ARG0 z2
+             :ARG1 (z7 / we))
+    :place (z8 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The two of them built the trading post at the place called Blue Clay Point.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:42.187466
+(z0 / build-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / post
+              :purpose (z3 / trade-01))
+    :place (z4 / place
+               :name (z5 / name
+                         :op1 "Blue"
+                         :op2 "Clay"
+                         :op3 "Point")
+               :wiki "Blue_Clay_Point"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was for that reason that I volunteered myself for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:01:42.187470
+(z0 / volunteer-01
+    :ARG0 (z1 / i
+              :ARG1-of z0)
+    :ARG2 (z2 / school)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / that)))

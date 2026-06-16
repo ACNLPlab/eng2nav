@@ -1,0 +1,102 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:27.366667
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:27.366685
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we flew over Mexican Hat.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:27.366690
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / hat
+              :name (z3 / name
+                        :op1 "Mexican"
+                        :op2 "Hat")
+              :wiki "Mexican_Hat")
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt As we flew over them we watched and saw people swarming about.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:27.366694
+(z0 / and
+    :op1 (z1 / watch-01
+             :ARG0 (z2 / we)
+             :temporal (z3 / over-04
+                           :ARG1 z2
+                           :ARG2 (z4 / they)
+                           :ARG3 (z5 / cartesian-framework-91
+                                     :ARG1 (z6 / build-space))))
+    :op2 (z7 / see-01
+             :ARG0 z2
+             :ARG1 (z8 / swarm-01
+                       :ARG0 (z9 / person)
+                       :place (z10 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we flew over the lower end of the black lava peaks, and over Oraibi.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:27.366698
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / then)
+    :place (z3 / and
+               :op1 (z4 / space
+                        :ARG1-of (z5 / end-06
+                                     :ARG2 (z6 / peak
+                                               :color (z7 / lava))
+                                     :ARG1-of (z8 / have-degree-91
+                                                  :ARG2 (z9 / low-04
+                                                            :ARG1 z6)
+                                                  :ARG3 (z10 / more)))
+                        :op2 (z11 / space
+                                  :ARG1-of (z12 / over-04
+                                                :ARG2 (z13 / thing
+                                                           :place (z14 / ocean
+                                                                       :name (z15 / name
+                                                                                  :op1 "Oraibi")
+                                                                       :wiki "Oraibi_Internationalis")
+                                                           :ARG3 (z16 / cartesian-framework-91
+                                                                      :ARG1 (z17 / build-space))))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They did this because the Winslow Airport was too small for them.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:27.366703
+(z0 / do-02
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / this)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / have-degree-91
+                           :ARG1 (z5 / airport
+                                     :name (z6 / name
+                                               :op1 "Winslow"
+                                               :op2 "Airport")
+                                     :wiki "Winslow_Airport")
+                           :ARG2 (z7 / small)
+                           :ARG3 (z8 / too)
+                           :ARG6 z1)))

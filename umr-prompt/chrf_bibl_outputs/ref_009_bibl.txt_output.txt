@@ -1,0 +1,115 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Chee jumped over the gate at the back of the room,
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:06.128017
+(z0 / jump-03
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Chee")
+              :wiki -)
+    :ARG4 (z3 / gate
+              :ARG1-of (z4 / back-12
+                           :ARG2 (z5 / room)
+                           :ARG3 (z6 / cartesian-framework-91
+                                     :FR (z7 / relative-to-builder)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I wondered what the dogs were barking at so I ran over there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:06.128050
+(z0 / cause-01
+    :ARG0 (z1 / wonder-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / bark-01
+                                     :ARG0 (z5 / dog))))
+    :ARG1 (z6 / run-04
+              :ARG0 z2
+              :ARG4 (z7 / there)
+              :direction (z8 / over)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we flew over the lower end of the black lava peaks, and over Oraibi.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:06.128055
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / then)
+    :place (z3 / and
+               :op1 (z4 / space
+                        :ARG1-of (z5 / end-06
+                                     :ARG2 (z6 / peak
+                                               :color (z7 / lava))
+                                     :ARG1-of (z8 / have-degree-91
+                                                  :ARG2 (z9 / low-04
+                                                            :ARG1 z6)
+                                                  :ARG3 (z10 / more)))
+                        :op2 (z11 / space
+                                  :ARG1-of (z12 / over-04
+                                                :ARG2 (z13 / thing
+                                                           :place (z14 / ocean
+                                                                       :name (z15 / name
+                                                                                  :op1 "Oraibi")
+                                                                       :wiki "Oraibi_Internationalis")
+                                                           :ARG3 (z16 / cartesian-framework-91
+                                                                      :ARG1 (z17 / build-space))))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then the people noticed that the soldiers were moving along over there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:06.128059
+(z0 / notice-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / move-01
+              :ARG0 (z3 / person
+                        :ARG1-of (z4 / have-org-role-92
+                                     :ARG3 (z5 / soldier)))
+              :direction (z6 / along)
+              :place (z7 / there)
+              :temporal (z8 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And then over the lower end of the mountains and over Cow Springs.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:06.128064
+(z0 / and
+    :op2 (z1 / be-destined-for-91
+             :ARG2 (z2 / space
+                       :ARG1-of (z3 / over-04
+                                    :ARG2 (z4 / thing
+                                              :ARG1-of (z5 / end-05
+                                                           :ARG2 (z6 / mountain)
+                                                           :ARG1-of (z7 / have-degree-91
+                                                                        :ARG2 (z8 / low-04
+                                                                                  :ARG1 z4)
+                                                                        :ARG3 (z9 / more)))
+                                              :ARG3 (z10 / cartesian-framework-91
+                                                         :ARG1 (z11 / build-space))))
+                       :ARG1-of (z12 / over-04
+                                     :ARG2 (z13 / city
+                                                :name (z14 / name
+                                                           :op1 "Cow"
+                                                           :op2 "Springs")
+                                                :wiki "Cow_Springs,_Arkansas")
+                                     :ARG3 z10))
+             :temporal (z15 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Further back in the room was a swinging gate.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:06.128068
+(z0 / gate
+    :ARG1-of (z1 / swing-01)
+    :place (z2 / room
+               :ARG1-of (z3 / have-degree-91
+                            :ARG2 (z4 / back-12
+                                      :ARG1 z2
+                                      :ARG3 (z5 / cartesian-framework-91
+                                                :ARG1 (z6 / builder)))
+                            :ARG3 (z7 / more))))

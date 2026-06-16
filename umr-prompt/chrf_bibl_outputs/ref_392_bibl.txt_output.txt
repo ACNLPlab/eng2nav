@@ -1,0 +1,199 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt When he said the plane nearly turned over with him it was because (this plane was flying low and to gain altitude) the plane had to fly at a steep climb - (it seemed that it would fall over backward).
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:41.550342
+(z0 / cause-01
+    :ARG0 (z1 / obligate-01
+              :ARG1 (z2 / plane
+                        :mod (z3 / this))
+              :ARG2 (z4 / fly-01
+                        :ARG0 z2
+                        :purpose (z5 / gain-02
+                                     :ARG0 z2
+                                     :ARG1 (z6 / altitude))
+                        :manner (z7 / climb-01
+                                    :ARG1 z2
+                                    :manner (z8 / steep)))
+              :ARG1 (z9 / seem-01
+                        :ARG1 (z10 / fall-over-04
+                                   :ARG1 z2
+                                   :direction (z11 / trajectory
+                                                   :ARG4-of (z12 / backward-02
+                                                                 :ARG3 (z13 / cartesian-framework-91
+                                                                            :ARG1 (z14 / builder)))))
+                        :temporal (z15 / say-01
+                                       :ARG0 (z16 / he)
+                                       :ARG1 (z17 / turn-over-03
+                                                  :ARG1 z2
+                                                  :companion z16
+                                                  :degree (z18 / near))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We ate and then flew right back over on the same route, and everything that had happened seemed like a dream. It was late in the afternoon when we got back to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:41.550360
+(z0 / and
+    :op1 (z1 / eat-01
+             :ARG0 (z2 / we))
+    :op2 (z3 / fly-01
+             :ARG0 z2
+             :ARG4 (z4 / back
+                       :destination (z5 / city
+                                        :name (z6 / name
+                                                  :op1 "Phoenix")
+                                        :wiki "Phoenix,_Arizona")
+                       :direction (z7 / route
+                                      :ARG1-of (z8 / same-01)
+                                      :mod (z9 / right-yy)))
+             :temporal (z10 / late-01
+                            :ARG2 (z11 / date-entity
+                                       :dayperiod (z12 / afternoon)))
+             :op3 (z13 / seem-01
+                       :ARG1 (z14 / everything
+                                  :ARG1-of (z15 / do-02))
+                       :ARG2 (z16 / dream-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Among those present were the men known as Black Horse, Limper, Tall Red House Clansman, Old Bead Chant Singer - who was of the Red House Clan - and his cousin, a Bitter Water Clansman called Bead Chant's Nephew, and another man with whom I was merely acquainted, and who was a relative of mine by marriage. His name was Yellow Fermentive Chewer. These are the only ones I can remember of those who came from there (on the other side of the mountain).
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:41.550365
+(z0 / include-91
+    :ARG1 (z1 / and
+              :op1 (z2 / man
+                       :ARG1-of (z3 / know-02
+                                    :ARG2 (z4 / and
+                                              :op1 (z5 / animal
+                                                       :name (z6 / name
+                                                                 :op1 "Black"
+                                                                 :op2 "Horse")
+                                                       :wiki "Black_Horse")
+                                              :op2 (z7 / person
+                                                       :name (z8 / name
+                                                                 :op1 "Limper")
+                                                       :wiki -)
+                                              :op3 (z9 / person
+                                                       :ARG1-of (z10 / have-org-role-92
+                                                                     :ARG2 (z11 / local-region
+                                                                                :name (z12 / name
+                                                                                           :op1 "Red"
+                                                                                           :op2 "House"
+                                                                                           :op3 "Clan")
+                                                                                :wiki "Red_House")
+                                                                     :ARG3 (z13 / member)))
+                                              :op4 (z14 / person
+                                                        :ARG1-of (z15 / have-rel-role-92
+                                                                      :ARG2 z11
+                                                                      :ARG3 (z16 / cousin)))
+                                              :op5 (z17 / person
+                                                        :ARG1-of (z18 / call-01
+                                                                      :ARG2 (z19 / person
+                                                                                 :name (z20 / name
+                                                                                            :op1 "Bade"
+                                                                                            :op2 "Chant"
+                                                                                            :op3 "'s"
+                                                                                            :op4 "Nephew")
+                                                                                 :wiki -)
+                                                                      :mod (z21 / another)
+                                                                      :ARG1-of (z22 / acquaint-01
+                                                                                    :degree (z23 / mere))
+                                                                      :ARG1-of (z24 / have-rel-role-92
+                                                                                    :ARG2 (z25 / i)
+                                                                                    :ARG3 (z26 / relative))))))
+                       :ARG2 (z27 / person
+                                  :name (z28 / name
+                                             :op1 "Yellow"
+                                             :op2 "Fermentive"
+                                             :op3 "Chewer")
+                                  :wiki -))
+              :ARG2 (z29 / present))
+    :op2 (z30 / one
+              :mod (z31 / only)
+              :ARG1-of (z32 / possible-01)
+              :ARG1-of (z33 / include-91
+                            :ARG2 (z34 / include-91
+                                       :ARG2 (z35 / person
+                                                  :ARG1-of (z36 / come-01
+                                                                :source (z37 / mountain)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt My forbears, the old men and women folk, were of the Mexican People Clan. With great hardship they came back from the place called Fort Sumner, packing their goods on their backs, and afterward lived here at Lukachukai.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:41.550369
+(z0 / and
+    :op1 (z1 / have-org-role-92
+             :ARG1 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / forbear)))
+             :ARG2 (z6 / folk
+                       :ARG1-of (z7 / old-01))
+             :ARG3 (z8 / folk
+                       :ARG1-of (z9 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z10 / woman))))
+    :ARG2 (z11 / ethnic-group
+               :name (z12 / name
+                          :op1 "Mexican"
+                          :op2 "People"
+                          :op3 "Clan")
+               :wiki "Mexican_People"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When this happened Black Horse’s henchmen spoke without effect because there were others who were trying to keep order and who said "No" to the proposal to attack the soldiers.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:41.550374
+(z0 / speak-01
+    :ARG0 (z1 / henchman
+              :possessor (z2 / person
+                             :name (z3 / name
+                                       :op1 "Black"
+                                       :op2 "Horse")
+                             :wiki -))
+    :ARG1-of (z4 / cause-01
+                 :ARG0 (z5 / and
+                           :op1 (z6 / other
+                                    :ARG0-of (z7 / try-01
+                                                 :ARG1 (z8 / keep-02
+                                                           :ARG1 (z9 / order-01))))
+                           :op2 (z10 / say-01
+                                     :ARG0 z10
+                                     :ARG1 (z11 / no)
+                                     :ARG2 (z12 / proposal
+                                                :purpose (z13 / attack-01
+                                                              :ARG0 z10
+                                                              :ARG1 (z14 / soldier)))))
+                 :polarity -)
+    :temporal (z15 / event
+                   :mod (z16 / this))
+    :manner (z17 / effect
+                 :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt When he went back inside he said, "I wonder why it is that there is a little cloud hanging over there on the summit of Gobernador Knob?”
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:41.550378
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / wonder-01
+              :ARG0 z1
+              :ARG1 (z3 / umr-unknown
+                        :ARG0-of (z4 / cause-01
+                                     :ARG1 (z5 / overhang-01
+                                               :ARG1 (z6 / cloud
+                                                         :quant (z7 / little))
+                                               :ARG2 (z8 / summit
+                                                         :part-of (z9 / mountain
+                                                                      :name (z10 / name
+                                                                                 :op1 "Gobernador"
+                                                                                 :op2 "Knob")
+                                                                      :wiki "Gobernador_National_Park")))))
+              :temporal (z11 / go-02
+                             :ARG0 z1
+                             :ARG4 (z12 / inside)
+                             :direction (z13 / back))))

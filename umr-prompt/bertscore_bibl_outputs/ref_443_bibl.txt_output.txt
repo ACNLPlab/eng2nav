@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We would take the sheep out,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:52.195989
+(z0 / take-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / sheep)
+    :direction (z3 / out))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:52.196006
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:52.196011
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I would take care of his horses for him.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:52.196015
+(z0 / care-03
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / horse
+              :possessor (z3 / he
+                             :ARG2-of z0)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and we would herd them in a real wilderness area.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:52.196019
+(z0 / herd-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :place (z3 / area
+               :mod (z4 / wilderness)
+               :ARG1-of (z5 / real-04)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:52.196023
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))

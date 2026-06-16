@@ -1,0 +1,72 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Some of us did not know what had been done the night before.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:50.044451
+(z0 / know-01
+    :ARG0 (z1 / we
+              :quant (z2 / some))
+    :ARG1 (z3 / thing
+              :ARG1-of (z4 / do-02
+                           :temporal (z5 / date-entity
+                                         :dayperiod (z6 / night)
+                                         :mod (z7 / before))))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I don't know how it was done.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:50.044464
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG1 (z3 / it))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I don’t know exactly where she came from.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:50.044468
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / come-33
+              :ARG1 (z3 / she)
+              :ARG3 (z4 / exact))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We had not heard of this and knew nothing about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:50.044473
+(z0 / and
+    :op1 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / this)
+             :polarity -)
+    :op2 (z4 / know-01
+             :ARG0 z2
+             :ARG1 z3
+             :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:50.044477
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I do not remember who the rest were.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:33:50.044481
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / rest)
+    :polarity -)

@@ -1,0 +1,95 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Many horses were standing about.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:24.770445
+(z0 / stand-01
+    :ARG1 (z1 / horse
+              :quant (z2 / many))
+    :ARG2 (z3 / about))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt In some places cattle and horses were just standing about, probably on account of the crusted snow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:24.770462
+(z0 / stand-01
+    :ARG1 (z1 / and
+              :op1 (z2 / cattle)
+              :op2 (z3 / horse))
+    :mod (z4 / just)
+    :place (z5 / place
+               :quant (z6 / some))
+    :ARG1-of (z7 / cause-01
+                 :ARG0 (z8 / snow-01
+                           :ARG1-of (z9 / crusted-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The people of his band were standing with him.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:24.770467
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-org-role-92
+                           :ARG2 (z3 / he)
+                           :ARG3 (z4 / band
+                                     :possessor z3)))
+    :ARG2 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt All of them had their horses standing there nearby.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:24.770471
+(z0 / have-03
+    :ARG0 (z1 / they
+              :mod (z2 / all))
+    :ARG1 (z3 / stand-01
+              :ARG1 (z4 / horse
+                        :possessor z1)
+              :ARG2 (z5 / there
+                        :ARG1-of (z6 / nearby-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:24.770476
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt As we flew over them we watched and saw people swarming about.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:24.770480
+(z0 / and
+    :op1 (z1 / watch-01
+             :ARG0 (z2 / we)
+             :temporal (z3 / over-04
+                           :ARG1 z2
+                           :ARG2 (z4 / they)
+                           :ARG3 (z5 / cartesian-framework-91
+                                     :ARG1 (z6 / build-space))))
+    :op2 (z7 / see-01
+             :ARG0 z2
+             :ARG1 (z8 / swarm-01
+                       :ARG0 (z9 / person)
+                       :place (z10 / about))))

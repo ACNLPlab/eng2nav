@@ -1,0 +1,75 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt At dusk we took off in a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:07.267004
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :ARG3 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / dusk)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we took off
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:07.267021
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :temporal (z2 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt On the next day, February 4, we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:07.267026
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :mod (z2 / again)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / day)
+                  :mod (z5 / next)
+                  :ARG4-of (z6 / have-temporal-91
+                               :ARG1 z1
+                               :ARG3 (z7 / date-entity
+                                         :month 4))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt These two men got aboard and we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:07.267030
+(z0 / and
+    :op1 (z1 / get-30
+             :ARG1 (z2 / man
+                       :mod (z3 / this)
+                       :quant 2)
+             :ARG2 (z4 / aboard))
+    :op2 (z5 / take-off-07
+             :ARG0 (z6 / we)
+             :mod (z7 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt At six o'clock we were put aboard a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:07.267034
+(z0 / put-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :time 6))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It's a life or death matter when you ride a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:07.267038
+(z0 / matter-01
+    :ARG1 (z1 / it)
+    :ARG2 (z2 / or
+              :op1 (z3 / life)
+              :op2 (z4 / die-01))
+    :condition (z5 / ride-01
+                   :ARG0 (z6 / you)
+                   :ARG1 (z7 / plane)))

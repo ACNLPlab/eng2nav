@@ -1,0 +1,69 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt “To what extent are the people suffering,”
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:47.940599
+(z0 / suffer-01
+    :ARG0 (z1 / person)
+    :extent (z2 / umr-unknown))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I pointed out to them the various things the people were suffering from.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:47.940615
+(z0 / point-out-02
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / suffer-01
+                           :ARG0 (z4 / person))
+              :mod (z5 / various))
+    :ARG2 (z6 / they))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:47.940620
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:47.940624
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I was one of those who came back (on the next day) to where the people were.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:47.940628
+(z0 / include-91
+    :ARG1 (z1 / person
+              :refer-person 1st)
+    :ARG2 (z2 / person
+              :ARG0-of (z3 / come-01
+                           :ARG1 z1
+                           :ARG4 (z4 / back)
+                           :ARG4 (z5 / space
+                                     :place-of (z6 / person)
+                                     :temporal (z7 / day
+                                                   :mod (z8 / next))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt You know where the people live.”
+# ::annotator bart-amr
+# ::date 2025-10-22 00:05:47.940632
+(z0 / know-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / location
+              :ARG2-of (z3 / live-01
+                           :ARG0 (z4 / person))))

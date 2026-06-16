@@ -1,0 +1,76 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That was probably their plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:24.284396
+(z0 / plan-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / that)
+    :mod (z3 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and that was probably why he was told to take care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:24.284413
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / that)
+             :ARG1 (z3 / tell-01
+                       :ARG1 (z4 / care-03
+                                 :ARG0 (z5 / he)
+                                 :ARG1 (z6 / child))
+                       :ARG2 z5)
+             :ARG1-of (z7 / likely-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They were probably on their way home.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:24.284417
+(z0 / have-place-91
+    :ARG1 (z1 / they)
+    :ARG2 (z2 / home)
+    :ARG1-of (z3 / likely-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt "It's probably all right.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:24.284422
+(z0 / right-06
+    :ARG1 (z1 / it)
+    :mod (z2 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They probably planned to go in to see the Agent on the next day.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:24.284426
+(z0 / plan-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / go-02
+              :ARG0 z1
+              :ARG4 (z3 / see-01
+                        :ARG0 z1
+                        :ARG1 (z4 / person
+                                  :ARG1-of (z5 / have-org-role-92
+                                               :ARG3 (z6 / agent))))
+              :temporal (z7 / date-entity
+                            :dayperiod (z8 / day)
+                            :mod (z9 / next))
+              :ARG1-of (z10 / probable)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They probably said this because they knew of the wars that were going on.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:24.284430
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / this)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / know-01
+                           :ARG0 z1
+                           :ARG1 (z5 / war-01)))
+    :ARG1-of (z6 / probable))

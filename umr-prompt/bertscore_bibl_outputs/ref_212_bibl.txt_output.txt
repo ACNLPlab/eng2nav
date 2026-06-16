@@ -1,0 +1,60 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They were probably on their way home.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:32.027112
+(z0 / have-place-91
+    :ARG1 (z1 / they)
+    :ARG2 (z2 / home)
+    :ARG1-of (z3 / likely-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That was probably their plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:32.027124
+(z0 / plan-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / that)
+    :mod (z3 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They probably said this because they knew of the wars that were going on.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:32.027129
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / this)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / know-01
+                           :ARG0 z1
+                           :ARG1 (z5 / war-01)))
+    :ARG1-of (z6 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They were beating him up.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:32.027133
+(z0 / beat-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:32.027138
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:40:32.027142
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))

@@ -1,0 +1,80 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt "Throw him down there!"
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:41.551197
+(z0 / throw-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / he)
+    :ARG2 (z3 / there)
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt down there
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:41.551213
+(z0 / be-destined-for-91
+    :ARG2 (z1 / there
+              :ARG1-of (z2 / down-03
+                           :ARG5 (z3 / cartesian-framework-91
+                                     :ARG1 (z4 / build-space)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt down there" voices were heard saying.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:41.551217
+(z0 / say-01
+    :ARG0 (z1 / voice
+              :place (z2 / there
+                         :ARG1-of (z3 / down-03
+                                      :ARG5 (z4 / cartesian-framework-91
+                                                :ARG1 (z5 / build-space))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We stayed down there and herded the sheep until noon.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:41.551221
+(z0 / stay-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / there
+              :ARG1-of (z3 / down-03
+                           :ARG5 (z4 / cartesian-framework-91
+                                     :ARG1 (z5 / build-space))))
+    :op3 (z6 / herded-01
+             :ARG0 z1
+             :ARG1 (z7 / sheep)
+             :temporal (z8 / until
+                           :op1 (z9 / date-entity
+                                    :dayperiod (z10 / noon)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In the fall of that same year we moved from the mountain back down into the valley to herd down there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:41.551225
+(z0 / move-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / mountain)
+    :direction (z3 / back)
+    :ARG4 (z4 / valley)
+    :purpose (z5 / herd-01
+                 :ARG0 z1
+                 :place (z6 / down))
+    :temporal (z7 / fall
+                  :temporal (z8 / year
+                                :mod (z9 / that)
+                                :ARG1-of (z10 / same-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was in the Spring when they moved there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:41:41.551229
+(z0 / move-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / there)
+    :temporal (z3 / date-entity
+                  :year 2016))

@@ -1,0 +1,92 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt In the evening after we had unloaded another load of wood we started back home in the wagon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:46.612290
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :place (z3 / wagon)
+    :temporal (z4 / after
+                  :op1 (z5 / load-01
+                           :ARG0 z1
+                           :ARG1 (z6 / load
+                                     :mod (z7 / another)
+                                     :consist-of (z8 / wood))))
+    :temporal (z9 / date-entity
+                  :dayperiod (z10 / evening)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt At dusk we took off in a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:46.612321
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :ARG3 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / dusk)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt In the late evening we all returned to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:46.612325
+(z0 / return-01
+    :ARG1 (z1 / we
+              :mod (z2 / all))
+    :ARG4 (z3 / city
+              :name (z4 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona")
+    :temporal (z5 / late-01
+                  :ARG2 (z6 / date-entity
+                            :dayperiod (z7 / evening))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:46.612330
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:46.612334
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt At the time we had brought the last load of wood; while we were unloading it we noticed two women leading a horse nearby.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:46.612338
+(z0 / notice-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / lead-02
+              :ARG0 (z3 / woman
+                        :quant 2)
+              :ARG1 (z4 / horse)
+              :place (z5 / nearby)
+              :temporal (z6 / bring-01
+                            :ARG0 z1
+                            :ARG1 (z7 / load
+                                      :consist-of (z8 / wood)
+                                      :ord (z9 / ordinal-entity
+                                               :value "-1")))
+              :temporal (z10 / while
+                             :op1 (z11 / load-01
+                                       :ARG0 z1
+                                       :ARG1 z7))))

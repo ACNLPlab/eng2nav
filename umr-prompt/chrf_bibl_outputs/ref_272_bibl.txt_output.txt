@@ -1,0 +1,75 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We each got aboard a different one.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:44.154828
+(z0 / get-30
+    :ARG1 (z1 / we
+              :mod (z2 / each))
+    :ARG2 (z3 / one
+              :ARG1-of (z4 / differ-02)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt These two men got aboard and we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:44.154847
+(z0 / and
+    :op1 (z1 / get-30
+             :ARG1 (z2 / man
+                       :mod (z3 / this)
+                       :quant 2)
+             :ARG2 (z4 / aboard))
+    :op2 (z5 / take-off-07
+             :ARG0 (z6 / we)
+             :mod (z7 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I told you that they have a different name,” he said as he scolded me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:44.154851
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / tell-01
+              :ARG0 z1
+              :ARG1 (z3 / have-03
+                        :ARG0 (z4 / they)
+                        :ARG1 (z5 / name
+                                  :ARG1-of (z6 / differ-02))
+                        :ARG2 (z7 / you))
+              :temporal (z8 / scold-01
+                            :ARG0 z1
+                            :ARG1 z7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt At six o'clock we were put aboard a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:44.154855
+(z0 / put-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :time 6))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt But it was destined to turn out differently.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:44.154859
+(z0 / contrast-91
+    :ARG2 (z1 / destined-01
+              :ARG1 (z2 / it)
+              :ARG2 (z3 / differ-02
+                        :ARG1 z2)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Back at that time it was different.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:44.154863
+(z0 / differ-02
+    :ARG1 (z1 / it)
+    :temporal (z2 / time
+                  :mod (z3 / that)))

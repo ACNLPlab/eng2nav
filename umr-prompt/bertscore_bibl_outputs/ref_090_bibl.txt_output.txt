@@ -1,0 +1,88 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He would tell me to haul wood with it, or to work with it.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:07.945332
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / or
+              :op1 (z3 / haul-01
+                       :ARG0 (z4 / i)
+                       :ARG1 (z5 / wood)
+                       :ARG3 (z6 / it))
+              :op2 (z7 / work-01
+                       :ARG0 z4
+                       :ARG1 z5))
+    :ARG2 z4)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:07.945350
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt My cousin would tell me to go a certain direction, and we would then separate.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:07.945355
+(z0 / and
+    :op1 (z1 / tell-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / cousin)))
+             :ARG1 (z6 / go-02
+                       :ARG0 z4
+                       :ARG4 (z7 / direction
+                                 :mod (z8 / certain)))
+             :op2 (z9 / separate-01
+                      :ARG0 (z10 / we)
+                      :temporal (z11 / then))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and he used to teach me what he knew.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:07.945359
+(z0 / and
+    :op2 (z1 / use-01
+             :ARG0 (z2 / he)
+             :ARG1 (z3 / teach-01
+                       :ARG0 z2
+                       :ARG1 (z4 / thing
+                                 :ARG1-of (z5 / know-02
+                                              :ARG0 z2))
+                       :ARG2 (z6 / i))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We would discuss it when we took the wagon after wood.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:07.945363
+(z0 / discuss-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / it)
+    :temporal (z3 / take-01
+                  :ARG0 z1
+                  :ARG1 (z4 / wagon)
+                  :ARG2 (z5 / after
+                            :op1 (z6 / wood))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He started sending me on chores.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:07.945367
+(z0 / start-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / send-01
+              :ARG0 z1
+              :ARG1 (z3 / i)
+              :ARG2 (z4 / chore)))

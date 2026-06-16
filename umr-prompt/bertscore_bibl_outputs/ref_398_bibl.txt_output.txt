@@ -1,0 +1,64 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt In flight the crew would discuss position.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:37.009508
+(z0 / discuss-01
+    :ARG0 (z1 / crew)
+    :ARG1 (z2 / position)
+    :temporal (z3 / fly-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt This way we discussed our position with one another.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:37.009520
+(z0 / discuss-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / position
+              :possessor z1)
+    :ARG2 (z3 / other)
+    :manner (z4 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The pilots take turns.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:37.009524
+(z0 / turn-02
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / fly-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:37.009529
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt At dusk we took off in a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:37.009533
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :ARG3 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / dusk)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:37.009537
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))

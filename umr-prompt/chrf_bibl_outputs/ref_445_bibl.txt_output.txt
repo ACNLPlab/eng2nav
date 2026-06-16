@@ -1,0 +1,113 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt These areas were dense with pine, spruce, aspen and oak.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:08.634146
+(z0 / dense
+    :domain (z1 / area
+                :mod (z2 / this))
+    :ARG2 (z3 / and
+              :op1 (z4 / pine)
+              :op2 (z5 / spruce)
+              :op3 (z6 / aspen)
+              :op4 (z7 / oak)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The one I referred to as Limper was standing near Black Horse with a blanket wrapped around his middle.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:08.634164
+(z0 / stand-01
+    :ARG1 (z1 / one
+              :ARG1-of (z2 / refer-number
+                           :ARG2-of (z3 / refer-03
+                                        :ARG0 (z4 / i)
+                                        :ARG1 (z5 / limper)))
+              :ARG2 (z6 / near
+                        :op1 (z7 / horse
+                                 :name (z8 / name
+                                           :op1 "Black"
+                                           :op2 "Horse")
+                                 :wiki "Black_Horse"))
+              :manner (z9 / wrap-01
+                          :ARG1 (z10 / blanket)
+                          :ARG2 (z11 / thing
+                                     :ARG1-of (z12 / middle-01
+                                                   :ARG2 z1)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The one I referred to as River Man, who is now known as Short Hair, and another boy with him. These were the ones who were locked inside.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:08.634168
+(z0 / and
+    :op1 (z1 / one
+             :ARG1-of (z2 / refer-03
+                          :ARG0 (z3 / i)
+                          :ARG2 (z4 / man
+                                    :name (z5 / name
+                                              :op1 "River"
+                                              :op2 "Man")
+                                    :wiki -)
+                          :ARG1-of (z6 / know-02
+                                       :temporal (z7 / now)))
+             :op2 (z8 / boy
+                      :mod (z9 / another)
+                      :ARG1-of (z10 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z11 / boy)))
+             :domain (z12 / one
+                          :ARG1-of (z13 / lock-01
+                                        :ARG2 (z14 / inside))
+                          :domain (z15 / this))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The sheep would be grazing nearby, and we would spend the whole day playing with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:08.634173
+(z0 / and
+    :op1 (z1 / grazing-01
+             :ARG1 (z2 / sheep)
+             :place (z3 / nearby))
+    :op2 (z4 / spend-02
+             :ARG0 (z5 / we)
+             :ARG1 (z6 / play-01
+                       :ARG0 z5
+                       :ARG1 (z7 / ram)
+                       :extent (z8 / whole))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We trailed them for quite a while when suddenly, from within a nearby oak clump, there came the sound of dogs barking loudly.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:08.634177
+(z0 / lag-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :duration (z3 / while
+                  :degree (z4 / quite))
+    :temporal (z5 / sudden)
+    :temporal (z6 / sound-02
+                  :ARG0 (z7 / dog)
+                  :ARG1 (z8 / bark-01
+                            :ARG0 z7
+                            :manner (z9 / loud))
+                  :source (z10 / clump
+                               :mod (z11 / nearby))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There was an epidemic in progress, and we now refer to it as "the time when the throat killed many."
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:08.634181
+(z0 / and
+    :op1 (z1 / progress-01
+             :ARG1 (z2 / epidemic))
+    :op2 (z3 / refer-02
+             :ARG0 (z4 / we)
+             :ARG1 (z5 / time
+                       :temporal-of (z6 / kill-01
+                                        :ARG1 (z7 / throat)
+                                        :ARG2 (z8 / many)))
+             :temporal (z9 / now)))

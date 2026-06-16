@@ -1,0 +1,68 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The dogs ran around him barking fiercely.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.705879
+(z0 / run-02
+    :ARG1 (z1 / dog)
+    :ARG4 (z2 / around
+              :op1 (z3 / he))
+    :manner (z4 / bark-01
+                :ARG0 z1
+                :manner (z5 / fierce)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.705892
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Many horses were standing about.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.705896
+(z0 / stand-01
+    :ARG1 (z1 / horse
+              :quant (z2 / many))
+    :ARG2 (z3 / about))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.705901
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They were beating him up.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.705905
+(z0 / beat-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt All of them had their horses standing there nearby.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.705909
+(z0 / have-03
+    :ARG0 (z1 / they
+              :mod (z2 / all))
+    :ARG1 (z3 / stand-01
+              :ARG1 (z4 / horse
+                        :possessor z1)
+              :ARG2 (z5 / there
+                        :ARG1-of (z6 / nearby-01))))

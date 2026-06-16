@@ -1,0 +1,77 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt But we (guides) had to stay aboard all day long.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:50.967007
+(z0 / contrast-91
+    :ARG2 (z1 / obligate-01
+              :ARG1 (z2 / we
+                        :ARG0-of (z3 / help-01))
+              :ARG2 (z4 / stay-01
+                        :ARG1 z2
+                        :ARG2 (z5 / aboard)
+                        :extent (z6 / all-the-way)
+                        :duration (z7 / temporal-quantity
+                                      :unit (z8 / day)
+                                      :quant 1))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt In some places the sheep were kept in the corrals all day long.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:50.967018
+(z0 / keep-01
+    :ARG1 (z1 / sheep)
+    :ARG2 (z2 / corral)
+    :place (z3 / place
+               :quant (z4 / some))
+    :duration (z5 / all-the-way)
+    :temporal (z6 / date-entity
+                  :dayperiod (z7 / day)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:50.967023
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and some take the afternoon shift.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:50.967027
+(z0 / and
+    :op2 (z1 / shift-01
+             :ARG0 (z2 / person
+                       :quant (z3 / some))
+             :temporal (z4 / date-entity
+                           :dayperiod (z5 / afternoon))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt where we arrived at noon.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:50.967032
+(z0 / have-place-91
+    :ARG2 (z1 / arrive-01
+              :ARG1 (z2 / we)
+              :temporal (z3 / date-entity
+                            :time "12:00")))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we hauled two loads that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:50.967036
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :temporal (z4 / day
+                            :mod (z5 / that))))

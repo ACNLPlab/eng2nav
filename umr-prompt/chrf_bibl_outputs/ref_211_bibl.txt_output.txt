@@ -1,0 +1,133 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt At the time we had brought the last load of wood; while we were unloading it we noticed two women leading a horse nearby.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:18.204951
+(z0 / notice-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / lead-02
+              :ARG0 (z3 / woman
+                        :quant 2)
+              :ARG1 (z4 / horse)
+              :place (z5 / nearby)
+              :temporal (z6 / bring-01
+                            :ARG0 z1
+                            :ARG1 (z7 / load
+                                      :consist-of (z8 / wood)
+                                      :ord (z9 / ordinal-entity
+                                               :value "-1")))
+              :temporal (z10 / while
+                             :op1 (z11 / load-01
+                                       :ARG0 z1
+                                       :ARG1 z7))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt In the evening after we had unloaded another load of wood we started back home in the wagon.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:18.204969
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :place (z3 / wagon)
+    :temporal (z4 / after
+                  :op1 (z5 / load-01
+                           :ARG0 z1
+                           :ARG1 (z6 / load
+                                     :mod (z7 / another)
+                                     :consist-of (z8 / wood))))
+    :temporal (z9 / date-entity
+                  :dayperiod (z10 / evening)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt [But at the time when we were small and used to herd our sheep up there we did not know things like this.] Only my cousin had a smattering of such information,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:18.204974
+(z0 / contrast-91
+    :ARG2 (z1 / know-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / resemble-91
+                                     :ARG2 (z5 / this)))
+              :temporal (z6 / and
+                            :op1 (z7 / small
+                                     :domain z2)
+                            :op2 (z8 / use-01
+                                     :ARG1 z2
+                                     :ARG2 (z9 / herd-01
+                                               :ARG0 z2
+                                               :ARG1 (z10 / sheep
+                                                          :possessor z2)
+                                               :place (z11 / there)))
+                            :polarity -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt As she passed by she said, "It is said that those boys who are unloading wood over there have been promised for school - they will go to school too.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:18.204978
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / and
+              :op1 (z3 / say-01
+                       :ARG1 (z4 / promise-01
+                                 :ARG1 (z5 / boy
+                                           :ARG0-of (z6 / load-01
+                                                        :ARG1 (z7 / wood)
+                                                        :place (z8 / there)))
+                                 :ARG2 (z9 / school))
+                       :quote z0)
+              :op2 (z10 / go-02
+                        :ARG0 z5
+                        :ARG4 z9
+                        :mod (z11 / too)))
+    :temporal (z12 / pass-by-02
+                   :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt At the time I was about eighteen years old the person who started the present trading post at Blue Clay Point moved there - I used to know just when it was.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:18.204982
+(z0 / and
+    :op1 (z1 / move-01
+             :ARG0 (z2 / person
+                       :ARG0-of (z3 / start-01
+                                    :ARG1 (z4 / post
+                                              :mod (z5 / present-02)
+                                              :place (z6 / point
+                                                         :name (z7 / name
+                                                                   :op1 "Blue"
+                                                                   :op2 "Clay"
+                                                                   :op3 "Point")
+                                                         :wiki "Blue_Clay_Point"))))
+             :ARG1 (z8 / there)
+             :temporal (z9 / age-01
+                           :ARG1 (z10 / i)
+                           :ARG2 (z11 / about
+                                      :op1 (z12 / temporal-quantity
+                                                :unit (z13 / year)
+                                                :quant 18))))
+    :op2 (z14 / know-01
+              :ARG0 z10
+              :ARG1 (z15 / time
+                         :temporal-of (z16 / it)
+                         :mod (z17 / just))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:18.204986
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :temporal (z3 / since
+                  :op1 (z4 / report-01
+                           :ARG1 (z5 / before
+                                     :op1 (z6 / arrive-01
+                                              :ARG1 (z7 / load
+                                                        :possessor (z8 / child)))
+                                     :mod (z9 / another)))))

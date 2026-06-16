@@ -1,0 +1,136 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The house served the purpose of providing a place to sleep for the people who came to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:14.234886
+(z0 / serve-01
+    :ARG0 (z1 / house)
+    :ARG1 (z2 / provide-01
+              :ARG1 (z3 / place
+                        :purpose (z4 / sleep-01
+                                     :ARG0 (z5 / person
+                                               :ARG0-of (z6 / come-01
+                                                            :ARG1 (z7 / post
+                                                                      :mod (z8 / trade))))))
+              :ARG2 z5))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:14.234902
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The people went into the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:14.234907
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / post
+              :mod (z3 / trade)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt At the time I was about eighteen years old the person who started the present trading post at Blue Clay Point moved there - I used to know just when it was.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:14.234911
+(z0 / and
+    :op1 (z1 / move-01
+             :ARG0 (z2 / person
+                       :ARG0-of (z3 / start-01
+                                    :ARG1 (z4 / post
+                                              :mod (z5 / present-02)
+                                              :place (z6 / point
+                                                         :name (z7 / name
+                                                                   :op1 "Blue"
+                                                                   :op2 "Clay"
+                                                                   :op3 "Point")
+                                                         :wiki "Blue_Clay_Point"))))
+             :ARG1 (z8 / there)
+             :temporal (z9 / age-01
+                           :ARG1 (z10 / i)
+                           :ARG2 (z11 / about
+                                      :op1 (z12 / temporal-quantity
+                                                :unit (z13 / year)
+                                                :quant 18))))
+    :op2 (z14 / know-01
+              :ARG0 z10
+              :ARG1 (z15 / time
+                         :temporal-of (z16 / it)
+                         :mod (z17 / just))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They had no doubt heard that in a certain number of days a party would come to Blue Clay Point for the purpose of putting children in school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:14.234915
+(z0 / doubt-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / hear-01
+              :ARG0 z1
+              :ARG1 (z3 / come-01
+                        :ARG1 (z4 / party)
+                        :ARG4 (z5 / point
+                                  :name (z6 / name
+                                            :op1 "Blue"
+                                            :op2 "Clay"
+                                            :op3 "Point")
+                                  :wiki "Blue_Clay_Point_Naval_Base")
+                        :purpose (z7 / put-01
+                                     :ARG0 z4
+                                     :ARG1 (z8 / child)
+                                     :ARG2 (z9 / school))
+                        :temporal (z10 / after
+                                       :quant (z11 / number
+                                                   :quant (z12 / certain))))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They built the trading post and four years later perhaps, I do not recall exactly when, the one I called my uncle told us to haul wood there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:44:14.234919
+(z0 / and
+    :op1 (z1 / build-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / post
+                       :mod (z4 / trade))
+             :temporal (z5 / after
+                           :quant (z6 / temporal-quantity
+                                      :unit (z7 / year)
+                                      :quant 4))
+             :op2 (z8 / recall-02
+                      :ARG0 (z9 / i)
+                      :ARG1 (z10 / tell-01
+                                 :ARG0 (z11 / one
+                                            :ARG1-of (z12 / call-01
+                                                          :ARG0 z9
+                                                          :ARG2 (z13 / person
+                                                                     :ARG1-of (z14 / have-rel-role-92
+                                                                                   :ARG2 z9
+                                                                                   :ARG3 (z15 / uncle)))))
+                                 :ARG1 (z16 / haul-01
+                                            :ARG0 z9
+                                            :ARG1 (z17 / wood)
+                                            :ARG2 (z18 / there))
+                                 :ARG1-of (z19 / possible-01))
+                      :polarity -)))

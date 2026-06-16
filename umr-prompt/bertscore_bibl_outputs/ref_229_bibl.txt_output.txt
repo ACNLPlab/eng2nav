@@ -1,0 +1,66 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then some white people took him in.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:55.843393
+(z0 / take-01
+    :ARG0 (z1 / person
+              :quant (z2 / some)
+              :ARG1-of (z3 / white-02))
+    :ARG1 (z4 / he)
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Many people lost stock.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:55.843405
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / stock))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:55.843409
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:55.843414
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and some take the afternoon shift.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:55.843418
+(z0 / and
+    :op2 (z1 / shift-01
+             :ARG0 (z2 / person
+                       :quant (z3 / some))
+             :temporal (z4 / date-entity
+                           :dayperiod (z5 / afternoon))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They were beating him up.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:55.843422
+(z0 / beat-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / he))

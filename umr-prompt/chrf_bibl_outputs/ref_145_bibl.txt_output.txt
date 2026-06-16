@@ -1,0 +1,138 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:06.347842
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then Black Horse spoke up and said, "This business of taking children away from people to put them in school - when is it going to affect the people from over beyond the mountain?"
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:06.347857
+(z0 / speak-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / affect-01
+              :ARG0 (z4 / business
+                        :purpose (z5 / take-away-05
+                                     :ARG0 z4
+                                     :ARG1 (z6 / child)
+                                     :ARG2 (z7 / person)
+                                     :purpose (z8 / put-01
+                                                  :ARG0 z4
+                                                  :ARG1 z6
+                                                  :ARG2 (z9 / school))))
+              :ARG1 (z10 / umr-unknown)
+              :ARG2 (z11 / person
+                         :source (z12 / over
+                                      :op1 (z13 / mountain)
+                                      :ARG5 (z14 / cartesian-framework-91
+                                                 :ARG1 (z15 / build-space))))
+              :temporal (z16 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:06.347862
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They had no doubt heard that in a certain number of days a party would come to Blue Clay Point for the purpose of putting children in school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:06.347866
+(z0 / doubt-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / hear-01
+              :ARG0 z1
+              :ARG1 (z3 / come-01
+                        :ARG1 (z4 / party)
+                        :ARG4 (z5 / point
+                                  :name (z6 / name
+                                            :op1 "Blue"
+                                            :op2 "Clay"
+                                            :op3 "Point")
+                                  :wiki "Blue_Clay_Point_Naval_Base")
+                        :purpose (z7 / put-01
+                                     :ARG0 z4
+                                     :ARG1 (z8 / child)
+                                     :ARG2 (z9 / school))
+                        :temporal (z10 / after
+                                       :quant (z11 / number
+                                                   :quant (z12 / certain))))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:06.347870
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They no doubt told what they thought - what their opinions were regarding this school business that had started in connection with us. They told these things to the people from here who had gathered.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:06.347874
+(z0 / tell-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / thing
+                       :ARG1-of (z4 / think-01
+                                    :ARG0 z1))
+              :op2 (z5 / thing
+                       :ARG1-of (z6 / opine-01
+                                    :ARG0 z1)
+                       :topic (z7 / business
+                                  :mod (z8 / school)
+                                  :ARG1-of (z9 / start-01
+                                               :prep-in (z10 / we))
+                                  :mod (z11 / this))))
+    :ARG2 (z12 / person
+               :source (z13 / here)
+               :ARG0-of (z14 / gather-03))
+    :ARG1-of (z15 / doubt-01))

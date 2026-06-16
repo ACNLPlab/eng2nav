@@ -1,0 +1,80 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Some times we would fall off, and we would really laugh then too.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:29.348995
+(z0 / and
+    :op1 (z1 / fall-off-04
+             :ARG1 (z2 / we)
+             :temporal (z3 / sometimes))
+    :op2 (z4 / laugh-01
+             :ARG0 z2
+             :temporal (z5 / then)
+             :degree (z6 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We would sit on them, and when their heads came crashing together we would really die laughing.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:29.349011
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / we)
+             :ARG2 (z3 / they))
+    :op2 (z4 / die-01
+             :ARG1 z2
+             :ARG1-of (z5 / real-04)
+             :temporal (z6 / crash-01
+                           :ARG1 z3
+                           :manner (z7 / together))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt My cousin would tell me to go a certain direction, and we would then separate.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:29.349016
+(z0 / and
+    :op1 (z1 / tell-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / cousin)))
+             :ARG1 (z6 / go-02
+                       :ARG0 z4
+                       :ARG4 (z7 / direction
+                                 :mod (z8 / certain)))
+             :op2 (z9 / separate-01
+                      :ARG0 (z10 / we)
+                      :temporal (z11 / then))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and we would herd them in a real wilderness area.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:29.349020
+(z0 / herd-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :place (z3 / area
+               :mod (z4 / wilderness)
+               :ARG1-of (z5 / real-04)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:29.349024
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:06:29.349028
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))

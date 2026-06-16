@@ -1,0 +1,87 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt A bear! A bear!” I said, as I went zooming by him.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:11.536754
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :mode expressive)
+    :temporal (z3 / go-02
+                  :ARG0 z1
+                  :ARG4 (z4 / by
+                            :op1 (z5 / he))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt “It's burning!” said the pilot.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:11.536769
+(z0 / say-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / fly-01))
+    :ARG1 (z3 / burn-01
+              :ARG1 (z4 / it)
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt "Outside with him!" voices were saying.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:11.536774
+(z0 / say-01
+    :ARG0 (z1 / voice)
+    :ARG1 (z2 / outside
+              :companion (z3 / he)
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I told you that they have a different name,” he said as he scolded me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:11.536778
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / tell-01
+              :ARG0 z1
+              :ARG1 (z3 / have-03
+                        :ARG0 (z4 / they)
+                        :ARG1 (z5 / name
+                                  :ARG1-of (z6 / differ-02))
+                        :ARG2 (z7 / you))
+              :temporal (z8 / scold-01
+                            :ARG0 z1
+                            :ARG1 z7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt So I dashed toward him. ”Here comes a bear, cousin.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:11.536782
+(z0 / say-91
+    :ARG1 (z1 / come-33
+              :ARG1 (z2 / bear)
+              :ARG2 (z3 / person
+                        :ARG1-of (z4 / have-rel-role-92
+                                     :ARG2 (z5 / i)
+                                     :ARG3 (z6 / cousin)))
+              :quote z0)
+    :ARG1-of (z7 / cause-01
+                 :ARG0 (z8 / dashed-01
+                           :ARG0 (z1000 / toward
+                                        :op1 (z9 / he)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He knows English", I said.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:11.536786
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / know-02
+              :ARG0 (z3 / he)
+              :ARG1 (z4 / language
+                        :name (z5 / name
+                                  :op1 "English")
+                        :wiki "English_language")
+              :quote z0))

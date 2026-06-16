@@ -1,0 +1,87 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:39:20.450850
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The people went into the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:39:20.450867
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / post
+              :mod (z3 / trade)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We saw the people going inside the trading post,
+# ::annotator bart-amr
+# ::date 2025-10-21 21:39:20.450871
+(z0 / see-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / go-02
+              :ARG0 (z3 / person)
+              :ARG4 (z4 / inside
+                        :op1 (z5 / post
+                                 :mod (z6 / trade)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The people of his band were standing with him.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:39:20.450875
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-org-role-92
+                           :ARG2 (z3 / he)
+                           :ARG3 (z4 / band
+                                     :possessor z3)))
+    :ARG2 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My uncle was standing beside me,
+# ::annotator bart-amr
+# ::date 2025-10-21 21:39:20.450879
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / uncle)))
+    :ARG2 z3
+    :place (z5 / beside
+               :op1 z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt When we got to the store we found that many people had assembled.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:39:20.450883
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / assemble-02
+              :ARG0 (z3 / person
+                        :quant (z4 / many)))
+    :temporal (z5 / get-01
+                  :ARG0 z1
+                  :ARG4 (z6 / store)))

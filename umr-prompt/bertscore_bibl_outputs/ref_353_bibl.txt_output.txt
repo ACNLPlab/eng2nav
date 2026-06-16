@@ -1,0 +1,72 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It looked strange up above the clouds.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:23:57.583008
+(z0 / look-02
+    :ARG0 (z1 / it)
+    :ARG1 (z2 / strange)
+    :place (z3 / space
+               :ARG1-of (z4 / above-01
+                            :ARG2 (z5 / cloud)
+                            :ARG3 (z6 / cartesian-framework-91
+                                      :ARG1 (z7 / build-space)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It was very beautiful up there on the mountain at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:23:57.583024
+(z0 / beautiful-02
+    :ARG1 (z1 / it)
+    :place (z2 / there
+               :place (z3 / mountain))
+    :temporal (z4 / time
+                  :mod (z5 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:23:57.583029
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:23:57.583033
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I don't know how far above the clouds.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:23:57.583037
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / distance-quantity
+              :quant-of (z3 / above-01
+                            :ARG2 (z4 / cloud)
+                            :ARG3 (z5 / cartesian-framework-91
+                                      :ARG1 (z6 / build-space))))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:23:57.583041
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))

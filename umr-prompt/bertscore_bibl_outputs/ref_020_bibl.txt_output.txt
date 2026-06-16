@@ -1,0 +1,68 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Not far from there, there was a drop.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:28.325427
+(z0 / drop-01
+    :place (z1 / space
+               :ARG1-of (z2 / far-01
+                            :ARG2 (z3 / there))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:28.325439
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Like on that other occasion, there was again a lot of fog.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:28.325444
+(z0 / fog
+    :ARG1-of (z1 / have-quant-91
+                 :ARG2 (z2 / lot)
+                 :ARG3 (z3 / lot))
+    :ARG1-of (z4 / resemble-91
+                 :ARG2 (z5 / fog
+                           :temporal (z6 / occasion
+                                         :mod (z7 / other)))
+                 :mod (z8 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Near the trading post there was a house which
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:28.325448
+(z0 / house-01
+    :ARG1-of (z1 / have-place-91
+                 :ARG2 (z2 / near-02
+                           :ARG2 (z3 / post
+                                     :mod (z4 / trade)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:28.325452
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt So there were three policemen.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:28.325456
+(z0 / cause-01
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / guard-01)
+              :quant 3))

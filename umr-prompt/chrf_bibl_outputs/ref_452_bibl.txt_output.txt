@@ -1,0 +1,118 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:16.719351
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / thing
+                       :ARG1-of (z4 / tell-01
+                                    :ARG0 (z5 / he)
+                                    :ARG2 (z6 / mention-01
+                                              :ARG0 z5
+                                              :ARG1 (z7 / word)
+                                              :polarity -)))
+             :temporal (z8 / go-02
+                           :ARG0 z2
+                           :ARG4 (z9 / there)
+                           :direction (z10 / up))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I used to go around wondering why under the sun a person should not say the word ‘bear’,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:16.719369
+(z0 / go-02
+    :ARG0 (z1 / i)
+    :ARG4 (z2 / around)
+    :purpose (z3 / wonder-01
+                 :ARG0 z1
+                 :ARG1 (z4 / thing
+                           :ARG0-of (z5 / cause-01
+                                        :ARG1 (z6 / recommend-01
+                                                  :ARG1 (z7 / say-01
+                                                            :ARG0 (z8 / person)
+                                                            :ARG1 (z9 / word
+                                                                      :mod (z10 / bear))
+                                                            :polarity -)
+                                                  :temporal (z11 / under
+                                                                 :op1 (z12 / sun)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:16.719374
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is how it came about that the one who would be called The Interpreter (Chee Dodge) and the one who would be named Big Lump Setting Up came to move there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:16.719379
+(z0 / come-33
+    :ARG1 (z1 / and
+              :op1 (z2 / one
+                       :ARG1-of (z3 / call-01
+                                    :ARG2 (z4 / interpreter))
+                       :op2 (z5 / person
+                                :name (z6 / name
+                                          :op1 "Chee"
+                                          :op2 "Dodge")
+                                :wiki -)
+                       :op3 (z7 / one
+                                :ARG1-of (z8 / name-01
+                                             :ARG2 (z9 / set-up-03))))
+              :ARG2 (z10 / there))
+    :ARG2 (z11 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt But one does not mention their name "bear”. People who live over there toward the mountains never say “bear”.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:16.719383
+(z0 / contrast-91
+    :ARG2 (z1 / mention-01
+              :ARG0 (z2 / one)
+              :ARG1 (z3 / name
+                        :op1 "bear")
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I do not remember in detail much of what happened before I was about ten years old.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:16.719387
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / event
+              :quant (z3 / much))
+    :manner (z4 / detail)
+    :temporal (z5 / before
+                  :op1 (z6 / age-01
+                           :ARG1 z1
+                           :ARG2 (z7 / temporal-quantity
+                                     :unit (z8 / year)
+                                     :quant 10)))
+    :polarity -)

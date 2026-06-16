@@ -1,0 +1,39 @@
+==========================================
+Testing English→Navajo M2M100 Model
+Job ID: 1094916
+Node: dgx001
+==========================================
+================================================================================
+M2M100 TRANSLATION
+================================================================================
+Checkpoint  : /home/common/ACNLP/eng2nav/m2m_ft/fi_NOsyll_418M/fold_0/checkpoint-15970
+Data dir    : /home/common/ACNLP/eng2nav/m2m_ft/fi_NOsyll_418M/fold_0/data
+Source lang : en
+Target lang : fi
+Output file : /home/common/ACNLP/eng2nav/m2m_ft/fi_NOsyll_418M/fold_0/test_preds.txt
+================================================================================
+
+Loading model...
+Model loaded on cuda
+
+Loading test data...
+Loaded 3196 sentence pairs
+
+Translating...
+  Translated 320/3196
+  Translated 640/3196
+  Translated 960/3196
+  Translated 1280/3196
+  Translated 1600/3196
+  Translated 1920/3196
+  Translated 2240/3196
+  Translated 2560/3196
+  Translated 2880/3196
+  Translated 3196/3196
+
+Done.
+Saved predictions to: /home/common/ACNLP/eng2nav/m2m_ft/fi_NOsyll_418M/fold_0/test_preds.txt
+==========================================
+Testing complete!
+Predictions saved to: test_preds.txt
+==========================================

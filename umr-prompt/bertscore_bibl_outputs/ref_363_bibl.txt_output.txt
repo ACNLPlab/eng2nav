@@ -1,0 +1,74 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt You never can tell what will happen.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:50.996288
+(z0 / possible-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / event)
+              :temporal (z4 / ever)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There's nothing you can do when such things happen.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:50.996313
+(z0 / possible-01
+    :ARG1 (z1 / do-02
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / nothing)
+              :temporal (z4 / event
+                            :mod (z5 / such)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I don't know how it was done.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:50.996318
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG1 (z3 / it))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt You can't tell where you are in that kind of weather.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:50.996322
+(z0 / possible-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / space
+                        :place-of z2)
+              :temporal (z4 / weather
+                            :mod (z5 / kind
+                                     :mod (z6 / that)))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt You just sit and hope for the best.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:50.996326
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / you)
+             :mod (z3 / just))
+    :op2 (z4 / hope-01
+             :ARG0 z2
+             :ARG1 (z5 / thing
+                       :ARG2-of (z6 / good-02))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It cannot be known.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:50.996331
+(z0 / possible-01
+    :ARG1 (z1 / know-01
+              :ARG1 (z2 / it))
+    :polarity -)

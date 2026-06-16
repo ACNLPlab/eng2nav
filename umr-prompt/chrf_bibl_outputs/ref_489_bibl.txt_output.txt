@@ -1,0 +1,126 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I saw another one on the following day, but at a distance, and walking on the mountainside.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:52.906324
+(z0 / see-01
+    :ARG0 (z1 / person
+              :refer-person 1st)
+    :ARG1 (z2 / one
+              :mod (z3 / another))
+    :temporal (z4 / date-entity
+                  :dayperiod (z5 / day)
+                  :mod (z6 / following))
+    :manner (z7 / and
+                :op1 (z8 / distance-quantity
+                         :quant-of z2)
+                :op2 (z9 / walk-01
+                         :ARG0 z1
+                         :place (z10 / mountainside))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Tomorrow these will start out and will be routed right along the mountainside.", said Little Chief (Shipley)
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:52.906342
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Little"
+                        :op2 "Chief")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / start-out-05
+                       :ARG1 (z5 / thing
+                                 :mod (z6 / this))
+                       :temporal (z7 / date-entity
+                                     :dayperiod (z8 / tomorrow))
+                       :op2 (z9 / routed-01
+                                :ARG1 z5
+                                :path (z10 / along
+                                           :op1 (z11 / mountainide)
+                                           :mod (z12 / right-yy)))
+                       :quote z0)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At that time up there on the mountain there were those that live in mountains, bears as they are called.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:52.906347
+(z0 / exist-91
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / live-01
+                           :place (z3 / mountain))
+              :ARG0-of (z4 / call-01
+                           :ARG1 (z5 / bear)))
+    :ARG2 (z6 / person
+              :ARG0-of (z7 / live-01
+                           :place (z8 / mountain)))
+    :temporal (z9 / time
+                  :mod (z10 / that))
+    :place (z11 / there
+                :ARG1-of (z12 / have-place-91
+                              :ARG2 (z13 / there)
+                              :ARG3 (z14 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt ‘There are certain things here in the mountains. There is something called ‘bear,” but one never refers to it by that name.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:52.906351
+(z0 / contrast-91
+    :ARG1 (z1 / thing
+              :mod (z2 / certain)
+              :place (z3 / here
+                         :place (z4 / mountain)))
+    :ARG2 (z5 / refer-number
+              :ARG1 (z6 / something
+                        :ARG1-of (z7 / call-01
+                                     :ARG2 (z8 / bear)))
+              :temporal (z9 / ever)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In the fall of that same year we moved from the mountain back down into the valley to herd down there.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:52.906355
+(z0 / move-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / mountain)
+    :direction (z3 / back)
+    :ARG4 (z4 / valley)
+    :purpose (z5 / herd-01
+                 :ARG0 z1
+                 :place (z6 / down))
+    :temporal (z7 / fall
+                  :temporal (z8 / year
+                                :mod (z9 / that)
+                                :ARG1-of (z10 / same-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:52.906359
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))

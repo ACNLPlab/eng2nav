@@ -1,0 +1,73 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Chee was his interpreter
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:33.826099
+(z0 / person
+    :name (z1 / name
+              :op1 "Chee")
+    :ARG0-of (z2 / interpret-01
+                 :ARG1 (z3 / he))
+    :wiki -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Chee jumped over the gate at the back of the room,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:33.826115
+(z0 / jump-03
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Chee")
+              :wiki -)
+    :ARG4 (z3 / gate
+              :ARG1-of (z4 / back-12
+                           :ARG2 (z5 / room)
+                           :ARG3 (z6 / cartesian-framework-91
+                                     :FR (z7 / relative-to-builder)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:33.826120
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and was one of the leaders at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:33.826124
+(z0 / and
+    :op2 (z1 / person
+             :ARG1-of (z2 / lead-02
+                          :temporal (z3 / time
+                                        :mod (z4 / that)))
+             :quant 1))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He was keeping them together.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:33.826128
+(z0 / keep-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / together-01
+              :ARG1 (z3 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:33.826132
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))

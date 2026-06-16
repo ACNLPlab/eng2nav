@@ -1,0 +1,115 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And we'd just as soon fight over the matter as not.", said Black Horse balking stubbornly.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:54:58.692311
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op2 (z4 / fight-01
+                       :ARG0 (z5 / we)
+                       :ARG1 (z6 / matter)
+                       :temporal (z7 / soon
+                                     :mod (z8 / just))
+                       :ARG1-of (z9 / have-substitute-91
+                                    :ARG2 (z10 / fight-01
+                                               :ARG0 z5
+                                               :ARG1 z6
+                                               :polarity -))))
+    :op2 (z11 / bend-01
+              :ARG0 z1
+              :ARG1-of (z12 / stubborn-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt So they began to think of the matter with bitterness.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:54:58.692328
+(z0 / cause-01
+    :ARG1 (z1 / begin-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / think-01
+                        :ARG0 z2
+                        :ARG1 (z4 / matter)
+                        :manner (z5 / bitterness))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Let's get them!" said Black Horse dashing about but without effect.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:54:58.692332
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / get-04
+              :ARG0 (z4 / we)
+              :ARG1 (z5 / they)
+              :quote z0
+              :mode imperative)
+    :manner (z6 / dashing-01
+                :ARG0 z1
+                :direction (z7 / about)
+                :ARG1-of (z8 / affect-01
+                             :polarity -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Two of you are needed for it," said Black Horse.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:54:58.692337
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / need-01
+              :ARG1 (z4 / you
+                        :quant 2)
+              :ARG2 (z5 / it)
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt "Come on, you boys. Remember what you said," said Black Horse.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:54:58.692341
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / come-01
+                       :ARG1 (z5 / you)
+                       :ARG2 (z6 / boy)
+                       :mode imperative)
+              :op2 (z7 / remember-01
+                       :ARG0 (z8 / you)
+                       :ARG1 (z9 / thing
+                                 :ARG1-of (z10 / say-01
+                                               :ARG0 z8))
+                       :mode imperative)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He knows English", I said.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:54:58.692345
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / know-02
+              :ARG0 (z3 / he)
+              :ARG1 (z4 / language
+                        :name (z5 / name
+                                  :op1 "English")
+                        :wiki "English_language")
+              :quote z0))

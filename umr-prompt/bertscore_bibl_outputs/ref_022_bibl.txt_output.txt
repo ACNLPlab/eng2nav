@@ -1,0 +1,64 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That is how the trading post got its name.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:57.285690
+(z0 / name-01
+    :ARG1 (z1 / post
+              :purpose (z2 / trade-01))
+    :ARG2 (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That is how he got his start in life.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:57.285701
+(z0 / start-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / live-01
+              :ARG0 z1)
+    :domain (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This is how we arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:57.285706
+(z0 / arrive-01
+    :ARG1 (z1 / we)
+    :manner (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This is how he came to be called Chee (Red).
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:57.285710
+(z0 / come-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / call-01
+              :ARG1 z1
+              :ARG2 (z3 / name
+                        :op1 "Chee"
+                        :op2 "(_<pointer:4>_red")))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is how I saw my first bear.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:57.285714
+(z0 / see-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :ord (z3 / ordinal-entity
+                       :value 1))
+    :manner (z4 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:57.285718
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))

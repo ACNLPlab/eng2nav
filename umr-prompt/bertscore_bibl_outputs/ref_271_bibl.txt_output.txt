@@ -1,0 +1,59 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:00.867223
+(z0 / plane
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt So there were three policemen.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:00.867236
+(z0 / cause-01
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / guard-01)
+              :quant 3))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:00.867240
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was a four motored plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:00.867245
+(z0 / plane
+    :ARG1-of (z1 / motory-01
+                 :quant 4)
+    :domain (z2 / it))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:00.867249
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt These big planes have four motors.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:00.867253
+(z0 / have-03
+    :ARG0 (z1 / plane
+              :mod (z2 / big)
+              :mod (z3 / this))
+    :ARG1 (z4 / motor
+              :quant 4))

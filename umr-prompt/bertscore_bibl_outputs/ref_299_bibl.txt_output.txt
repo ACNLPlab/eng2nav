@@ -1,0 +1,69 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then we turned around
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:10.331901
+(z0 / turn-01
+    :ARG1 (z1 / we)
+    :direction (z2 / around)
+    :temporal (z3 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we took off
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:10.331912
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :temporal (z2 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We continued to Kayenta where we turned around.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:10.331917
+(z0 / continue-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Kayenta")
+              :place-of (z4 / turn-01
+                            :ARG1 z1
+                            :direction (z5 / around))
+              :wiki "Kayenta,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:10.331921
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt where we arrived at noon.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:10.331925
+(z0 / have-place-91
+    :ARG2 (z1 / arrive-01
+              :ARG1 (z2 / we)
+              :temporal (z3 / date-entity
+                            :time "12:00")))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:08:10.331929
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))

@@ -1,0 +1,83 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt so never say that word,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:06.600387
+(z0 / infer-91
+    :ARG1 (z1 / say-01
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / word
+                        :mod (z4 / that))
+              :temporal (z5 / ever)
+              :polarity -
+              :mode imperative))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The old folks all used to say that.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:06.600401
+(z0 / say-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / old-01)
+              :mod (z3 / all))
+    :ARG1 (z4 / that)
+    :temporal (z5 / use-03))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They say that this story took place at Gobernador Knob.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:06.600405
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / event
+              :mod (z3 / this)
+              :place (z4 / local-region
+                         :name (z5 / name
+                                   :op1 "Gobernador"
+                                   :op2 "Knob")
+                         :wiki "Gobernador_National_Wildlife_Refuge")))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and was one of the leaders at that time.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:06.600409
+(z0 / and
+    :op2 (z1 / person
+             :ARG1-of (z2 / lead-02
+                          :temporal (z3 / time
+                                        :mod (z4 / that)))
+             :quant 1))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Don't you remember that I told you that you are not say that
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:06.600414
+(z0 / remember-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / tell-01
+              :ARG0 (z3 / i)
+              :ARG1 (z4 / say-01
+                        :ARG0 z1
+                        :ARG1 (z5 / that)
+                        :polarity -)
+              :ARG2 z1)
+    :polarity -
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we hauled two loads that day.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:45:06.600418
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :temporal (z4 / day
+                            :mod (z5 / that))))

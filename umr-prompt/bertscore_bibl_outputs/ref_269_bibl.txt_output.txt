@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We went to the Navy Field.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:31.662364
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / field
+              :mod (z3 / navy)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:31.662376
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The people went into the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:31.662380
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / post
+              :mod (z3 / trade)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:31.662385
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:31.662389
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:31.662393
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))

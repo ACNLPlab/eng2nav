@@ -1,0 +1,135 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The one I referred to as Limper was standing near Black Horse with a blanket wrapped around his middle.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:51.079614
+(z0 / stand-01
+    :ARG1 (z1 / one
+              :ARG1-of (z2 / refer-number
+                           :ARG2-of (z3 / refer-03
+                                        :ARG0 (z4 / i)
+                                        :ARG1 (z5 / limper)))
+              :ARG2 (z6 / near
+                        :op1 (z7 / horse
+                                 :name (z8 / name
+                                           :op1 "Black"
+                                           :op2 "Horse")
+                                 :wiki "Black_Horse"))
+              :manner (z9 / wrap-01
+                          :ARG1 (z10 / blanket)
+                          :ARG2 (z11 / thing
+                                     :ARG1-of (z12 / middle-01
+                                                   :ARG2 z1)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The one called Limper was the first to hop in there, and he grabbed the Agent by the collar.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:51.079631
+(z0 / and
+    :op1 (z1 / hop-01
+             :ARG0 (z2 / one
+                       :ARG1-of (z3 / call-01
+                                    :ARG2 (z4 / limper)))
+             :ARG1 (z5 / there)
+             :ord (z6 / ordinal-entity
+                      :value 1))
+    :op2 (z7 / grab-01
+             :ARG0 z2
+             :ARG1 (z8 / person
+                       :ARG1-of (z9 / have-org-role-92
+                                    :ARG3 (z10 / agent)))
+             :ARG2 (z11 / collar)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The one I referred to as River Man, who is now known as Short Hair, and another boy with him. These were the ones who were locked inside.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:51.079636
+(z0 / and
+    :op1 (z1 / one
+             :ARG1-of (z2 / refer-03
+                          :ARG0 (z3 / i)
+                          :ARG2 (z4 / man
+                                    :name (z5 / name
+                                              :op1 "River"
+                                              :op2 "Man")
+                                    :wiki -)
+                          :ARG1-of (z6 / know-02
+                                       :temporal (z7 / now)))
+             :op2 (z8 / boy
+                      :mod (z9 / another)
+                      :ARG1-of (z10 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z11 / boy)))
+             :domain (z12 / one
+                          :ARG1-of (z13 / lock-01
+                                        :ARG2 (z14 / inside))
+                          :domain (z15 / this))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt A man by the name of Black Horse was the leader of that faction.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:51.079640
+(z0 / lead-02
+    :ARG0 (z1 / man
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / faction
+              :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt "I do, " said the one I referred to as Little Boy.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:51.079644
+(z0 / say-01
+    :ARG0 (z1 / one
+              :ARG1-of (z2 / refer-number
+                           :ARG0-of (z3 / refer-03
+                                        :ARG1 (z4 / boy
+                                                  :name (z5 / name
+                                                            :op1 "Little"
+                                                            :op2 "Boy")
+                                                  :wiki -)))
+              :ARG1 (z6 / do-02
+                        :ARG0 z1
+                        :quote z0)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:51.079648
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / and
+                       :op1 (z3 / one
+                                :ARG1-of (z4 / refer-03
+                                             :ARG0 (z5 / i)
+                                             :ARG2 (z6 / person
+                                                       :ARG1-of (z7 / have-rel-role-92
+                                                                    :ARG2 z5
+                                                                    :ARG3 (z8 / grandfather))))
+                                :op2 (z9 / person
+                                         :ARG1-of (z10 / have-rel-role-92
+                                                       :ARG2 z5
+                                                       :ARG3 (z11 / uncle)))
+                                :op3 (z12 / person
+                                          :name (z13 / name
+                                                     :op1 "Little"
+                                                     :op2 "Boy")
+                                          :mod (z14 / another)
+                                          :wiki -))
+                       :ARG4 (z15 / there)
+                       :temporal (z16 / date-entity
+                                      :dayperiod (z17 / night))
+                       :ARG1-of (z18 / appear-02))
+             :op2 (z19 / hear-01
+                       :ARG0 z5
+                       :ARG1 (z20 / tell-01
+                                  :ARG0 z2
+                                  :ARG1 (z21 / it)))))

@@ -1,0 +1,93 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt “What do you mean by dashing around and saying that?
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:58.181530
+(z0 / mean-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / umr-unknown)
+    :ARG2 (z3 / and
+              :op1 (z4 / dashing-01
+                       :direction (z5 / around))
+              :op2 (z6 / say-01
+                       :ARG0 z1
+                       :ARG1 (z7 / that))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was picking up things that were scattered on the ground about him, such as sticks and stones,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:58.181557
+(z0 / pick-up-04
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / scatter-01
+                           :ARG2 (z4 / ground)
+                           :place (z5 / about
+                                      :op1 z1))
+              :example (z6 / and
+                           :op1 (z7 / stick)
+                           :op2 (z8 / stone))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt As we came to find out, they were saying that (the school) would not get a one of their children.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:58.181562
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / get-01
+              :ARG0 (z3 / school)
+              :ARG1 (z4 / one
+                        :ARG1-of (z5 / have-rel-role-92
+                                     :ARG2 z1
+                                     :ARG3 (z6 / child)))
+              :polarity -)
+    :temporal (z7 / come-01
+                  :ARG1 (z8 / we)
+                  :ARG2 (z9 / thing
+                            :ARG1-of (z10 / find-01
+                                          :ARG0 z8))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I heard them saying that.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:58.181566
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 (z3 / they)
+              :ARG1 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Quite some time ago when they moved back from Fort Sumner he had a hard time. He started his life by poking around in the horse manure in a stable.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:58.181570
+(z0 / hard-02
+    :ARG1 (z1 / he)
+    :temporal (z2 / before
+                  :op1 (z3 / now)
+                  :quant (z4 / quite))
+    :temporal (z5 / move-01
+                  :ARG0 (z6 / they)
+                  :ARG4 (z7 / city
+                            :name (z8 / name
+                                      :op1 "Fort"
+                                      :op2 "Sumner")
+                            :wiki "Fort_Sumner,_North_Carolina")))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I turned around and came back to him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:58.181574
+(z0 / and
+    :op1 (z1 / turn-01
+             :ARG1 (z2 / i)
+             :direction (z3 / around))
+    :op2 (z4 / come-01
+             :ARG1 z2
+             :ARG4 (z5 / he)
+             :direction (z6 / back)))

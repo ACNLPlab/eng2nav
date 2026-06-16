@@ -1,0 +1,63 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That's how we went about over our land dropping hay.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:36.658653
+(z0 / drop-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / hay)
+    :place (z3 / over
+               :op1 (z4 / land
+                        :possessor z1))
+    :manner (z5 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt This is how we arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:36.658665
+(z0 / arrive-01
+    :ARG1 (z1 / we)
+    :manner (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:36.658670
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:36.658674
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is how I saw my first bear.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:36.658678
+(z0 / see-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :ord (z3 / ordinal-entity
+                       :value 1))
+    :manner (z4 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:36.658683
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))

@@ -1,0 +1,87 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt at that time, we called the Ugly House.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:45.357709
+(z0 / call-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / house
+              :mod (z3 / ugly))
+    :temporal (z4 / time
+                  :mod (z5 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt At that time, when they acted as they did, they were young men.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:45.357726
+(z0 / have-age-91
+    :ARG1 (z1 / they)
+    :ARG2 (z2 / man)
+    :ARG3 (z3 / young)
+    :temporal (z4 / act-02
+                  :ARG0 z1
+                  :manner (z5 / do-02
+                              :ARG0 z1))
+    :temporal (z6 / time
+                  :mod (z7 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At that time up there on the mountain there were those that live in mountains, bears as they are called.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:45.357731
+(z0 / exist-91
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / live-01
+                           :place (z3 / mountain))
+              :ARG0-of (z4 / call-01
+                           :ARG1 (z5 / bear)))
+    :ARG2 (z6 / person
+              :ARG0-of (z7 / live-01
+                           :place (z8 / mountain)))
+    :temporal (z9 / time
+                  :mod (z10 / that))
+    :place (z11 / there
+                :ARG1-of (z12 / have-place-91
+                              :ARG2 (z13 / there)
+                              :ARG3 (z14 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and was one of the leaders at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:45.357735
+(z0 / and
+    :op2 (z1 / person
+             :ARG1-of (z2 / lead-02
+                          :temporal (z3 / time
+                                        :mod (z4 / that)))
+             :quant 1))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We were punished at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:45.357739
+(z0 / punish-01
+    :ARG1 (z1 / we)
+    :temporal (z2 / time
+                  :mod (z3 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was at that time, in the spring, that they moved to Blue Clay Point, it was said.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:45.357743
+(z0 / say-01
+    :ARG1 (z1 / move-01
+              :ARG0 (z2 / they)
+              :ARG4 (z3 / point
+                        :name (z4 / name
+                                  :op1 "Blue"
+                                  :op2 "Clay"
+                                  :op3 "Point")
+                        :wiki -)
+              :temporal (z5 / date-entity
+                            :month (z6 / spring))))

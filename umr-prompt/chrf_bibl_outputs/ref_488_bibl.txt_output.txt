@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That is how I saw my first bear.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:24.887725
+(z0 / see-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :ord (z3 / ordinal-entity
+                       :value 1))
+    :manner (z4 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That is how he got his start in life.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:24.887754
+(z0 / start-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / live-01
+              :ARG0 z1)
+    :domain (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That is how we used to have fun with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:24.887759
+(z0 / fun-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / ram)
+    :temporal (z3 / use-03)
+    :mod (z4 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is how the trading post got its name.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:24.887763
+(z0 / name-01
+    :ARG1 (z1 / post
+              :purpose (z2 / trade-01))
+    :ARG2 (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is how his mind began to develop. He got ahead and now here he is in his enviable position.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:24.887768
+(z0 / and
+    :op1 (z1 / develop-02
+             :ARG1 (z2 / mind
+                       :possessor (z3 / he)))
+    :op2 (z4 / get-04
+             :ARG1 z3
+             :ARG2 (z5 / ahead))
+    :op3 (z6 / have-place-91
+             :ARG1 z3
+             :ARG2 (z7 / here)
+             :ARG3 (z8 / position
+                       :ARG1-of (z9 / enviable-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It turns out that must be a bear.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:05:24.887772
+(z0 / turn-02
+    :ARG1 (z1 / obligate-01
+              :ARG1 (z2 / that)
+              :ARG2 (z3 / bear)))

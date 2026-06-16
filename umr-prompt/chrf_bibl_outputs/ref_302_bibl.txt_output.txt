@@ -1,0 +1,94 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We continued to Kayenta where we turned around.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:50:54.459269
+(z0 / continue-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Kayenta")
+              :place-of (z4 / turn-01
+                            :ARG1 z1
+                            :direction (z5 / around))
+              :wiki "Kayenta,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we turned around
+# ::annotator bart-amr
+# ::date 2025-10-21 23:50:54.459287
+(z0 / turn-01
+    :ARG1 (z1 / we)
+    :direction (z2 / around)
+    :temporal (z3 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I turned around and came back to him.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:50:54.459291
+(z0 / and
+    :op1 (z1 / turn-01
+             :ARG1 (z2 / i)
+             :direction (z3 / around))
+    :op2 (z4 / come-01
+             :ARG1 z2
+             :ARG4 (z5 / he)
+             :direction (z6 / back)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Before we got to Shiprock we turned to go alongside the mountain range, toward Lukachukai.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:50:54.459296
+(z0 / turn-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / go-02
+              :ARG0 z1
+              :ARG4 (z3 / along
+                        :op1 (z4 / range
+                                 :mod (z5 / mountain)))
+              :direction (z6 / toward
+                             :op1 (z7 / lake
+                                      :name (z8 / name
+                                                :op1 "Lukachukai")
+                                      :wiki "Lukachukai"))
+              :temporal (z9 / before
+                            :op1 (z10 / get-04
+                                      :ARG0 z1
+                                      :ARG4 (z11 / city
+                                                 :name (z12 / name
+                                                            :op1 "Shiprock")
+                                                 :wiki "Shiprock,_Virginia")))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt There was a boy of the Big Water Clan with whom I always chummed around.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:50:54.459300
+(z0 / boy
+    :possessor (z1 / local-region
+                   :name (z2 / name
+                             :op1 "Big"
+                             :op2 "Water"
+                             :op3 "Clan")
+                   :wiki "Bigwater_Clan")
+    :ARG1-of (z3 / chum-01
+                 :ARG2 (z4 / i)
+                 :temporal (z5 / always)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We spent the night there and then returned on foot.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:50:54.459304
+(z0 / and
+    :op1 (z1 / spend-02
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / there)
+             :ARG2 (z4 / night))
+    :op2 (z5 / return-01
+             :ARG1 z2
+             :manner (z6 / foot)
+             :temporal (z7 / then)))

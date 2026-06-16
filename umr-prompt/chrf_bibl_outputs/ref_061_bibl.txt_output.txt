@@ -1,0 +1,100 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I was born on a night when a heavy snow had begun to fall.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:00.871191
+(z0 / bear-02
+    :ARG1 (z1 / i)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)
+                  :temporal-of (z4 / begin-01
+                                   :ARG1 (z5 / snow-01
+                                             :ARG1-of (z6 / heavy-01)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt While they were making this move they stopped for the night, and it is said that I was born where they halted.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:00.871208
+(z0 / and
+    :op1 (z1 / stop-01
+             :ARG0 (z2 / they)
+             :temporal (z3 / move-01
+                           :ARG0 z2
+                           :mod (z4 / this))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / night)))
+    :op2 (z7 / say-01
+             :ARG1 (z8 / bear-02
+                       :ARG1 (z9 / i)
+                       :place (z10 / halt-01
+                                   :ARG0 z2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Some of us did not know what had been done the night before.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:00.871213
+(z0 / know-01
+    :ARG0 (z1 / we
+              :quant (z2 / some))
+    :ARG1 (z3 / thing
+              :ARG1-of (z4 / do-02
+                           :temporal (z5 / date-entity
+                                         :dayperiod (z6 / night)
+                                         :mod (z7 / before))))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is how his mind began to develop. He got ahead and now here he is in his enviable position.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:00.871217
+(z0 / and
+    :op1 (z1 / develop-02
+             :ARG1 (z2 / mind
+                       :possessor (z3 / he)))
+    :op2 (z4 / get-04
+             :ARG1 z3
+             :ARG2 (z5 / ahead))
+    :op3 (z6 / have-place-91
+             :ARG1 z3
+             :ARG2 (z7 / here)
+             :ARG3 (z8 / position
+                       :ARG1-of (z9 / enviable-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And since it had snowed the night before they had to go through the snow.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:00.871221
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / snow-01
+                       :temporal (z3 / date-entity
+                                     :dayperiod (z4 / night)
+                                     :mod (z5 / before)))
+             :ARG1 (z6 / obligate-01
+                       :ARG2 (z7 / go-02
+                                 :ARG0 (z8 / they)
+                                 :path (z9 / through
+                                           :op1 (z10 / snow))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nowadays when a woman gives birth they take special care of her, telling her not to catch cold.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:00.871225
+(z0 / care-03
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / she)
+    :ARG1-of (z3 / special-02)
+    :temporal (z4 / bear-02
+                  :ARG0 (z5 / woman))
+    :temporal (z6 / now)
+    :manner (z7 / tell-01
+                :ARG0 z1
+                :ARG1 (z8 / catch-03
+                          :ARG1 z2
+                          :ARG2 (z9 / cold)
+                          :polarity -)))

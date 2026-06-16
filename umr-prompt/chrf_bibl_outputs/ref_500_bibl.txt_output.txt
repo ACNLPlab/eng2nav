@@ -1,0 +1,77 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That took place down on the plain too,
+# ::annotator bart-amr
+# ::date 2025-10-22 01:10:39.703042
+(z0 / event
+    :mod (z1 / that)
+    :place (z2 / plain)
+    :mod (z3 / too)
+    :place (z4 / down))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:10:39.703072
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They say that this story took place at Gobernador Knob.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:10:39.703076
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / event
+              :mod (z3 / this)
+              :place (z4 / local-region
+                         :name (z5 / name
+                                   :op1 "Gobernador"
+                                   :op2 "Knob")
+                         :wiki "Gobernador_National_Wildlife_Refuge")))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There are stories which tell of the events which took place long ago on this earth of ours.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:10:39.703081
+(z0 / tell-01
+    :ARG0 (z1 / story)
+    :ARG1 (z2 / event
+              :place (z3 / earth
+                         :mod (z4 / this)
+                         :possessor (z5 / we))
+              :temporal (z6 / before
+                            :op1 (z7 / now)
+                            :quant (z8 / long))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The two of them built the trading post at the place called Blue Clay Point.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:10:39.703085
+(z0 / build-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / post
+              :purpose (z3 / trade-01))
+    :place (z4 / place
+               :name (z5 / name
+                         :op1 "Blue"
+                         :op2 "Clay"
+                         :op3 "Point")
+               :wiki "Blue_Clay_Point"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I looked the place over from there.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:10:39.703089
+(z0 / look-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / place)
+    :source (z3 / there))

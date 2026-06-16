@@ -1,0 +1,75 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Nevertheless, we hauled two loads that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:46.720404
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :temporal (z4 / day
+                            :mod (z5 / that))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:46.720420
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That day we made four flights,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:46.720425
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / day)
+                  :mod (z4 / that))
+    :frequency 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Nonetheless we hauled two loads again by the time the sun went down
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:46.720429
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :mod (z4 / again)
+              :temporal (z5 / by-the-time
+                            :op1 (z6 / go-02
+                                     :ARG1 (z7 / sun)
+                                     :direction (z8 / down)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:46.720433
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The main thing we hauled was hay.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:15:46.720437
+(z0 / haul-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / hay)
+    :ARG1-of (z3 / have-degree-91
+                 :ARG2 (z4 / main)
+                 :ARG3 (z5 / most)))

@@ -1,0 +1,85 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt You know where the people live.”
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:24.724279
+(z0 / know-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / location
+              :ARG2-of (z3 / live-01
+                           :ARG0 (z4 / person))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I was one of those who came back (on the next day) to where the people were.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:24.724296
+(z0 / include-91
+    :ARG1 (z1 / person
+              :refer-person 1st)
+    :ARG2 (z2 / person
+              :ARG0-of (z3 / come-01
+                           :ARG1 z1
+                           :ARG4 (z4 / back)
+                           :ARG4 (z5 / space
+                                     :place-of (z6 / person)
+                                     :temporal (z7 / day
+                                                   :mod (z8 / next))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt “To what extent are the people suffering,”
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:24.724300
+(z0 / suffer-01
+    :ARG0 (z1 / person)
+    :extent (z2 / umr-unknown))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Over to one side of Black Horse the people were merely milling around.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:24.724305
+(z0 / mill-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / around)
+    :mod (z3 / mere)
+    :place (z4 / space
+               :ARG1-of (z5 / next-to-02
+                            :ARG2 (z6 / side
+                                      :part-of (z7 / horse
+                                                   :name (z8 / name
+                                                             :op1 "Black"
+                                                             :op2 "Horse")
+                                                   :wiki "Black_Horse")
+                                      :quant 1)
+                            :ARG3 (z9 / cartesian-framework-91
+                                      :ARG1 (z10 / builder)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then the people noticed that the soldiers were moving along over there.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:24.724309
+(z0 / notice-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / move-01
+              :ARG0 (z3 / person
+                        :ARG1-of (z4 / have-org-role-92
+                                     :ARG3 (z5 / soldier)))
+              :direction (z6 / along)
+              :place (z7 / there)
+              :temporal (z8 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We saw the people going inside the trading post,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:24.724313
+(z0 / see-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / go-02
+              :ARG0 (z3 / person)
+              :ARG4 (z4 / inside
+                        :op1 (z5 / post
+                                 :mod (z6 / trade)))))

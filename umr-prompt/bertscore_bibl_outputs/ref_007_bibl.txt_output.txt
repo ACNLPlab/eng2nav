@@ -1,0 +1,99 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The one called Limper was the first to hop in there, and he grabbed the Agent by the collar.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:30.225710
+(z0 / and
+    :op1 (z1 / hop-01
+             :ARG0 (z2 / one
+                       :ARG1-of (z3 / call-01
+                                    :ARG2 (z4 / limper)))
+             :ARG1 (z5 / there)
+             :ord (z6 / ordinal-entity
+                      :value 1))
+    :op2 (z7 / grab-01
+             :ARG0 z2
+             :ARG1 (z8 / person
+                       :ARG1-of (z9 / have-org-role-92
+                                    :ARG3 (z10 / agent)))
+             :ARG2 (z11 / collar)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt A man by the name of Black Horse was the leader of that faction.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:30.225726
+(z0 / lead-02
+    :ARG0 (z1 / man
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / faction
+              :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The one I referred to as Limper was standing near Black Horse with a blanket wrapped around his middle.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:30.225730
+(z0 / stand-01
+    :ARG1 (z1 / one
+              :ARG1-of (z2 / refer-number
+                           :ARG2-of (z3 / refer-03
+                                        :ARG0 (z4 / i)
+                                        :ARG1 (z5 / limper)))
+              :ARG2 (z6 / near
+                        :op1 (z7 / horse
+                                 :name (z8 / name
+                                           :op1 "Black"
+                                           :op2 "Horse")
+                                 :wiki "Black_Horse"))
+              :manner (z9 / wrap-01
+                          :ARG1 (z10 / blanket)
+                          :ARG2 (z11 / thing
+                                     :ARG1-of (z12 / middle-01
+                                                   :ARG2 z1)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The mob was carrying the Agent away.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:30.225735
+(z0 / carry-01
+    :ARG0 (z1 / mob)
+    :ARG1 (z2 / person
+              :ARG1-of (z3 / have-org-role-92
+                           :ARG3 (z4 / agent)))
+    :direction (z5 / away))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:30.225739
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt One was called Bead Clan Gambler, and he was a member of the police force.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:33:30.225743
+(z0 / and
+    :op1 (z1 / call-01
+             :ARG1 (z2 / one)
+             :ARG2 (z3 / business
+                       :name (z4 / name
+                                 :op1 "Bade"
+                                 :op2 "Clan"
+                                 :op3 "Gambler")
+                       :wiki "Bead_Clan"))
+    :op2 (z5 / have-org-role-92
+             :ARG1 z2
+             :ARG2 (z6 / police)
+             :ARG3 (z7 / member)))

@@ -1,0 +1,72 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt At that time he was a policeman.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:05.090419
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was a policeman back at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:05.090436
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Back at that time it was different.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:05.090441
+(z0 / differ-02
+    :ARG1 (z1 / it)
+    :temporal (z2 / time
+                  :mod (z3 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt At that time, when they acted as they did, they were young men.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:05.090445
+(z0 / have-age-91
+    :ARG1 (z1 / they)
+    :ARG2 (z2 / man)
+    :ARG3 (z3 / young)
+    :temporal (z4 / act-02
+                  :ARG0 z1
+                  :manner (z5 / do-02
+                              :ARG0 z1))
+    :temporal (z6 / time
+                  :mod (z7 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt at that time, we called the Ugly House.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:05.090449
+(z0 / call-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / house
+              :mod (z3 / ugly))
+    :temporal (z4 / time
+                  :mod (z5 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt At that time horses were the only means people had for transportation.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:37:05.090453
+(z0 / horse
+    :temporal (z1 / time
+                  :mod (z2 / that))
+    :domain (z3 / means
+                :mod (z4 / only)
+                :purpose (z5 / transport-01
+                             :ARG0 (z6 / person))))

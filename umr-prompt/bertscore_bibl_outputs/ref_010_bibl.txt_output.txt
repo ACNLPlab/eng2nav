@@ -1,0 +1,62 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and chaos followed.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:16.298308
+(z0 / and
+    :op2 (z1 / follow-01
+             :ARG1 (z2 / chaos)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and stopped beside Chee.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:16.298321
+(z0 / and
+    :op2 (z1 / stop-01
+             :place (z2 / beside
+                        :op1 (z3 / person
+                                 :name (z4 / name
+                                           :op1 "Chee")
+                                 :wiki -))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Many people lost stock.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:16.298325
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / stock))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and one which I tell to the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:16.298329
+(z0 / and
+    :op2 (z1 / one
+             :ARG1-of (z2 / tell-01
+                          :ARG0 (z3 / i)
+                          :ARG2 (z4 / child))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:16.298333
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:16.298337
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))

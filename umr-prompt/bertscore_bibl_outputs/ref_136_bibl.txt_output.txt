@@ -1,0 +1,77 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and that was probably why he was told to take care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:14:48.872281
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / that)
+             :ARG1 (z3 / tell-01
+                       :ARG1 (z4 / care-03
+                                 :ARG0 (z5 / he)
+                                 :ARG1 (z6 / child))
+                       :ARG2 z5)
+             :ARG1-of (z7 / likely-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That was probably their plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:14:48.872306
+(z0 / plan-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / that)
+    :mod (z3 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That is how he got his start in life.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:14:48.872311
+(z0 / start-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / live-01
+              :ARG0 z1)
+    :domain (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt So that is the way I spent my days from that time on.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:14:48.872315
+(z0 / cause-01
+    :ARG1 (z1 / spend-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / day
+                        :possessor z2)
+              :ARG2 (z4 / that)
+              :temporal (z5 / from
+                            :op1 (z6 / time
+                                     :mod (z7 / that)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was for that reason that I volunteered myself for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:14:48.872319
+(z0 / volunteer-01
+    :ARG0 (z1 / i
+              :ARG1-of z0)
+    :ARG2 (z2 / school)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and he used to teach me what he knew.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:14:48.872323
+(z0 / and
+    :op2 (z1 / use-01
+             :ARG0 (z2 / he)
+             :ARG1 (z3 / teach-01
+                       :ARG0 z2
+                       :ARG1 (z4 / thing
+                                 :ARG1-of (z5 / know-02
+                                              :ARG0 z2))
+                       :ARG2 (z6 / i))))

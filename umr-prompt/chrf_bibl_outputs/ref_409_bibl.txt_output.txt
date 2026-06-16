@@ -1,0 +1,111 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt In some places the sheep were kept in the corrals all day long.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:43.098074
+(z0 / keep-01
+    :ARG1 (z1 / sheep)
+    :ARG2 (z2 / corral)
+    :place (z3 / place
+               :quant (z4 / some))
+    :duration (z5 / all-the-way)
+    :temporal (z6 / date-entity
+                  :dayperiod (z7 / day)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt In some places the clouds looked like mountain ranges; some looked like sand dunes, and some exactly like mesas.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:43.098092
+(z0 / and
+    :op1 (z1 / look-02
+             :ARG0 (z2 / cloud
+                       :place (z3 / place
+                                  :quant (z4 / some)))
+             :ARG1 (z5 / range
+                       :mod (z6 / mountain)))
+    :op2 (z7 / look-02
+             :ARG0 (z8 / and
+                       :op1 (z9 / some)
+                       :op2 (z10 / sand)
+                       :op3 (z11 / resemble-91
+                                 :ARG1 (z12 / some)
+                                 :ARG2 (z13 / mesa)
+                                 :degree (z14 / exact)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt In some places cattle and horses were just standing about, probably on account of the crusted snow.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:43.098097
+(z0 / stand-01
+    :ARG1 (z1 / and
+              :op1 (z2 / cattle)
+              :op2 (z3 / horse))
+    :mod (z4 / just)
+    :place (z5 / place
+               :quant (z6 / some))
+    :ARG1-of (z7 / cause-01
+                 :ARG0 (z8 / snow-01
+                           :ARG1-of (z9 / crusted-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:43.098101
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:43.098106
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The sheep would be grazing nearby, and we would spend the whole day playing with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:43.098110
+(z0 / and
+    :op1 (z1 / grazing-01
+             :ARG1 (z2 / sheep)
+             :place (z3 / nearby))
+    :op2 (z4 / spend-02
+             :ARG0 (z5 / we)
+             :ARG1 (z6 / play-01
+                       :ARG0 z5
+                       :ARG1 (z7 / ram)
+                       :extent (z8 / whole))))

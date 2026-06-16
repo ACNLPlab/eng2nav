@@ -1,0 +1,94 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Just then they locked the door from the inside.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:03.380087
+(z0 / lock-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / door)
+    :manner (z3 / inward-02
+                :ARG1 z2)
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I looked the place over from there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:03.380120
+(z0 / look-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / place)
+    :source (z3 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When the sheep would be on the side of the mountain, I'd skirt them from above.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:03.380124
+(z0 / skirt-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :source (z3 / above-01
+                :ARG3 (z4 / cartesian-framework-91
+                          :ARG1 (z5 / build-space)))
+    :temporal (z6 / have-place-91
+                  :ARG1 z2
+                  :ARG2 (z7 / side
+                            :part-of (z8 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Someone by the name of Black Horse had brought a party from the other side of the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:03.380129
+(z0 / bring-01
+    :ARG0 (z1 / someone
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / party)
+    :ARG4 (z4 / side
+              :ARG1-of (z5 / other-01)
+              :part-of (z6 / mountain)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt These people from the other side of the mountain were saying this.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:03.380133
+(z0 / say-01
+    :ARG0 (z1 / person
+              :mod (z2 / this)
+              :source (z3 / side
+                          :ARG1-of (z4 / other-01)
+                          :part-of (z5 / mountain)))
+    :ARG1 (z6 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then from their home at a place called Spring in the Clay they started moving over and across yonder mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:03.380137
+(z0 / start-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / move-01
+              :ARG0 z1
+              :direction (z3 / and
+                             :op1 (z4 / over
+                                      :op1 (z5 / mountain
+                                               :mod (z6 / yonder))
+                                      :ARG5 (z7 / cartesian-framework-91
+                                                :ARG1 (z8 / build-space)))
+                             :op2 (z9 / across
+                                      :op1 z5
+                                      :ARG5 z7))
+              :source (z10 / home
+                           :place (z11 / place
+                                       :name (z12 / name
+                                                  :op1 "Spring"
+                                                  :op2 "in"
+                                                  :op3 "the"
+                                                  :op3 "Clay")
+                                       :wiki -))
+              :temporal (z13 / then)))

@@ -1,0 +1,75 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:16.403434
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:16.403450
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:16.403454
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we flew over Mexican Hat.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:16.403458
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / hat
+              :name (z3 / name
+                        :op1 "Mexican"
+                        :op2 "Hat")
+              :wiki "Mexican_Hat")
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We made about two runs over these villages.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:16.403462
+(z0 / make-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / run-02
+              :ARG0 z1
+              :path (z3 / over
+                        :op1 (z4 / village
+                                 :mod (z5 / this))
+                        :ARG5 (z6 / cartesian-framework-91
+                                  :ARG1 (z7 / build-space))
+                        :quant (z8 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We went to the Navy Field.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:01:16.403466
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / field
+              :mod (z3 / navy)))

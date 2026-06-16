@@ -1,0 +1,113 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt When he went back inside he said, "I wonder why it is that there is a little cloud hanging over there on the summit of Gobernador Knob?”
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:48.567928
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / wonder-01
+              :ARG0 z1
+              :ARG1 (z3 / umr-unknown
+                        :ARG0-of (z4 / cause-01
+                                     :ARG1 (z5 / overhang-01
+                                               :ARG1 (z6 / cloud
+                                                         :quant (z7 / little))
+                                               :ARG2 (z8 / summit
+                                                         :part-of (z9 / mountain
+                                                                      :name (z10 / name
+                                                                                 :op1 "Gobernador"
+                                                                                 :op2 "Knob")
+                                                                      :wiki "Gobernador_National_Park")))))
+              :temporal (z11 / go-02
+                             :ARG0 z1
+                             :ARG4 (z12 / inside)
+                             :direction (z13 / back))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Just as dawn was breaking First Man went out doors to urinate; he glanced over at the peak of Gobernador Knob, and saw a little cloud hanging there, it is said.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:48.567944
+(z0 / say-01
+    :ARG1 (z1 / and
+              :op1 (z2 / go-02
+                       :ARG0 (z3 / person
+                                 :name (z4 / name
+                                           :op1 "First"
+                                           :op2 "Man")
+                                 :wiki -)
+                       :ARG4 (z5 / door)
+                       :purpose (z6 / urinate-01
+                                    :ARG0 z3)
+                       :temporal (z7 / just-as
+                                     :op1 (z8 / break-01
+                                              :ARG1 (z9 / dawn))))
+              :op2 (z10 / see-01
+                        :ARG0 z3
+                        :ARG1 (z11 / cloud
+                                   :ARG1-of (z12 / hang-01
+                                                 :place (z13 / there))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They say that this story took place at Gobernador Knob.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:48.567949
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / event
+              :mod (z3 / this)
+              :place (z4 / local-region
+                         :name (z5 / name
+                                   :op1 "Gobernador"
+                                   :op2 "Knob")
+                         :wiki "Gobernador_National_Wildlife_Refuge")))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt "Say, let's go to school," I said to my companion.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:48.567953
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 z1
+              :ARG1 (z3 / go-05
+                        :ARG0 z1
+                        :ARG1 (z4 / school)
+                        :quote z0)
+              :ARG2 (z5 / companion)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I wondered what the dogs were barking at so I ran over there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:48.567957
+(z0 / cause-01
+    :ARG0 (z1 / wonder-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / bark-01
+                                     :ARG0 (z5 / dog))))
+    :ARG1 (z6 / run-04
+              :ARG0 z2
+              :ARG4 (z7 / there)
+              :direction (z8 / over)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt When we got back we were told that we could have the next day off.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:48.567961
+(z0 / tell-01
+    :ARG1 (z1 / possible-01
+              :ARG1 (z2 / have-03
+                        :ARG0 (z3 / we)
+                        :ARG1 (z4 / day
+                                  :mod (z5 / next))
+                        :ARG2 (z6 / off-06
+                                  :ARG1 z3))
+              :ARG2 z3
+              :temporal (z7 / return-01
+                            :ARG1 z3)))

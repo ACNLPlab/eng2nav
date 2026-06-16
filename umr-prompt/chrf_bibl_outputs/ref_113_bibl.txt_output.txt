@@ -1,0 +1,109 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt When we got back to the hogan we found that my uncle was there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:23:45.497025
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / have-place-91
+              :ARG1 (z3 / person
+                        :ARG1-of (z4 / have-rel-role-92
+                                     :ARG2 z1
+                                     :ARG3 (z5 / uncle)))
+              :ARG2 (z6 / there))
+    :temporal (z7 / return-01
+                  :ARG1 z1
+                  :ARG4 (z8 / hogan)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When we got to the store we found that many people had assembled.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:23:45.497043
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / assemble-02
+              :ARG0 (z3 / person
+                        :quant (z4 / many)))
+    :temporal (z5 / get-01
+                  :ARG0 z1
+                  :ARG4 (z6 / store)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When we got back we were told that we could have the next day off.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:23:45.497048
+(z0 / tell-01
+    :ARG1 (z1 / possible-01
+              :ARG1 (z2 / have-03
+                        :ARG0 (z3 / we)
+                        :ARG1 (z4 / day
+                                  :mod (z5 / next))
+                        :ARG2 (z6 / off-06
+                                  :ARG1 z3))
+              :ARG2 z3
+              :temporal (z7 / return-01
+                            :ARG1 z3)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We ate and then flew right back over on the same route, and everything that had happened seemed like a dream. It was late in the afternoon when we got back to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:23:45.497052
+(z0 / and
+    :op1 (z1 / eat-01
+             :ARG0 (z2 / we))
+    :op2 (z3 / fly-01
+             :ARG0 z2
+             :ARG4 (z4 / back
+                       :destination (z5 / city
+                                        :name (z6 / name
+                                                  :op1 "Phoenix")
+                                        :wiki "Phoenix,_Arizona")
+                       :direction (z7 / route
+                                      :ARG1-of (z8 / same-01)
+                                      :mod (z9 / right-yy)))
+             :temporal (z10 / late-01
+                            :ARG2 (z11 / date-entity
+                                       :dayperiod (z12 / afternoon)))
+             :op3 (z13 / seem-01
+                       :ARG1 (z14 / everything
+                                  :ARG1-of (z15 / do-02))
+                       :ARG2 (z16 / dream-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt As for us, we spent another night at my uncle's hogan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:23:45.497056
+(z0 / spend-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / night
+              :mod (z3 / another))
+    :ARG2 (z4 / hogan
+              :possessor (z5 / person
+                             :ARG1-of (z6 / have-rel-role-92
+                                          :ARG2 (z7 / i)
+                                          :ARG3 (z8 / uncle)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And it turned out that my grandfather, who was called Big Mexican Clansman, was there too.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:23:45.497060
+(z0 / and
+    :op2 (z1 / turn-01
+             :ARG1 (z2 / there
+                       :place-of (z3 / person
+                                     :ARG1-of (z4 / have-rel-role-92
+                                                  :ARG2 (z5 / i)
+                                                  :ARG3 (z6 / grandfather))
+                                     :ARG1-of (z7 / call-01
+                                                  :ARG2 (z8 / cultural-group
+                                                            :name (z9 / name
+                                                                      :op1 "Big"
+                                                                      :op2 "Mexican"
+                                                                      :op3 "Clansman")
+                                                            :wiki "Big_Mexican_Clansman")))
+                       :mod (z10 / too))))

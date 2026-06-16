@@ -1,0 +1,82 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt So this is my experience up above the land of my people.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:16.998426
+(z0 / experience-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / this)
+    :place (z3 / space
+               :ARG1-of (z4 / above-01
+                            :ARG2 (z5 / land
+                                      :possessor (z6 / person
+                                                     :possessor z1))
+                            :ARG3 (z7 / cartesian-framework-91
+                                      :ARG1 (z8 / build-space)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It looked strange up above the clouds.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:16.998444
+(z0 / look-02
+    :ARG0 (z1 / it)
+    :ARG1 (z2 / strange)
+    :place (z3 / space
+               :ARG1-of (z4 / above-01
+                            :ARG2 (z5 / cloud)
+                            :ARG3 (z6 / cartesian-framework-91
+                                      :ARG1 (z7 / build-space)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:16.998449
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:16.998453
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and they no doubt came with evil thoughts. The people who, lived hereabout had heard nothing of their plans
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:16.998457
+(z0 / and
+    :op2 (z1 / doubt-01
+             :ARG1 (z2 / come-01
+                       :ARG1 (z3 / they)
+                       :ARG3 (z4 / think-01
+                                 :ARG0 z3
+                                 :ARG1 (z5 / evil))))
+    :op3 (z6 / person
+             :ARG0-of (z7 / hear-01
+                          :ARG1 (z8 / nothing
+                                    :ARG1-of (z9 / plan-01
+                                                 :ARG0 z3))
+                          :place (z10 / here))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt So people began to think along the lines of their planning.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:16.998462
+(z0 / cause-01
+    :ARG1 (z1 / begin-01
+              :ARG0 (z2 / person)
+              :ARG1 (z3 / think-01
+                        :ARG0 z2
+                        :manner (z4 / along-lines
+                                    :op1 (z5 / plan-01
+                                             :ARG0 z2)))))

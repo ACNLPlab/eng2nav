@@ -1,0 +1,75 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Look out, look out!
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:00.695523
+(z0 / and
+    :op1 (z1 / look-01
+             :direction (z2 / trajectory
+                            :ARG5-of (z3 / out-08)))
+    :op2 (z4 / look-01
+             :direction z2))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We would take the sheep out,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:00.695540
+(z0 / take-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / sheep)
+    :direction (z3 / out))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I looked and saw a fire sitting out alongside.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:00.695544
+(z0 / and
+    :op1 (z1 / look-01
+             :ARG0 (z2 / i))
+    :op2 (z3 / see-01
+             :ARG0 z2
+             :ARG1 (z4 / sit-down-02
+                       :ARG1 (z5 / fire)
+                       :ARG2 (z6 / space
+                                 :ARG1-of (z7 / alongside-01)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It looked strange up above the clouds.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:00.695549
+(z0 / look-02
+    :ARG0 (z1 / it)
+    :ARG1 (z2 / strange)
+    :place (z3 / space
+               :ARG1-of (z4 / above-01
+                            :ARG2 (z5 / cloud)
+                            :ARG3 (z6 / cartesian-framework-91
+                                      :ARG1 (z7 / build-space)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt At dusk we took off in a plane.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:00.695553
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :ARG3 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / dusk)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And we went about, talking enthusiastically about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:00.695557
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / we)
+             :direction (z3 / about)
+             :manner (z4 / talk-01
+                         :ARG0 z2
+                         :ARG1 (z5 / it)
+                         :manner (z6 / enthusiastically))))

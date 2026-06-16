@@ -1,0 +1,79 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt In the morning the women again prepared food for them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:01.805449
+(z0 / make-01
+    :ARG0 (z1 / woman)
+    :ARG1 (z2 / food)
+    :ARG2 (z3 / they)
+    :temporal (z4 / date-entity
+                  :dayperiod (z5 / morning))
+    :mod (z6 / again))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:01.805466
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:01.805470
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They had stayed to cook for the men.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:01.805474
+(z0 / stay-01
+    :ARG1 (z1 / they)
+    :purpose (z2 / eat-01
+                 :ARG0 z1
+                 :ARG2 (z3 / man)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt On the eighth we again went out.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:01.805479
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :direction (z2 / out)
+    :mod (z3 / again)
+    :temporal (z4 / date-entity
+                  :month 8))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt These women too had spent the night there with them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:46:01.805483
+(z0 / spend-02
+    :ARG0 (z1 / woman
+              :mod (z2 / this))
+    :ARG1 (z3 / date-entity
+              :dayperiod (z4 / night))
+    :ARG2 (z5 / there)
+    :ARG3 (z6 / they)
+    :mod (z7 / too))

@@ -1,0 +1,65 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:14.169619
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Like on that other occasion, there was again a lot of fog.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:14.169635
+(z0 / fog
+    :ARG1-of (z1 / have-quant-91
+                 :ARG2 (z2 / lot)
+                 :ARG3 (z3 / lot))
+    :ARG1-of (z4 / resemble-91
+                 :ARG2 (z5 / fog
+                           :temporal (z6 / occasion
+                                         :mod (z7 / other)))
+                 :mod (z8 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:14.169640
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We went to the Navy Field.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:14.169644
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / field
+              :mod (z3 / navy)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The people went into the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:14.169648
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / post
+              :mod (z3 / trade)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and one which I tell to the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:14.169653
+(z0 / and
+    :op2 (z1 / one
+             :ARG1-of (z2 / tell-01
+                          :ARG0 (z3 / i)
+                          :ARG2 (z4 / child))))

@@ -1,0 +1,86 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They started out with him.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:36:09.059227
+(z0 / start-01
+    :ARG0 (z1 / they)
+    :ARG2 (z2 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The people of his band were standing with him.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:36:09.059243
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-org-role-92
+                           :ARG2 (z3 / he)
+                           :ARG3 (z4 / band
+                                     :possessor z3)))
+    :ARG2 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:36:09.059247
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then from their home at a place called Spring in the Clay they started moving over and across yonder mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:36:09.059252
+(z0 / start-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / move-01
+              :ARG0 z1
+              :direction (z3 / and
+                             :op1 (z4 / over
+                                      :op1 (z5 / mountain
+                                               :mod (z6 / yonder))
+                                      :ARG5 (z7 / cartesian-framework-91
+                                                :ARG1 (z8 / build-space)))
+                             :op2 (z9 / across
+                                      :op1 z5
+                                      :ARG5 z7))
+              :source (z10 / home
+                           :place (z11 / place
+                                       :name (z12 / name
+                                                  :op1 "Spring"
+                                                  :op2 "in"
+                                                  :op3 "the"
+                                                  :op3 "Clay")
+                                       :wiki -))
+              :temporal (z13 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We started doing that kind of work.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:36:09.059256
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / work-01
+                                     :degree (z5 / kind-of)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt "Outside with him!" voices were saying.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:36:09.059260
+(z0 / say-01
+    :ARG0 (z1 / voice)
+    :ARG1 (z2 / outside
+              :companion (z3 / he)
+              :quote z0))

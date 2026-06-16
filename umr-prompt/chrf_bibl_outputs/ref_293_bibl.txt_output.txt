@@ -1,0 +1,126 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And then we flew up along the San Juan River.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:27.309178
+(z0 / and
+    :op2 (z1 / fly-01
+             :ARG0 (z2 / we)
+             :direction (z3 / trajectory
+                            :ARG2-of (z4 / up-03
+                                         :ARG5 (z5 / cartesian-framework-91
+                                                   :ARG1 (z6 / build-space)))
+                            :ARG4-of (z7 / along-01
+                                         :ARG2 (z8 / river
+                                                   :name (z9 / name
+                                                             :op1 "San"
+                                                             :op2 "Juan"
+                                                             :op3 "River")
+                                                   :wiki "San_Juan_River")))
+             :temporal (z10 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we flew over the lower end of the black lava peaks, and over Oraibi.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:27.309195
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / then)
+    :place (z3 / and
+               :op1 (z4 / space
+                        :ARG1-of (z5 / end-06
+                                     :ARG2 (z6 / peak
+                                               :color (z7 / lava))
+                                     :ARG1-of (z8 / have-degree-91
+                                                  :ARG2 (z9 / low-04
+                                                            :ARG1 z6)
+                                                  :ARG3 (z10 / more)))
+                        :op2 (z11 / space
+                                  :ARG1-of (z12 / over-04
+                                                :ARG2 (z13 / thing
+                                                           :place (z14 / ocean
+                                                                       :name (z15 / name
+                                                                                  :op1 "Oraibi")
+                                                                       :wiki "Oraibi_Internationalis")
+                                                           :ARG3 (z16 / cartesian-framework-91
+                                                                      :ARG1 (z17 / build-space))))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we flew over Mexican Hat.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:27.309200
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / hat
+              :name (z3 / name
+                        :op1 "Mexican"
+                        :op2 "Hat")
+              :wiki "Mexican_Hat")
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt And then over the lower end of the mountains and over Cow Springs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:27.309204
+(z0 / and
+    :op2 (z1 / be-destined-for-91
+             :ARG2 (z2 / space
+                       :ARG1-of (z3 / over-04
+                                    :ARG2 (z4 / thing
+                                              :ARG1-of (z5 / end-05
+                                                           :ARG2 (z6 / mountain)
+                                                           :ARG1-of (z7 / have-degree-91
+                                                                        :ARG2 (z8 / low-04
+                                                                                  :ARG1 z4)
+                                                                        :ARG3 (z9 / more)))
+                                              :ARG3 (z10 / cartesian-framework-91
+                                                         :ARG1 (z11 / build-space))))
+                       :ARG1-of (z12 / over-04
+                                     :ARG2 (z13 / city
+                                                :name (z14 / name
+                                                           :op1 "Cow"
+                                                           :op2 "Springs")
+                                                :wiki "Cow_Springs,_Arkansas")
+                                     :ARG3 z10))
+             :temporal (z15 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt So people began to think along the lines of their planning.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:27.309209
+(z0 / cause-01
+    :ARG1 (z1 / begin-01
+              :ARG0 (z2 / person)
+              :ARG1 (z3 / think-01
+                        :ARG0 z2
+                        :manner (z4 / along-lines
+                                    :op1 (z5 / plan-01
+                                             :ARG0 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:27.309214
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))

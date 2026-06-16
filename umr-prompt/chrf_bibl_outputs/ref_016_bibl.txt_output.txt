@@ -1,0 +1,213 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The one I referred to as River Man, who is now known as Short Hair, and another boy with him. These were the ones who were locked inside.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:45.570934
+(z0 / and
+    :op1 (z1 / one
+             :ARG1-of (z2 / refer-03
+                          :ARG0 (z3 / i)
+                          :ARG2 (z4 / man
+                                    :name (z5 / name
+                                              :op1 "River"
+                                              :op2 "Man")
+                                    :wiki -)
+                          :ARG1-of (z6 / know-02
+                                       :temporal (z7 / now)))
+             :op2 (z8 / boy
+                      :mod (z9 / another)
+                      :ARG1-of (z10 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z11 / boy)))
+             :domain (z12 / one
+                          :ARG1-of (z13 / lock-01
+                                        :ARG2 (z14 / inside))
+                          :domain (z15 / this))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:45.570951
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / and
+                       :op1 (z3 / one
+                                :ARG1-of (z4 / refer-03
+                                             :ARG0 (z5 / i)
+                                             :ARG2 (z6 / person
+                                                       :ARG1-of (z7 / have-rel-role-92
+                                                                    :ARG2 z5
+                                                                    :ARG3 (z8 / grandfather))))
+                                :op2 (z9 / person
+                                         :ARG1-of (z10 / have-rel-role-92
+                                                       :ARG2 z5
+                                                       :ARG3 (z11 / uncle)))
+                                :op3 (z12 / person
+                                          :name (z13 / name
+                                                     :op1 "Little"
+                                                     :op2 "Boy")
+                                          :mod (z14 / another)
+                                          :wiki -))
+                       :ARG4 (z15 / there)
+                       :temporal (z16 / date-entity
+                                      :dayperiod (z17 / night))
+                       :ARG1-of (z18 / appear-02))
+             :op2 (z19 / hear-01
+                       :ARG0 z5
+                       :ARG1 (z20 / tell-01
+                                  :ARG0 z2
+                                  :ARG1 (z21 / it)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Among those present were the men known as Black Horse, Limper, Tall Red House Clansman, Old Bead Chant Singer - who was of the Red House Clan - and his cousin, a Bitter Water Clansman called Bead Chant's Nephew, and another man with whom I was merely acquainted, and who was a relative of mine by marriage. His name was Yellow Fermentive Chewer. These are the only ones I can remember of those who came from there (on the other side of the mountain).
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:45.570956
+(z0 / include-91
+    :ARG1 (z1 / and
+              :op1 (z2 / man
+                       :ARG1-of (z3 / know-02
+                                    :ARG2 (z4 / and
+                                              :op1 (z5 / animal
+                                                       :name (z6 / name
+                                                                 :op1 "Black"
+                                                                 :op2 "Horse")
+                                                       :wiki "Black_Horse")
+                                              :op2 (z7 / person
+                                                       :name (z8 / name
+                                                                 :op1 "Limper")
+                                                       :wiki -)
+                                              :op3 (z9 / person
+                                                       :ARG1-of (z10 / have-org-role-92
+                                                                     :ARG2 (z11 / local-region
+                                                                                :name (z12 / name
+                                                                                           :op1 "Red"
+                                                                                           :op2 "House"
+                                                                                           :op3 "Clan")
+                                                                                :wiki "Red_House")
+                                                                     :ARG3 (z13 / member)))
+                                              :op4 (z14 / person
+                                                        :ARG1-of (z15 / have-rel-role-92
+                                                                      :ARG2 z11
+                                                                      :ARG3 (z16 / cousin)))
+                                              :op5 (z17 / person
+                                                        :ARG1-of (z18 / call-01
+                                                                      :ARG2 (z19 / person
+                                                                                 :name (z20 / name
+                                                                                            :op1 "Bade"
+                                                                                            :op2 "Chant"
+                                                                                            :op3 "'s"
+                                                                                            :op4 "Nephew")
+                                                                                 :wiki -)
+                                                                      :mod (z21 / another)
+                                                                      :ARG1-of (z22 / acquaint-01
+                                                                                    :degree (z23 / mere))
+                                                                      :ARG1-of (z24 / have-rel-role-92
+                                                                                    :ARG2 (z25 / i)
+                                                                                    :ARG3 (z26 / relative))))))
+                       :ARG2 (z27 / person
+                                  :name (z28 / name
+                                             :op1 "Yellow"
+                                             :op2 "Fermentive"
+                                             :op3 "Chewer")
+                                  :wiki -))
+              :ARG2 (z29 / present))
+    :op2 (z30 / one
+              :mod (z31 / only)
+              :ARG1-of (z32 / possible-01)
+              :ARG1-of (z33 / include-91
+                            :ARG2 (z34 / include-91
+                                       :ARG2 (z35 / person
+                                                  :ARG1-of (z36 / come-01
+                                                                :source (z37 / mountain)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt My gradnfather, a man by the name of White Mexican Clansman, and another man called The Son of Former Sweathouse, were the only men. They and several womenfolk worked hard on me.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:45.570960
+(z0 / and
+    :op1 (z1 / man
+             :mod (z2 / only)
+             :ARG1-of (z3 / have-rel-role-92
+                          :ARG2 (z4 / i)
+                          :ARG3 (z5 / father))
+             :op2 (z6 / man
+                      :mod (z7 / name
+                               :op1 "White"
+                               :op2 "Mexican"
+                               :op3 "Clansman")
+                      :wiki "White_Mexican_Clansman")
+             :op3 (z8 / man
+                      :mod (z9 / another)
+                      :ARG1-of (z10 / call-01
+                                    :ARG2 (z11 / person
+                                               :name (z12 / name
+                                                          :op1 "The"
+                                                          :op2 "Son"
+                                                          :op3 "of"
+                                                          :op3 "of"
+                                                          :op4 "Sweathouse")
+                                               :wiki -))))
+    :op4 (z13 / work-01
+              :ARG0 (z14 / and
+                         :op1 (z15 / they)
+                         :op2 (z16 / woman
+                                   :quant (z17 / several))
+                         :ARG1 (z18 / hard)
+                         :ARG2 z4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The one I referred to as Limper was standing near Black Horse with a blanket wrapped around his middle.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:45.570964
+(z0 / stand-01
+    :ARG1 (z1 / one
+              :ARG1-of (z2 / refer-number
+                           :ARG2-of (z3 / refer-03
+                                        :ARG0 (z4 / i)
+                                        :ARG1 (z5 / limper)))
+              :ARG2 (z6 / near
+                        :op1 (z7 / horse
+                                 :name (z8 / name
+                                           :op1 "Black"
+                                           :op2 "Horse")
+                                 :wiki "Black_Horse"))
+              :manner (z9 / wrap-01
+                          :ARG1 (z10 / blanket)
+                          :ARG2 (z11 / thing
+                                     :ARG1-of (z12 / middle-01
+                                                   :ARG2 z1)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt When this happened Black Horse’s henchmen spoke without effect because there were others who were trying to keep order and who said "No" to the proposal to attack the soldiers.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:38:45.570968
+(z0 / speak-01
+    :ARG0 (z1 / henchman
+              :possessor (z2 / person
+                             :name (z3 / name
+                                       :op1 "Black"
+                                       :op2 "Horse")
+                             :wiki -))
+    :ARG1-of (z4 / cause-01
+                 :ARG0 (z5 / and
+                           :op1 (z6 / other
+                                    :ARG0-of (z7 / try-01
+                                                 :ARG1 (z8 / keep-02
+                                                           :ARG1 (z9 / order-01))))
+                           :op2 (z10 / say-01
+                                     :ARG0 z10
+                                     :ARG1 (z11 / no)
+                                     :ARG2 (z12 / proposal
+                                                :purpose (z13 / attack-01
+                                                              :ARG0 z10
+                                                              :ARG1 (z14 / soldier)))))
+                 :polarity -)
+    :temporal (z15 / event
+                   :mod (z16 / this))
+    :manner (z17 / effect
+                 :polarity -))

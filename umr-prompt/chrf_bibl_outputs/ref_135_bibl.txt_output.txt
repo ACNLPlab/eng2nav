@@ -1,0 +1,73 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He knew a little English,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:26.725342
+(z0 / know-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / language
+              :name (z3 / name
+                        :op1 "English")
+              :wiki "English_language"))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He knows English", I said.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:26.725370
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / know-02
+              :ARG0 (z3 / he)
+              :ARG1 (z4 / language
+                        :name (z5 / name
+                                  :op1 "English")
+                        :wiki "English_language")
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I was just a little bit scared.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:26.725375
+(z0 / fear-01
+    :ARG0 (z1 / i)
+    :degree (z2 / little))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I have a little story to tell --
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:26.725381
+(z0 / have-03
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / story
+              :mod (z3 / little)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin was just a little bit older than I was --
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:26.725387
+(z0 / have-age-91
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG2 (z5 / old)
+    :ARG3 (z6 / more)
+    :ARG4 (z7 / little))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We had one billy goat in the herd that was just a little bit mean.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:34:26.725392
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / goat
+              :mod (z3 / billy)
+              :place (z4 / herd)
+              :ARG0-of (z5 / mean-01
+                           :degree (z6 / little))
+              :quant 1))

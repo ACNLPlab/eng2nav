@@ -1,0 +1,77 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt So that is the way I spent my days from that time on.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:57:37.650322
+(z0 / cause-01
+    :ARG1 (z1 / spend-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / day
+                        :possessor z2)
+              :ARG2 (z4 / that)
+              :temporal (z5 / from
+                            :op1 (z6 / time
+                                     :mod (z7 / that)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That is what I had an ambition to do at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:57:37.650334
+(z0 / ambition-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / that))
+    :temporal (z4 / time
+                  :mod (z5 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That is the way my grandfather drove me about and spoke to me.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:57:37.650338
+(z0 / and
+    :op1 (z1 / drive-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather))
+                       :direction (z6 / about))
+             :op2 (z7 / speak-01
+                      :ARG0 z2
+                      :ARG2 z4))
+    :domain (z8 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is how he got his start in life.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:57:37.650342
+(z0 / start-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / live-01
+              :ARG0 z1)
+    :domain (z3 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is how I saw my first bear.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:57:37.650347
+(z0 / see-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :ord (z3 / ordinal-entity
+                       :value 1))
+    :manner (z4 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:57:37.650351
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))

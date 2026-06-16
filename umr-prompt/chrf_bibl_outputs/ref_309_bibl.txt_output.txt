@@ -1,0 +1,127 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And they told us there'd be another flight on the next morning.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:00.694093
+(z0 / and
+    :op2 (z1 / tell-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / there
+                       :ARG1 (z4 / fly-01
+                                 :mod (z5 / another))
+                       :ARG2 (z6 / we)
+                       :temporal (z7 / date-entity
+                                     :dayperiod (z8 / morning)
+                                     :mod (z9 / next)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We had the rams in the herd, and they used to really fight with one another.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:00.694111
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / ram
+                       :place (z4 / herd)))
+    :op2 (z5 / fight-01
+             :ARG0 z3
+             :ARG2 (z6 / other)
+             :degree (z7 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt On the next day we went to the trading post, and my grandfather put his thumbprint on a paper for us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:00.694115
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / post
+                       :mod (z4 / trade))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / day)
+                           :mod (z7 / next))
+             :op2 (z8 / put-01
+                      :ARG0 (z9 / person
+                                :ARG1-of (z10 / have-rel-role-92
+                                              :ARG2 z2
+                                              :ARG3 (z11 / grandfather)))
+                      :ARG1 (z12 / thing
+                                 :ARG1-of (z13 / thumbprint-01
+                                               :ARG0 z9))
+                      :ARG2 (z14 / paper))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They probably planned to go in to see the Agent on the next day.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:00.694120
+(z0 / plan-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / go-02
+              :ARG0 z1
+              :ARG4 (z3 / see-01
+                        :ARG0 z1
+                        :ARG1 (z4 / person
+                                  :ARG1-of (z5 / have-org-role-92
+                                               :ARG3 (z6 / agent))))
+              :temporal (z7 / date-entity
+                            :dayperiod (z8 / day)
+                            :mod (z9 / next))
+              :ARG1-of (z10 / probable)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They built the trading post and four years later perhaps, I do not recall exactly when, the one I called my uncle told us to haul wood there.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:00.694124
+(z0 / and
+    :op1 (z1 / build-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / post
+                       :mod (z4 / trade))
+             :temporal (z5 / after
+                           :quant (z6 / temporal-quantity
+                                      :unit (z7 / year)
+                                      :quant 4))
+             :op2 (z8 / recall-02
+                      :ARG0 (z9 / i)
+                      :ARG1 (z10 / tell-01
+                                 :ARG0 (z11 / one
+                                            :ARG1-of (z12 / call-01
+                                                          :ARG0 z9
+                                                          :ARG2 (z13 / person
+                                                                     :ARG1-of (z14 / have-rel-role-92
+                                                                                   :ARG2 z9
+                                                                                   :ARG3 (z15 / uncle)))))
+                                 :ARG1 (z16 / haul-01
+                                            :ARG0 z9
+                                            :ARG1 (z17 / wood)
+                                            :ARG2 (z18 / there))
+                                 :ARG1-of (z19 / possible-01))
+                      :polarity -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:54:00.694128
+(z0 / go-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / mother)))
+    :ARG4 (z5 / foot)
+    :extent (z6 / far
+                :extent-of (z7 / move-01
+                               :ARG0 (z8 / person)
+                               :temporal (z9 / date-entity
+                                             :dayperiod (z10 / day)
+                                             :mod (z11 / that)))
+                :temporal (z12 / following
+                               :op1 (z13 / date-entity
+                                         :dayperiod (z14 / night
+                                                         :temporal-of (z15 / bear-02
+                                                                           :ARG0 z1
+                                                                           :ARG1 z3))))))

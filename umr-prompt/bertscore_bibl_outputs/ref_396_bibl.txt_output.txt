@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They loaded and hauled from Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:04.780708
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG0 (z2 / they)
+             :source (z3 / city
+                         :name (z4 / name
+                                   :op1 "Phoenix")
+                         :wiki "Phoenix,_Arizona"))
+    :op2 (z5 / haul-01
+             :ARG0 z2
+             :source z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:04.780720
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:04.780725
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:04.780729
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:04.780733
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:04.780737
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))

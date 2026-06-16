@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We made about two runs over these villages.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:34.636284
+(z0 / make-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / run-02
+              :ARG0 z1
+              :path (z3 / over
+                        :op1 (z4 / village
+                                 :mod (z5 / this))
+                        :ARG5 (z6 / cartesian-framework-91
+                                  :ARG1 (z7 / build-space))
+                        :quant (z8 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:34.636308
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:34.636312
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That day we made four flights,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:34.636317
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / day)
+                  :mod (z4 / that))
+    :frequency 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:34.636321
+(z0 / plane
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we hauled two loads that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:34.636325
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :temporal (z4 / day
+                            :mod (z5 / that))))

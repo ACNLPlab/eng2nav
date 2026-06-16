@@ -1,0 +1,84 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:36.880149
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We had one billy goat in the herd that was just a little bit mean.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:36.880167
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / goat
+              :mod (z3 / billy)
+              :place (z4 / herd)
+              :ARG0-of (z5 / mean-01
+                           :degree (z6 / little))
+              :quant 1))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That was about how big we were when we herded sheep by ourselves.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:36.880171
+(z0 / big
+    :domain (z1 / that)
+    :temporal (z2 / herd-01
+                  :ARG0 (z3 / we)
+                  :ARG1 (z4 / sheep)
+                  :manner (z5 / by-oneself)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We had the rams in the herd, and they used to really fight with one another.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:36.880176
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / ram
+                       :place (z4 / herd)))
+    :op2 (z5 / fight-01
+             :ARG0 z3
+             :ARG2 (z6 / other)
+             :degree (z7 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We always herded sheep with a burro, sitting one behind the other.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:36.880180
+(z0 / and
+    :op1 (z1 / herded-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / sheep)
+             :instrument (z4 / burro)
+             :temporal (z5 / always)
+             :manner (z6 / sit-01
+                         :ARG1 z4
+                         :ARG2 (z7 / space
+                                   :ARG1-of (z8 / behind-02
+                                                :ARG2 z3
+                                                :ARG3 (z9 / cartesian-framework-91
+                                                          :ARG1 (z10 / builder))
+                                                :quant (z11 / distance-quantity
+                                                            :quant 1))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Once we had billy goats in the herd.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:49:36.880184
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / goat
+              :mod (z3 / billy)
+              :place (z4 / herd))
+    :temporal (z5 / once))

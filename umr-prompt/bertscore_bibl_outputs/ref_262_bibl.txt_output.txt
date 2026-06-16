@@ -1,0 +1,55 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We were a selected group.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:43.602803
+(z0 / group
+    :ARG1-of (z1 / select-01)
+    :domain (z2 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:43.602815
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:43.602819
+(z0 / plane
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was a long drop.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:43.602823
+(z0 / drop-01
+    :ARG1-of (z1 / long-03))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:43.602828
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We were punished at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:43.602832
+(z0 / punish-01
+    :ARG1 (z1 / we)
+    :temporal (z2 / time
+                  :mod (z3 / that)))

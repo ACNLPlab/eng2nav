@@ -1,0 +1,61 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Go run a race.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:55:01.930626
+(z0 / go-02
+    :ARG0 (z1 / you)
+    :ARG4 (z2 / run-02
+              :ARG0 z1
+              :ARG1 (z3 / race))
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:55:01.930637
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Many people lost stock.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:55:01.930642
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / stock))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:55:01.930646
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt to carry on the ceremony.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:55:01.930651
+(z0 / have-purpose-91
+    :ARG2 (z1 / carry-01
+              :ARG1 (z2 / ceremony)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:55:01.930655
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))

@@ -1,0 +1,76 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We had not heard of this and knew nothing about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:20:59.899198
+(z0 / and
+    :op1 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / this)
+             :polarity -)
+    :op2 (z4 / know-01
+             :ARG0 z2
+             :ARG1 z3
+             :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:20:59.899210
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Some of us did not know what had been done the night before.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:20:59.899214
+(z0 / know-01
+    :ARG0 (z1 / we
+              :quant (z2 / some))
+    :ARG1 (z3 / thing
+              :ARG1-of (z4 / do-02
+                           :temporal (z5 / date-entity
+                                         :dayperiod (z6 / night)
+                                         :mod (z7 / before))))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I don't know how it was done.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:20:59.899219
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG1 (z3 / it))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:20:59.899223
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He simply couldn't find it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:20:59.899227
+(z0 / possible-01
+    :ARG1 (z1 / find-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / it)
+              :mod (z4 / simple))
+    :polarity -)

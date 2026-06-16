@@ -1,0 +1,108 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They built the trading post and four years later perhaps, I do not recall exactly when, the one I called my uncle told us to haul wood there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:33.988215
+(z0 / and
+    :op1 (z1 / build-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / post
+                       :mod (z4 / trade))
+             :temporal (z5 / after
+                           :quant (z6 / temporal-quantity
+                                      :unit (z7 / year)
+                                      :quant 4))
+             :op2 (z8 / recall-02
+                      :ARG0 (z9 / i)
+                      :ARG1 (z10 / tell-01
+                                 :ARG0 (z11 / one
+                                            :ARG1-of (z12 / call-01
+                                                          :ARG0 z9
+                                                          :ARG2 (z13 / person
+                                                                     :ARG1-of (z14 / have-rel-role-92
+                                                                                   :ARG2 z9
+                                                                                   :ARG3 (z15 / uncle)))))
+                                 :ARG1 (z16 / haul-01
+                                            :ARG0 z9
+                                            :ARG1 (z17 / wood)
+                                            :ARG2 (z18 / there))
+                                 :ARG1-of (z19 / possible-01))
+                      :polarity -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:33.988233
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The two of them built the trading post at the place called Blue Clay Point.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:33.988238
+(z0 / build-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / post
+              :purpose (z3 / trade-01))
+    :place (z4 / place
+               :name (z5 / name
+                         :op1 "Blue"
+                         :op2 "Clay"
+                         :op3 "Point")
+               :wiki "Blue_Clay_Point"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt On the next day we went to the trading post, and my grandfather put his thumbprint on a paper for us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:33.988242
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / post
+                       :mod (z4 / trade))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / day)
+                           :mod (z7 / next))
+             :op2 (z8 / put-01
+                      :ARG0 (z9 / person
+                                :ARG1-of (z10 / have-rel-role-92
+                                              :ARG2 z2
+                                              :ARG3 (z11 / grandfather)))
+                      :ARG1 (z12 / thing
+                                 :ARG1-of (z13 / thumbprint-01
+                                               :ARG0 z9))
+                      :ARG2 (z14 / paper))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I do not remember who the rest were.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:33.988246
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / rest)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He would tell me to haul wood with it, or to work with it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:02:33.988250
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / or
+              :op1 (z3 / haul-01
+                       :ARG0 (z4 / i)
+                       :ARG1 (z5 / wood)
+                       :ARG3 (z6 / it))
+              :op2 (z7 / work-01
+                       :ARG0 z4
+                       :ARG1 z5))
+    :ARG2 z4)

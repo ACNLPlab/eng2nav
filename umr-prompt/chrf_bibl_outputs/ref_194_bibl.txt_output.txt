@@ -1,0 +1,92 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We were told that now there would be work here
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.278962
+(z0 / tell-01
+    :ARG1 (z1 / work-01
+              :place (z2 / here)
+              :temporal (z3 / now))
+    :ARG2 (z4 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When we got back we were told that we could have the next day off.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.278980
+(z0 / tell-01
+    :ARG1 (z1 / possible-01
+              :ARG1 (z2 / have-03
+                        :ARG0 (z3 / we)
+                        :ARG1 (z4 / day
+                                  :mod (z5 / next))
+                        :ARG2 (z6 / off-06
+                                  :ARG1 z3))
+              :ARG2 z3
+              :temporal (z7 / return-01
+                            :ARG1 z3)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we were told that the time had come.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.278985
+(z0 / tell-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / time))
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Since it was reported that it would be another day before the wagon load of children would arrive, we went back home.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.278989
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :temporal (z3 / since
+                  :op1 (z4 / report-01
+                           :ARG1 (z5 / before
+                                     :op1 (z6 / arrive-01
+                                              :ARG1 (z7 / load
+                                                        :possessor (z8 / child)))
+                                     :mod (z9 / another)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt There were three Navajo policemen there in that connection.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.278993
+(z0 / have-place-91
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-org-role-92
+                           :ARG2 (z3 / ethnic-group
+                                     :name (z4 / name
+                                               :op1 "Navajo")
+                                     :wiki "Navajo_Nation")
+                           :ARG3 (z5 / police))
+              :quant 3)
+    :ARG2 (z6 / there)
+    :manner (z7 / connect-01
+                :mod (z8 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.278997
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / thing
+                       :ARG1-of (z4 / tell-01
+                                    :ARG0 (z5 / he)
+                                    :ARG2 (z6 / mention-01
+                                              :ARG0 z5
+                                              :ARG1 (z7 / word)
+                                              :polarity -)))
+             :temporal (z8 / go-02
+                           :ARG0 z2
+                           :ARG4 (z9 / there)
+                           :direction (z10 / up))))

@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and stopped beside Chee.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:16.376920
+(z0 / and
+    :op2 (z1 / stop-01
+             :place (z2 / beside
+                        :op1 (z3 / person
+                                 :name (z4 / name
+                                           :op1 "Chee")
+                                 :wiki -))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:16.376932
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:16.376936
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and chaos followed.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:16.376940
+(z0 / and
+    :op2 (z1 / follow-01
+             :ARG1 (z2 / chaos)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:16.376944
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I stopped right there and looked at him.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:51:16.376948
+(z0 / and
+    :op1 (z1 / stop-01
+             :ARG0 (z2 / i)
+             :place (z3 / there
+                        :mod (z4 / right-yy))
+             :op2 (z5 / look-01
+                      :ARG0 z2
+                      :ARG1 (z6 / he))))

@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He said
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:32.573889
+(z0 / say-01
+    :ARG0 (z1 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt "All right," he said.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:32.573910
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / all-right))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He knows English", I said.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:32.573914
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / know-02
+              :ARG0 (z3 / he)
+              :ARG1 (z4 / language
+                        :name (z5 / name
+                                  :op1 "English")
+                        :wiki "English_language")
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We said they must be fighting over the firewood.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:32.573918
+(z0 / say-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / obligate-01
+              :ARG1 (z3 / fight-01
+                        :ARG0 (z4 / they)
+                        :ARG2 (z5 / firewood))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Come on!", they probably said.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:32.573922
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / you)
+              :mode imperative)
+    :ARG1-of (z4 / likely-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt “It's burning!” said the pilot.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:30:32.573926
+(z0 / say-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / fly-01))
+    :ARG1 (z3 / burn-01
+              :ARG1 (z4 / it)
+              :quote z0))

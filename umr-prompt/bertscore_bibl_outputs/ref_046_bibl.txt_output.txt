@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There were also many of us who had joined in just as spectators.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:16.691355
+(z0 / join-04
+    :ARG0 (z1 / we
+              :quant (z2 / many))
+    :ARG1 (z3 / in)
+    :manner (z4 / spectator)
+    :mod (z5 / also))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:16.691367
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These women too had spent the night there with them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:16.691371
+(z0 / spend-02
+    :ARG0 (z1 / woman
+              :mod (z2 / this))
+    :ARG1 (z3 / date-entity
+              :dayperiod (z4 / night))
+    :ARG2 (z5 / there)
+    :ARG3 (z6 / they)
+    :mod (z7 / too))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt so we just went with the crowd.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:16.691375
+(z0 / cause-01
+    :ARG1 (z1 / go-02
+              :ARG0 (z2 / we)
+              :ARG3 (z3 / crowd)
+              :mod (z4 / just)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They had stayed to cook for the men.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:16.691379
+(z0 / stay-01
+    :ARG1 (z1 / they)
+    :purpose (z2 / eat-01
+                 :ARG0 z1
+                 :ARG2 (z3 / man)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Some of us did not know what had been done the night before.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:16.691383
+(z0 / know-01
+    :ARG0 (z1 / we
+              :quant (z2 / some))
+    :ARG1 (z3 / thing
+              :ARG1-of (z4 / do-02
+                           :temporal (z5 / date-entity
+                                         :dayperiod (z6 / night)
+                                         :mod (z7 / before))))
+    :polarity -)

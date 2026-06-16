@@ -1,0 +1,122 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt As for us, we spent another night at my uncle's hogan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:26.877233
+(z0 / spend-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / night
+              :mod (z3 / another))
+    :ARG2 (z4 / hogan
+              :possessor (z5 / person
+                             :ARG1-of (z6 / have-rel-role-92
+                                          :ARG2 (z7 / i)
+                                          :ARG3 (z8 / uncle)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When we got back to the hogan we found that my uncle was there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:26.877277
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / have-place-91
+              :ARG1 (z3 / person
+                        :ARG1-of (z4 / have-rel-role-92
+                                     :ARG2 z1
+                                     :ARG3 (z5 / uncle)))
+              :ARG2 (z6 / there))
+    :temporal (z7 / return-01
+                  :ARG1 z1
+                  :ARG4 (z8 / hogan)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt As for us, we flew back and got off at Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:26.877282
+(z0 / and
+    :op1 (z1 / fly-01
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / back))
+    :op2 (z4 / get-05
+             :ARG0 z2
+             :ARG1 (z5 / off)
+             :ARG2 (z6 / city
+                       :name (z7 / name
+                                 :op1 "Phoenix")
+                       :wiki "Phoenix,_Arizona")))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt You cannot escape them anyway," my uncle and my grandfather said to us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:26.877287
+(z0 / say-01
+    :ARG0 (z1 / and
+              :op1 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / uncle)))
+              :op2 (z6 / person
+                       :ARG1-of (z7 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z8 / grandfather))))
+    :ARG1 (z9 / possible-01
+              :ARG1 (z10 / escape-01
+                         :ARG0 z4
+                         :ARG1 (z11 / they)
+                         :mod (z12 / anyway))
+              :polarity -)
+    :ARG2 (z13 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:26.877291
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / and
+                       :op1 (z3 / one
+                                :ARG1-of (z4 / refer-03
+                                             :ARG0 (z5 / i)
+                                             :ARG2 (z6 / person
+                                                       :ARG1-of (z7 / have-rel-role-92
+                                                                    :ARG2 z5
+                                                                    :ARG3 (z8 / grandfather))))
+                                :op2 (z9 / person
+                                         :ARG1-of (z10 / have-rel-role-92
+                                                       :ARG2 z5
+                                                       :ARG3 (z11 / uncle)))
+                                :op3 (z12 / person
+                                          :name (z13 / name
+                                                     :op1 "Little"
+                                                     :op2 "Boy")
+                                          :mod (z14 / another)
+                                          :wiki -))
+                       :ARG4 (z15 / there)
+                       :temporal (z16 / date-entity
+                                      :dayperiod (z17 / night))
+                       :ARG1-of (z18 / appear-02))
+             :op2 (z19 / hear-01
+                       :ARG0 z5
+                       :ARG1 (z20 / tell-01
+                                  :ARG0 z2
+                                  :ARG1 (z21 / it)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And they told us there'd be another flight on the next morning.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:57:26.877295
+(z0 / and
+    :op2 (z1 / tell-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / there
+                       :ARG1 (z4 / fly-01
+                                 :mod (z5 / another))
+                       :ARG2 (z6 / we)
+                       :temporal (z7 / date-entity
+                                     :dayperiod (z8 / morning)
+                                     :mod (z9 / next)))))

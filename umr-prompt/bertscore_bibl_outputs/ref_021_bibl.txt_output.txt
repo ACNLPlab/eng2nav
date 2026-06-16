@@ -1,0 +1,64 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There was a wash in the blue clay with a point of land on either side.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:43.262655
+(z0 / wash
+    :place (z1 / clay
+               :color (z2 / blue))
+    :manner (z3 / point
+                :place (z4 / land)
+                :place (z5 / side
+                           :ARG1-of (z6 / either-02))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:43.262667
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:43.262672
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:43.262676
+(z0 / plane
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He had a wagon and a team.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:43.262680
+(z0 / have-03
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / and
+              :op1 (z3 / wagon)
+              :op2 (z4 / team)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Not far from there, there was a drop.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:37:43.262684
+(z0 / drop-01
+    :place (z1 / space
+               :ARG1-of (z2 / far-01
+                            :ARG2 (z3 / there))))

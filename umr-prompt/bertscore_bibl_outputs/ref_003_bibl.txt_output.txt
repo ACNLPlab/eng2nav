@@ -1,0 +1,89 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Those called First Man and First Woman, and White Shell Woman and Changing Woman had come together and they were sitting.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:58.515534
+(z0 / and
+    :op1 (z1 / come-01
+             :ARG1 (z2 / and
+                       :op1 (z3 / person
+                                :name (z4 / name
+                                          :op1 "First"
+                                          :op2 "Man")
+                                :wiki -)
+                       :op2 (z5 / woman
+                                :name (z6 / name
+                                          :op1 "First"
+                                          :op2 "Woman")
+                                :wiki -)
+                       :op3 (z7 / woman
+                                :name (z8 / name
+                                          :op1 "White"
+                                          :op2 "Shell"
+                                          :op3 "Woman")
+                                :wiki -)
+                       :op4 (z9 / woman
+                                :name (z10 / name
+                                           :op1 "Changing"
+                                           :op2 "Woman")
+                                :wiki -)))
+    :op2 (z11 / sit-01
+              :ARG1 z2))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:58.515550
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He was keeping them together.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:58.515555
+(z0 / keep-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / together-01
+              :ARG1 (z3 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They were beating him up.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:58.515559
+(z0 / beat-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt One of these women had come from over beyond the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:58.515563
+(z0 / come-01
+    :ARG1 (z1 / woman
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / woman
+                                     :mod (z4 / this))))
+    :ARG3 (z5 / over
+              :op1 (z6 / mountain)
+              :ARG5 (z7 / cartesian-framework-91
+                        :ARG1 (z8 / builder))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:58.515567
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)

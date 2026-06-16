@@ -1,0 +1,176 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Those called First Man and First Woman, and White Shell Woman and Changing Woman had come together and they were sitting.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:10.481659
+(z0 / and
+    :op1 (z1 / come-01
+             :ARG1 (z2 / and
+                       :op1 (z3 / person
+                                :name (z4 / name
+                                          :op1 "First"
+                                          :op2 "Man")
+                                :wiki -)
+                       :op2 (z5 / woman
+                                :name (z6 / name
+                                          :op1 "First"
+                                          :op2 "Woman")
+                                :wiki -)
+                       :op3 (z7 / woman
+                                :name (z8 / name
+                                          :op1 "White"
+                                          :op2 "Shell"
+                                          :op3 "Woman")
+                                :wiki -)
+                       :op4 (z9 / woman
+                                :name (z10 / name
+                                           :op1 "Changing"
+                                           :op2 "Woman")
+                                :wiki -)))
+    :op2 (z11 / sit-01
+              :ARG1 z2))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Just as dawn was breaking First Man went out doors to urinate; he glanced over at the peak of Gobernador Knob, and saw a little cloud hanging there, it is said.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:10.481677
+(z0 / say-01
+    :ARG1 (z1 / and
+              :op1 (z2 / go-02
+                       :ARG0 (z3 / person
+                                 :name (z4 / name
+                                           :op1 "First"
+                                           :op2 "Man")
+                                 :wiki -)
+                       :ARG4 (z5 / door)
+                       :purpose (z6 / urinate-01
+                                    :ARG0 z3)
+                       :temporal (z7 / just-as
+                                     :op1 (z8 / break-01
+                                              :ARG1 (z9 / dawn))))
+              :op2 (z10 / see-01
+                        :ARG0 z3
+                        :ARG1 (z11 / cloud
+                                   :ARG1-of (z12 / hang-01
+                                                 :place (z13 / there))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt My gradnfather, a man by the name of White Mexican Clansman, and another man called The Son of Former Sweathouse, were the only men. They and several womenfolk worked hard on me.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:10.481681
+(z0 / and
+    :op1 (z1 / man
+             :mod (z2 / only)
+             :ARG1-of (z3 / have-rel-role-92
+                          :ARG2 (z4 / i)
+                          :ARG3 (z5 / father))
+             :op2 (z6 / man
+                      :mod (z7 / name
+                               :op1 "White"
+                               :op2 "Mexican"
+                               :op3 "Clansman")
+                      :wiki "White_Mexican_Clansman")
+             :op3 (z8 / man
+                      :mod (z9 / another)
+                      :ARG1-of (z10 / call-01
+                                    :ARG2 (z11 / person
+                                               :name (z12 / name
+                                                          :op1 "The"
+                                                          :op2 "Son"
+                                                          :op3 "of"
+                                                          :op3 "of"
+                                                          :op4 "Sweathouse")
+                                               :wiki -))))
+    :op4 (z13 / work-01
+              :ARG0 (z14 / and
+                         :op1 (z15 / they)
+                         :op2 (z16 / woman
+                                   :quant (z17 / several))
+                         :ARG1 (z18 / hard)
+                         :ARG2 z4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Sometimes the rams would get far apart and my cousin would step in between them and then jump aside as their heads came together.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:10.481686
+(z0 / and
+    :op1 (z1 / get-03
+             :ARG1 (z2 / ram)
+             :ARG2 (z3 / apart
+                       :extent (z4 / far))
+             :temporal (z5 / sometimes))
+    :op2 (z6 / and
+             :op1 (z7 / step-01
+                      :ARG0 (z8 / person
+                                :ARG1-of (z9 / have-rel-role-92
+                                             :ARG2 (z10 / i)
+                                             :ARG3 (z11 / cousin)))
+                      :ARG1 z2
+                      :ARG2 (z12 / between
+                                 :op1 z2))
+             :op2 (z13 / jump-03
+                       :ARG0 z8
+                       :ARG1 (z14 / aside)
+                       :temporal (z15 / together-01
+                                      :ARG1 (z16 / head
+                                                 :part-of z2))
+                       :temporal (z17 / then))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:10.481690
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / and
+                       :op1 (z3 / one
+                                :ARG1-of (z4 / refer-03
+                                             :ARG0 (z5 / i)
+                                             :ARG2 (z6 / person
+                                                       :ARG1-of (z7 / have-rel-role-92
+                                                                    :ARG2 z5
+                                                                    :ARG3 (z8 / grandfather))))
+                                :op2 (z9 / person
+                                         :ARG1-of (z10 / have-rel-role-92
+                                                       :ARG2 z5
+                                                       :ARG3 (z11 / uncle)))
+                                :op3 (z12 / person
+                                          :name (z13 / name
+                                                     :op1 "Little"
+                                                     :op2 "Boy")
+                                          :mod (z14 / another)
+                                          :wiki -))
+                       :ARG4 (z15 / there)
+                       :temporal (z16 / date-entity
+                                      :dayperiod (z17 / night))
+                       :ARG1-of (z18 / appear-02))
+             :op2 (z19 / hear-01
+                       :ARG0 z5
+                       :ARG1 (z20 / tell-01
+                                  :ARG0 z2
+                                  :ARG1 (z21 / it)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That is how it came about that the one who would be called The Interpreter (Chee Dodge) and the one who would be named Big Lump Setting Up came to move there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:32:10.481694
+(z0 / come-33
+    :ARG1 (z1 / and
+              :op1 (z2 / one
+                       :ARG1-of (z3 / call-01
+                                    :ARG2 (z4 / interpreter))
+                       :op2 (z5 / person
+                                :name (z6 / name
+                                          :op1 "Chee"
+                                          :op2 "Dodge")
+                                :wiki -)
+                       :op3 (z7 / one
+                                :ARG1-of (z8 / name-01
+                                             :ARG2 (z9 / set-up-03))))
+              :ARG2 (z10 / there))
+    :ARG2 (z11 / that))

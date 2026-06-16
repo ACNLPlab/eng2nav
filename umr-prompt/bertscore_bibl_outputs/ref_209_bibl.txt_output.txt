@@ -1,0 +1,73 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We two who were going to school stayed together.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:40.709039
+(z0 / stay-01
+    :ARG1 (z1 / and
+              :op1 (z2 / we)
+              :op2 (z3 / person
+                       :ARG0-of (z4 / go-01
+                                    :ARG1 (z5 / school))))
+    :ARG2 (z6 / together))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Two of the boys who were going to go to school were locked in.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:40.709051
+(z0 / lock-01
+    :ARG1 (z1 / boy
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / boy
+                                     :ARG0-of (z4 / go-01
+                                                  :ARG1 (z5 / school))))
+              :quant 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:40.709056
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:40.709060
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He stood up for the two of us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:40.709064
+(z0 / stand-up-07
+    :ARG0 (z1 / he)
+    :affectee (z2 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Today we had been placed among children who were to be taken off to school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:40.709069
+(z0 / place-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / among
+              :op1 (z3 / child
+                       :ARG1-of (z4 / take-04
+                                    :ARG2 (z5 / school))))
+    :temporal (z6 / today))

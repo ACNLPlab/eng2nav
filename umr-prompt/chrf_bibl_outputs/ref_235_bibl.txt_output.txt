@@ -1,0 +1,114 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And the person who had joined me thought likewise.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:48.424962
+(z0 / and
+    :op2 (z1 / think-01
+             :ARG0 (z2 / person
+                       :ARG0-of (z3 / join-04
+                                    :ARG1 (z4 / i)))
+             :ARG1 (z5 / likewise)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There were also many of us who had joined in just as spectators.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:48.424980
+(z0 / join-04
+    :ARG0 (z1 / we
+              :quant (z2 / many))
+    :ARG1 (z3 / in)
+    :manner (z4 / spectator)
+    :mod (z5 / also))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At the time I was about eighteen years old the person who started the present trading post at Blue Clay Point moved there - I used to know just when it was.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:48.424985
+(z0 / and
+    :op1 (z1 / move-01
+             :ARG0 (z2 / person
+                       :ARG0-of (z3 / start-01
+                                    :ARG1 (z4 / post
+                                              :mod (z5 / present-02)
+                                              :place (z6 / point
+                                                         :name (z7 / name
+                                                                   :op1 "Blue"
+                                                                   :op2 "Clay"
+                                                                   :op3 "Point")
+                                                         :wiki "Blue_Clay_Point"))))
+             :ARG1 (z8 / there)
+             :temporal (z9 / age-01
+                           :ARG1 (z10 / i)
+                           :ARG2 (z11 / about
+                                      :op1 (z12 / temporal-quantity
+                                                :unit (z13 / year)
+                                                :quant 18))))
+    :op2 (z14 / know-01
+              :ARG0 z10
+              :ARG1 (z15 / time
+                         :temporal-of (z16 / it)
+                         :mod (z17 / just))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and they no doubt came with evil thoughts. The people who, lived hereabout had heard nothing of their plans
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:48.424989
+(z0 / and
+    :op2 (z1 / doubt-01
+             :ARG1 (z2 / come-01
+                       :ARG1 (z3 / they)
+                       :ARG3 (z4 / think-01
+                                 :ARG0 z3
+                                 :ARG1 (z5 / evil))))
+    :op3 (z6 / person
+             :ARG0-of (z7 / hear-01
+                          :ARG1 (z8 / nothing
+                                    :ARG1-of (z9 / plan-01
+                                                 :ARG0 z3))
+                          :place (z10 / here))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt If a person would bother him, like pinching him or walking behind him, he would get mad.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:48.424993
+(z0 / get-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / mad)
+    :condition (z3 / or
+                   :op1 (z4 / annoy-01
+                            :ARG0 (z5 / person)
+                            :ARG1 z1)
+                   :op2 (z6 / or
+                            :op1 (z7 / pinch-01
+                                     :ARG0 z5
+                                     :ARG1 z1)
+                            :op2 (z8 / walk-01
+                                     :ARG0 z5
+                                     :direction (z9 / behind
+                                                    :op1 z1)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The people who had promised their children for school were named, and we were told many things about the school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:48.424997
+(z0 / and
+    :op1 (z1 / name-01
+             :ARG1 (z2 / person
+                       :ARG0-of (z3 / promise-01
+                                    :ARG1 (z4 / person
+                                              :ARG1-of (z5 / have-rel-role-92
+                                                           :ARG2 (z6 / parent)
+                                                           :ARG3 (z7 / child)))
+                                    :purpose (z8 / school))))
+    :op2 (z9 / tell-01
+             :ARG0 z6
+             :ARG1 (z10 / thing
+                        :quant (z11 / many)
+                        :topic (z12 / school))
+             :ARG2 (z13 / we)))

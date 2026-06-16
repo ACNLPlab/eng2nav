@@ -1,0 +1,86 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We headed them off toward the flat.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:04:18.763736
+(z0 / head-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :direction (z3 / trajectory
+                   :ARG4-of (z4 / toward-01
+                                :ARG2 (z5 / flat-06))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We’ll take them right over there in the flat.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:04:18.763752
+(z0 / take-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / there
+              :mod (z4 / right)
+              :place (z5 / flat)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We herded them back down to the open country.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:04:18.763757
+(z0 / herded-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / country
+              :ARG1-of (z4 / open-09))
+    :direction (z5 / back))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt But one does not mention their name "bear”. People who live over there toward the mountains never say “bear”.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:04:18.763761
+(z0 / contrast-91
+    :ARG2 (z1 / mention-01
+              :ARG0 (z2 / one)
+              :ARG1 (z3 / name
+                        :op1 "bear")
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:04:18.763765
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I heard them saying that.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:04:18.763770
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 (z3 / they)
+              :ARG1 (z4 / that)))

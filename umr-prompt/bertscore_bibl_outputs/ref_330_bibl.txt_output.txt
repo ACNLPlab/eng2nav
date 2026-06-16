@@ -1,0 +1,66 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We were loaded with hay, food and firewood.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:30.490510
+(z0 / load-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / and
+              :op1 (z3 / hay)
+              :op2 (z4 / food)
+              :op3 (z5 / firewood)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He had a wagon and a team.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:30.490522
+(z0 / have-03
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / and
+              :op1 (z3 / wagon)
+              :op2 (z4 / team)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:30.490526
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They had guns and bows and arrows.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:30.490531
+(z0 / have-03
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / gun)
+              :op2 (z4 / bow)
+              :op3 (z5 / arrow)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The main thing we hauled was hay.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:30.490535
+(z0 / haul-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / hay)
+    :ARG1-of (z3 / have-degree-91
+                 :ARG2 (z4 / main)
+                 :ARG3 (z5 / most)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was packed full.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:17:30.490539
+(z0 / cram-01
+    :ARG1 (z1 / it))

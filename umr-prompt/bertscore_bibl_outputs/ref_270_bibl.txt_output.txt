@@ -1,0 +1,74 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt At six o'clock we were put aboard a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:48.002483
+(z0 / put-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :time 6))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt However, we didn't take off until six o'clock.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:48.002495
+(z0 / contrast-91
+    :ARG2 (z1 / take-off-07
+              :ARG0 (z2 / we)
+              :temporal (z3 / until
+                            :op1 (z4 / date-entity
+                                     :time 6))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At dusk we took off in a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:48.002499
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :ARG3 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / dusk)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We were awakened from sleep at four o'clock, before dawn.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:48.002504
+(z0 / wake-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / sleep-01
+              :ARG0 z1)
+    :temporal (z3 / before
+                  :op1 (z4 / date-entity
+                           :dayperiod (z5 / dawn))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt where we arrived at noon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:48.002508
+(z0 / have-place-91
+    :ARG2 (z1 / arrive-01
+              :ARG1 (z2 / we)
+              :temporal (z3 / date-entity
+                            :time "12:00")))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt In the late evening we all returned to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:58:48.002512
+(z0 / return-01
+    :ARG1 (z1 / we
+              :mod (z2 / all))
+    :ARG4 (z3 / city
+              :name (z4 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona")
+    :temporal (z5 / late-01
+                  :ARG2 (z6 / date-entity
+                            :dayperiod (z7 / evening))))

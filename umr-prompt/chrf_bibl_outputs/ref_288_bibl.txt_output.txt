@@ -1,0 +1,140 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt While we were flying through there, there were other planes flying alongside us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:25.496079
+(z0 / fly-01
+    :ARG1 (z1 / plane
+              :ARG1-of (z2 / other-01))
+    :temporal (z3 / through
+                  :op1 (z4 / there))
+    :place (z5 / beside
+               :op1 (z6 / we)
+               :ARG3 (z7 / cartesian-framework-91
+                         :ARG1 z6
+                         :FR (z8 / relative-to-builder))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When this happened Black Horse’s henchmen spoke without effect because there were others who were trying to keep order and who said "No" to the proposal to attack the soldiers.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:25.496096
+(z0 / speak-01
+    :ARG0 (z1 / henchman
+              :possessor (z2 / person
+                             :name (z3 / name
+                                       :op1 "Black"
+                                       :op2 "Horse")
+                             :wiki -))
+    :ARG1-of (z4 / cause-01
+                 :ARG0 (z5 / and
+                           :op1 (z6 / other
+                                    :ARG0-of (z7 / try-01
+                                                 :ARG1 (z8 / keep-02
+                                                           :ARG1 (z9 / order-01))))
+                           :op2 (z10 / say-01
+                                     :ARG0 z10
+                                     :ARG1 (z11 / no)
+                                     :ARG2 (z12 / proposal
+                                                :purpose (z13 / attack-01
+                                                              :ARG0 z10
+                                                              :ARG1 (z14 / soldier)))))
+                 :polarity -)
+    :temporal (z15 / event
+                   :mod (z16 / this))
+    :manner (z17 / effect
+                 :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:25.496100
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt At the time we had brought the last load of wood; while we were unloading it we noticed two women leading a horse nearby.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:25.496104
+(z0 / notice-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / lead-02
+              :ARG0 (z3 / woman
+                        :quant 2)
+              :ARG1 (z4 / horse)
+              :place (z5 / nearby)
+              :temporal (z6 / bring-01
+                            :ARG0 z1
+                            :ARG1 (z7 / load
+                                      :consist-of (z8 / wood)
+                                      :ord (z9 / ordinal-entity
+                                               :value "-1")))
+              :temporal (z10 / while
+                             :op1 (z11 / load-01
+                                       :ARG0 z1
+                                       :ARG1 z7))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt But as they carried him further away the one called Bead Clan Gambler went running from here where we were standing.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:25.496109
+(z0 / contrast-91
+    :ARG2 (z1 / go-02
+              :ARG0 (z2 / one
+                        :ARG1-of (z3 / call-01
+                                     :ARG2 (z4 / book
+                                               :name (z5 / name
+                                                         :op1 "Bead"
+                                                         :op2 "Clan"
+                                                         :op3 "Gambler")
+                                               :wiki "Bead_Clan")))
+              :ARG4 (z6 / here
+                        :ARG2-of (z7 / stand-01
+                                     :ARG1 (z8 / we)))
+              :temporal (z9 / carry-01
+                            :ARG0 (z10 / they)
+                            :ARG1 z2
+                            :direction (z11 / away
+                                            :extent (z12 / more)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt [But at the time when we were small and used to herd our sheep up there we did not know things like this.] Only my cousin had a smattering of such information,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:44:25.496113
+(z0 / contrast-91
+    :ARG2 (z1 / know-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / resemble-91
+                                     :ARG2 (z5 / this)))
+              :temporal (z6 / and
+                            :op1 (z7 / small
+                                     :domain z2)
+                            :op2 (z8 / use-01
+                                     :ARG1 z2
+                                     :ARG2 (z9 / herd-01
+                                               :ARG0 z2
+                                               :ARG1 (z10 / sheep
+                                                          :possessor z2)
+                                               :place (z11 / there)))
+                            :polarity -)))

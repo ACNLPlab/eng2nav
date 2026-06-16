@@ -1,0 +1,92 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and some take the afternoon shift.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:20:31.628014
+(z0 / and
+    :op2 (z1 / shift-01
+             :ARG0 (z2 / person
+                       :quant (z3 / some))
+             :temporal (z4 / date-entity
+                           :dayperiod (z5 / afternoon))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We ate and then flew right back over on the same route, and everything that had happened seemed like a dream. It was late in the afternoon when we got back to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:20:31.628028
+(z0 / and
+    :op1 (z1 / eat-01
+             :ARG0 (z2 / we))
+    :op2 (z3 / fly-01
+             :ARG0 z2
+             :ARG4 (z4 / back
+                       :destination (z5 / city
+                                        :name (z6 / name
+                                                  :op1 "Phoenix")
+                                        :wiki "Phoenix,_Arizona")
+                       :direction (z7 / route
+                                      :ARG1-of (z8 / same-01)
+                                      :mod (z9 / right-yy)))
+             :temporal (z10 / late-01
+                            :ARG2 (z11 / date-entity
+                                       :dayperiod (z12 / afternoon)))
+             :op3 (z13 / seem-01
+                       :ARG1 (z14 / everything
+                                  :ARG1-of (z15 / do-02))
+                       :ARG2 (z16 / dream-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:20:31.628033
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He was older than I was so he had learned some things.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:20:31.628037
+(z0 / cause-01
+    :ARG0 (z1 / learn-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / thing
+                        :quant (z4 / some)))
+    :ARG1 (z5 / have-age-91
+              :ARG1 z2
+              :ARG2 (z6 / old)
+              :ARG3 (z7 / more)
+              :ARG4 (z8 / i)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt so when something like this happens the fire is easily put out.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:20:31.628041
+(z0 / have-purpose-91
+    :ARG2 (z1 / put-out-09
+              :ARG1 (z2 / fire)
+              :ARG1-of (z3 / easy-05)
+              :temporal (z4 / event
+                            :ARG1-of (z5 / resemble-91
+                                         :ARG2 (z6 / this)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We’ll take them right over there in the flat.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:20:31.628045
+(z0 / take-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / there
+              :mod (z4 / right)
+              :place (z5 / flat)))

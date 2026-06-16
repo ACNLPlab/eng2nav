@@ -1,0 +1,74 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:56.152134
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I do not remember who the rest were.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:56.152146
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / rest)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Two of the boys who were going to go to school were locked in.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:56.152151
+(z0 / lock-01
+    :ARG1 (z1 / boy
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / boy
+                                     :ARG0-of (z4 / go-01
+                                                  :ARG1 (z5 / school))))
+              :quant 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We two who were going to school stayed together.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:56.152155
+(z0 / stay-01
+    :ARG1 (z1 / and
+              :op1 (z2 / we)
+              :op2 (z3 / person
+                       :ARG0-of (z4 / go-01
+                                    :ARG1 (z5 / school))))
+    :ARG2 (z6 / together))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and I don't remember who else was standing there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:56.152159
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / person
+                       :ARG1-of (z4 / stand-01
+                                    :ARG2 (z5 / there))
+                       :mod (z6 / else))
+             :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I don't know how it was done.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:39:56.152163
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG1 (z3 / it))
+    :polarity -)

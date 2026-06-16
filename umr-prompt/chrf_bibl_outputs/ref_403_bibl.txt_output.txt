@@ -1,0 +1,79 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I looked the place over from there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:35.988017
+(z0 / look-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / place)
+    :source (z3 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Just then they locked the door from the inside.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:35.988034
+(z0 / lock-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / door)
+    :manner (z3 / inward-02
+                :ARG1 z2)
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Not far from there, there was a drop.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:35.988038
+(z0 / drop-01
+    :place (z1 / space
+               :ARG1-of (z2 / far-01
+                            :ARG2 (z3 / there))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:35.988043
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt So they probably set out from there for this purpose (of opposing the placing of children in school).
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:35.988047
+(z0 / have-reason-91
+    :ARG1 (z1 / go-02
+              :ARG0 (z2 / they)
+              :direction (z3 / out)
+              :source (z4 / there)
+              :purpose (z5 / oppose-01
+                           :ARG0 z2
+                           :ARG1 (z6 / place-01
+                                     :ARG1 (z7 / child)
+                                     :ARG2 (z8 / school))))
+    :ARG2 (z9 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The small planes - the two motored ones - loaded at Winslow and hauled from there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:31:35.988051
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG1 (z2 / plane
+                       :mod (z3 / small)
+                       :ARG1-of (z4 / motored-01)
+                       :quant 2)
+             :ARG2 (z5 / city
+                       :name (z6 / name
+                                 :op1 "Winslow")
+                       :wiki "Winslow,_Virginia"))
+    :op2 (z7 / haul-01
+             :ARG1 z2
+             :source z5))

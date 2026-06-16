@@ -1,0 +1,88 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt for the Navajo country.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:56.318339
+(z0 / concern-02
+    :ARG1 (z1 / country
+              :name (z2 / name
+                        :op1 "Navajo")
+              :wiki "Navajo_country"))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We herded them back down to the open country.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:56.318355
+(z0 / herded-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / country
+              :ARG1-of (z4 / open-09))
+    :direction (z5 / back))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The Bat was a man who could understand Navajo very well.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:56.318359
+(z0 / man
+    :domain (z1 / person
+                :name (z2 / name
+                          :op1 "Bat")
+                :wiki "The_Bat")
+    :ARG0-of (z3 / understand-01
+                 :ARG1 (z4 / language
+                           :name (z5 / name
+                                     :op1 "Navajo")
+                           :wiki "Navajo_language"))
+    :domain z1)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There were three Navajo policemen there in that connection.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:56.318364
+(z0 / have-place-91
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-org-role-92
+                           :ARG2 (z3 / ethnic-group
+                                     :name (z4 / name
+                                               :op1 "Navajo")
+                                     :wiki "Navajo_Nation")
+                           :ARG3 (z5 / police))
+              :quant 3)
+    :ARG2 (z6 / there)
+    :manner (z7 / connect-01
+                :mod (z8 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We Navajos still haven't found out that God is punishing us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:56.318368
+(z0 / find-01
+    :ARG0 (z1 / we
+              :mod (z2 / country
+                       :name (z3 / name
+                                 :op1 "Navajos")
+                       :wiki "Navajo_Nation"))
+    :ARG1 (z4 / punish-01
+              :ARG0 (z5 / person
+                        :name (z6 / name
+                                  :op1 "God")
+                        :wiki "God")
+              :ARG1 z1)
+    :mod (z7 / still)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They had stayed to cook for the men.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:39:56.318372
+(z0 / stay-01
+    :ARG1 (z1 / they)
+    :purpose (z2 / eat-01
+                 :ARG0 z1
+                 :ARG2 (z3 / man)))

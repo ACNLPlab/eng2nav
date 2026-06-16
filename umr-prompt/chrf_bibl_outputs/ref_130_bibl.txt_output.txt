@@ -1,0 +1,117 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt "I am putting these two boys in schcool." he said by way of promise.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.006867
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / put-01
+              :ARG0 z1
+              :ARG1 (z3 / boy
+                        :mod (z4 / this)
+                        :quant 2)
+              :ARG2 (z5 / cool-04)
+              :quote z0)
+    :manner (z6 / promise-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt As she passed by she said, "It is said that those boys who are unloading wood over there have been promised for school - they will go to school too.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.006882
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / and
+              :op1 (z3 / say-01
+                       :ARG1 (z4 / promise-01
+                                 :ARG1 (z5 / boy
+                                           :ARG0-of (z6 / load-01
+                                                        :ARG1 (z7 / wood)
+                                                        :place (z8 / there)))
+                                 :ARG2 (z9 / school))
+                       :quote z0)
+              :op2 (z10 / go-02
+                        :ARG0 z5
+                        :ARG4 z9
+                        :mod (z11 / too)))
+    :temporal (z12 / pass-by-02
+                   :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They had no doubt heard that in a certain number of days a party would come to Blue Clay Point for the purpose of putting children in school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.006887
+(z0 / doubt-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / hear-01
+              :ARG0 z1
+              :ARG1 (z3 / come-01
+                        :ARG1 (z4 / party)
+                        :ARG4 (z5 / point
+                                  :name (z6 / name
+                                            :op1 "Blue"
+                                            :op2 "Clay"
+                                            :op3 "Point")
+                                  :wiki "Blue_Clay_Point_Naval_Base")
+                        :purpose (z7 / put-01
+                                     :ARG0 z4
+                                     :ARG1 (z8 / child)
+                                     :ARG2 (z9 / school))
+                        :temporal (z10 / after
+                                       :quant (z11 / number
+                                                   :quant (z12 / certain))))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt So they probably set out from there for this purpose (of opposing the placing of children in school).
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.006891
+(z0 / have-reason-91
+    :ARG1 (z1 / go-02
+              :ARG0 (z2 / they)
+              :direction (z3 / out)
+              :source (z4 / there)
+              :purpose (z5 / oppose-01
+                           :ARG0 z2
+                           :ARG1 (z6 / place-01
+                                     :ARG1 (z7 / child)
+                                     :ARG2 (z8 / school))))
+    :ARG2 (z9 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The people who had promised their children for school were named, and we were told many things about the school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.006895
+(z0 / and
+    :op1 (z1 / name-01
+             :ARG1 (z2 / person
+                       :ARG0-of (z3 / promise-01
+                                    :ARG1 (z4 / person
+                                              :ARG1-of (z5 / have-rel-role-92
+                                                           :ARG2 (z6 / parent)
+                                                           :ARG3 (z7 / child)))
+                                    :purpose (z8 / school))))
+    :op2 (z9 / tell-01
+             :ARG0 z6
+             :ARG1 (z10 / thing
+                        :quant (z11 / many)
+                        :topic (z12 / school))
+             :ARG2 (z13 / we)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt "They are putting chidlren in school, it is said."
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:50.006899
+(z0 / say-01
+    :ARG1 (z1 / put-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / child
+                        :quant (z4 / little))
+              :ARG2 (z5 / school)
+              :quote z0))

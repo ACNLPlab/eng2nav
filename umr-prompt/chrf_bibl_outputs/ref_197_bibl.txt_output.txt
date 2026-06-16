@@ -1,0 +1,159 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt One of them turned out to be Bead Clan Gambler, one was Singed Man from Fort Defiance - he was also known as Son of Former Rag Man.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:48.170798
+(z0 / and
+    :op1 (z1 / turn-02
+             :ARG1 (z2 / person
+                       :ARG1-of (z3 / include-91
+                                    :ARG2 (z4 / and
+                                              :op1 (z5 / they)
+                                              :op2 (z6 / person
+                                                       :ARG0-of (z7 / Gambler-01)
+                                                       :mod (z8 / bead)))))
+             :op2 (z9 / person
+                      :ARG1-of (z10 / include-91
+                                    :ARG2 (z11 / person
+                                               :name (z12 / name
+                                                          :op1 "Singed"
+                                                          :op2 "Man")
+                                               :source (z13 / human-settlement
+                                                            :name (z14 / name
+                                                                       :op1 "Fort"
+                                                                       :op2 "Defiance")
+                                                            :wiki "Fort_Defiance,_North_Carolina"))
+                                    :quant 1))
+             :op3 (z15 / know-02
+                       :ARG1 (z16 / person
+                                  :ARG1-of (z17 / have-rel-role-92
+                                                :ARG2 (z18 / person
+                                                           :name (z19 / name
+                                                                      :op1 "Rag"
+                                                                      :op2 "Man")
+                                                           :wiki -)
+                                                :ARG3 (z20 / son))
+                                  :mod (z21 / also)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt One was called Bead Clan Gambler, and he was a member of the police force.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:48.170817
+(z0 / and
+    :op1 (z1 / call-01
+             :ARG1 (z2 / one)
+             :ARG2 (z3 / business
+                       :name (z4 / name
+                                 :op1 "Bade"
+                                 :op2 "Clan"
+                                 :op3 "Gambler")
+                       :wiki "Bead_Clan"))
+    :op2 (z5 / have-org-role-92
+             :ARG1 z2
+             :ARG2 (z6 / police)
+             :ARG3 (z7 / member)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt But as they carried him further away the one called Bead Clan Gambler went running from here where we were standing.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:48.170822
+(z0 / contrast-91
+    :ARG2 (z1 / go-02
+              :ARG0 (z2 / one
+                        :ARG1-of (z3 / call-01
+                                     :ARG2 (z4 / book
+                                               :name (z5 / name
+                                                         :op1 "Bead"
+                                                         :op2 "Clan"
+                                                         :op3 "Gambler")
+                                               :wiki "Bead_Clan")))
+              :ARG4 (z6 / here
+                        :ARG2-of (z7 / stand-01
+                                     :ARG1 (z8 / we)))
+              :temporal (z9 / carry-01
+                            :ARG0 (z10 / they)
+                            :ARG1 z2
+                            :direction (z11 / away
+                                            :extent (z12 / more)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He had come on ahead with the white man from Fort Defiance called Little Chief (Agent Dana Shipley).
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:48.170826
+(z0 / come-01
+    :ARG1 (z1 / he)
+    :ARG4 (z2 / ahead)
+    :ARG3 (z3 / man
+              :mod (z4 / white)
+              :source (z5 / city
+                          :name (z6 / name
+                                    :op1 "Fort"
+                                    :op2 "Defiance")
+                          :wiki "Fort_Defiance")
+              :ARG1-of (z7 / call-01
+                           :ARG2 (z8 / person
+                                     :name (z9 / name
+                                               :op1 "Dana"
+                                               :op2 "Shipley")
+                                     :wiki -))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He was from Chinle, but he was a member of the police force at Fort Defiance.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:48.170830
+(z0 / contrast-91
+    :ARG1 (z1 / have-place-91
+              :ARG1 (z2 / he)
+              :ARG2 (z3 / city
+                        :name (z4 / name
+                                  :op1 "Chinle")
+                        :wiki "Chinle,_Alabama"))
+    :ARG2 (z5 / have-org-role-92
+              :ARG1 z2
+              :ARG2 (z6 / member)
+              :ARG3 (z7 / police)
+              :place (z8 / facility
+                         :name (z9 / name
+                                   :op1 "Fort"
+                                   :op2 "Defiance")
+                         :wiki "Fort_Defiance_Naval_Base")))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My gradnfather, a man by the name of White Mexican Clansman, and another man called The Son of Former Sweathouse, were the only men. They and several womenfolk worked hard on me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:04:48.170834
+(z0 / and
+    :op1 (z1 / man
+             :mod (z2 / only)
+             :ARG1-of (z3 / have-rel-role-92
+                          :ARG2 (z4 / i)
+                          :ARG3 (z5 / father))
+             :op2 (z6 / man
+                      :mod (z7 / name
+                               :op1 "White"
+                               :op2 "Mexican"
+                               :op3 "Clansman")
+                      :wiki "White_Mexican_Clansman")
+             :op3 (z8 / man
+                      :mod (z9 / another)
+                      :ARG1-of (z10 / call-01
+                                    :ARG2 (z11 / person
+                                               :name (z12 / name
+                                                          :op1 "The"
+                                                          :op2 "Son"
+                                                          :op3 "of"
+                                                          :op3 "of"
+                                                          :op4 "Sweathouse")
+                                               :wiki -))))
+    :op4 (z13 / work-01
+              :ARG0 (z14 / and
+                         :op1 (z15 / they)
+                         :op2 (z16 / woman
+                                   :quant (z17 / several))
+                         :ARG1 (z18 / hard)
+                         :ARG2 z4)))

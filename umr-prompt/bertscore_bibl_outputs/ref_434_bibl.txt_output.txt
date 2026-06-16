@@ -1,0 +1,69 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and he used to teach me what he knew.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:40.349139
+(z0 / and
+    :op2 (z1 / use-01
+             :ARG0 (z2 / he)
+             :ARG1 (z3 / teach-01
+                       :ARG0 z2
+                       :ARG1 (z4 / thing
+                                 :ARG1-of (z5 / know-02
+                                              :ARG0 z2))
+                       :ARG2 (z6 / i))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He would say as he taught me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:40.349151
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / teach-01
+              :ARG0 z1
+              :ARG1 (z3 / i)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:40.349156
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:40.349160
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:40.349164
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt as he began to make a speech to the people.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:40.349168
+(z0 / begin-01
+    :ARG1 (z1 / speak-01
+              :ARG0 (z2 / he)
+              :ARG2 (z3 / person)))

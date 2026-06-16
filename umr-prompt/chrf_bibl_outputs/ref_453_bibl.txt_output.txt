@@ -1,0 +1,146 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I used to go around wondering why under the sun a person should not say the word ‘bear’,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:46.970828
+(z0 / go-02
+    :ARG0 (z1 / i)
+    :ARG4 (z2 / around)
+    :purpose (z3 / wonder-01
+                 :ARG0 z1
+                 :ARG1 (z4 / thing
+                           :ARG0-of (z5 / cause-01
+                                        :ARG1 (z6 / recommend-01
+                                                  :ARG1 (z7 / say-01
+                                                            :ARG0 (z8 / person)
+                                                            :ARG1 (z9 / word
+                                                                      :mod (z10 / bear))
+                                                            :polarity -)
+                                                  :temporal (z11 / under
+                                                                 :op1 (z12 / sun)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:46.970845
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / thing
+                       :ARG1-of (z4 / tell-01
+                                    :ARG0 (z5 / he)
+                                    :ARG2 (z6 / mention-01
+                                              :ARG0 z5
+                                              :ARG1 (z7 / word)
+                                              :polarity -)))
+             :temporal (z8 / go-02
+                           :ARG0 z2
+                           :ARG4 (z9 / there)
+                           :direction (z10 / up))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At the time I was about eighteen years old the person who started the present trading post at Blue Clay Point moved there - I used to know just when it was.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:46.970849
+(z0 / and
+    :op1 (z1 / move-01
+             :ARG0 (z2 / person
+                       :ARG0-of (z3 / start-01
+                                    :ARG1 (z4 / post
+                                              :mod (z5 / present-02)
+                                              :place (z6 / point
+                                                         :name (z7 / name
+                                                                   :op1 "Blue"
+                                                                   :op2 "Clay"
+                                                                   :op3 "Point")
+                                                         :wiki "Blue_Clay_Point"))))
+             :ARG1 (z8 / there)
+             :temporal (z9 / age-01
+                           :ARG1 (z10 / i)
+                           :ARG2 (z11 / about
+                                      :op1 (z12 / temporal-quantity
+                                                :unit (z13 / year)
+                                                :quant 18))))
+    :op2 (z14 / know-01
+              :ARG0 z10
+              :ARG1 (z15 / time
+                         :temporal-of (z16 / it)
+                         :mod (z17 / just))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt When he went back inside he said, "I wonder why it is that there is a little cloud hanging over there on the summit of Gobernador Knob?”
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:46.970854
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / wonder-01
+              :ARG0 z1
+              :ARG1 (z3 / umr-unknown
+                        :ARG0-of (z4 / cause-01
+                                     :ARG1 (z5 / overhang-01
+                                               :ARG1 (z6 / cloud
+                                                         :quant (z7 / little))
+                                               :ARG2 (z8 / summit
+                                                         :part-of (z9 / mountain
+                                                                      :name (z10 / name
+                                                                                 :op1 "Gobernador"
+                                                                                 :op2 "Knob")
+                                                                      :wiki "Gobernador_National_Park")))))
+              :temporal (z11 / go-02
+                             :ARG0 z1
+                             :ARG4 (z12 / inside)
+                             :direction (z13 / back))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt If you are strong you will lie hudled in death only after the dirt is torn and furrowed around you (i.e. you will give up only after a struggle)," my grandfather used to tell me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:46.970858
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / grandfather)))
+    :ARG1 (z5 / lie-08
+              :ARG1 z3
+              :manner (z6 / huddle-01
+                          :ARG0 z3
+                          :ARG1 (z7 / die-01))
+              :temporal (z8 / after
+                            :op1 (z9 / and
+                                     :op1 (z10 / tear-01
+                                               :ARG1 (z11 / dirt))
+                                     :op2 (z12 / furrow-01
+                                               :ARG1 z11
+                                               :place (z13 / around
+                                                           :op1 z3))))
+              :condition (z14 / give-01
+                              :ARG0 z3
+                              :temporal (z15 / after
+                                             :op1 (z16 / struggle-01
+                                                       :ARG0 z3)
+                                             :mod (z17 / only))
+                              :condition (z18 / strong-02
+                                              :ARG1 z3)
+                              :quote z0)
+              :ARG2 z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He wouldn't do anything under these circumstances even if one got very close to him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:51:46.970862
+(z0 / do-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / anything)
+    :temporal (z3 / circumstance
+                  :mod (z4 / this))
+    :concession (z5 / even-if
+                    :op1 (z6 / close-10
+                             :ARG1 (z7 / one)
+                             :ARG2 z1
+                             :degree (z8 / very))
+                    :polarity -))

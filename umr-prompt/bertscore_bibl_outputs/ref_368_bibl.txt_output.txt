@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I racked my brains trying to think how we were going to put out the fire.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:03.605511
+(z0 / racked-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / brain)
+    :ARG2 (z3 / think-01
+              :ARG0 z1
+              :ARG1 (z4 / thing
+                        :manner-of (z5 / put-out-09
+                                       :ARG0 (z6 / we)
+                                       :ARG1 (z7 / fire)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He stood up for the two of us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:03.605522
+(z0 / stand-up-07
+    :ARG0 (z1 / he)
+    :affectee (z2 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:03.605527
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:03.605531
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:03.605535
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:28:03.605539
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))

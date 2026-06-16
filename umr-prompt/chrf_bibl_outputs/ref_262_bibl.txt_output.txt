@@ -1,0 +1,66 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We were a selected group.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:31.365931
+(z0 / group
+    :ARG1-of (z1 / select-01)
+    :domain (z2 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We were awakened from sleep at four o'clock, before dawn.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:31.365942
+(z0 / wake-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / sleep-01
+              :ARG0 z1)
+    :temporal (z3 / before
+                  :op1 (z4 / date-entity
+                           :dayperiod (z5 / dawn))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We were punished at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:31.365946
+(z0 / punish-01
+    :ARG1 (z1 / we)
+    :temporal (z2 / time
+                  :mod (z3 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There were also many of us who had joined in just as spectators.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:31.365951
+(z0 / join-04
+    :ARG0 (z1 / we
+              :quant (z2 / many))
+    :ARG1 (z3 / in)
+    :manner (z4 / spectator)
+    :mod (z5 / also))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We were loaded with hay, food and firewood.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:31.365955
+(z0 / load-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / and
+              :op1 (z3 / hay)
+              :op2 (z4 / food)
+              :op3 (z5 / firewood)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We were told that now there would be work here
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:31.365959
+(z0 / tell-01
+    :ARG1 (z1 / work-01
+              :place (z2 / here)
+              :temporal (z3 / now))
+    :ARG2 (z4 / we))

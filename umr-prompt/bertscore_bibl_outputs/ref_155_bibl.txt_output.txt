@@ -1,0 +1,83 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Near the trading post there was a house which
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:41.560965
+(z0 / house-01
+    :ARG1-of (z1 / have-place-91
+                 :ARG2 (z2 / near-02
+                           :ARG2 (z3 / post
+                                     :mod (z4 / trade)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt South from the trading post there is a ruin which we call in Navajo "Shattered House." Someone burned it long ago.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:41.560983
+(z0 / ruin-01
+    :ARG1-of (z1 / call-01
+                 :ARG0 (z2 / we)
+                 :ARG2 (z3 / house
+                           :name (z4 / name
+                                     :op1 "Shattered"
+                                     :op2 "House")
+                           :wiki "Shattered_House"))
+    :place (z5 / space
+               :ARG1-of (z6 / south-01
+                            :ARG2 (z7 / post
+                                      :mod (z8 / trade))
+                            :ARG3 (z9 / cartesian-framework-91
+                                      :ARG1 (z10 / builder)))
+               :ARG1-of (z11 / burn-01
+                             :ARG0 (z12 / someone)
+                             :temporal (z13 / before
+                                            :op1 (z14 / now)
+                                            :quant (z15 / long)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The people went into the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:41.560988
+(z0 / go-02
+    :ARG0 (z1 / person)
+    :ARG4 (z2 / post
+              :mod (z3 / trade)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:41.560992
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The house served the purpose of providing a place to sleep for the people who came to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:41.560996
+(z0 / serve-01
+    :ARG0 (z1 / house)
+    :ARG1 (z2 / provide-01
+              :ARG1 (z3 / place
+                        :purpose (z4 / sleep-01
+                                     :ARG0 (z5 / person
+                                               :ARG0-of (z6 / come-01
+                                                            :ARG1 (z7 / post
+                                                                      :mod (z8 / trade))))))
+              :ARG2 z5))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Not far from there, there was a drop.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:41.561000
+(z0 / drop-01
+    :place (z1 / space
+               :ARG1-of (z2 / far-01
+                            :ARG2 (z3 / there))))

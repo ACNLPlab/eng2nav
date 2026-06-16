@@ -1,0 +1,110 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And then on over Shonto and over the ridge.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.931497
+(z0 / and
+    :op2 (z1 / be-destined-for-91
+             :ARG2 (z2 / space
+                       :ARG1-of (z3 / over-04
+                                    :ARG5 (z4 / cartesian-framework-91
+                                              :ARG1 (z5 / build-space)))
+                       :ARG1-of (z6 / over-04
+                                    :ARG5 z4)
+                       :ARG1-of (z7 / over-04
+                                    :ARG5 z4))
+             :temporal (z8 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And then on down to Oljato.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.931512
+(z0 / and
+    :op2 (z1 / be-destined-for-91
+             :ARG2 (z2 / space
+                       :ARG1-of (z3 / down-03
+                                    :ARG5 (z4 / cartesian-framework-91
+                                              :ARG1 (z5 / build-space)))
+                       :ARG1-of (z6 / have-substitute-91))
+             :temporal (z7 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And then over the lower end of the mountains and over Cow Springs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.931517
+(z0 / and
+    :op2 (z1 / be-destined-for-91
+             :ARG2 (z2 / space
+                       :ARG1-of (z3 / over-04
+                                    :ARG2 (z4 / thing
+                                              :ARG1-of (z5 / end-05
+                                                           :ARG2 (z6 / mountain)
+                                                           :ARG1-of (z7 / have-degree-91
+                                                                        :ARG2 (z8 / low-04
+                                                                                  :ARG1 z4)
+                                                                        :ARG3 (z9 / more)))
+                                              :ARG3 (z10 / cartesian-framework-91
+                                                         :ARG1 (z11 / build-space))))
+                       :ARG1-of (z12 / over-04
+                                     :ARG2 (z13 / city
+                                                :name (z14 / name
+                                                           :op1 "Cow"
+                                                           :op2 "Springs")
+                                                :wiki "Cow_Springs,_Arkansas")
+                                     :ARG3 z10))
+             :temporal (z15 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then we followed the ridge up over Black Mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.931522
+(z0 / follow-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / ridge)
+    :ARG2 (z3 / up)
+    :ARG4 (z4 / mountain
+              :name (z5 / name
+                        :op1 "Black"
+                        :op2 "Mountain")
+              :wiki "Black_Mountain")
+    :temporal (z6 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and then we went toward Chinle.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.931526
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / space
+                       :ARG1-of (z4 / toward-01
+                                    :ARG2 (z5 / thing
+                                              :name (z6 / name
+                                                        :op1 "Chinle")
+                                              :wiki "Chinle")))
+             :temporal (z7 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And then we flew up along the San Juan River.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:03:14.931530
+(z0 / and
+    :op2 (z1 / fly-01
+             :ARG0 (z2 / we)
+             :direction (z3 / trajectory
+                            :ARG2-of (z4 / up-03
+                                         :ARG5 (z5 / cartesian-framework-91
+                                                   :ARG1 (z6 / build-space)))
+                            :ARG4-of (z7 / along-01
+                                         :ARG2 (z8 / river
+                                                   :name (z9 / name
+                                                             :op1 "San"
+                                                             :op2 "Juan"
+                                                             :op3 "River")
+                                                   :wiki "San_Juan_River")))
+             :temporal (z10 / then)))

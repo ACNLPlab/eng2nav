@@ -1,0 +1,65 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:57.897735
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt But his boys were really impatient.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:57.897747
+(z0 / contrast-91
+    :ARG2 (z1 / patient-01
+              :ARG1 (z2 / boy
+                        :possessor (z3 / he))
+              :degree (z4 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He did not speak in anger.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:57.897751
+(z0 / speak-01
+    :ARG0 (z1 / he)
+    :manner (z2 / anger)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I was just a little bit scared.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:57.897755
+(z0 / fear-01
+    :ARG0 (z1 / i)
+    :degree (z2 / little))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I came back to where he was, and he was certainly angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:57.897760
+(z0 / and
+    :op1 (z1 / come-01
+             :ARG1 (z2 / i)
+             :ARG4 (z3 / space
+                       :ARG2-of (z4 / have-place-91
+                                    :ARG1 (z5 / he)))
+             :direction (z6 / back))
+    :op2 (z7 / anger-01
+             :ARG0 z5
+             :degree (z8 / certain)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He was a very strong, husky man.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:57.897764
+(z0 / man
+    :domain (z1 / he)
+    :ARG1-of (z2 / strong-02
+                 :degree (z3 / very))
+    :ARG1-of (z4 / husky-01))

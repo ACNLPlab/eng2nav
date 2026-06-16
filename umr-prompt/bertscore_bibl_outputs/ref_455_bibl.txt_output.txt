@@ -1,0 +1,81 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt So I dashed toward him. ”Here comes a bear, cousin.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:53:37.213912
+(z0 / say-91
+    :ARG1 (z1 / come-33
+              :ARG1 (z2 / bear)
+              :ARG2 (z3 / person
+                        :ARG1-of (z4 / have-rel-role-92
+                                     :ARG2 (z5 / i)
+                                     :ARG3 (z6 / cousin)))
+              :quote z0)
+    :ARG1-of (z7 / cause-01
+                 :ARG0 (z8 / dashed-01
+                           :ARG0 (z1000 / toward
+                                        :op1 (z9 / he)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:53:37.213928
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then they all rushed in.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:53:37.213932
+(z0 / rush-01
+    :ARG1 (z1 / they
+              :mod (z2 / all))
+    :temporal (z3 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I got over to where the dog was barking, and there I saw a bear standing.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:53:37.213936
+(z0 / and
+    :op1 (z1 / get-01
+             :ARG0 (z2 / i)
+             :ARG4 (z3 / over
+                       :op1 (z4 / barking-01
+                                :ARG0 (z5 / dog))))
+    :op2 (z6 / see-01
+             :ARG0 z2
+             :ARG1 (z7 / stand-01
+                       :ARG1 (z8 / bear))
+             :place z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:53:37.213940
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:53:37.213944
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))

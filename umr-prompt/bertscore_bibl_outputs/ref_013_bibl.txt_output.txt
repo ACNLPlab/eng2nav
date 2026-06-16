@@ -1,0 +1,96 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt As they were taking him outside I crawled and squeezed myself out among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:04.385324
+(z0 / and
+    :op1 (z1 / crawl-01
+             :ARG0 (z2 / i)
+             :temporal (z3 / take-01
+                           :ARG0 (z4 / they)
+                           :ARG1 (z5 / he)
+                           :ARG2 (z6 / outside))
+             :op2 (z7 / squeeze-01
+                      :ARG0 z2
+                      :ARG1 z2
+                      :place (z8 / among
+                                 :op1 (z9 / they)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:04.385341
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When they spread out into the brush we would just let them go and follow them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:04.385346
+(z0 / and
+    :op1 (z1 / let-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / go-02
+                       :ARG0 (z4 / they))
+             :op2 (z5 / follow-02
+                      :ARG0 z2
+                      :ARG1 z4)
+             :temporal (z6 / spread-01
+                           :ARG0 z4
+                           :direction (z7 / brush))
+             :mod (z8 / just)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt When we got to the store we found that many people had assembled.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:04.385350
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / assemble-02
+              :ARG0 (z3 / person
+                        :quant (z4 / many)))
+    :temporal (z5 / get-01
+                  :ARG0 z1
+                  :ARG4 (z6 / store)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt As we flew over them we watched and saw people swarming about.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:04.385355
+(z0 / and
+    :op1 (z1 / watch-01
+             :ARG0 (z2 / we)
+             :temporal (z3 / over-04
+                           :ARG1 z2
+                           :ARG2 (z4 / they)
+                           :ARG3 (z5 / cartesian-framework-91
+                                     :ARG1 (z6 / build-space))))
+    :op2 (z7 / see-01
+             :ARG0 z2
+             :ARG1 (z8 / swarm-01
+                       :ARG0 (z9 / person)
+                       :place (z10 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt While we were flying through there, there were other planes flying alongside us.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:04.385359
+(z0 / fly-01
+    :ARG1 (z1 / plane
+              :ARG1-of (z2 / other-01))
+    :temporal (z3 / through
+                  :op1 (z4 / there))
+    :place (z5 / beside
+               :op1 (z6 / we)
+               :ARG3 (z7 / cartesian-framework-91
+                         :ARG1 z6
+                         :FR (z8 / relative-to-builder))))

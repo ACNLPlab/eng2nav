@@ -1,0 +1,91 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He simply couldn't find it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:28.167240
+(z0 / possible-01
+    :ARG1 (z1 / find-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / it)
+              :mod (z4 / simple))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He had been asking that hay be dropped at his own house for three days, but he couldn't find it himself.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:28.167256
+(z0 / contrast-91
+    :ARG1 (z1 / ask-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / drop-01
+                        :ARG1 (z4 / hay)
+                        :ARG2 (z5 / house
+                                  :possessor z2))
+              :duration (z6 / temporal-quantity
+                            :unit (z7 / day)
+                            :quant 3))
+    :ARG2 (z8 / possible-01
+              :ARG1 (z9 / find-01
+                        :ARG0 z2
+                        :ARG1 z4)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt You couldn't see the earth below.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:28.167261
+(z0 / possible-01
+    :ARG1 (z1 / see-01
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / earth
+                        :ARG1-of (z4 / below-01
+                                     :ARG3 (z5 / cartesian-framework-91
+                                               :ARG1 (z6 / build-space))))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They wouldn't go on.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:28.167265
+(z0 / go-06
+    :ARG0 (z1 / they)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He wouldn't do anything under these circumstances even if one got very close to him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:28.167269
+(z0 / do-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / anything)
+    :temporal (z3 / circumstance
+                  :mod (z4 / this))
+    :concession (z5 / even-if
+                    :op1 (z6 / close-10
+                             :ARG1 (z7 / one)
+                             :ARG2 z1
+                             :degree (z8 / very))
+                    :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin would tell me to go a certain direction, and we would then separate.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:28.167273
+(z0 / and
+    :op1 (z1 / tell-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / cousin)))
+             :ARG1 (z6 / go-02
+                       :ARG0 z4
+                       :ARG4 (z7 / direction
+                                 :mod (z8 / certain)))
+             :op2 (z9 / separate-01
+                      :ARG0 (z10 / we)
+                      :temporal (z11 / then))))

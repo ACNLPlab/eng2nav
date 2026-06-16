@@ -1,0 +1,130 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then we flew over the lower end of the black lava peaks, and over Oraibi.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.808460
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / then)
+    :place (z3 / and
+               :op1 (z4 / space
+                        :ARG1-of (z5 / end-06
+                                     :ARG2 (z6 / peak
+                                               :color (z7 / lava))
+                                     :ARG1-of (z8 / have-degree-91
+                                                  :ARG2 (z9 / low-04
+                                                            :ARG1 z6)
+                                                  :ARG3 (z10 / more)))
+                        :op2 (z11 / space
+                                  :ARG1-of (z12 / over-04
+                                                :ARG2 (z13 / thing
+                                                           :place (z14 / ocean
+                                                                       :name (z15 / name
+                                                                                  :op1 "Oraibi")
+                                                                       :wiki "Oraibi_Internationalis")
+                                                           :ARG3 (z16 / cartesian-framework-91
+                                                                      :ARG1 (z17 / build-space))))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And then over the lower end of the mountains and over Cow Springs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.808476
+(z0 / and
+    :op2 (z1 / be-destined-for-91
+             :ARG2 (z2 / space
+                       :ARG1-of (z3 / over-04
+                                    :ARG2 (z4 / thing
+                                              :ARG1-of (z5 / end-05
+                                                           :ARG2 (z6 / mountain)
+                                                           :ARG1-of (z7 / have-degree-91
+                                                                        :ARG2 (z8 / low-04
+                                                                                  :ARG1 z4)
+                                                                        :ARG3 (z9 / more)))
+                                              :ARG3 (z10 / cartesian-framework-91
+                                                         :ARG1 (z11 / build-space))))
+                       :ARG1-of (z12 / over-04
+                                     :ARG2 (z13 / city
+                                                :name (z14 / name
+                                                           :op1 "Cow"
+                                                           :op2 "Springs")
+                                                :wiki "Cow_Springs,_Arkansas")
+                                     :ARG3 z10))
+             :temporal (z15 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.808481
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt As we flew over them we watched and saw people swarming about.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.808485
+(z0 / and
+    :op1 (z1 / watch-01
+             :ARG0 (z2 / we)
+             :temporal (z3 / over-04
+                           :ARG1 z2
+                           :ARG2 (z4 / they)
+                           :ARG3 (z5 / cartesian-framework-91
+                                     :ARG1 (z6 / build-space))))
+    :op2 (z7 / see-01
+             :ARG0 z2
+             :ARG1 (z8 / swarm-01
+                       :ARG0 (z9 / person)
+                       :place (z10 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we flew over Mexican Hat.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.808489
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / hat
+              :name (z3 / name
+                        :op1 "Mexican"
+                        :op2 "Hat")
+              :wiki "Mexican_Hat")
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we followed the ridge up over Black Mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:55.808494
+(z0 / follow-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / ridge)
+    :ARG2 (z3 / up)
+    :ARG4 (z4 / mountain
+              :name (z5 / name
+                        :op1 "Black"
+                        :op2 "Mountain")
+              :wiki "Black_Mountain")
+    :temporal (z6 / then))

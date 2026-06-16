@@ -1,0 +1,123 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Water flowed out from the canyons, and little lakes lay in the flats beyond.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:52.204636
+(z0 / and
+    :op1 (z1 / flow-01
+             :ARG1 (z2 / water)
+             :source (z3 / canyon)
+             :direction (z4 / out))
+    :op2 (z5 / lie-07
+             :ARG1 (z6 / lake
+                       :mod (z7 / little))
+             :ARG2 (z8 / flat
+                       :ARG1-of (z9 / beyond-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then from their home at a place called Spring in the Clay they started moving over and across yonder mountain.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:52.204656
+(z0 / start-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / move-01
+              :ARG0 z1
+              :direction (z3 / and
+                             :op1 (z4 / over
+                                      :op1 (z5 / mountain
+                                               :mod (z6 / yonder))
+                                      :ARG5 (z7 / cartesian-framework-91
+                                                :ARG1 (z8 / build-space)))
+                             :op2 (z9 / across
+                                      :op1 z5
+                                      :ARG5 z7))
+              :source (z10 / home
+                           :place (z11 / place
+                                       :name (z12 / name
+                                                  :op1 "Spring"
+                                                  :op2 "in"
+                                                  :op3 "the"
+                                                  :op3 "Clay")
+                                       :wiki -))
+              :temporal (z13 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And I found that the people from beyond the mountain - those among whom the news had been spread, and who were sent for - had arrived.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:52.204661
+(z0 / and
+    :op2 (z1 / find-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / arrive-01
+                       :ARG1 (z4 / person
+                                 :source (z5 / beyond
+                                             :op1 (z6 / mountain))
+                                 :ARG1-of (z7 / include-91
+                                              :ARG2 (z8 / and
+                                                        :op1 (z9 / spread-03
+                                                                 :ARG1 (z10 / news))
+                                                        :op2 (z11 / send-01
+                                                                  :ARG1 z4)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt In the fall of that same year we moved from the mountain back down into the valley to herd down there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:52.204665
+(z0 / move-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / mountain)
+    :direction (z3 / back)
+    :ARG4 (z4 / valley)
+    :purpose (z5 / herd-01
+                 :ARG0 z1
+                 :place (z6 / down))
+    :temporal (z7 / fall
+                  :temporal (z8 / year
+                                :mod (z9 / that)
+                                :ARG1-of (z10 / same-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The small planes - the two motored ones - loaded at Winslow and hauled from there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:52.204669
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG1 (z2 / plane
+                       :mod (z3 / small)
+                       :ARG1-of (z4 / motored-01)
+                       :quant 2)
+             :ARG2 (z5 / city
+                       :name (z6 / name
+                                 :op1 "Winslow")
+                       :wiki "Winslow,_Virginia"))
+    :op2 (z7 / haul-01
+             :ARG1 z2
+             :source z5))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My forbears, the old men and women folk, were of the Mexican People Clan. With great hardship they came back from the place called Fort Sumner, packing their goods on their backs, and afterward lived here at Lukachukai.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:48:52.204673
+(z0 / and
+    :op1 (z1 / have-org-role-92
+             :ARG1 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / forbear)))
+             :ARG2 (z6 / folk
+                       :ARG1-of (z7 / old-01))
+             :ARG3 (z8 / folk
+                       :ARG1-of (z9 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z10 / woman))))
+    :ARG2 (z11 / ethnic-group
+               :name (z12 / name
+                          :op1 "Mexican"
+                          :op2 "People"
+                          :op3 "Clan")
+               :wiki "Mexican_People"))

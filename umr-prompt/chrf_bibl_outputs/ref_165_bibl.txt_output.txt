@@ -1,0 +1,190 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They no doubt told what they thought - what their opinions were regarding this school business that had started in connection with us. They told these things to the people from here who had gathered.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:53.772734
+(z0 / tell-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / thing
+                       :ARG1-of (z4 / think-01
+                                    :ARG0 z1))
+              :op2 (z5 / thing
+                       :ARG1-of (z6 / opine-01
+                                    :ARG0 z1)
+                       :topic (z7 / business
+                                  :mod (z8 / school)
+                                  :ARG1-of (z9 / start-01
+                                               :prep-in (z10 / we))
+                                  :mod (z11 / this))))
+    :ARG2 (z12 / person
+               :source (z13 / here)
+               :ARG0-of (z14 / gather-03))
+    :ARG1-of (z15 / doubt-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt But the people who live over beyond yonder mountain in the area of Cove and Red Rock were thinking ugly thoughts about the plan in connection with education.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:53.772751
+(z0 / contrast-91
+    :ARG2 (z1 / think-01
+              :ARG0 (z2 / person
+                        :ARG0-of (z3 / live-01
+                                     :place (z4 / over
+                                                :op1 (z5 / mountain
+                                                         :mod (z6 / beyond
+                                                                  :op1 (z7 / yonder))))
+                                     :place (z8 / area
+                                                :place-of (z9 / and
+                                                              :op1 (z10 / city
+                                                                        :name (z11 / name
+                                                                                   :op1 "Cove")
+                                                                        :wiki "Cove,_Florida")
+                                                              :op2 (z12 / city
+                                                                        :name (z13 / name
+                                                                                   :op1 "Red"
+                                                                                   :op2 "Rock")
+                                                                        :wiki "Red_Rock,_North_Carolina"))))
+                        :ARG1 (z14 / thing
+                                   :ARG1-of (z15 / ugly-02))
+                        :purpose (z16 / connect-01
+                                      :ARG1 (z17 / educate-01)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then Black Horse spoke up and said, "This business of taking children away from people to put them in school - when is it going to affect the people from over beyond the mountain?"
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:53.772755
+(z0 / speak-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / affect-01
+              :ARG0 (z4 / business
+                        :purpose (z5 / take-away-05
+                                     :ARG0 z4
+                                     :ARG1 (z6 / child)
+                                     :ARG2 (z7 / person)
+                                     :purpose (z8 / put-01
+                                                  :ARG0 z4
+                                                  :ARG1 z6
+                                                  :ARG2 (z9 / school))))
+              :ARG1 (z10 / umr-unknown)
+              :ARG2 (z11 / person
+                         :source (z12 / over
+                                      :op1 (z13 / mountain)
+                                      :ARG5 (z14 / cartesian-framework-91
+                                                 :ARG1 (z15 / build-space))))
+              :temporal (z16 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:53.772759
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and they no doubt came with evil thoughts. The people who, lived hereabout had heard nothing of their plans
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:53.772763
+(z0 / and
+    :op2 (z1 / doubt-01
+             :ARG1 (z2 / come-01
+                       :ARG1 (z3 / they)
+                       :ARG3 (z4 / think-01
+                                 :ARG0 z3
+                                 :ARG1 (z5 / evil))))
+    :op3 (z6 / person
+             :ARG0-of (z7 / hear-01
+                          :ARG1 (z8 / nothing
+                                    :ARG1-of (z9 / plan-01
+                                                 :ARG0 z3))
+                          :place (z10 / here))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Among those present were the men known as Black Horse, Limper, Tall Red House Clansman, Old Bead Chant Singer - who was of the Red House Clan - and his cousin, a Bitter Water Clansman called Bead Chant's Nephew, and another man with whom I was merely acquainted, and who was a relative of mine by marriage. His name was Yellow Fermentive Chewer. These are the only ones I can remember of those who came from there (on the other side of the mountain).
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:53.772767
+(z0 / include-91
+    :ARG1 (z1 / and
+              :op1 (z2 / man
+                       :ARG1-of (z3 / know-02
+                                    :ARG2 (z4 / and
+                                              :op1 (z5 / animal
+                                                       :name (z6 / name
+                                                                 :op1 "Black"
+                                                                 :op2 "Horse")
+                                                       :wiki "Black_Horse")
+                                              :op2 (z7 / person
+                                                       :name (z8 / name
+                                                                 :op1 "Limper")
+                                                       :wiki -)
+                                              :op3 (z9 / person
+                                                       :ARG1-of (z10 / have-org-role-92
+                                                                     :ARG2 (z11 / local-region
+                                                                                :name (z12 / name
+                                                                                           :op1 "Red"
+                                                                                           :op2 "House"
+                                                                                           :op3 "Clan")
+                                                                                :wiki "Red_House")
+                                                                     :ARG3 (z13 / member)))
+                                              :op4 (z14 / person
+                                                        :ARG1-of (z15 / have-rel-role-92
+                                                                      :ARG2 z11
+                                                                      :ARG3 (z16 / cousin)))
+                                              :op5 (z17 / person
+                                                        :ARG1-of (z18 / call-01
+                                                                      :ARG2 (z19 / person
+                                                                                 :name (z20 / name
+                                                                                            :op1 "Bade"
+                                                                                            :op2 "Chant"
+                                                                                            :op3 "'s"
+                                                                                            :op4 "Nephew")
+                                                                                 :wiki -)
+                                                                      :mod (z21 / another)
+                                                                      :ARG1-of (z22 / acquaint-01
+                                                                                    :degree (z23 / mere))
+                                                                      :ARG1-of (z24 / have-rel-role-92
+                                                                                    :ARG2 (z25 / i)
+                                                                                    :ARG3 (z26 / relative))))))
+                       :ARG2 (z27 / person
+                                  :name (z28 / name
+                                             :op1 "Yellow"
+                                             :op2 "Fermentive"
+                                             :op3 "Chewer")
+                                  :wiki -))
+              :ARG2 (z29 / present))
+    :op2 (z30 / one
+              :mod (z31 / only)
+              :ARG1-of (z32 / possible-01)
+              :ARG1-of (z33 / include-91
+                            :ARG2 (z34 / include-91
+                                       :ARG2 (z35 / person
+                                                  :ARG1-of (z36 / come-01
+                                                                :source (z37 / mountain)))))))

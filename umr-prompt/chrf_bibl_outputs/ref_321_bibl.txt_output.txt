@@ -1,0 +1,96 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It would suddenly drop as much as 500 feet.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:03.541687
+(z0 / drop-01
+    :ARG1 (z1 / it)
+    :manner (z2 / sudden)
+    :extent (z3 / distance-quantity
+                :unit (z4 / foot)
+                :quant 500))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And the pilot would tell me we were 18,000 feet above the ground (i.e. above sea level).
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:03.541704
+(z0 / and
+    :op2 (z1 / tell-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG3 (z4 / pilot)))
+             :ARG1 (z5 / above-01
+                       :ARG1 (z6 / we)
+                       :ARG2 (z7 / ground)
+                       :ARG3 (z8 / cartesian-framework-91
+                                 :ARG1 (z9 / build-space))
+                       :quant (z10 / distance-quantity
+                                   :unit (z11 / foot)
+                                   :quant 18000))
+             :ARG2 (z12 / above-01
+                        :ARG1 z6
+                        :ARG2 (z13 / level
+                                   :mod (z14 / sea))
+                        :ARG3 z8)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The plane would repeatedly drop (in an air pocket).
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:03.541709
+(z0 / drop-01
+    :ARG1 (z1 / plane)
+    :frequency (z2 / multiple)
+    :place (z3 / pocket
+               :mod (z4 / air)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:03.541713
+(z0 / say-01
+    :ARG1 (z1 / start-01
+              :ARG1 (z2 / wagon
+                        :companion (z3 / child))
+              :temporal (z4 / after
+                            :op1 (z5 / now)
+                            :quant (z6 / temporal-quantity
+                                       :unit (z7 / day)
+                                       :quant 2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We trailed them for quite a while when suddenly, from within a nearby oak clump, there came the sound of dogs barking loudly.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:03.541717
+(z0 / lag-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :duration (z3 / while
+                  :degree (z4 / quite))
+    :temporal (z5 / sudden)
+    :temporal (z6 / sound-02
+                  :ARG0 (z7 / dog)
+                  :ARG1 (z8 / bark-01
+                            :ARG0 z7
+                            :manner (z9 / loud))
+                  :source (z10 / clump
+                               :mod (z11 / nearby))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We would sit on them, and when their heads came crashing together we would really die laughing.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:03.541721
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / we)
+             :ARG2 (z3 / they))
+    :op2 (z4 / die-01
+             :ARG1 z2
+             :ARG1-of (z5 / real-04)
+             :temporal (z6 / crash-01
+                           :ARG1 z3
+                           :manner (z7 / together))))

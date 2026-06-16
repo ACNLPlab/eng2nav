@@ -1,0 +1,84 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt "All right," he said.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:10.340079
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / all-right))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt "Come on, you boys. Remember what you said," said Black Horse.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:10.340096
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / come-01
+                       :ARG1 (z5 / you)
+                       :ARG2 (z6 / boy)
+                       :mode imperative)
+              :op2 (z7 / remember-01
+                       :ARG0 (z8 / you)
+                       :ARG1 (z9 / thing
+                                 :ARG1-of (z10 / say-01
+                                               :ARG0 z8))
+                       :mode imperative)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt "Say, let's go to school," I said to my companion.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:10.340100
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 z1
+              :ARG1 (z3 / go-05
+                        :ARG0 z1
+                        :ARG1 (z4 / school)
+                        :quote z0)
+              :ARG2 (z5 / companion)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt “It's burning!” said the pilot.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:10.340105
+(z0 / say-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / fly-01))
+    :ARG1 (z3 / burn-01
+              :ARG1 (z4 / it)
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt "Outside with him!" voices were saying.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:10.340109
+(z0 / say-01
+    :ARG0 (z1 / voice)
+    :ARG1 (z2 / outside
+              :companion (z3 / he)
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We told them how we had both said, "Let's go to school."
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:10.340113
+(z0 / tell-01
+    :ARG0 (z1 / we
+              :mod (z2 / both))
+    :ARG1 (z3 / say-01
+              :ARG0 z1
+              :ARG1 (z4 / go-05
+                        :ARG0 z1
+                        :ARG1 (z5 / school))
+              :ARG2 (z6 / they)))

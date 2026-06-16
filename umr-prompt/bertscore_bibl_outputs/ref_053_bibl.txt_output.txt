@@ -1,0 +1,64 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Before they move in! Before they move in!
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:19.529121
+(z0 / before
+    :op1 (z1 / move-01
+             :ARG0 (z2 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then they all rushed in.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:19.529133
+(z0 / rush-01
+    :ARG1 (z1 / they
+              :mod (z2 / all))
+    :temporal (z3 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was in the Spring when they moved there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:19.529137
+(z0 / move-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / there)
+    :temporal (z3 / date-entity
+                  :year 2016))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and some take the afternoon shift.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:19.529141
+(z0 / and
+    :op2 (z1 / shift-01
+             :ARG0 (z2 / person
+                       :quant (z3 / some))
+             :temporal (z4 / date-entity
+                           :dayperiod (z5 / afternoon))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:19.529146
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Just then they locked the door from the inside.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:47:19.529150
+(z0 / lock-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / door)
+    :manner (z3 / inward-02
+                :ARG1 z2)
+    :temporal (z4 / then))

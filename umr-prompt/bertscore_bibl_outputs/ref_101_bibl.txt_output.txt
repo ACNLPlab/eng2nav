@@ -1,0 +1,90 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There was a boy of the Big Water Clan with whom I always chummed around.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:14.892678
+(z0 / boy
+    :possessor (z1 / local-region
+                   :name (z2 / name
+                             :op1 "Big"
+                             :op2 "Water"
+                             :op3 "Clan")
+                   :wiki "Bigwater_Clan")
+    :ARG1-of (z3 / chum-01
+                 :ARG2 (z4 / i)
+                 :temporal (z5 / always)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:14.892693
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These men with whom we flew asked me many questions.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:14.892697
+(z0 / ask-01
+    :ARG0 (z1 / man
+              :mod (z2 / this)
+              :ARG0-of (z3 / fly-01
+                           :ARG0 (z4 / we)))
+    :ARG1 (z5 / question-01
+              :ARG0 z1
+              :ARG1 (z6 / i)
+              :quant (z7 / many)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:14.892702
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and was one of the leaders at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:14.892706
+(z0 / and
+    :op2 (z1 / person
+             :ARG1-of (z2 / lead-02
+                          :temporal (z3 / time
+                                        :mod (z4 / that)))
+             :quant 1))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:14.892710
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))

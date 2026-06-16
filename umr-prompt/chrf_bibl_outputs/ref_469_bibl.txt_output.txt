@@ -1,0 +1,83 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt What is it that the dogs can be heard barking at?
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:04.884763
+(z0 / possible-01
+    :ARG1 (z1 / hear-01
+              :ARG1 (z2 / barking-01
+                        :ARG0 (z3 / dog)
+                        :ARG1 (z4 / umr-unknown))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I wondered what the dogs were barking at so I ran over there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:04.884779
+(z0 / cause-01
+    :ARG0 (z1 / wonder-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / bark-01
+                                     :ARG0 (z5 / dog))))
+    :ARG1 (z6 / run-04
+              :ARG0 z2
+              :ARG4 (z7 / there)
+              :direction (z8 / over)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt This is what that is what I heard. I wasn't at the meeting myself.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:04.884783
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / this
+              :domain (z3 / that))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I got over to where the dog was barking, and there I saw a bear standing.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:04.884787
+(z0 / and
+    :op1 (z1 / get-01
+             :ARG0 (z2 / i)
+             :ARG4 (z3 / over
+                       :op1 (z4 / barking-01
+                                :ARG0 (z5 / dog))))
+    :op2 (z6 / see-01
+             :ARG0 z2
+             :ARG1 (z7 / stand-01
+                       :ARG1 (z8 / bear))
+             :place z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We heard reports that there were people going about to get children put into school.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:04.884792
+(z0 / hear-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / report-01
+              :ARG1 (z3 / get-01
+                        :ARG0 (z4 / person)
+                        :ARG1 (z5 / put-01
+                                  :ARG1 (z6 / child)
+                                  :ARG2 (z7 / school))
+                        :temporal (z8 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:58:04.884796
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))

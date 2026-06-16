@@ -1,0 +1,42 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It was only after I stopped that my cousin caught up with me.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt so one day I decided to have some fun with my cousin by running down toward him as he walked along below me.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When I was little, perhaps eight years old, I used to herd sheep up on top of Lukachukai Mountain with a cousin.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt While they were making this move they stopped for the night, and it is said that I was born where they halted.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt If you are strong you will lie hudled in death only after the dirt is torn and furrowed around you (i.e. you will give up only after a struggle)," my grandfather used to tell me.
+# ::annotator bart-amr
+# ::date 2025-10-15 16:32:37
+()
+

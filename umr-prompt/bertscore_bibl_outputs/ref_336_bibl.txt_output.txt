@@ -1,0 +1,82 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt These men with whom we flew asked me many questions.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:19:30.586044
+(z0 / ask-01
+    :ARG0 (z1 / man
+              :mod (z2 / this)
+              :ARG0-of (z3 / fly-01
+                           :ARG0 (z4 / we)))
+    :ARG1 (z5 / question-01
+              :ARG0 z1
+              :ARG1 (z6 / i)
+              :quant (z7 / many)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:19:30.586062
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The pilot told me he didn't blame me for being scared.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:19:30.586066
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / fly-01))
+    :ARG1 (z3 / blame-01
+              :ARG0 z1
+              :ARG1 (z4 / i)
+              :ARG2 (z5 / fear-01
+                        :ARG0 z4)
+              :polarity -)
+    :ARG2 z4)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt they asked me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:19:30.586070
+(z0 / ask-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:19:30.586074
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The people who had promised their children for school were named, and we were told many things about the school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:19:30.586079
+(z0 / and
+    :op1 (z1 / name-01
+             :ARG1 (z2 / person
+                       :ARG0-of (z3 / promise-01
+                                    :ARG1 (z4 / person
+                                              :ARG1-of (z5 / have-rel-role-92
+                                                           :ARG2 (z6 / parent)
+                                                           :ARG3 (z7 / child)))
+                                    :purpose (z8 / school))))
+    :op2 (z9 / tell-01
+             :ARG0 z6
+             :ARG1 (z10 / thing
+                        :quant (z11 / many)
+                        :topic (z12 / school))
+             :ARG2 (z13 / we)))

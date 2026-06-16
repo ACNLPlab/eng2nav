@@ -1,0 +1,120 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt he would say, instructing me. "In the summer time it is called 'bushy-tail'.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:36.785143
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / instruct-01
+              :ARG0 z1
+              :ARG1 (z3 / i)
+              :temporal (z4 / time
+                            :temporal-of (z5 / summer))
+              :temporal (z6 / call-01
+                            :ARG1 (z7 / it)
+                            :ARG2 (z8 / bushy-tail))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When he went back inside he said, "I wonder why it is that there is a little cloud hanging over there on the summit of Gobernador Knob?”
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:36.785168
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / wonder-01
+              :ARG0 z1
+              :ARG1 (z3 / umr-unknown
+                        :ARG0-of (z4 / cause-01
+                                     :ARG1 (z5 / overhang-01
+                                               :ARG1 (z6 / cloud
+                                                         :quant (z7 / little))
+                                               :ARG2 (z8 / summit
+                                                         :part-of (z9 / mountain
+                                                                      :name (z10 / name
+                                                                                 :op1 "Gobernador"
+                                                                                 :op2 "Knob")
+                                                                      :wiki "Gobernador_National_Park")))))
+              :temporal (z11 / go-02
+                             :ARG0 z1
+                             :ARG4 (z12 / inside)
+                             :direction (z13 / back))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They work on a basis of single minutes. They would say it's so far between certain points.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:36.785173
+(z0 / and
+    :op1 (z1 / work-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / temporal-quantity
+                       :unit (z4 / minute)
+                       :quant 1))
+    :op2 (z5 / say-01
+             :ARG0 z2
+             :ARG1 (z6 / between-01
+                       :ARG1 (z7 / it)
+                       :ARG2 (z8 / point
+                                 :mod (z9 / certain))
+                       :ARG3 (z10 / so))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We would sit on them, and when their heads came crashing together we would really die laughing.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:36.785178
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / we)
+             :ARG2 (z3 / they))
+    :op2 (z4 / die-01
+             :ARG1 z2
+             :ARG1-of (z5 / real-04)
+             :temporal (z6 / crash-01
+                           :ARG1 z3
+                           :manner (z7 / together))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt ‘There are certain things here in the mountains. There is something called ‘bear,” but one never refers to it by that name.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:36.785182
+(z0 / contrast-91
+    :ARG1 (z1 / thing
+              :mod (z2 / certain)
+              :place (z3 / here
+                         :place (z4 / mountain)))
+    :ARG2 (z5 / refer-number
+              :ARG1 (z6 / something
+                        :ARG1-of (z7 / call-01
+                                     :ARG2 (z8 / bear)))
+              :temporal (z9 / ever)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Sometimes the rams would get far apart and my cousin would step in between them and then jump aside as their heads came together.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:36.785187
+(z0 / and
+    :op1 (z1 / get-03
+             :ARG1 (z2 / ram)
+             :ARG2 (z3 / apart
+                       :extent (z4 / far))
+             :temporal (z5 / sometimes))
+    :op2 (z6 / and
+             :op1 (z7 / step-01
+                      :ARG0 (z8 / person
+                                :ARG1-of (z9 / have-rel-role-92
+                                             :ARG2 (z10 / i)
+                                             :ARG3 (z11 / cousin)))
+                      :ARG1 z2
+                      :ARG2 (z12 / between
+                                 :op1 z2))
+             :op2 (z13 / jump-03
+                       :ARG0 z8
+                       :ARG1 (z14 / aside)
+                       :temporal (z15 / together-01
+                                      :ARG1 (z16 / head
+                                                 :part-of z2))
+                       :temporal (z17 / then))))

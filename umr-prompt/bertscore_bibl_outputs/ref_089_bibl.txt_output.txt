@@ -1,0 +1,64 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He had a wagon and a team.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:48.471466
+(z0 / have-03
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / and
+              :op1 (z3 / wagon)
+              :op2 (z4 / team)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:48.471478
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They had guns and bows and arrows.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:48.471483
+(z0 / have-03
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / gun)
+              :op2 (z4 / bow)
+              :op3 (z5 / arrow)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:48.471487
+(z0 / plane
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:48.471491
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Once we had billy goats in the herd.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:48.471495
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / goat
+              :mod (z3 / billy)
+              :place (z4 / herd))
+    :temporal (z5 / once))

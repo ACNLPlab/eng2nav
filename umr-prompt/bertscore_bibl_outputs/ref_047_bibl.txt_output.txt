@@ -1,0 +1,109 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt A man of the Salty Water Clan whose name was Slender Lava had his family there, and his wife cooked all night for the men who were making the trouble.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:44.182994
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / man
+                       :mod (z3 / clan
+                                :name (z4 / name
+                                          :op1 "Salty"
+                                          :op2 "Water"
+                                          :op3 "Clan")
+                                :wiki "Salty_Water")
+                       :ARG1-of (z5 / name
+                                    :op1 "Slender"
+                                    :op3 "Lava"))
+             :ARG1 (z6 / there))
+    :op2 (z7 / eat-01
+             :ARG0 (z8 / woman
+                       :ARG1-of (z9 / have-rel-role-92
+                                    :ARG2 z2
+                                    :ARG3 (z10 / wife)))
+             :ARG2 (z11 / man
+                        :ARG0-of (z12 / trouble-01))
+             :duration (z13 / date-entity
+                            :dayperiod (z14 / night))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:44.183011
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt A man by the name of Black Horse was the leader of that faction.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:44.183015
+(z0 / lead-02
+    :ARG0 (z1 / man
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / faction
+              :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Someone by the name of Black Horse had brought a party from the other side of the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:44.183019
+(z0 / bring-01
+    :ARG0 (z1 / someone
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / party)
+    :ARG4 (z4 / side
+              :ARG1-of (z5 / other-01)
+              :part-of (z6 / mountain)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They had stayed to cook for the men.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:44.183023
+(z0 / stay-01
+    :ARG1 (z1 / they)
+    :purpose (z2 / eat-01
+                 :ARG0 z1
+                 :ARG2 (z3 / man)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There was a boy of the Big Water Clan with whom I always chummed around.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:44.183028
+(z0 / boy
+    :possessor (z1 / local-region
+                   :name (z2 / name
+                             :op1 "Big"
+                             :op2 "Water"
+                             :op3 "Clan")
+                   :wiki "Bigwater_Clan")
+    :ARG1-of (z3 / chum-01
+                 :ARG2 (z4 / i)
+                 :temporal (z5 / always)))

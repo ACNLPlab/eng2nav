@@ -1,0 +1,81 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He could be seen sitting out there silhouetted against the sun, with the light shining red through his hair.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:28.240255
+(z0 / possible-01
+    :ARG1 (z1 / see-01
+              :ARG1 (z2 / sit-01
+                        :ARG1 (z3 / he)
+                        :place (z4 / there)
+                        :manner (z5 / silhouetted-01
+                                    :ARG0 z3
+                                    :ARG1 (z6 / sun))
+                        :manner (z7 / shine-01
+                                    :ARG1 (z8 / light)
+                                    :ARG2 (z9 / through
+                                              :op1 (z10 / hair
+                                                        :possessor z3))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I looked and saw a fire sitting out alongside.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:28.240271
+(z0 / and
+    :op1 (z1 / look-01
+             :ARG0 (z2 / i))
+    :op2 (z3 / see-01
+             :ARG0 z2
+             :ARG1 (z4 / sit-down-02
+                       :ARG1 (z5 / fire)
+                       :ARG2 (z6 / space
+                                 :ARG1-of (z7 / alongside-01)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:28.240275
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and her hair is white.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:28.240279
+(z0 / and
+    :op2 (z1 / white-03
+             :ARG1 (z2 / hair
+                       :possessor (z3 / she))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:28.240284
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt You couldn't see the earth below.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:45:28.240288
+(z0 / possible-01
+    :ARG1 (z1 / see-01
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / earth
+                        :ARG1-of (z4 / below-01
+                                     :ARG3 (z5 / cartesian-framework-91
+                                               :ARG1 (z6 / build-space))))
+              :polarity -))

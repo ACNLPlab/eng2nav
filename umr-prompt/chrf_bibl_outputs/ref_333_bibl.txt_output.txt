@@ -1,0 +1,106 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We made about two runs over these villages.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:50.837545
+(z0 / make-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / run-02
+              :ARG0 z1
+              :path (z3 / over
+                        :op1 (z4 / village
+                                 :mod (z5 / this))
+                        :ARG5 (z6 / cartesian-framework-91
+                                  :ARG1 (z7 / build-space))
+                        :quant (z8 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt As we flew over them we watched and saw people swarming about.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:50.837563
+(z0 / and
+    :op1 (z1 / watch-01
+             :ARG0 (z2 / we)
+             :temporal (z3 / over-04
+                           :ARG1 z2
+                           :ARG2 (z4 / they)
+                           :ARG3 (z5 / cartesian-framework-91
+                                     :ARG1 (z6 / build-space))))
+    :op2 (z7 / see-01
+             :ARG0 z2
+             :ARG1 (z8 / swarm-01
+                       :ARG0 (z9 / person)
+                       :place (z10 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt but at night they spoke about themselves, revealing their intentions.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:50.837567
+(z0 / contrast-91
+    :ARG2 (z1 / speak-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / about
+                        :op1 z2)
+              :temporal (z4 / date-entity
+                            :dayperiod (z5 / night))
+              :manner (z6 / reveal-01
+                          :ARG0 z2
+                          :ARG1 (z7 / intend-01
+                                    :ARG0 z2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He wouldn't do anything under these circumstances even if one got very close to him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:50.837572
+(z0 / do-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / anything)
+    :temporal (z3 / circumstance
+                  :mod (z4 / this))
+    :concession (z5 / even-if
+                    :op1 (z6 / close-10
+                             :ARG1 (z7 / one)
+                             :ARG2 z1
+                             :degree (z8 / very))
+                    :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We said they must be fighting over the firewood.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:50.837576
+(z0 / say-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / obligate-01
+              :ARG1 (z3 / fight-01
+                        :ARG0 (z4 / they)
+                        :ARG2 (z5 / firewood))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And we'd just as soon fight over the matter as not.", said Black Horse balking stubbornly.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:50.837580
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op2 (z4 / fight-01
+                       :ARG0 (z5 / we)
+                       :ARG1 (z6 / matter)
+                       :temporal (z7 / soon
+                                     :mod (z8 / just))
+                       :ARG1-of (z9 / have-substitute-91
+                                    :ARG2 (z10 / fight-01
+                                               :ARG0 z5
+                                               :ARG1 z6
+                                               :polarity -))))
+    :op2 (z11 / bend-01
+              :ARG0 z1
+              :ARG1-of (z12 / stubborn-01)))

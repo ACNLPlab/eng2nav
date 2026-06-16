@@ -1,0 +1,53 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt This is no small matter.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:25.823510
+(z0 / matter
+    :mod (z1 / this)
+    :degree (z2 / small))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It’s a scary situation
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:25.823523
+(z0 / situation
+    :domain (z1 / it)
+    :ARG1-of (z2 / fear-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was a long drop.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:25.823527
+(z0 / drop-01
+    :ARG1-of (z1 / long-03))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This was welcome news.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:25.823531
+(z0 / welcome-01
+    :ARG1 (z1 / news
+              :mod (z2 / this)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:25.823535
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt This was my people's disaster.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:41:25.823539
+(z0 / disaster
+    :domain (z1 / this)
+    :possessor (z2 / person
+                   :possessor (z3 / i)))

@@ -1,0 +1,92 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I turned around and came back to him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:10.018158
+(z0 / and
+    :op1 (z1 / turn-01
+             :ARG1 (z2 / i)
+             :direction (z3 / around))
+    :op2 (z4 / come-01
+             :ARG1 z2
+             :ARG4 (z5 / he)
+             :direction (z6 / back)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we turned around
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:10.018175
+(z0 / turn-01
+    :ARG1 (z1 / we)
+    :direction (z2 / around)
+    :temporal (z3 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We continued to Kayenta where we turned around.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:10.018179
+(z0 / continue-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Kayenta")
+              :place-of (z4 / turn-01
+                            :ARG1 z1
+                            :direction (z5 / around))
+              :wiki "Kayenta,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I came back to where he was, and he was certainly angry.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:10.018183
+(z0 / and
+    :op1 (z1 / come-01
+             :ARG1 (z2 / i)
+             :ARG4 (z3 / space
+                       :ARG2-of (z4 / have-place-91
+                                    :ARG1 (z5 / he)))
+             :direction (z6 / back))
+    :op2 (z7 / anger-01
+             :ARG0 z5
+             :degree (z8 / certain)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt “What do you mean by dashing around and saying that?
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:10.018188
+(z0 / mean-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / umr-unknown)
+    :ARG2 (z3 / and
+              :op1 (z4 / dashing-01
+                       :direction (z5 / around))
+              :op2 (z6 / say-01
+                       :ARG0 z1
+                       :ARG1 (z7 / that))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The one I referred to as Limper was standing near Black Horse with a blanket wrapped around his middle.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:54:10.018192
+(z0 / stand-01
+    :ARG1 (z1 / one
+              :ARG1-of (z2 / refer-number
+                           :ARG2-of (z3 / refer-03
+                                        :ARG0 (z4 / i)
+                                        :ARG1 (z5 / limper)))
+              :ARG2 (z6 / near
+                        :op1 (z7 / horse
+                                 :name (z8 / name
+                                           :op1 "Black"
+                                           :op2 "Horse")
+                                 :wiki "Black_Horse"))
+              :manner (z9 / wrap-01
+                          :ARG1 (z10 / blanket)
+                          :ARG2 (z11 / thing
+                                     :ARG1-of (z12 / middle-01
+                                                   :ARG2 z1)))))

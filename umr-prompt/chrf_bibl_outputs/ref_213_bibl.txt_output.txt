@@ -1,0 +1,105 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt One of these women had promised her son for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:13.282213
+(z0 / promise-01
+    :ARG0 (z1 / woman
+              :mod (z2 / this))
+    :ARG1 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 z1
+                           :ARG3 (z5 / son)))
+    :ARG2 (z6 / school))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt One of these women had come from over beyond the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:13.282229
+(z0 / come-01
+    :ARG1 (z1 / woman
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / woman
+                                     :mod (z4 / this))))
+    :ARG3 (z5 / over
+              :op1 (z6 / mountain)
+              :ARG5 (z7 / cartesian-framework-91
+                        :ARG1 (z8 / builder))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The people who had promised their children for school were named, and we were told many things about the school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:13.282233
+(z0 / and
+    :op1 (z1 / name-01
+             :ARG1 (z2 / person
+                       :ARG0-of (z3 / promise-01
+                                    :ARG1 (z4 / person
+                                              :ARG1-of (z5 / have-rel-role-92
+                                                           :ARG2 (z6 / parent)
+                                                           :ARG3 (z7 / child)))
+                                    :purpose (z8 / school))))
+    :op2 (z9 / tell-01
+             :ARG0 z6
+             :ARG1 (z10 / thing
+                        :quant (z11 / many)
+                        :topic (z12 / school))
+             :ARG2 (z13 / we)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt As she passed by she said, "It is said that those boys who are unloading wood over there have been promised for school - they will go to school too.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:13.282238
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / and
+              :op1 (z3 / say-01
+                       :ARG1 (z4 / promise-01
+                                 :ARG1 (z5 / boy
+                                           :ARG0-of (z6 / load-01
+                                                        :ARG1 (z7 / wood)
+                                                        :place (z8 / there)))
+                                 :ARG2 (z9 / school))
+                       :quote z0)
+              :op2 (z10 / go-02
+                        :ARG0 z5
+                        :ARG4 z9
+                        :mod (z11 / too)))
+    :temporal (z12 / pass-by-02
+                   :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was for that reason that I volunteered myself for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:13.282242
+(z0 / volunteer-01
+    :ARG0 (z1 / i
+              :ARG1-of z0)
+    :ARG2 (z2 / school)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt As we came to find out, they were saying that (the school) would not get a one of their children.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:13.282246
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / get-01
+              :ARG0 (z3 / school)
+              :ARG1 (z4 / one
+                        :ARG1-of (z5 / have-rel-role-92
+                                     :ARG2 z1
+                                     :ARG3 (z6 / child)))
+              :polarity -)
+    :temporal (z7 / come-01
+                  :ARG1 (z8 / we)
+                  :ARG2 (z9 / thing
+                            :ARG1-of (z10 / find-01
+                                          :ARG0 z8))))

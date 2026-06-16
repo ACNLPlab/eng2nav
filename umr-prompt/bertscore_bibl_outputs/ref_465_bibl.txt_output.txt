@@ -1,0 +1,90 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Don't you remember? That's why I told you that.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:01.750152
+(z0 / remember-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / that)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / tell-01
+                           :ARG0 z1
+                           :ARG1 (z5 / that)
+                           :ARG2 z1))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Don't you remember that I told you that you are not say that
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:01.750168
+(z0 / remember-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / tell-01
+              :ARG0 (z3 / i)
+              :ARG1 (z4 / say-01
+                        :ARG0 z1
+                        :ARG1 (z5 / that)
+                        :polarity -)
+              :ARG2 z1)
+    :polarity -
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and that was probably why he was told to take care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:01.750172
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / that)
+             :ARG1 (z3 / tell-01
+                       :ARG1 (z4 / care-03
+                                 :ARG0 (z5 / he)
+                                 :ARG1 (z6 / child))
+                       :ARG2 z5)
+             :ARG1-of (z7 / likely-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt "Come on, you boys. Remember what you said," said Black Horse.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:01.750176
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / come-01
+                       :ARG1 (z5 / you)
+                       :ARG2 (z6 / boy)
+                       :mode imperative)
+              :op2 (z7 / remember-01
+                       :ARG0 (z8 / you)
+                       :ARG1 (z9 / thing
+                                 :ARG1-of (z10 / say-01
+                                               :ARG0 z8))
+                       :mode imperative)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I heard them saying that.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:01.750181
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 (z3 / they)
+              :ARG1 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:01.750185
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))

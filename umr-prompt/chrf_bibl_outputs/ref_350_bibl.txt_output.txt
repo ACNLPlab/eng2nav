@@ -1,0 +1,93 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt On the eighth we again went out.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:32.185328
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :direction (z2 / out)
+    :mod (z3 / again)
+    :temporal (z4 / date-entity
+                  :month 8))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then on the day following the night of my birth we again started to move.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:32.185345
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / move-01
+              :ARG0 z1)
+    :temporal (z3 / then)
+    :mod (z4 / again)
+    :temporal (z5 / day
+                  :ARG1-of (z6 / follow-01
+                               :ARG2 (z7 / date-entity
+                                         :dayperiod (z8 / night)
+                                         :temporal-of (z9 / bear-02
+                                                          :ARG1 (z10 / i))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt On Monday the seventh I went again.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:32.185349
+(z0 / go-02
+    :ARG0 (z1 / i)
+    :mod (z2 / again)
+    :temporal (z3 / date-entity
+                  :weekday (z4 / monday)
+                  :ord (z5 / ordinal-entity
+                           :value 7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt On the morrow we would start off with them. So for that purpose, in the morning we again started off from the hogan afoot.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:32.185354
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG2 (z2 / they)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / morrow))
+    :purpose (z5 / start-01
+                 :ARG0 z1
+                 :ARG1 z2
+                 :place (z6 / hogan
+                            :ARG1-of (z7 / afoot-01))
+                 :temporal (z8 / date-entity
+                               :dayperiod (z9 / morning))
+                 :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt On the next day, February 4, we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:32.185358
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :mod (z2 / again)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / day)
+                  :mod (z5 / next)
+                  :ARG4-of (z6 / have-temporal-91
+                               :ARG1 z1
+                               :ARG3 (z7 / date-entity
+                                         :month 4))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nonetheless we hauled two loads again by the time the sun went down
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:32.185362
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :mod (z4 / again)
+              :temporal (z5 / by-the-time
+                            :op1 (z6 / go-02
+                                     :ARG1 (z7 / sun)
+                                     :direction (z8 / down)))))

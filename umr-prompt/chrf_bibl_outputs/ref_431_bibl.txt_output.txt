@@ -1,0 +1,98 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt At that time up there on the mountain there were those that live in mountains, bears as they are called.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:41:59.472263
+(z0 / exist-91
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / live-01
+                           :place (z3 / mountain))
+              :ARG0-of (z4 / call-01
+                           :ARG1 (z5 / bear)))
+    :ARG2 (z6 / person
+              :ARG0-of (z7 / live-01
+                           :place (z8 / mountain)))
+    :temporal (z9 / time
+                  :mod (z10 / that))
+    :place (z11 / there
+                :ARG1-of (z12 / have-place-91
+                              :ARG2 (z13 / there)
+                              :ARG3 (z14 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt ‘There are certain things here in the mountains. There is something called ‘bear,” but one never refers to it by that name.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:41:59.472278
+(z0 / contrast-91
+    :ARG1 (z1 / thing
+              :mod (z2 / certain)
+              :place (z3 / here
+                         :place (z4 / mountain)))
+    :ARG2 (z5 / refer-number
+              :ARG1 (z6 / something
+                        :ARG1-of (z7 / call-01
+                                     :ARG2 (z8 / bear)))
+              :temporal (z9 / ever)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was very beautiful up there on the mountain at that time.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:41:59.472283
+(z0 / beautiful-02
+    :ARG1 (z1 / it)
+    :place (z2 / there
+               :place (z3 / mountain))
+    :temporal (z4 / time
+                  :mod (z5 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt But one does not mention their name "bear”. People who live over there toward the mountains never say “bear”.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:41:59.472287
+(z0 / contrast-91
+    :ARG2 (z1 / mention-01
+              :ARG0 (z2 / one)
+              :ARG1 (z3 / name
+                        :op1 "bear")
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And I found that the people from beyond the mountain - those among whom the news had been spread, and who were sent for - had arrived.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:41:59.472291
+(z0 / and
+    :op2 (z1 / find-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / arrive-01
+                       :ARG1 (z4 / person
+                                 :source (z5 / beyond
+                                             :op1 (z6 / mountain))
+                                 :ARG1-of (z7 / include-91
+                                              :ARG2 (z8 / and
+                                                        :op1 (z9 / spread-03
+                                                                 :ARG1 (z10 / news))
+                                                        :op2 (z11 / send-01
+                                                                  :ARG1 z4)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt In the fall of that same year we moved from the mountain back down into the valley to herd down there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:41:59.472296
+(z0 / move-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / mountain)
+    :direction (z3 / back)
+    :ARG4 (z4 / valley)
+    :purpose (z5 / herd-01
+                 :ARG0 z1
+                 :place (z6 / down))
+    :temporal (z7 / fall
+                  :temporal (z8 / year
+                                :mod (z9 / that)
+                                :ARG1-of (z10 / same-01))))

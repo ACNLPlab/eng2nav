@@ -1,0 +1,81 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then they all rushed in.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:35.657872
+(z0 / rush-01
+    :ARG1 (z1 / they
+              :mod (z2 / all))
+    :temporal (z3 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Just then they locked the door from the inside.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:35.657883
+(z0 / lock-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / door)
+    :manner (z3 / inward-02
+                :ARG1 z2)
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At that time, when they acted as they did, they were young men.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:35.657888
+(z0 / have-age-91
+    :ARG1 (z1 / they)
+    :ARG2 (z2 / man)
+    :ARG3 (z3 / young)
+    :temporal (z4 / act-02
+                  :ARG0 z1
+                  :manner (z5 / do-02
+                              :ARG0 z1))
+    :temporal (z6 / time
+                  :mod (z7 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was in the Spring when they moved there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:35.657893
+(z0 / move-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / there)
+    :temporal (z3 / date-entity
+                  :year 2016))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When they spread out into the brush we would just let them go and follow them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:35.657897
+(z0 / and
+    :op1 (z1 / let-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / go-02
+                       :ARG0 (z4 / they))
+             :op2 (z5 / follow-02
+                      :ARG0 z2
+                      :ARG1 z4)
+             :temporal (z6 / spread-01
+                           :ARG0 z4
+                           :direction (z7 / brush))
+             :mod (z8 / just)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then they would starve or freeze to death right where they stood.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:34:35.657901
+(z0 / or
+    :op1 (z1 / starve-01
+             :ARG1 (z2 / they))
+    :op2 (z3 / freeze-02
+             :ARG1 z2)
+    :temporal (z4 / then)
+    :place (z5 / stand-01
+               :ARG1 z2
+               :mod (z6 / right-yy)))

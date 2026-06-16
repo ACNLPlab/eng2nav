@@ -1,0 +1,90 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and then we went toward Chinle.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:14.663568
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / space
+                       :ARG1-of (z4 / toward-01
+                                    :ARG2 (z5 / thing
+                                              :name (z6 / name
+                                                        :op1 "Chinle")
+                                              :wiki "Chinle")))
+             :temporal (z7 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And then we started back to Phoenix,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:14.663584
+(z0 / and
+    :op2 (z1 / start-01
+             :ARG0 (z2 / we)
+             :place (z3 / city
+                        :name (z4 / name
+                                  :op1 "Phoenix")
+                        :wiki "Phoenix,_Arizona")
+             :temporal (z5 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And then we flew up along the San Juan River.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:14.663589
+(z0 / and
+    :op2 (z1 / fly-01
+             :ARG0 (z2 / we)
+             :direction (z3 / trajectory
+                            :ARG2-of (z4 / up-03
+                                         :ARG5 (z5 / cartesian-framework-91
+                                                   :ARG1 (z6 / build-space)))
+                            :ARG4-of (z7 / along-01
+                                         :ARG2 (z8 / river
+                                                   :name (z9 / name
+                                                             :op1 "San"
+                                                             :op2 "Juan"
+                                                             :op3 "River")
+                                                   :wiki "San_Juan_River")))
+             :temporal (z10 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:14.663593
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we flew over Mexican Hat.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:14.663597
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / hat
+              :name (z3 / name
+                        :op1 "Mexican"
+                        :op2 "Hat")
+              :wiki "Mexican_Hat")
+    :temporal (z4 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was said that they were then over at Chinle,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:14.663601
+(z0 / say-01
+    :ARG1 (z1 / over-04
+              :ARG1 (z2 / they)
+              :ARG2 (z3 / facility
+                        :name (z4 / name
+                                  :op1 "Chinle")
+                        :wiki -)
+              :temporal (z5 / then)))

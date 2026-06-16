@@ -1,0 +1,126 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt My gradnfather, a man by the name of White Mexican Clansman, and another man called The Son of Former Sweathouse, were the only men. They and several womenfolk worked hard on me.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:50.177566
+(z0 / and
+    :op1 (z1 / man
+             :mod (z2 / only)
+             :ARG1-of (z3 / have-rel-role-92
+                          :ARG2 (z4 / i)
+                          :ARG3 (z5 / father))
+             :op2 (z6 / man
+                      :mod (z7 / name
+                               :op1 "White"
+                               :op2 "Mexican"
+                               :op3 "Clansman")
+                      :wiki "White_Mexican_Clansman")
+             :op3 (z8 / man
+                      :mod (z9 / another)
+                      :ARG1-of (z10 / call-01
+                                    :ARG2 (z11 / person
+                                               :name (z12 / name
+                                                          :op1 "The"
+                                                          :op2 "Son"
+                                                          :op3 "of"
+                                                          :op3 "of"
+                                                          :op4 "Sweathouse")
+                                               :wiki -))))
+    :op4 (z13 / work-01
+              :ARG0 (z14 / and
+                         :op1 (z15 / they)
+                         :op2 (z16 / woman
+                                   :quant (z17 / several))
+                         :ARG1 (z18 / hard)
+                         :ARG2 z4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt A man by the name of Black Horse was the leader of that faction.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:50.177583
+(z0 / lead-02
+    :ARG0 (z1 / man
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / faction
+              :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt So then my grandfather, the man I spoke of as Big Mexican Clansman, volunteered to join him
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:50.177588
+(z0 / volunteer-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / grandfather))
+              :ARG1-of (z5 / talk-01
+                           :ARG0 z3
+                           :ARG2 (z6 / cultural-group
+                                     :name (z7 / name
+                                               :op1 "Big"
+                                               :op2 "Mexican"
+                                               :op3 "Clansman")
+                                     :wiki "Big_Mexican_Clansman")))
+    :ARG1 (z8 / join-01
+              :ARG0 z1
+              :ARG1 z4)
+    :temporal (z9 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt And it turned out that my grandfather, who was called Big Mexican Clansman, was there too.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:50.177592
+(z0 / and
+    :op2 (z1 / turn-01
+             :ARG1 (z2 / there
+                       :place-of (z3 / person
+                                     :ARG1-of (z4 / have-rel-role-92
+                                                  :ARG2 (z5 / i)
+                                                  :ARG3 (z6 / grandfather))
+                                     :ARG1-of (z7 / call-01
+                                                  :ARG2 (z8 / cultural-group
+                                                            :name (z9 / name
+                                                                      :op1 "Big"
+                                                                      :op2 "Mexican"
+                                                                      :op3 "Clansman")
+                                                            :wiki "Big_Mexican_Clansman")))
+                       :mod (z10 / too))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I had an uncle by the name of Forked House. He was a young man, and he adopted me.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:50.177597
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / person
+                       :ARG1-of (z4 / have-rel-role-92
+                                    :ARG2 z2
+                                    :ARG3 (z5 / uncle))
+                       :ARG1-of (z6 / name
+                                    :op1 "Forked"
+                                    :op2 "House")))
+    :op2 (z7 / adopt-01
+             :ARG0 z3
+             :ARG1 z2)
+    :op3 (z8 / young-01
+             :ARG1 (z9 / he)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:50:50.177601
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)

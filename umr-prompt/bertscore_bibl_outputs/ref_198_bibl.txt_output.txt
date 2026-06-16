@@ -1,0 +1,103 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Another was Interprete's (i.e. Chee Dodge's) brother-in-law,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:21.169786
+(z0 / person
+    :mod (z1 / another)
+    :ARG1-of (z2 / have-rel-role-92
+                 :ARG2 (z3 / person
+                           :name (z4 / name
+                                     :op1 "Interprete")
+                           :wiki -)
+                 :ARG3 (z5 / brother)
+                 :ARG4 (z6 / person
+                           :name (z7 / name
+                                     :op1 "Chee"
+                                     :op2 "Dodge")
+                           :wiki -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was merely called Interpreter's Father-in-law (?)
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:21.169802
+(z0 / call-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / person
+              :ARG1-of (z3 / have-rel-role-92
+                           :ARG2 (z4 / interpreter)
+                           :ARG3 (z5 / father)))
+    :mod (z6 / mere)
+    :polarity (z7 / umr-unknown))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They used to call the Former Old Interpreter (Chee Dodge) Chee (Red) when I first heard of him.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:21.169807
+(z0 / call-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / person
+                       :name (z4 / name
+                                 :op1 "Chee"
+                                 :op2 "Dodge")
+                       :wiki -)
+              :op2 (z5 / person
+                       :name (z6 / name
+                                 :op1 "Former"
+                                 :op2 "Old"
+                                 :op3 "Interpreter")
+                       :wiki -)
+              :op3 (z7 / person
+                       :color (z8 / red))
+              :temporal (z9 / hear-01
+                            :ARG0 (z10 / i)
+                            :ARG1 z2
+                            :ord (z11 / ordinal-entity
+                                      :value 1))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and was one of the leaders at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:21.169811
+(z0 / and
+    :op2 (z1 / person
+             :ARG1-of (z2 / lead-02
+                          :temporal (z3 / time
+                                        :mod (z4 / that)))
+             :quant 1))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is how it came about that the one who would be called The Interpreter (Chee Dodge) and the one who would be named Big Lump Setting Up came to move there.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:21.169815
+(z0 / come-33
+    :ARG1 (z1 / and
+              :op1 (z2 / one
+                       :ARG1-of (z3 / call-01
+                                    :ARG2 (z4 / interpreter))
+                       :op2 (z5 / person
+                                :name (z6 / name
+                                          :op1 "Chee"
+                                          :op2 "Dodge")
+                                :wiki -)
+                       :op3 (z7 / one
+                                :ARG1-of (z8 / name-01
+                                             :ARG2 (z9 / set-up-03))))
+              :ARG2 (z10 / there))
+    :ARG2 (z11 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He was a very strong, husky man.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:36:21.169819
+(z0 / man
+    :domain (z1 / he)
+    :ARG1-of (z2 / strong-02
+                 :degree (z3 / very))
+    :ARG1-of (z4 / husky-01))

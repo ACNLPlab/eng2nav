@@ -1,0 +1,139 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt After three days (of flying), a man from Kayenta said that he had been unable to spot his own hogan.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:07.452359
+(z0 / say-01
+    :ARG0 (z1 / man
+              :source (z2 / city
+                          :name (z3 / name
+                                    :op1 "Kayenta")
+                          :wiki -))
+    :ARG1 (z4 / possible-01
+              :ARG1 (z5 / spot-01
+                        :ARG0 z1
+                        :ARG1 (z6 / hogan
+                                  :possessor z1)
+                        :polarity -)
+              :temporal (z7 / after
+                            :op1 (z8 / fly-01
+                                     :ARG1 z1
+                                     :duration (z9 / temporal-quantity
+                                                   :unit (z10 / day)
+                                                   :quant 3)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He had been asking that hay be dropped at his own house for three days, but he couldn't find it himself.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:07.452377
+(z0 / contrast-91
+    :ARG1 (z1 / ask-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / drop-01
+                        :ARG1 (z4 / hay)
+                        :ARG2 (z5 / house
+                                  :possessor z2))
+              :duration (z6 / temporal-quantity
+                            :unit (z7 / day)
+                            :quant 3))
+    :ARG2 (z8 / possible-01
+              :ARG1 (z9 / find-01
+                        :ARG0 z2
+                        :ARG1 z4)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When he said the plane nearly turned over with him it was because (this plane was flying low and to gain altitude) the plane had to fly at a steep climb - (it seemed that it would fall over backward).
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:07.452381
+(z0 / cause-01
+    :ARG0 (z1 / obligate-01
+              :ARG1 (z2 / plane
+                        :mod (z3 / this))
+              :ARG2 (z4 / fly-01
+                        :ARG0 z2
+                        :purpose (z5 / gain-02
+                                     :ARG0 z2
+                                     :ARG1 (z6 / altitude))
+                        :manner (z7 / climb-01
+                                    :ARG1 z2
+                                    :manner (z8 / steep)))
+              :ARG1 (z9 / seem-01
+                        :ARG1 (z10 / fall-over-04
+                                   :ARG1 z2
+                                   :direction (z11 / trajectory
+                                                   :ARG4-of (z12 / backward-02
+                                                                 :ARG3 (z13 / cartesian-framework-91
+                                                                            :ARG1 (z14 / builder)))))
+                        :temporal (z15 / say-01
+                                       :ARG0 (z16 / he)
+                                       :ARG1 (z17 / turn-over-03
+                                                  :ARG1 z2
+                                                  :companion z16
+                                                  :degree (z18 / near))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt And I found that the people from beyond the mountain - those among whom the news had been spread, and who were sent for - had arrived.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:07.452386
+(z0 / and
+    :op2 (z1 / find-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / arrive-01
+                       :ARG1 (z4 / person
+                                 :source (z5 / beyond
+                                             :op1 (z6 / mountain))
+                                 :ARG1-of (z7 / include-91
+                                              :ARG2 (z8 / and
+                                                        :op1 (z9 / spread-03
+                                                                 :ARG1 (z10 / news))
+                                                        :op2 (z11 / send-01
+                                                                  :ARG1 z4)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Quite some time ago when they moved back from Fort Sumner he had a hard time. He started his life by poking around in the horse manure in a stable.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:07.452390
+(z0 / hard-02
+    :ARG1 (z1 / he)
+    :temporal (z2 / before
+                  :op1 (z3 / now)
+                  :quant (z4 / quite))
+    :temporal (z5 / move-01
+                  :ARG0 (z6 / they)
+                  :ARG4 (z7 / city
+                            :name (z8 / name
+                                      :op1 "Fort"
+                                      :op2 "Sumner")
+                            :wiki "Fort_Sumner,_North_Carolina")))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:07.452394
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))

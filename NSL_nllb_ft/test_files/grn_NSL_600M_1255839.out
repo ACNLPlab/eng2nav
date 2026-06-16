@@ -1,0 +1,9 @@
+==========================================
+Testing NSL English→Navajo NLLB200 Model
+Job ID: 1255839
+Node: dgx001
+==========================================
+  Test sentences : 3,196
+  Checkpoint     : /home/common/ACNLP/eng2nav/NSL_nllb_ft/grn_NSL_600M/fold_0/checkpoint-7601
+  eng_Latn → grn_Latn
+ERROR: Translation failed. Check the .err log.

@@ -1,0 +1,99 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt "Now men, is there anyone here who can do it (a chant)?
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:39.550987
+(z0 / and
+    :op1 (z1 / man)
+    :op2 (z2 / possible-01
+             :ARG1 (z3 / do-02
+                       :ARG0 (z4 / anyone
+                                 :place (z5 / here))
+                       :ARG1 (z6 / it))
+             :polarity (z7 / umr-unknown)
+             :temporal (z8 / now))
+    :op3 (z9 / sing-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I was one of those who came back (on the next day) to where the people were.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:39.551005
+(z0 / include-91
+    :ARG1 (z1 / person
+              :refer-person 1st)
+    :ARG2 (z2 / person
+              :ARG0-of (z3 / come-01
+                           :ARG1 z1
+                           :ARG4 (z4 / back)
+                           :ARG4 (z5 / space
+                                     :place-of (z6 / person)
+                                     :temporal (z7 / day
+                                                   :mod (z8 / next))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And it turned out that my grandfather, who was called Big Mexican Clansman, was there too.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:39.551010
+(z0 / and
+    :op2 (z1 / turn-01
+             :ARG1 (z2 / there
+                       :place-of (z3 / person
+                                     :ARG1-of (z4 / have-rel-role-92
+                                                  :ARG2 (z5 / i)
+                                                  :ARG3 (z6 / grandfather))
+                                     :ARG1-of (z7 / call-01
+                                                  :ARG2 (z8 / cultural-group
+                                                            :name (z9 / name
+                                                                      :op1 "Big"
+                                                                      :op2 "Mexican"
+                                                                      :op3 "Clansman")
+                                                            :wiki "Big_Mexican_Clansman")))
+                       :mod (z10 / too))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There were also many of us who had joined in just as spectators.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:39.551014
+(z0 / join-04
+    :ARG0 (z1 / we
+              :quant (z2 / many))
+    :ARG1 (z3 / in)
+    :manner (z4 / spectator)
+    :mod (z5 / also))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt There was an epidemic in progress, and we now refer to it as "the time when the throat killed many."
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:39.551018
+(z0 / and
+    :op1 (z1 / progress-01
+             :ARG1 (z2 / epidemic))
+    :op2 (z3 / refer-02
+             :ARG0 (z4 / we)
+             :ARG1 (z5 / time
+                       :temporal-of (z6 / kill-01
+                                        :ARG1 (z7 / throat)
+                                        :ARG2 (z8 / many)))
+             :temporal (z9 / now)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We stayed down there and herded the sheep until noon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:39.551022
+(z0 / stay-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / there
+              :ARG1-of (z3 / down-03
+                           :ARG5 (z4 / cartesian-framework-91
+                                     :ARG1 (z5 / build-space))))
+    :op3 (z6 / herded-01
+             :ARG0 z1
+             :ARG1 (z7 / sheep)
+             :temporal (z8 / until
+                           :op1 (z9 / date-entity
+                                    :dayperiod (z10 / noon)))))

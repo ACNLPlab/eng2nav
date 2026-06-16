@@ -1,0 +1,92 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then we started to follow the sheep again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:51.423310
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / follow-02
+              :ARG0 z1
+              :ARG1 (z3 / sheep)
+              :mod (z4 / again))
+    :temporal (z5 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:51.423327
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we followed the ridge up over Black Mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:51.423331
+(z0 / follow-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / ridge)
+    :ARG2 (z3 / up)
+    :ARG4 (z4 / mountain
+              :name (z5 / name
+                        :op1 "Black"
+                        :op2 "Mountain")
+              :wiki "Black_Mountain")
+    :temporal (z6 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Here they began life anew.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:51.423336
+(z0 / begin-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / new-01))
+    :place (z4 / here))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And then we started back to Phoenix,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:51.423340
+(z0 / and
+    :op2 (z1 / start-01
+             :ARG0 (z2 / we)
+             :place (z3 / city
+                        :name (z4 / name
+                                  :op1 "Phoenix")
+                        :wiki "Phoenix,_Arizona")
+             :temporal (z5 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:51.423344
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))

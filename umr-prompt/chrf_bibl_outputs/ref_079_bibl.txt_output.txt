@@ -1,0 +1,89 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The old folks all used to say that.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:24.220770
+(z0 / say-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / old-01)
+              :mod (z3 / all))
+    :ARG1 (z4 / that)
+    :temporal (z5 / use-03))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt They say that this story took place at Gobernador Knob.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:24.220788
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / event
+              :mod (z3 / this)
+              :place (z4 / local-region
+                         :name (z5 / name
+                                   :op1 "Gobernador"
+                                   :op2 "Knob")
+                         :wiki "Gobernador_National_Wildlife_Refuge")))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He used to be out there early in the morning with a stick especially made for that purpose.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:24.220792
+(z0 / have-place-91
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / there)
+    :ARG3 (z3 / stick
+              :ARG1-of (z4 / make-01
+                           :ARG2 (z5 / purpose
+                                     :mod (z6 / that))
+                           :degree (z7 / especially)))
+    :temporal (z8 / early-01
+                  :ARG2 (z9 / date-entity
+                            :dayperiod (z10 / morning))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is how we used to have fun with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:24.220796
+(z0 / fun-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / ram)
+    :temporal (z3 / use-03)
+    :mod (z4 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It is just recently that these people became old men, and they have all died.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:24.220801
+(z0 / and
+    :op1 (z1 / become-01
+             :ARG1 (z2 / person
+                       :mod (z3 / this))
+             :ARG2 (z4 / man
+                       :ARG1-of (z5 / old-01))
+             :temporal (z6 / recent
+                           :mod (z7 / just))
+             :op2 (z8 / die-01
+                      :ARG1 (z9 / person
+                                :mod (z10 / all)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Don't you remember that I told you that you are not say that
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:24.220805
+(z0 / remember-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / tell-01
+              :ARG0 (z3 / i)
+              :ARG1 (z4 / say-01
+                        :ARG0 z1
+                        :ARG1 (z5 / that)
+                        :polarity -)
+              :ARG2 z1)
+    :polarity -
+    :mode imperative)

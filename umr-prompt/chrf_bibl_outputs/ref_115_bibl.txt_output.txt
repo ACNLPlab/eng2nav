@@ -1,0 +1,68 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt So we told them of our plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:24:36.080119
+(z0 / cause-01
+    :ARG1 (z1 / tell-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / plan-01
+                        :ARG0 z2)
+              :ARG2 (z4 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:24:36.080137
+(z0 / plane
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We told them how we had both said, "Let's go to school."
+# ::annotator bart-amr
+# ::date 2025-10-21 22:24:36.080141
+(z0 / tell-01
+    :ARG0 (z1 / we
+              :mod (z2 / both))
+    :ARG1 (z3 / say-01
+              :ARG0 z1
+              :ARG1 (z4 / go-05
+                        :ARG0 z1
+                        :ARG1 (z5 / school))
+              :ARG2 (z6 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We were told that now there would be work here
+# ::annotator bart-amr
+# ::date 2025-10-21 22:24:36.080145
+(z0 / tell-01
+    :ARG1 (z1 / work-01
+              :place (z2 / here)
+              :temporal (z3 / now))
+    :ARG2 (z4 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We headed them off toward the flat.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:24:36.080149
+(z0 / head-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :direction (z3 / trajectory
+                   :ARG4-of (z4 / toward-01
+                                :ARG2 (z5 / flat-06))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we were told that the time had come.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:24:36.080153
+(z0 / tell-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / time))
+    :temporal (z4 / then))

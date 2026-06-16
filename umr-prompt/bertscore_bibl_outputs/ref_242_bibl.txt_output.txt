@@ -1,0 +1,83 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It was out through there that Chee came.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:45.982862
+(z0 / come-01
+    :ARG1 (z1 / person
+              :name (z2 / name
+                        :op1 "Chee")
+              :wiki -)
+    :ARG4 (z3 / there)
+    :direction (z4 / out))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It was there that my grandfather spoke and promised us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:45.982878
+(z0 / and
+    :op1 (z1 / speak-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather))))
+    :op2 (z6 / promise-01
+             :ARG0 z2
+             :ARG1 (z7 / we))
+    :place (z8 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was there that they carried on the ceremony.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:45.982882
+(z0 / carry-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / ceremony)
+    :place (z3 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was only after I stopped that my cousin caught up with me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:45.982886
+(z0 / catch-up-04
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG2 z3
+    :temporal (z5 / after
+                  :op1 (z6 / stop-01
+                           :ARG0 z3)
+                  :mod (z7 / only)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was at that time, in the spring, that they moved to Blue Clay Point, it was said.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:45.982891
+(z0 / say-01
+    :ARG1 (z1 / move-01
+              :ARG0 (z2 / they)
+              :ARG4 (z3 / point
+                        :name (z4 / name
+                                  :op1 "Blue"
+                                  :op2 "Clay"
+                                  :op3 "Point")
+                        :wiki -)
+              :temporal (z5 / date-entity
+                            :month (z6 / spring))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was for that reason that I volunteered myself for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:49:45.982895
+(z0 / volunteer-01
+    :ARG0 (z1 / i
+              :ARG1-of z0)
+    :ARG2 (z2 / school)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / that)))

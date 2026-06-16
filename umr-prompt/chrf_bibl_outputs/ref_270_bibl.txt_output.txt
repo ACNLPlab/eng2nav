@@ -1,0 +1,78 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt At six o'clock we were put aboard a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:07.727997
+(z0 / put-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :time 6))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt However, we didn't take off until six o'clock.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:07.728022
+(z0 / contrast-91
+    :ARG2 (z1 / take-off-07
+              :ARG0 (z2 / we)
+              :temporal (z3 / until
+                            :op1 (z4 / date-entity
+                                     :time 6))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They radioed ahead that these men were aboard such and such a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:07.728027
+(z0 / radio-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / aboard-01
+                       :ARG1 (z4 / man
+                                 :mod (z5 / this))
+                       :ARG2 (z6 / plane
+                                 :mod (z7 / such)
+                                 :mod (z8 / such)))
+              :op2 (z9 / ahead)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We were awakened from sleep at four o'clock, before dawn.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:07.728031
+(z0 / wake-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / sleep-01
+              :ARG0 z1)
+    :temporal (z3 / before
+                  :op1 (z4 / date-entity
+                           :dayperiod (z5 / dawn))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I was sent aboard the plane called ’Tomahawk.’
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:07.728036
+(z0 / send-01
+    :ARG1 (z1 / person
+              :refer-person 1st)
+    :ARG2 (z2 / plane
+              :ARG1-of (z3 / call-01
+                           :ARG2 (z4 / weapon
+                                     :name (z5 / name
+                                               :op1 "Tomahawk")
+                                     :wiki "Tomahawk"))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We each got aboard a different one.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:37:07.728040
+(z0 / get-30
+    :ARG1 (z1 / we
+              :mod (z2 / each))
+    :ARG2 (z3 / one
+              :ARG1-of (z4 / differ-02)))

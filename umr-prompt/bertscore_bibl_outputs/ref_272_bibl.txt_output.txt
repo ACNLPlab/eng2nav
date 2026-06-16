@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We each got aboard a different one.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:15.792098
+(z0 / get-30
+    :ARG1 (z1 / we
+              :mod (z2 / each))
+    :ARG2 (z3 / one
+              :ARG1-of (z4 / differ-02)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We went to the Navy Field.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:15.792111
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / field
+              :mod (z3 / navy)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:15.792115
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:15.792119
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:15.792123
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:15.792127
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))

@@ -1,0 +1,78 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There are stories which tell of the events which took place long ago on this earth of ours.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:14.232470
+(z0 / tell-01
+    :ARG0 (z1 / story)
+    :ARG1 (z2 / event
+              :place (z3 / earth
+                         :mod (z4 / this)
+                         :possessor (z5 / we))
+              :temporal (z6 / before
+                            :op1 (z7 / now)
+                            :quant (z8 / long))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:14.232487
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It happened eighteen years ago too.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:14.232491
+(z0 / event
+    :temporal (z1 / before
+                  :op1 (z2 / now)
+                  :quant (z3 / temporal-quantity
+                             :unit (z4 / year)
+                             :quant 18)
+                  :mod (z5 / too)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt So this is my experience up above the land of my people.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:14.232496
+(z0 / experience-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / this)
+    :place (z3 / space
+               :ARG1-of (z4 / above-01
+                            :ARG2 (z5 / land
+                                      :possessor (z6 / person
+                                                     :possessor z1))
+                            :ARG3 (z7 / cartesian-framework-91
+                                      :ARG1 (z8 / build-space)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:14.232500
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They say that this story took place at Gobernador Knob.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:14.232504
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / event
+              :mod (z3 / this)
+              :place (z4 / local-region
+                         :name (z5 / name
+                                   :op1 "Gobernador"
+                                   :op2 "Knob")
+                         :wiki "Gobernador_National_Wildlife_Refuge")))

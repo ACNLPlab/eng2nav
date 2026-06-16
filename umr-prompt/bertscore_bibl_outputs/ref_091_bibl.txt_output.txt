@@ -1,0 +1,115 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt At the time I was about eighteen years old the person who started the present trading post at Blue Clay Point moved there - I used to know just when it was.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:35.451915
+(z0 / and
+    :op1 (z1 / move-01
+             :ARG0 (z2 / person
+                       :ARG0-of (z3 / start-01
+                                    :ARG1 (z4 / post
+                                              :mod (z5 / present-02)
+                                              :place (z6 / point
+                                                         :name (z7 / name
+                                                                   :op1 "Blue"
+                                                                   :op2 "Clay"
+                                                                   :op3 "Point")
+                                                         :wiki "Blue_Clay_Point"))))
+             :ARG1 (z8 / there)
+             :temporal (z9 / age-01
+                           :ARG1 (z10 / i)
+                           :ARG2 (z11 / about
+                                      :op1 (z12 / temporal-quantity
+                                                :unit (z13 / year)
+                                                :quant 18))))
+    :op2 (z14 / know-01
+              :ARG0 z10
+              :ARG1 (z15 / time
+                         :temporal-of (z16 / it)
+                         :mod (z17 / just))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The two of them built the trading post at the place called Blue Clay Point.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:35.451930
+(z0 / build-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / post
+              :purpose (z3 / trade-01))
+    :place (z4 / place
+               :name (z5 / name
+                         :op1 "Blue"
+                         :op2 "Clay"
+                         :op3 "Point")
+               :wiki "Blue_Clay_Point"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When I was little, perhaps eight years old, I used to herd sheep up on top of Lukachukai Mountain with a cousin.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:35.451934
+(z0 / herd-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :place (z3 / mountain
+               :name (z4 / name
+                         :op1 "Lukachukai"
+                         :op2 "Mountain")
+               :wiki "Lukachukai_National_Park")
+    :companion (z5 / person
+                   :ARG1-of (z6 / have-rel-role-92
+                                :ARG2 z1
+                                :ARG3 (z7 / cousin)))
+    :temporal (z8 / little-01
+                  :ARG1 z1
+                  :ARG2 (z9 / temporal-quantity
+                            :unit (z10 / year)
+                            :quant 8)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was at that time, in the spring, that they moved to Blue Clay Point, it was said.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:35.451939
+(z0 / say-01
+    :ARG1 (z1 / move-01
+              :ARG0 (z2 / they)
+              :ARG4 (z3 / point
+                        :name (z4 / name
+                                  :op1 "Blue"
+                                  :op2 "Clay"
+                                  :op3 "Point")
+                        :wiki -)
+              :temporal (z5 / date-entity
+                            :month (z6 / spring))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:35.451943
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I do not remember in detail much of what happened before I was about ten years old.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:59:35.451947
+(z0 / remember-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / event
+              :quant (z3 / much))
+    :manner (z4 / detail)
+    :temporal (z5 / before
+                  :op1 (z6 / age-01
+                           :ARG1 z1
+                           :ARG2 (z7 / temporal-quantity
+                                     :unit (z8 / year)
+                                     :quant 10)))
+    :polarity -)

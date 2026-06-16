@@ -1,0 +1,85 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The main thing we hauled was hay.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:51.126302
+(z0 / haul-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / hay)
+    :ARG1-of (z3 / have-degree-91
+                 :ARG2 (z4 / main)
+                 :ARG3 (z5 / most)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:51.126321
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Nevertheless, we hauled two loads that day.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:51.126326
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :temporal (z4 / day
+                            :mod (z5 / that))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Nonetheless we hauled two loads again by the time the sun went down
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:51.126330
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :mod (z4 / again)
+              :temporal (z5 / by-the-time
+                            :op1 (z6 / go-02
+                                     :ARG1 (z7 / sun)
+                                     :direction (z8 / down)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt ‘There are certain things here in the mountains. There is something called ‘bear,” but one never refers to it by that name.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:51.126334
+(z0 / contrast-91
+    :ARG1 (z1 / thing
+              :mod (z2 / certain)
+              :place (z3 / here
+                         :place (z4 / mountain)))
+    :ARG2 (z5 / refer-number
+              :ARG1 (z6 / something
+                        :ARG1-of (z7 / call-01
+                                     :ARG2 (z8 / bear)))
+              :temporal (z9 / ever)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He was older than I was so he had learned some things.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:10:51.126339
+(z0 / cause-01
+    :ARG0 (z1 / learn-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / thing
+                        :quant (z4 / some)))
+    :ARG1 (z5 / have-age-91
+              :ARG1 z2
+              :ARG2 (z6 / old)
+              :ARG3 (z7 / more)
+              :ARG4 (z8 / i)))

@@ -1,0 +1,76 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It was there that they carried on the ceremony.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:29.825182
+(z0 / carry-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / ceremony)
+    :place (z3 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt to carry on the ceremony.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:29.825197
+(z0 / have-purpose-91
+    :ARG2 (z1 / carry-01
+              :ARG1 (z2 / ceremony)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was there that my grandfather spoke and promised us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:29.825202
+(z0 / and
+    :op1 (z1 / speak-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather))))
+    :op2 (z6 / promise-01
+             :ARG0 z2
+             :ARG1 (z7 / we))
+    :place (z8 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was out through there that Chee came.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:29.825206
+(z0 / come-01
+    :ARG1 (z1 / person
+              :name (z2 / name
+                        :op1 "Chee")
+              :wiki -)
+    :ARG4 (z3 / there)
+    :direction (z4 / out))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was for that reason that I volunteered myself for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:29.825210
+(z0 / volunteer-01
+    :ARG0 (z1 / i
+              :ARG1-of z0)
+    :ARG2 (z2 / school)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was at that time, in the spring, that they moved to Blue Clay Point, it was said.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:30:29.825214
+(z0 / say-01
+    :ARG1 (z1 / move-01
+              :ARG0 (z2 / they)
+              :ARG4 (z3 / point
+                        :name (z4 / name
+                                  :op1 "Blue"
+                                  :op2 "Clay"
+                                  :op3 "Point")
+                        :wiki -)
+              :temporal (z5 / date-entity
+                            :month (z6 / spring))))

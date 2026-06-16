@@ -1,0 +1,76 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He stood growling.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:00:10.463231
+(z0 / stand-01
+    :ARG1 (z1 / he)
+    :manner (z2 / growl-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He stood up for the two of us.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:00:10.463243
+(z0 / stand-up-07
+    :ARG0 (z1 / he)
+    :affectee (z2 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He started sending me on chores.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:00:10.463248
+(z0 / start-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / send-01
+              :ARG0 z1
+              :ARG1 (z3 / i)
+              :ARG2 (z4 / chore)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:00:10.463252
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It took us 30 minutes to get there.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:00:10.463257
+(z0 / take-10
+    :ARG1 (z1 / get-30
+              :ARG1 (z2 / we)
+              :ARG2 (z3 / there))
+    :ARG2 (z4 / temporal-quantity
+              :unit (z5 / minute)
+              :quant 30))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Black Horse was standing against the counter over to one side.
+# ::annotator bart-amr
+# ::date 2025-10-22 01:00:10.463261
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG2 (z3 / space
+              :ARG1-of (z4 / next-to-02
+                           :ARG2 (z5 / counter)
+                           :ARG3 (z6 / cartesian-framework-91
+                                     :ARG1 (z7 / builder))
+                           :ARG1-of (z8 / over-04
+                                        :ARG5 z6
+                                        :quant (z9 / distance-quantity
+                                                   :quant 1)))))

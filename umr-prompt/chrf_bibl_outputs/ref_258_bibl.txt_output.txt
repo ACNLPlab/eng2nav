@@ -1,0 +1,153 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Speaking this way to each other the Agent and Black Horse exchanged many words.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:32:46.765394
+(z0 / converse-01
+    :ARG0 (z1 / and
+              :op1 (z2 / person
+                       :ARG1-of (z3 / have-org-role-92
+                                    :ARG3 (z4 / agent)))
+              :op2 (z5 / person
+                       :name (z6 / name
+                                 :op1 "Black"
+                                 :op2 "Horse")
+                       :wiki -))
+    :ARG1 (z7 / word
+              :quant (z8 / many))
+    :ARG2 (z9 / speak-01
+              :ARG0 z1
+              :manner (z10 / this)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt When this happened Black Horse’s henchmen spoke without effect because there were others who were trying to keep order and who said "No" to the proposal to attack the soldiers.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:32:46.765411
+(z0 / speak-01
+    :ARG0 (z1 / henchman
+              :possessor (z2 / person
+                             :name (z3 / name
+                                       :op1 "Black"
+                                       :op2 "Horse")
+                             :wiki -))
+    :ARG1-of (z4 / cause-01
+                 :ARG0 (z5 / and
+                           :op1 (z6 / other
+                                    :ARG0-of (z7 / try-01
+                                                 :ARG1 (z8 / keep-02
+                                                           :ARG1 (z9 / order-01))))
+                           :op2 (z10 / say-01
+                                     :ARG0 z10
+                                     :ARG1 (z11 / no)
+                                     :ARG2 (z12 / proposal
+                                                :purpose (z13 / attack-01
+                                                              :ARG0 z10
+                                                              :ARG1 (z14 / soldier)))))
+                 :polarity -)
+    :temporal (z15 / event
+                   :mod (z16 / this))
+    :manner (z17 / effect
+                 :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Long ago, people of old had a story of some kind of chat called "Talk One Into the Grave." Who of you knows it?" said Black Horse, asking that it be perfomed.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:32:46.765416
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / know-01
+              :ARG0 (z4 / umr-unknown)
+              :ARG1 (z5 / it)
+              :quote z0)
+    :ARG2 (z6 / perfom-01
+              :ARG1 z5)
+    :temporal (z7 / before
+                  :op1 (z8 / now)
+                  :quant (z9 / long))
+    :temporal (z10 / have-03
+                   :ARG0 (z11 / person
+                              :mod (z12 / old))
+                   :ARG1 (z13 / story
+                              :topic (z14 / chat
+                                          :mod (z15 / some)
+                                          :ARG1-of (z16 / call-01
+                                                        :ARG2 (z17 / talk-01
+                                                                   :ARG0 z11
+                                                                   :place (z18 / grave)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then Black Horse spoke up and said, "This business of taking children away from people to put them in school - when is it going to affect the people from over beyond the mountain?"
+# ::annotator bart-amr
+# ::date 2025-10-21 23:32:46.765420
+(z0 / speak-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / affect-01
+              :ARG0 (z4 / business
+                        :purpose (z5 / take-away-05
+                                     :ARG0 z4
+                                     :ARG1 (z6 / child)
+                                     :ARG2 (z7 / person)
+                                     :purpose (z8 / put-01
+                                                  :ARG0 z4
+                                                  :ARG1 z6
+                                                  :ARG2 (z9 / school))))
+              :ARG1 (z10 / umr-unknown)
+              :ARG2 (z11 / person
+                         :source (z12 / over
+                                      :op1 (z13 / mountain)
+                                      :ARG5 (z14 / cartesian-framework-91
+                                                 :ARG1 (z15 / build-space))))
+              :temporal (z16 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And we'd just as soon fight over the matter as not.", said Black Horse balking stubbornly.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:32:46.765424
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op2 (z4 / fight-01
+                       :ARG0 (z5 / we)
+                       :ARG1 (z6 / matter)
+                       :temporal (z7 / soon
+                                     :mod (z8 / just))
+                       :ARG1-of (z9 / have-substitute-91
+                                    :ARG2 (z10 / fight-01
+                                               :ARG0 z5
+                                               :ARG1 z6
+                                               :polarity -))))
+    :op2 (z11 / bend-01
+              :ARG0 z1
+              :ARG1-of (z12 / stubborn-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Someone by the name of Black Horse had brought a party from the other side of the mountain.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:32:46.765428
+(z0 / bring-01
+    :ARG0 (z1 / someone
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / party)
+    :ARG4 (z4 / side
+              :ARG1-of (z5 / other-01)
+              :part-of (z6 / mountain)))

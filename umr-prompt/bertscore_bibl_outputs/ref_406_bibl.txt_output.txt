@@ -1,0 +1,75 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They would break through this crust, and just stand there.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:51.651924
+(z0 / and
+    :op1 (z1 / break-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / crust
+                       :mod (z4 / this)))
+    :op2 (z5 / stand-01
+             :ARG1 z2
+             :mod (z6 / just)
+             :place (z7 / there)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I stopped right there and looked at him.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:51.651936
+(z0 / and
+    :op1 (z1 / stop-01
+             :ARG0 (z2 / i)
+             :place (z3 / there
+                        :mod (z4 / right-yy))
+             :op2 (z5 / look-01
+                      :ARG0 z2
+                      :ARG1 (z6 / he))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt You just sit and hope for the best.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:51.651941
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / you)
+             :mod (z3 / just))
+    :op2 (z4 / hope-01
+             :ARG0 z2
+             :ARG1 (z5 / thing
+                       :ARG2-of (z6 / good-02))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:51.651945
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He stood growling.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:51.651949
+(z0 / stand-01
+    :ARG1 (z1 / he)
+    :manner (z2 / growl-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt People would merely bring them branches.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:51.651953
+(z0 / bring-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / branch)
+    :ARG2 (z3 / they)
+    :mod (z4 / mere))

@@ -1,0 +1,87 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It cannot be known.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:52.942372
+(z0 / possible-01
+    :ARG1 (z1 / know-01
+              :ARG1 (z2 / it))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt You cannot escape them anyway," my uncle and my grandfather said to us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:52.942391
+(z0 / say-01
+    :ARG0 (z1 / and
+              :op1 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / uncle)))
+              :op2 (z6 / person
+                       :ARG1-of (z7 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z8 / grandfather))))
+    :ARG1 (z9 / possible-01
+              :ARG1 (z10 / escape-01
+                         :ARG0 z4
+                         :ARG1 (z11 / they)
+                         :mod (z12 / anyway))
+              :polarity -)
+    :ARG2 (z13 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Some of us did not know what had been done the night before.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:52.942395
+(z0 / know-01
+    :ARG0 (z1 / we
+              :quant (z2 / some))
+    :ARG1 (z3 / thing
+              :ARG1-of (z4 / do-02
+                           :temporal (z5 / date-entity
+                                         :dayperiod (z6 / night)
+                                         :mod (z7 / before))))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He knows English", I said.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:52.942400
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / know-02
+              :ARG0 (z3 / he)
+              :ARG1 (z4 / language
+                        :name (z5 / name
+                                  :op1 "English")
+                        :wiki "English_language")
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And I don't know just how this chant goes.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:52.942404
+(z0 / and
+    :op2 (z1 / know-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / go-35
+                       :ARG1 (z4 / chant
+                                 :mod (z5 / this))
+                       :mod (z6 / just))
+             :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I don't know how it was done.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:16:52.942408
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG1 (z3 / it))
+    :polarity -)

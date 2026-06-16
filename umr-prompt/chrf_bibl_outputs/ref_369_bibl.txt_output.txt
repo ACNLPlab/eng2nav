@@ -1,0 +1,119 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt But there is a fire extinguisher right alongside these motors
+# ::annotator bart-amr
+# ::date 2025-10-22 00:18:06.914955
+(z0 / contrast-91
+    :ARG2 (z1 / extinguisher
+              :ARG1-of (z2 / extinguish-01)
+              :place (z3 / space
+                         :ARG1-of (z4 / next-to-02
+                                      :ARG2 (z5 / motor
+                                                :mod (z6 / this))
+                                      :ARG3 (z7 / cartesian-framework-91
+                                                :ARG1 (z8 / builder))
+                                      :mod (z9 / right-yy)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Tomorrow these will start out and will be routed right along the mountainside.", said Little Chief (Shipley)
+# ::annotator bart-amr
+# ::date 2025-10-22 00:18:06.914973
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Little"
+                        :op2 "Chief")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / start-out-05
+                       :ARG1 (z5 / thing
+                                 :mod (z6 / this))
+                       :temporal (z7 / date-entity
+                                     :dayperiod (z8 / tomorrow))
+                       :op2 (z9 / routed-01
+                                :ARG1 z5
+                                :path (z10 / along
+                                           :op1 (z11 / mountainide)
+                                           :mod (z12 / right-yy)))
+                       :quote z0)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:18:06.914977
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt While we were flying through there, there were other planes flying alongside us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:18:06.914982
+(z0 / fly-01
+    :ARG1 (z1 / plane
+              :ARG1-of (z2 / other-01))
+    :temporal (z3 / through
+                  :op1 (z4 / there))
+    :place (z5 / beside
+               :op1 (z6 / we)
+               :ARG3 (z7 / cartesian-framework-91
+                         :ARG1 z6
+                         :FR (z8 / relative-to-builder))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Before we got to Shiprock we turned to go alongside the mountain range, toward Lukachukai.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:18:06.914986
+(z0 / turn-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / go-02
+              :ARG0 z1
+              :ARG4 (z3 / along
+                        :op1 (z4 / range
+                                 :mod (z5 / mountain)))
+              :direction (z6 / toward
+                             :op1 (z7 / lake
+                                      :name (z8 / name
+                                                :op1 "Lukachukai")
+                                      :wiki "Lukachukai"))
+              :temporal (z9 / before
+                            :op1 (z10 / get-04
+                                      :ARG0 z1
+                                      :ARG4 (z11 / city
+                                                 :name (z12 / name
+                                                            :op1 "Shiprock")
+                                                 :wiki "Shiprock,_Virginia")))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I looked and saw a fire sitting out alongside.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:18:06.914990
+(z0 / and
+    :op1 (z1 / look-01
+             :ARG0 (z2 / i))
+    :op2 (z3 / see-01
+             :ARG0 z2
+             :ARG1 (z4 / sit-down-02
+                       :ARG1 (z5 / fire)
+                       :ARG2 (z6 / space
+                                 :ARG1-of (z7 / alongside-01)))))

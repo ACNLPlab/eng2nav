@@ -1,0 +1,88 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We would discuss it when we took the wagon after wood.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:31.472050
+(z0 / discuss-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / it)
+    :temporal (z3 / take-01
+                  :ARG0 z1
+                  :ARG1 (z4 / wagon)
+                  :ARG2 (z5 / after
+                            :op1 (z6 / wood))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:31.472069
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He would tell me to haul wood with it, or to work with it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:31.472073
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / or
+              :op1 (z3 / haul-01
+                       :ARG0 (z4 / i)
+                       :ARG1 (z5 / wood)
+                       :ARG3 (z6 / it))
+              :op2 (z7 / work-01
+                       :ARG0 z4
+                       :ARG1 z5))
+    :ARG2 z4)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:31.472078
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He had a wagon and a team.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:31.472082
+(z0 / have-03
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / and
+              :op1 (z3 / wagon)
+              :op2 (z4 / team)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt In the evening after we had unloaded another load of wood we started back home in the wagon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:05:31.472086
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :place (z3 / wagon)
+    :temporal (z4 / after
+                  :op1 (z5 / load-01
+                           :ARG0 z1
+                           :ARG1 (z6 / load
+                                     :mod (z7 / another)
+                                     :consist-of (z8 / wood))))
+    :temporal (z9 / date-entity
+                  :dayperiod (z10 / evening)))

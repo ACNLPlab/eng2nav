@@ -1,0 +1,80 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Not far from there, there was a drop.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:40:15.972593
+(z0 / drop-01
+    :place (z1 / space
+               :ARG1-of (z2 / far-01
+                            :ARG2 (z3 / there))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I looked the place over from there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:40:15.972640
+(z0 / look-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / place)
+    :source (z3 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Like on that other occasion, there was again a lot of fog.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:40:15.972649
+(z0 / fog
+    :ARG1-of (z1 / have-quant-91
+                 :ARG2 (z2 / lot)
+                 :ARG3 (z3 / lot))
+    :ARG1-of (z4 / resemble-91
+                 :ARG2 (z5 / fog
+                           :temporal (z6 / occasion
+                                         :mod (z7 / other)))
+                 :mod (z8 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt While we were flying through there, there were other planes flying alongside us.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:40:15.972658
+(z0 / fly-01
+    :ARG1 (z1 / plane
+              :ARG1-of (z2 / other-01))
+    :temporal (z3 / through
+                  :op1 (z4 / there))
+    :place (z5 / beside
+               :op1 (z6 / we)
+               :ARG3 (z7 / cartesian-framework-91
+                         :ARG1 z6
+                         :FR (z8 / relative-to-builder))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Near the trading post there was a house which
+# ::annotator bart-amr
+# ::date 2025-10-21 21:40:15.972668
+(z0 / house-01
+    :ARG1-of (z1 / have-place-91
+                 :ARG2 (z2 / near-02
+                           :ARG2 (z3 / post
+                                     :mod (z4 / trade)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The small planes - the two motored ones - loaded at Winslow and hauled from there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:40:15.972676
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG1 (z2 / plane
+                       :mod (z3 / small)
+                       :ARG1-of (z4 / motored-01)
+                       :quant 2)
+             :ARG2 (z5 / city
+                       :name (z6 / name
+                                 :op1 "Winslow")
+                       :wiki "Winslow,_Virginia"))
+    :op2 (z7 / haul-01
+             :ARG1 z2
+             :source z5))

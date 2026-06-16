@@ -1,0 +1,119 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We had earphones on, and talked to one another by radio.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:45:15.466086
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / earphone))
+    :op2 (z4 / talk-01
+             :ARG0 z2
+             :ARG2 z2
+             :manner (z5 / radio)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We had the rams in the herd, and they used to really fight with one another.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:45:15.466121
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / ram
+                       :place (z4 / herd)))
+    :op2 (z5 / fight-01
+             :ARG0 z3
+             :ARG2 (z6 / other)
+             :degree (z7 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Of those menfolk who were talking to one another about it, one was called Weela. He lived over behind Round Rock
+# ::annotator bart-amr
+# ::date 2025-10-21 23:45:15.466126
+(z0 / include-91
+    :ARG1 (z1 / man
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / and
+                                     :op1 (z4 / talk-01
+                                              :ARG0 (z5 / man)
+                                              :ARG1 (z6 / it)
+                                              :ARG2 (z7 / other)))
+                           :op2 (z8 / person
+                                    :name (z9 / name
+                                              :op1 "Weela")
+                                    :wiki -))
+              :ARG2 (z10 / person
+                         :ARG0-of (z11 / live-01
+                                       :place (z12 / behind
+                                                   :op1 (z13 / city
+                                                             :name (z14 / name
+                                                                        :op1 "Round"
+                                                                        :op2 "Rock")
+                                                             :wiki "Round_Rock,_Texas"))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:45:15.466130
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The one I referred to as River Man, who is now known as Short Hair, and another boy with him. These were the ones who were locked inside.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:45:15.466135
+(z0 / and
+    :op1 (z1 / one
+             :ARG1-of (z2 / refer-03
+                          :ARG0 (z3 / i)
+                          :ARG2 (z4 / man
+                                    :name (z5 / name
+                                              :op1 "River"
+                                              :op2 "Man")
+                                    :wiki -)
+                          :ARG1-of (z6 / know-02
+                                       :temporal (z7 / now)))
+             :op2 (z8 / boy
+                      :mod (z9 / another)
+                      :ARG1-of (z10 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z11 / boy)))
+             :domain (z12 / one
+                          :ARG1-of (z13 / lock-01
+                                        :ARG2 (z14 / inside))
+                          :domain (z15 / this))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt This way we discussed our position with one another.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:45:15.466139
+(z0 / discuss-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / position
+              :possessor z1)
+    :ARG2 (z3 / other)
+    :manner (z4 / this))

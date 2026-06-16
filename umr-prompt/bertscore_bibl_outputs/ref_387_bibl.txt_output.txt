@@ -1,0 +1,86 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He had been asking that hay be dropped at his own house for three days, but he couldn't find it himself.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:12.792022
+(z0 / contrast-91
+    :ARG1 (z1 / ask-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / drop-01
+                        :ARG1 (z4 / hay)
+                        :ARG2 (z5 / house
+                                  :possessor z2))
+              :duration (z6 / temporal-quantity
+                            :unit (z7 / day)
+                            :quant 3))
+    :ARG2 (z8 / possible-01
+              :ARG1 (z9 / find-01
+                        :ARG0 z2
+                        :ARG1 z4)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He simply couldn't find it.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:12.792038
+(z0 / possible-01
+    :ARG1 (z1 / find-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / it)
+              :mod (z4 / simple))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt After three days (of flying), a man from Kayenta said that he had been unable to spot his own hogan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:12.792042
+(z0 / say-01
+    :ARG0 (z1 / man
+              :source (z2 / city
+                          :name (z3 / name
+                                    :op1 "Kayenta")
+                          :wiki -))
+    :ARG1 (z4 / possible-01
+              :ARG1 (z5 / spot-01
+                        :ARG0 z1
+                        :ARG1 (z6 / hogan
+                                  :possessor z1)
+                        :polarity -)
+              :temporal (z7 / after
+                            :op1 (z8 / fly-01
+                                     :ARG1 z1
+                                     :duration (z9 / temporal-quantity
+                                                   :unit (z10 / day)
+                                                   :quant 3)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They were beating him up.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:12.792046
+(z0 / beat-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:12.792050
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:33:12.792054
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)

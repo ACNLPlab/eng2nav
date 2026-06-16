@@ -1,0 +1,89 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt [But at the time when we were small and used to herd our sheep up there we did not know things like this.] Only my cousin had a smattering of such information,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:25.650957
+(z0 / contrast-91
+    :ARG2 (z1 / know-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / resemble-91
+                                     :ARG2 (z5 / this)))
+              :temporal (z6 / and
+                            :op1 (z7 / small
+                                     :domain z2)
+                            :op2 (z8 / use-01
+                                     :ARG1 z2
+                                     :ARG2 (z9 / herd-01
+                                               :ARG0 z2
+                                               :ARG1 (z10 / sheep
+                                                          :possessor z2)
+                                               :place (z11 / there)))
+                            :polarity -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:25.650973
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt When I was little, perhaps eight years old, I used to herd sheep up on top of Lukachukai Mountain with a cousin.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:25.650977
+(z0 / herd-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :place (z3 / mountain
+               :name (z4 / name
+                         :op1 "Lukachukai"
+                         :op2 "Mountain")
+               :wiki "Lukachukai_National_Park")
+    :companion (z5 / person
+                   :ARG1-of (z6 / have-rel-role-92
+                                :ARG2 z1
+                                :ARG3 (z7 / cousin)))
+    :temporal (z8 / little-01
+                  :ARG1 z1
+                  :ARG2 (z9 / temporal-quantity
+                            :unit (z10 / year)
+                            :quant 8)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Back at that time it was different.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:25.650981
+(z0 / differ-02
+    :ARG1 (z1 / it)
+    :temporal (z2 / time
+                  :mod (z3 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:25.650986
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt At that time he was a policeman.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:46:25.650990
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))

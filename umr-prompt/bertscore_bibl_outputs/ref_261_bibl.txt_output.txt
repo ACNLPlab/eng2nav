@@ -1,0 +1,78 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt On February 2, four of us set out from Tuba City.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:28.880190
+(z0 / set-out-04
+    :ARG0 (z1 / we
+              :quant 4)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Tuba"
+                        :op2 "City")
+              :wiki "Tuba_City")
+    :temporal (z4 / date-entity
+                  :month 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt On the next day, February 4, we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:28.880207
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :mod (z2 / again)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / day)
+                  :mod (z5 / next)
+                  :ARG4-of (z6 / have-temporal-91
+                               :ARG1 z1
+                               :ARG3 (z7 / date-entity
+                                         :month 4))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At dusk we took off in a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:28.880211
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :ARG3 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / dusk)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:28.880215
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt On Monday the seventh I went again.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:28.880220
+(z0 / go-02
+    :ARG0 (z1 / i)
+    :mod (z2 / again)
+    :temporal (z3 / date-entity
+                  :weekday (z4 / monday)
+                  :ord (z5 / ordinal-entity
+                           :value 7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:28.880224
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))

@@ -1,0 +1,94 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We two who were going to school stayed together.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:13.956558
+(z0 / stay-01
+    :ARG1 (z1 / and
+              :op1 (z2 / we)
+              :op2 (z3 / person
+                       :ARG0-of (z4 / go-01
+                                    :ARG1 (z5 / school))))
+    :ARG2 (z6 / together))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Two of the boys who were going to go to school were locked in.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:13.956575
+(z0 / lock-01
+    :ARG1 (z1 / boy
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / boy
+                                     :ARG0-of (z4 / go-01
+                                                  :ARG1 (z5 / school))))
+              :quant 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:13.956579
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We heard reports that there were people going about to get children put into school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:13.956584
+(z0 / hear-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / report-01
+              :ARG1 (z3 / get-01
+                        :ARG0 (z4 / person)
+                        :ARG1 (z5 / put-01
+                                  :ARG1 (z6 / child)
+                                  :ARG2 (z7 / school))
+                        :temporal (z8 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Today we had been placed among children who were to be taken off to school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:13.956588
+(z0 / place-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / among
+              :op1 (z3 / child
+                       :ARG1-of (z4 / take-04
+                                    :ARG2 (z5 / school))))
+    :temporal (z6 / today))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:10:13.956592
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))

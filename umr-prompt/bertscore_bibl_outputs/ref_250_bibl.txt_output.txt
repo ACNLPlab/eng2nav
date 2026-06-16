@@ -1,0 +1,76 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The people of his band were standing with him.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:52:27.990089
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-org-role-92
+                           :ARG2 (z3 / he)
+                           :ARG3 (z4 / band
+                                     :possessor z3)))
+    :ARG2 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt My uncle was standing beside me,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:52:27.990101
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / uncle)))
+    :ARG2 z3
+    :place (z5 / beside
+               :op1 z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Many horses were standing about.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:52:27.990106
+(z0 / stand-01
+    :ARG1 (z1 / horse
+              :quant (z2 / many))
+    :ARG2 (z3 / about))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt These women too had spent the night there with them.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:52:27.990111
+(z0 / spend-02
+    :ARG0 (z1 / woman
+              :mod (z2 / this))
+    :ARG1 (z3 / date-entity
+              :dayperiod (z4 / night))
+    :ARG2 (z5 / there)
+    :ARG3 (z6 / they)
+    :mod (z7 / too))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt All of them had their horses standing there nearby.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:52:27.990115
+(z0 / have-03
+    :ARG0 (z1 / they
+              :mod (z2 / all))
+    :ARG1 (z3 / stand-01
+              :ARG1 (z4 / horse
+                        :possessor z1)
+              :ARG2 (z5 / there
+                        :ARG1-of (z6 / nearby-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:52:27.990119
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)

@@ -1,0 +1,86 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He was a very strong, husky man.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:29:34.532958
+(z0 / man
+    :domain (z1 / he)
+    :ARG1-of (z2 / strong-02
+                 :degree (z3 / very))
+    :ARG1-of (z4 / husky-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I had an uncle by the name of Forked House. He was a young man, and he adopted me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:29:34.532976
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / person
+                       :ARG1-of (z4 / have-rel-role-92
+                                    :ARG2 z2
+                                    :ARG3 (z5 / uncle))
+                       :ARG1-of (z6 / name
+                                    :op1 "Forked"
+                                    :op2 "House")))
+    :op2 (z7 / adopt-01
+             :ARG0 z3
+             :ARG1 z2)
+    :op3 (z8 / young-01
+             :ARG1 (z9 / he)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He was a policeman back at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:29:34.532980
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The Bat was a man who could understand Navajo very well.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:29:34.532985
+(z0 / man
+    :domain (z1 / person
+                :name (z2 / name
+                          :op1 "Bat")
+                :wiki "The_Bat")
+    :ARG0-of (z3 / understand-01
+                 :ARG1 (z4 / language
+                           :name (z5 / name
+                                     :op1 "Navajo")
+                           :wiki "Navajo_language"))
+    :domain z1)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:29:34.532989
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The woman glanced our way. Her name was Red Buttock Clan Woman. She is still living
+# ::annotator bart-amr
+# ::date 2025-10-21 22:29:34.532993
+(z0 / and
+    :op1 (z1 / glance-01
+             :ARG0 (z2 / woman)
+             :ARG1 (z3 / we)
+             :direction (z4 / way))
+    :op2 (z5 / name
+             :op1 "Red"
+             :op2 "Buttock"
+             :op3 "Clan"
+             :op5 "Woman")
+    :domain z2
+    :wiki "Red_Buttock_Clan")

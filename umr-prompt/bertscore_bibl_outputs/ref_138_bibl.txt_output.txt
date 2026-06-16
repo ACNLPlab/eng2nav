@@ -1,0 +1,113 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The children from Blue Clay Point who were to be put in school had not all been brought in as yet.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:29.419789
+(z0 / bring-01
+    :ARG1 (z1 / child
+              :source (z2 / point
+                          :name (z3 / name
+                                    :op1 "Blue"
+                                    :op2 "Clay"
+                                    :op3 "Point")
+                          :wiki "Blue_Clay_Point_Naval_Base")
+              :ARG0-of (z4 / put-01
+                           :ARG1 z1
+                           :ARG2 (z5 / school))
+              :mod (z6 / all))
+    :temporal (z7 / yet)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Two of the boys who were going to go to school were locked in.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:29.419807
+(z0 / lock-01
+    :ARG1 (z1 / boy
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / boy
+                                     :ARG0-of (z4 / go-01
+                                                  :ARG1 (z5 / school))))
+              :quant 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:29.419811
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We two who were going to school stayed together.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:29.419815
+(z0 / stay-01
+    :ARG1 (z1 / and
+              :op1 (z2 / we)
+              :op2 (z3 / person
+                       :ARG0-of (z4 / go-01
+                                    :ARG1 (z5 / school))))
+    :ARG2 (z6 / together))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They had no doubt heard that in a certain number of days a party would come to Blue Clay Point for the purpose of putting children in school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:29.419819
+(z0 / doubt-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / hear-01
+              :ARG0 z1
+              :ARG1 (z3 / come-01
+                        :ARG1 (z4 / party)
+                        :ARG4 (z5 / point
+                                  :name (z6 / name
+                                            :op1 "Blue"
+                                            :op2 "Clay"
+                                            :op3 "Point")
+                                  :wiki "Blue_Clay_Point_Naval_Base")
+                        :purpose (z7 / put-01
+                                     :ARG0 z4
+                                     :ARG1 (z8 / child)
+                                     :ARG2 (z9 / school))
+                        :temporal (z10 / after
+                                       :quant (z11 / number
+                                                   :quant (z12 / certain))))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We heard reports that there were people going about to get children put into school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:15:29.419823
+(z0 / hear-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / report-01
+              :ARG1 (z3 / get-01
+                        :ARG0 (z4 / person)
+                        :ARG1 (z5 / put-01
+                                  :ARG1 (z6 / child)
+                                  :ARG2 (z7 / school))
+                        :temporal (z8 / about))))

@@ -1,0 +1,63 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We started doing that kind of work.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:30.057548
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / work-01
+                                     :degree (z5 / kind-of)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I heard them saying that.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:30.057560
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 (z3 / they)
+              :ARG1 (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:30.057564
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They started out with him.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:30.057569
+(z0 / start-01
+    :ARG0 (z1 / they)
+    :ARG2 (z2 / he))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It happened that way.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:30.057573
+(z0 / have-direction-91
+    :ARG1 (z1 / it)
+    :ARG2 (z2 / way))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:03:30.057577
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))

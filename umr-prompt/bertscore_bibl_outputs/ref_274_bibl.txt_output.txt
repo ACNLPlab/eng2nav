@@ -1,0 +1,60 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It was a four motored plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:46.972206
+(z0 / plane
+    :ARG1-of (z1 / motory-01
+                 :quant 4)
+    :domain (z2 / it))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There were four planes.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:46.972218
+(z0 / plane
+    :quant 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These big planes have four motors.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:46.972222
+(z0 / have-03
+    :ARG0 (z1 / plane
+              :mod (z2 / big)
+              :mod (z3 / this))
+    :ARG1 (z4 / motor
+              :quant 4))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:46.972226
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He was a very strong, husky man.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:46.972230
+(z0 / man
+    :domain (z1 / he)
+    :ARG1-of (z2 / strong-02
+                 :degree (z3 / very))
+    :ARG1-of (z4 / husky-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:59:46.972234
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))

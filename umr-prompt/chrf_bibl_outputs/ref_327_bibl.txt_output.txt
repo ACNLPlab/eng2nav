@@ -1,0 +1,115 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We also met with an army officer from California.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.017726
+(z0 / meet-03
+    :ARG0 (z1 / we)
+    :ARG2 (z2 / person
+              :ARG1-of (z3 / have-org-role-92
+                           :ARG2 (z4 / army)
+                           :ARG3 (z5 / officer
+                                     :source (z6 / state
+                                                 :name (z7 / name
+                                                           :op1 "California")
+                                                 :wiki "California"))))
+    :mod (z8 / also))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was from Chinle, but he was a member of the police force at Fort Defiance.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.017744
+(z0 / contrast-91
+    :ARG1 (z1 / have-place-91
+              :ARG1 (z2 / he)
+              :ARG2 (z3 / city
+                        :name (z4 / name
+                                  :op1 "Chinle")
+                        :wiki "Chinle,_Alabama"))
+    :ARG2 (z5 / have-org-role-92
+              :ARG1 z2
+              :ARG2 (z6 / member)
+              :ARG3 (z7 / police)
+              :place (z8 / facility
+                         :name (z9 / name
+                                   :op1 "Fort"
+                                   :op2 "Defiance")
+                         :wiki "Fort_Defiance_Naval_Base")))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt On the next day, which was February 5, we met with the Governor of Arizona.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.017749
+(z0 / meet-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / person
+              :ARG1-of (z3 / have-org-role-92
+                           :ARG2 (z4 / state
+                                     :name (z5 / name
+                                               :op1 "Arizona")
+                                     :wiki "Arizona")
+                           :ARG3 (z6 / governor)))
+    :temporal (z7 / day
+                  :mod (z8 / next)
+                  :temporal-of (z9 / date-entity
+                                   :month 5)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt On the morrow we would start off with them. So for that purpose, in the morning we again started off from the hogan afoot.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.017753
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG2 (z2 / they)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / morrow))
+    :purpose (z5 / start-01
+                 :ARG0 z1
+                 :ARG1 z2
+                 :place (z6 / hogan
+                            :ARG1-of (z7 / afoot-01))
+                 :temporal (z8 / date-entity
+                               :dayperiod (z9 / morning))
+                 :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He used to be out there early in the morning with a stick especially made for that purpose.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.017757
+(z0 / have-place-91
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / there)
+    :ARG3 (z3 / stick
+              :ARG1-of (z4 / make-01
+                           :ARG2 (z5 / purpose
+                                     :mod (z6 / that))
+                           :degree (z7 / especially)))
+    :temporal (z8 / early-01
+                  :ARG2 (z9 / date-entity
+                            :dayperiod (z10 / morning))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He had come on ahead with the white man from Fort Defiance called Little Chief (Agent Dana Shipley).
+# ::annotator bart-amr
+# ::date 2025-10-22 00:01:21.017761
+(z0 / come-01
+    :ARG1 (z1 / he)
+    :ARG4 (z2 / ahead)
+    :ARG3 (z3 / man
+              :mod (z4 / white)
+              :source (z5 / city
+                          :name (z6 / name
+                                    :op1 "Fort"
+                                    :op2 "Defiance")
+                          :wiki "Fort_Defiance")
+              :ARG1-of (z7 / call-01
+                           :ARG2 (z8 / person
+                                     :name (z9 / name
+                                               :op1 "Dana"
+                                               :op2 "Shipley")
+                                     :wiki -))))

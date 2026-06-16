@@ -1,0 +1,109 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The Bat was a man who could understand Navajo very well.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:31.508568
+(z0 / man
+    :domain (z1 / person
+                :name (z2 / name
+                          :op1 "Bat")
+                :wiki "The_Bat")
+    :ARG0-of (z3 / understand-01
+                 :ARG1 (z4 / language
+                           :name (z5 / name
+                                     :op1 "Navajo")
+                           :wiki "Navajo_language"))
+    :domain z1)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The brother of The One Who Has Eyeglasses (John Lorenzo Hubell) from Ganado, a man called the Bat, was a clerk there. He was over to one side behind the counter.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:31.508586
+(z0 / clerk
+    :place (z1 / there)
+    :domain (z2 / person
+                :ARG1-of (z3 / have-rel-role-92
+                             :ARG2 (z4 / person
+                                       :name (z5 / name
+                                                 :op1 "The"
+                                                 :op2 "One"
+                                                 :op3 "Who"
+                                                 :op3 "Has"
+                                                 :op4 "Eyeglasses")
+                                       :wiki -)
+                             :ARG3 (z6 / brother)
+                             :source (z7 / city
+                                         :name (z8 / name
+                                                   :op1 "Ganado")
+                                         :wiki "Ganado,_Florida")
+                             :ARG1-of (z9 / call-01
+                                          :ARG2 (z10 / Bat))))
+    :domain z2)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I got over to where the dog was barking, and there I saw a bear standing.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:31.508591
+(z0 / and
+    :op1 (z1 / get-01
+             :ARG0 (z2 / i)
+             :ARG4 (z3 / over
+                       :op1 (z4 / barking-01
+                                :ARG0 (z5 / dog))))
+    :op2 (z6 / see-01
+             :ARG0 z2
+             :ARG1 (z7 / stand-01
+                       :ARG1 (z8 / bear))
+             :place z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That was how it was too with the other Navajos with whom I went to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:31.508595
+(z0 / resemble-91
+    :ARG2 (z1 / that)
+    :ARG3 (z2 / person
+              :mod (z3 / other)
+              :ARG1-of (z4 / go-01
+                           :ARG0 (z5 / i)
+                           :ARG4 (z6 / city
+                                     :name (z7 / name
+                                               :op1 "Phoenix")
+                                     :wiki "Phoenix")))
+    :mod (z8 / too))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt There was a boy of the Big Water Clan with whom I always chummed around.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:31.508599
+(z0 / boy
+    :possessor (z1 / local-region
+                   :name (z2 / name
+                             :op1 "Big"
+                             :op2 "Water"
+                             :op3 "Clan")
+                   :wiki "Bigwater_Clan")
+    :ARG1-of (z3 / chum-01
+                 :ARG2 (z4 / i)
+                 :temporal (z5 / always)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He wouldn't do anything under these circumstances even if one got very close to him.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:26:31.508603
+(z0 / do-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / anything)
+    :temporal (z3 / circumstance
+                  :mod (z4 / this))
+    :concession (z5 / even-if
+                    :op1 (z6 / close-10
+                             :ARG1 (z7 / one)
+                             :ARG2 z1
+                             :degree (z8 / very))
+                    :polarity -))

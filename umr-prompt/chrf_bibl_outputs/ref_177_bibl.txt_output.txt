@@ -1,0 +1,80 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It waid that they were Anasazi.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:23.370000
+(z0 / all-right
+    :domain (z1 / they)
+    :ARG2 (z2 / person
+              :name (z3 / name
+                        :op1 "Anasazi")
+              :wiki "Anasazi"))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It was said that they were then over at Chinle,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:23.370016
+(z0 / say-01
+    :ARG1 (z1 / over-04
+              :ARG1 (z2 / they)
+              :ARG2 (z3 / facility
+                        :name (z4 / name
+                                  :op1 "Chinle")
+                        :wiki -)
+              :temporal (z5 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:23.370021
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:23.370025
+(z0 / say-01
+    :ARG1 (z1 / start-01
+              :ARG1 (z2 / wagon
+                        :companion (z3 / child))
+              :temporal (z4 / after
+                            :op1 (z5 / now)
+                            :quant (z6 / temporal-quantity
+                                       :unit (z7 / day)
+                                       :quant 2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt At that time, when they acted as they did, they were young men.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:23.370029
+(z0 / have-age-91
+    :ARG1 (z1 / they)
+    :ARG2 (z2 / man)
+    :ARG3 (z3 / young)
+    :temporal (z4 / act-02
+                  :ARG0 z1
+                  :manner (z5 / do-02
+                              :ARG0 z1))
+    :temporal (z6 / time
+                  :mod (z7 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was there that they carried on the ceremony.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:55:23.370033
+(z0 / carry-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / ceremony)
+    :place (z3 / there))

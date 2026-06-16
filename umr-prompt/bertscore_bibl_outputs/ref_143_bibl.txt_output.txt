@@ -1,0 +1,77 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It is just recently that these people became old men, and they have all died.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:17:27.503678
+(z0 / and
+    :op1 (z1 / become-01
+             :ARG1 (z2 / person
+                       :mod (z3 / this))
+             :ARG2 (z4 / man
+                       :ARG1-of (z5 / old-01))
+             :temporal (z6 / recent
+                           :mod (z7 / just))
+             :op2 (z8 / die-01
+                      :ARG1 (z9 / person
+                                :mod (z10 / all)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt It was there that my grandfather spoke and promised us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:17:27.503695
+(z0 / and
+    :op1 (z1 / speak-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather))))
+    :op2 (z6 / promise-01
+             :ARG0 z2
+             :ARG1 (z7 / we))
+    :place (z8 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was only after I stopped that my cousin caught up with me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:17:27.503700
+(z0 / catch-up-04
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG2 z3
+    :temporal (z5 / after
+                  :op1 (z6 / stop-01
+                           :ARG0 z3)
+                  :mod (z7 / only)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:17:27.503704
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Many people lost stock.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:17:27.503708
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / stock))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:17:27.503713
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))

@@ -1,0 +1,118 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt At that time horses were the only means people had for transportation.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:58.626312
+(z0 / horse
+    :temporal (z1 / time
+                  :mod (z2 / that))
+    :domain (z3 / means
+                :mod (z4 / only)
+                :purpose (z5 / transport-01
+                             :ARG0 (z6 / person))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt At that time up there on the mountain there were those that live in mountains, bears as they are called.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:58.626331
+(z0 / exist-91
+    :ARG1 (z1 / person
+              :ARG0-of (z2 / live-01
+                           :place (z3 / mountain))
+              :ARG0-of (z4 / call-01
+                           :ARG1 (z5 / bear)))
+    :ARG2 (z6 / person
+              :ARG0-of (z7 / live-01
+                           :place (z8 / mountain)))
+    :temporal (z9 / time
+                  :mod (z10 / that))
+    :place (z11 / there
+                :ARG1-of (z12 / have-place-91
+                              :ARG2 (z13 / there)
+                              :ARG3 (z14 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt In some places cattle and horses were just standing about, probably on account of the crusted snow.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:58.626335
+(z0 / stand-01
+    :ARG1 (z1 / and
+              :op1 (z2 / cattle)
+              :op2 (z3 / horse))
+    :mod (z4 / just)
+    :place (z5 / place
+               :quant (z6 / some))
+    :ARG1-of (z7 / cause-01
+                 :ARG0 (z8 / snow-01
+                           :ARG1-of (z9 / crusted-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt My gradnfather, a man by the name of White Mexican Clansman, and another man called The Son of Former Sweathouse, were the only men. They and several womenfolk worked hard on me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:58.626339
+(z0 / and
+    :op1 (z1 / man
+             :mod (z2 / only)
+             :ARG1-of (z3 / have-rel-role-92
+                          :ARG2 (z4 / i)
+                          :ARG3 (z5 / father))
+             :op2 (z6 / man
+                      :mod (z7 / name
+                               :op1 "White"
+                               :op2 "Mexican"
+                               :op3 "Clansman")
+                      :wiki "White_Mexican_Clansman")
+             :op3 (z8 / man
+                      :mod (z9 / another)
+                      :ARG1-of (z10 / call-01
+                                    :ARG2 (z11 / person
+                                               :name (z12 / name
+                                                          :op1 "The"
+                                                          :op2 "Son"
+                                                          :op3 "of"
+                                                          :op3 "of"
+                                                          :op4 "Sweathouse")
+                                               :wiki -))))
+    :op4 (z13 / work-01
+              :ARG0 (z14 / and
+                         :op1 (z15 / they)
+                         :op2 (z16 / woman
+                                   :quant (z17 / several))
+                         :ARG1 (z18 / hard)
+                         :ARG2 z4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When we got to the store we found that many people had assembled.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:58.626343
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / assemble-02
+              :ARG0 (z3 / person
+                        :quant (z4 / many)))
+    :temporal (z5 / get-01
+                  :ARG0 z1
+                  :ARG4 (z6 / store)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And I found that the people from beyond the mountain - those among whom the news had been spread, and who were sent for - had arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:00:58.626347
+(z0 / and
+    :op2 (z1 / find-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / arrive-01
+                       :ARG1 (z4 / person
+                                 :source (z5 / beyond
+                                             :op1 (z6 / mountain))
+                                 :ARG1-of (z7 / include-91
+                                              :ARG2 (z8 / and
+                                                        :op1 (z9 / spread-03
+                                                                 :ARG1 (z10 / news))
+                                                        :op2 (z11 / send-01
+                                                                  :ARG1 z4)))))))

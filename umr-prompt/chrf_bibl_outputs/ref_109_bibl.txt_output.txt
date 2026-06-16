@@ -1,0 +1,99 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt "Say, let's go to school," I said to my companion.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:49.067652
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 z1
+              :ARG1 (z3 / go-05
+                        :ARG0 z1
+                        :ARG1 (z4 / school)
+                        :quote z0)
+              :ARG2 (z5 / companion)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We told them how we had both said, "Let's go to school."
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:49.067672
+(z0 / tell-01
+    :ARG0 (z1 / we
+              :mod (z2 / both))
+    :ARG1 (z3 / say-01
+              :ARG0 z1
+              :ARG1 (z4 / go-05
+                        :ARG0 z1
+                        :ARG1 (z5 / school))
+              :ARG2 (z6 / they)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt As she passed by she said, "It is said that those boys who are unloading wood over there have been promised for school - they will go to school too.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:49.067676
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / and
+              :op1 (z3 / say-01
+                       :ARG1 (z4 / promise-01
+                                 :ARG1 (z5 / boy
+                                           :ARG0-of (z6 / load-01
+                                                        :ARG1 (z7 / wood)
+                                                        :place (z8 / there)))
+                                 :ARG2 (z9 / school))
+                       :quote z0)
+              :op2 (z10 / go-02
+                        :ARG0 z5
+                        :ARG4 z9
+                        :mod (z11 / too)))
+    :temporal (z12 / pass-by-02
+                   :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Two of the boys who were going to go to school were locked in.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:49.067680
+(z0 / lock-01
+    :ARG1 (z1 / boy
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / boy
+                                     :ARG0-of (z4 / go-01
+                                                  :ARG1 (z5 / school))))
+              :quant 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:49.067685
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:49.067689
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)

@@ -1,0 +1,90 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt On the next day, February 4, we took off again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:55.594783
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :mod (z2 / again)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / day)
+                  :mod (z5 / next)
+                  :ARG4-of (z6 / have-temporal-91
+                               :ARG1 z1
+                               :ARG3 (z7 / date-entity
+                                         :month 4))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt On the next day, which was February 5, we met with the Governor of Arizona.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:55.594799
+(z0 / meet-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / person
+              :ARG1-of (z3 / have-org-role-92
+                           :ARG2 (z4 / state
+                                     :name (z5 / name
+                                               :op1 "Arizona")
+                                     :wiki "Arizona")
+                           :ARG3 (z6 / governor)))
+    :temporal (z7 / day
+                  :mod (z8 / next)
+                  :temporal-of (z9 / date-entity
+                                   :month 5)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt On February 2, four of us set out from Tuba City.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:55.594803
+(z0 / set-out-04
+    :ARG0 (z1 / we
+              :quant 4)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Tuba"
+                        :op2 "City")
+              :wiki "Tuba_City")
+    :temporal (z4 / date-entity
+                  :month 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt On Monday the seventh I went again.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:55.594808
+(z0 / go-02
+    :ARG0 (z1 / i)
+    :mod (z2 / again)
+    :temporal (z3 / date-entity
+                  :weekday (z4 / monday)
+                  :ord (z5 / ordinal-entity
+                           :value 7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we took off
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:55.594812
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :temporal (z2 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then on the day following the night of my birth we again started to move.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:11:55.594816
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / move-01
+              :ARG0 z1)
+    :temporal (z3 / then)
+    :mod (z4 / again)
+    :temporal (z5 / day
+                  :ARG1-of (z6 / follow-01
+                               :ARG2 (z7 / date-entity
+                                         :dayperiod (z8 / night)
+                                         :temporal-of (z9 / bear-02
+                                                          :ARG1 (z10 / i))))))

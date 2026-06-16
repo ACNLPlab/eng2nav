@@ -1,0 +1,97 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then early on the following morning we were awakened,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:09.245883
+(z0 / awaken-01
+    :ARG1 (z1 / we)
+    :temporal (z2 / early-01
+                  :ARG2 (z3 / date-entity
+                            :dayperiod (z4 / morning)
+                            :mod (z5 / following)))
+    :temporal (z6 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I saw another one on the following day, but at a distance, and walking on the mountainside.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:09.245899
+(z0 / see-01
+    :ARG0 (z1 / person
+              :refer-person 1st)
+    :ARG1 (z2 / one
+              :mod (z3 / another))
+    :temporal (z4 / date-entity
+                  :dayperiod (z5 / day)
+                  :mod (z6 / following))
+    :manner (z7 / and
+                :op1 (z8 / distance-quantity
+                         :quant-of z2)
+                :op2 (z9 / walk-01
+                         :ARG0 z1
+                         :place (z10 / mountainside))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We were awakened from sleep at four o'clock, before dawn.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:09.245904
+(z0 / wake-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / sleep-01
+              :ARG0 z1)
+    :temporal (z3 / before
+                  :op1 (z4 / date-entity
+                           :dayperiod (z5 / dawn))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then on the day following the night of my birth we again started to move.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:09.245908
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / move-01
+              :ARG0 z1)
+    :temporal (z3 / then)
+    :mod (z4 / again)
+    :temporal (z5 / day
+                  :ARG1-of (z6 / follow-01
+                               :ARG2 (z7 / date-entity
+                                         :dayperiod (z8 / night)
+                                         :temporal-of (z9 / bear-02
+                                                          :ARG1 (z10 / i))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He used to be out there early in the morning with a stick especially made for that purpose.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:09.245912
+(z0 / have-place-91
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / there)
+    :ARG3 (z3 / stick
+              :ARG1-of (z4 / make-01
+                           :ARG2 (z5 / purpose
+                                     :mod (z6 / that))
+                           :degree (z7 / especially)))
+    :temporal (z8 / early-01
+                  :ARG2 (z9 / date-entity
+                            :dayperiod (z10 / morning))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:36:09.245916
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))

@@ -1,0 +1,80 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and one which I tell to the children.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:39:39.995208
+(z0 / and
+    :op2 (z1 / one
+             :ARG1-of (z2 / tell-01
+                          :ARG0 (z3 / i)
+                          :ARG2 (z4 / child))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and that was probably why he was told to take care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:39:39.995225
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / that)
+             :ARG1 (z3 / tell-01
+                       :ARG1 (z4 / care-03
+                                 :ARG0 (z5 / he)
+                                 :ARG1 (z6 / child))
+                       :ARG2 z5)
+             :ARG1-of (z7 / likely-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And we found that the children had arrived.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:39:39.995230
+(z0 / and
+    :op2 (z1 / find-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / arrive-01
+                       :ARG1 (z4 / child))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was said that the wagon with the children would start off in two days.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:39:39.995234
+(z0 / say-01
+    :ARG1 (z1 / start-01
+              :ARG1 (z2 / wagon
+                        :companion (z3 / child))
+              :temporal (z4 / after
+                            :op1 (z5 / now)
+                            :quant (z6 / temporal-quantity
+                                       :unit (z7 / day)
+                                       :quant 2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:39:39.995238
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt "We'll not give you a one of our children.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:39:39.995242
+(z0 / give-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / one
+              :ARG1-of (z3 / have-rel-role-92
+                           :ARG2 z1
+                           :ARG3 (z4 / child
+                                     :possessor z1)))
+    :ARG2 (z5 / you)
+    :polarity -)

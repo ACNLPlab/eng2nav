@@ -1,0 +1,138 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt While they were making this move they stopped for the night, and it is said that I was born where they halted.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:19.131994
+(z0 / and
+    :op1 (z1 / stop-01
+             :ARG0 (z2 / they)
+             :temporal (z3 / move-01
+                           :ARG0 z2
+                           :mod (z4 / this))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / night)))
+    :op2 (z7 / say-01
+             :ARG1 (z8 / bear-02
+                       :ARG1 (z9 / i)
+                       :place (z10 / halt-01
+                                   :ARG0 z2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt A man of the Salty Water Clan whose name was Slender Lava had his family there, and his wife cooked all night for the men who were making the trouble.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:19.132012
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / man
+                       :mod (z3 / clan
+                                :name (z4 / name
+                                          :op1 "Salty"
+                                          :op2 "Water"
+                                          :op3 "Clan")
+                                :wiki "Salty_Water")
+                       :ARG1-of (z5 / name
+                                    :op1 "Slender"
+                                    :op3 "Lava"))
+             :ARG1 (z6 / there))
+    :op2 (z7 / eat-01
+             :ARG0 (z8 / woman
+                       :ARG1-of (z9 / have-rel-role-92
+                                    :ARG2 z2
+                                    :ARG3 (z10 / wife)))
+             :ARG2 (z11 / man
+                        :ARG0-of (z12 / trouble-01))
+             :duration (z13 / date-entity
+                            :dayperiod (z14 / night))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt As she passed by she said, "It is said that those boys who are unloading wood over there have been promised for school - they will go to school too.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:19.132017
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / and
+              :op1 (z3 / say-01
+                       :ARG1 (z4 / promise-01
+                                 :ARG1 (z5 / boy
+                                           :ARG0-of (z6 / load-01
+                                                        :ARG1 (z7 / wood)
+                                                        :place (z8 / there)))
+                                 :ARG2 (z9 / school))
+                       :quote z0)
+              :op2 (z10 / go-02
+                        :ARG0 z5
+                        :ARG4 z9
+                        :mod (z11 / too)))
+    :temporal (z12 / pass-by-02
+                   :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:19.132021
+(z0 / go-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / mother)))
+    :ARG4 (z5 / foot)
+    :extent (z6 / far
+                :extent-of (z7 / move-01
+                               :ARG0 (z8 / person)
+                               :temporal (z9 / date-entity
+                                             :dayperiod (z10 / day)
+                                             :mod (z11 / that)))
+                :temporal (z12 / following
+                               :op1 (z13 / date-entity
+                                         :dayperiod (z14 / night
+                                                         :temporal-of (z15 / bear-02
+                                                                           :ARG0 z1
+                                                                           :ARG1 z3))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Just as dawn was breaking First Man went out doors to urinate; he glanced over at the peak of Gobernador Knob, and saw a little cloud hanging there, it is said.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:19.132025
+(z0 / say-01
+    :ARG1 (z1 / and
+              :op1 (z2 / go-02
+                       :ARG0 (z3 / person
+                                 :name (z4 / name
+                                           :op1 "First"
+                                           :op2 "Man")
+                                 :wiki -)
+                       :ARG4 (z5 / door)
+                       :purpose (z6 / urinate-01
+                                    :ARG0 z3)
+                       :temporal (z7 / just-as
+                                     :op1 (z8 / break-01
+                                              :ARG1 (z9 / dawn))))
+              :op2 (z10 / see-01
+                        :ARG0 z3
+                        :ARG1 (z11 / cloud
+                                   :ARG1-of (z12 / hang-01
+                                                 :place (z13 / there))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:58:19.132029
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))

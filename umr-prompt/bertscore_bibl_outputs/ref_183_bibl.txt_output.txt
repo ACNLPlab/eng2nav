@@ -1,0 +1,75 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Today we had been placed among children who were to be taken off to school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:31.541230
+(z0 / place-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / among
+              :op1 (z3 / child
+                       :ARG1-of (z4 / take-04
+                                    :ARG2 (z5 / school))))
+    :temporal (z6 / today))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Two of the boys who were going to go to school were locked in.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:31.541242
+(z0 / lock-01
+    :ARG1 (z1 / boy
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / boy
+                                     :ARG0-of (z4 / go-01
+                                                  :ARG1 (z5 / school))))
+              :quant 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We two who were going to school stayed together.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:31.541246
+(z0 / stay-01
+    :ARG1 (z1 / and
+              :op1 (z2 / we)
+              :op2 (z3 / person
+                       :ARG0-of (z4 / go-01
+                                    :ARG1 (z5 / school))))
+    :ARG2 (z6 / together))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We heard reports that there were people going about to get children put into school.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:31.541251
+(z0 / hear-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / report-01
+              :ARG1 (z3 / get-01
+                        :ARG0 (z4 / person)
+                        :ARG1 (z5 / put-01
+                                  :ARG1 (z6 / child)
+                                  :ARG2 (z7 / school))
+                        :temporal (z8 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And we found that the children had arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:31.541255
+(z0 / and
+    :op2 (z1 / find-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / arrive-01
+                       :ARG1 (z4 / child))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Then we were told that the time had come.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:31.541259
+(z0 / tell-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / come-01
+              :ARG1 (z3 / time))
+    :temporal (z4 / then))

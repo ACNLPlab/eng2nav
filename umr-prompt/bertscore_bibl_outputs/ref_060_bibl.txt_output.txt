@@ -1,0 +1,79 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Let’s see, I believe it was in the month of October
+# ::annotator bart-amr
+# ::date 2025-10-21 21:49:58.487208
+(z0 / and
+    :op1 (z1 / see-01
+             :ARG0 (z2 / we)
+             :mode imperative)
+    :op2 (z3 / believe-01
+             :ARG0 (z4 / i)
+             :ARG1 (z5 / have-place-91
+                       :ARG1 (z6 / it)
+                       :ARG2 (z7 / date-entity
+                                 :month 10))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That’s what I think.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:49:58.487225
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It was at that time, in the spring, that they moved to Blue Clay Point, it was said.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:49:58.487229
+(z0 / say-01
+    :ARG1 (z1 / move-01
+              :ARG0 (z2 / they)
+              :ARG4 (z3 / point
+                        :name (z4 / name
+                                  :op1 "Blue"
+                                  :op2 "Clay"
+                                  :op3 "Point")
+                        :wiki -)
+              :temporal (z5 / date-entity
+                            :month (z6 / spring))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Nevertheless, we hauled two loads that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:49:58.487234
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :temporal (z4 / day
+                            :mod (z5 / that))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:49:58.487238
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was in the Spring when they moved there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:49:58.487242
+(z0 / move-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / there)
+    :temporal (z3 / date-entity
+                  :year 2016))

@@ -1,0 +1,104 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt All of them had their horses standing there nearby.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:52.616061
+(z0 / have-03
+    :ARG0 (z1 / they
+              :mod (z2 / all))
+    :ARG1 (z3 / stand-01
+              :ARG1 (z4 / horse
+                        :possessor z1)
+              :ARG2 (z5 / there
+                        :ARG1-of (z6 / nearby-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There could be some of them right here nearby.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:52.616078
+(z0 / possible-01
+    :ARG1 (z1 / possible-01
+              :ARG1 (z2 / they
+                        :quant (z3 / some)
+                        :place (z4 / here
+                                   :mod (z5 / right-yy)
+                                   :ARG1-of (z6 / have-place-91
+                                                :ARG2 (z7 / nearby))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and I don't remember who else was standing there.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:52.616082
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / person
+                       :ARG1-of (z4 / stand-01
+                                    :ARG2 (z5 / there))
+                       :mod (z6 / else))
+             :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt At the time we had brought the last load of wood; while we were unloading it we noticed two women leading a horse nearby.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:52.616086
+(z0 / notice-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / lead-02
+              :ARG0 (z3 / woman
+                        :quant 2)
+              :ARG1 (z4 / horse)
+              :place (z5 / nearby)
+              :temporal (z6 / bring-01
+                            :ARG0 z1
+                            :ARG1 (z7 / load
+                                      :consist-of (z8 / wood)
+                                      :ord (z9 / ordinal-entity
+                                               :value "-1")))
+              :temporal (z10 / while
+                             :op1 (z11 / load-01
+                                       :ARG0 z1
+                                       :ARG1 z7))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In some places cattle and horses were just standing about, probably on account of the crusted snow.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:52.616091
+(z0 / stand-01
+    :ARG1 (z1 / and
+              :op1 (z2 / cattle)
+              :op2 (z3 / horse))
+    :mod (z4 / just)
+    :place (z5 / place
+               :quant (z6 / some))
+    :ARG1-of (z7 / cause-01
+                 :ARG0 (z8 / snow-01
+                           :ARG1-of (z9 / crusted-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:45:52.616095
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))

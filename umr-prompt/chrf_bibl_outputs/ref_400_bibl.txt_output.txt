@@ -1,0 +1,122 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They work on a basis of single minutes. They would say it's so far between certain points.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:36.641378
+(z0 / and
+    :op1 (z1 / work-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / temporal-quantity
+                       :unit (z4 / minute)
+                       :quant 1))
+    :op2 (z5 / say-01
+             :ARG0 z2
+             :ARG1 (z6 / between-01
+                       :ARG1 (z7 / it)
+                       :ARG2 (z8 / point
+                                 :mod (z9 / certain))
+                       :ARG3 (z10 / so))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And they went on the basis of how many minutes it would take.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:36.641396
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / they)
+             :manner (z3 / basis
+                         :op1 (z4 / temporal-quantity
+                                  :unit (z5 / minute)
+                                  :quant-of (z6 / take-10
+                                                :ARG1 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They had no doubt heard that in a certain number of days a party would come to Blue Clay Point for the purpose of putting children in school.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:36.641400
+(z0 / doubt-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / hear-01
+              :ARG0 z1
+              :ARG1 (z3 / come-01
+                        :ARG1 (z4 / party)
+                        :ARG4 (z5 / point
+                                  :name (z6 / name
+                                            :op1 "Blue"
+                                            :op2 "Clay"
+                                            :op3 "Point")
+                                  :wiki "Blue_Clay_Point_Naval_Base")
+                        :purpose (z7 / put-01
+                                     :ARG0 z4
+                                     :ARG1 (z8 / child)
+                                     :ARG2 (z9 / school))
+                        :temporal (z10 / after
+                                       :quant (z11 / number
+                                                   :quant (z12 / certain))))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:36.641404
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Sometimes the rams would get far apart and my cousin would step in between them and then jump aside as their heads came together.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:36.641409
+(z0 / and
+    :op1 (z1 / get-03
+             :ARG1 (z2 / ram)
+             :ARG2 (z3 / apart
+                       :extent (z4 / far))
+             :temporal (z5 / sometimes))
+    :op2 (z6 / and
+             :op1 (z7 / step-01
+                      :ARG0 (z8 / person
+                                :ARG1-of (z9 / have-rel-role-92
+                                             :ARG2 (z10 / i)
+                                             :ARG3 (z11 / cousin)))
+                      :ARG1 z2
+                      :ARG2 (z12 / between
+                                 :op1 z2))
+             :op2 (z13 / jump-03
+                       :ARG0 z8
+                       :ARG1 (z14 / aside)
+                       :temporal (z15 / together-01
+                                      :ARG1 (z16 / head
+                                                 :part-of z2))
+                       :temporal (z17 / then))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt ‘There are certain things here in the mountains. There is something called ‘bear,” but one never refers to it by that name.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:30:36.641413
+(z0 / contrast-91
+    :ARG1 (z1 / thing
+              :mod (z2 / certain)
+              :place (z3 / here
+                         :place (z4 / mountain)))
+    :ARG2 (z5 / refer-number
+              :ARG1 (z6 / something
+                        :ARG1-of (z7 / call-01
+                                     :ARG2 (z8 / bear)))
+              :temporal (z9 / ever)
+              :polarity -))

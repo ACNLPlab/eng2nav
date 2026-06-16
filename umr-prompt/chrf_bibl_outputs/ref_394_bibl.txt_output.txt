@@ -1,0 +1,134 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The small planes - the two motored ones - loaded at Winslow and hauled from there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:28:33.268977
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG1 (z2 / plane
+                       :mod (z3 / small)
+                       :ARG1-of (z4 / motored-01)
+                       :quant 2)
+             :ARG2 (z5 / city
+                       :name (z6 / name
+                                 :op1 "Winslow")
+                       :wiki "Winslow,_Virginia"))
+    :op2 (z7 / haul-01
+             :ARG1 z2
+             :source z5))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt They loaded and hauled from Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:28:33.268994
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG0 (z2 / they)
+             :source (z3 / city
+                         :name (z4 / name
+                                   :op1 "Phoenix")
+                         :wiki "Phoenix,_Arizona"))
+    :op2 (z5 / haul-01
+             :ARG0 z2
+             :source z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt In the fall of that same year we moved from the mountain back down into the valley to herd down there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:28:33.268999
+(z0 / move-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / mountain)
+    :direction (z3 / back)
+    :ARG4 (z4 / valley)
+    :purpose (z5 / herd-01
+                 :ARG0 z1
+                 :place (z6 / down))
+    :temporal (z7 / fall
+                  :temporal (z8 / year
+                                :mod (z9 / that)
+                                :ARG1-of (z10 / same-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They built the trading post and four years later perhaps, I do not recall exactly when, the one I called my uncle told us to haul wood there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:28:33.269003
+(z0 / and
+    :op1 (z1 / build-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / post
+                       :mod (z4 / trade))
+             :temporal (z5 / after
+                           :quant (z6 / temporal-quantity
+                                      :unit (z7 / year)
+                                      :quant 4))
+             :op2 (z8 / recall-02
+                      :ARG0 (z9 / i)
+                      :ARG1 (z10 / tell-01
+                                 :ARG0 (z11 / one
+                                            :ARG1-of (z12 / call-01
+                                                          :ARG0 z9
+                                                          :ARG2 (z13 / person
+                                                                     :ARG1-of (z14 / have-rel-role-92
+                                                                                   :ARG2 z9
+                                                                                   :ARG3 (z15 / uncle)))))
+                                 :ARG1 (z16 / haul-01
+                                            :ARG0 z9
+                                            :ARG1 (z17 / wood)
+                                            :ARG2 (z18 / there))
+                                 :ARG1-of (z19 / possible-01))
+                      :polarity -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The brother of The One Who Has Eyeglasses (John Lorenzo Hubell) from Ganado, a man called the Bat, was a clerk there. He was over to one side behind the counter.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:28:33.269008
+(z0 / clerk
+    :place (z1 / there)
+    :domain (z2 / person
+                :ARG1-of (z3 / have-rel-role-92
+                             :ARG2 (z4 / person
+                                       :name (z5 / name
+                                                 :op1 "The"
+                                                 :op2 "One"
+                                                 :op3 "Who"
+                                                 :op3 "Has"
+                                                 :op4 "Eyeglasses")
+                                       :wiki -)
+                             :ARG3 (z6 / brother)
+                             :source (z7 / city
+                                         :name (z8 / name
+                                                   :op1 "Ganado")
+                                         :wiki "Ganado,_Florida")
+                             :ARG1-of (z9 / call-01
+                                          :ARG2 (z10 / Bat))))
+    :domain z2)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt South from the trading post there is a ruin which we call in Navajo "Shattered House." Someone burned it long ago.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:28:33.269012
+(z0 / ruin-01
+    :ARG1-of (z1 / call-01
+                 :ARG0 (z2 / we)
+                 :ARG2 (z3 / house
+                           :name (z4 / name
+                                     :op1 "Shattered"
+                                     :op2 "House")
+                           :wiki "Shattered_House"))
+    :place (z5 / space
+               :ARG1-of (z6 / south-01
+                            :ARG2 (z7 / post
+                                      :mod (z8 / trade))
+                            :ARG3 (z9 / cartesian-framework-91
+                                      :ARG1 (z10 / builder)))
+               :ARG1-of (z11 / burn-01
+                             :ARG0 (z12 / someone)
+                             :temporal (z13 / before
+                                            :op1 (z14 / now)
+                                            :quant (z15 / long)))))

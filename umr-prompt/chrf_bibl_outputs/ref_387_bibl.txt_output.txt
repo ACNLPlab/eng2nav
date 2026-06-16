@@ -1,0 +1,147 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He had been asking that hay be dropped at his own house for three days, but he couldn't find it himself.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:57.733570
+(z0 / contrast-91
+    :ARG1 (z1 / ask-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / drop-01
+                        :ARG1 (z4 / hay)
+                        :ARG2 (z5 / house
+                                  :possessor z2))
+              :duration (z6 / temporal-quantity
+                            :unit (z7 / day)
+                            :quant 3))
+    :ARG2 (z8 / possible-01
+              :ARG1 (z9 / find-01
+                        :ARG0 z2
+                        :ARG1 z4)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt After three days (of flying), a man from Kayenta said that he had been unable to spot his own hogan.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:57.733588
+(z0 / say-01
+    :ARG0 (z1 / man
+              :source (z2 / city
+                          :name (z3 / name
+                                    :op1 "Kayenta")
+                          :wiki -))
+    :ARG1 (z4 / possible-01
+              :ARG1 (z5 / spot-01
+                        :ARG0 z1
+                        :ARG1 (z6 / hogan
+                                  :possessor z1)
+                        :polarity -)
+              :temporal (z7 / after
+                            :op1 (z8 / fly-01
+                                     :ARG1 z1
+                                     :duration (z9 / temporal-quantity
+                                                   :unit (z10 / day)
+                                                   :quant 3)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt While they were making this move they stopped for the night, and it is said that I was born where they halted.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:57.733592
+(z0 / and
+    :op1 (z1 / stop-01
+             :ARG0 (z2 / they)
+             :temporal (z3 / move-01
+                           :ARG0 z2
+                           :mod (z4 / this))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / night)))
+    :op2 (z7 / say-01
+             :ARG1 (z8 / bear-02
+                       :ARG1 (z9 / i)
+                       :place (z10 / halt-01
+                                   :ARG0 z2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was reported that the children from Chinle who were being taken to school would get there in two days, and we heard the grownups talking to one another about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:57.733596
+(z0 / and
+    :op1 (z1 / report-01
+             :ARG1 (z2 / get-04
+                       :ARG1 (z3 / child
+                                 :source (z4 / human-settlement
+                                             :name (z5 / name
+                                                       :op1 "Chinle")
+                                             :wiki "Chinle,_South_Dakota")
+                                 :ARG1-of (z6 / take-01
+                                              :ARG2 (z7 / school)))
+                       :temporal (z8 / after
+                                     :op1 (z9 / now)
+                                     :quant (z10 / temporal-quantity
+                                                 :unit (z11 / day)
+                                                 :quant 2)))
+             :op2 (z12 / hear-01
+                       :ARG0 (z13 / we)
+                       :ARG1 (z14 / talk-01
+                                  :ARG0 (z15 / grown-up)
+                                  :ARG1 (z16 / it)
+                                  :ARG2 (z17 / other)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Long ago, people of old had a story of some kind of chat called "Talk One Into the Grave." Who of you knows it?" said Black Horse, asking that it be perfomed.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:57.733600
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / know-01
+              :ARG0 (z4 / umr-unknown)
+              :ARG1 (z5 / it)
+              :quote z0)
+    :ARG2 (z6 / perfom-01
+              :ARG1 z5)
+    :temporal (z7 / before
+                  :op1 (z8 / now)
+                  :quant (z9 / long))
+    :temporal (z10 / have-03
+                   :ARG0 (z11 / person
+                              :mod (z12 / old))
+                   :ARG1 (z13 / story
+                              :topic (z14 / chat
+                                          :mod (z15 / some)
+                                          :ARG1-of (z16 / call-01
+                                                        :ARG2 (z17 / talk-01
+                                                                   :ARG0 z11
+                                                                   :place (z18 / grave)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We ate and then flew right back over on the same route, and everything that had happened seemed like a dream. It was late in the afternoon when we got back to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:24:57.733605
+(z0 / and
+    :op1 (z1 / eat-01
+             :ARG0 (z2 / we))
+    :op2 (z3 / fly-01
+             :ARG0 z2
+             :ARG4 (z4 / back
+                       :destination (z5 / city
+                                        :name (z6 / name
+                                                  :op1 "Phoenix")
+                                        :wiki "Phoenix,_Arizona")
+                       :direction (z7 / route
+                                      :ARG1-of (z8 / same-01)
+                                      :mod (z9 / right-yy)))
+             :temporal (z10 / late-01
+                            :ARG2 (z11 / date-entity
+                                       :dayperiod (z12 / afternoon)))
+             :op3 (z13 / seem-01
+                       :ARG1 (z14 / everything
+                                  :ARG1-of (z15 / do-02))
+                       :ARG2 (z16 / dream-01))))

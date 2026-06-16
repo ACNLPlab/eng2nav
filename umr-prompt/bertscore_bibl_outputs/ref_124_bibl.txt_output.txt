@@ -1,0 +1,67 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and was one of the leaders at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:45.062958
+(z0 / and
+    :op2 (z1 / person
+             :ARG1-of (z2 / lead-02
+                          :temporal (z3 / time
+                                        :mod (z4 / that)))
+             :quant 1))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was a policeman back at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:45.062974
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We were punished at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:45.062978
+(z0 / punish-01
+    :ARG1 (z1 / we)
+    :temporal (z2 / time
+                  :mod (z3 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt At that time he was a policeman.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:45.062983
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt he was perhaps nine years old at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:45.062987
+(z0 / have-age-91
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / temporal-quantity
+              :unit (z3 / year)
+              :quant 9)
+    :ARG3 (z4 / perhaps)
+    :temporal (z5 / time
+                  :mod (z6 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Back at that time it was different.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:45.062991
+(z0 / differ-02
+    :ARG1 (z1 / it)
+    :temporal (z2 / time
+                  :mod (z3 / that)))

@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "/home/emarkle26/.conda/envs/nllb/lib/python3.10/site-packages/transformers/utils/hub.py", line 402, in cached_file
+    resolved_file = hf_hub_download(
+  File "/home/emarkle26/.conda/envs/nllb/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 106, in _inner_fn
+    validate_repo_id(arg_value)
+  File "/home/emarkle26/.conda/envs/nllb/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 154, in validate_repo_id
+    raise HFValidationError(
+huggingface_hub.errors.HFValidationError: Repo id must be in the form 'repo_name' or 'namespace/repo_name': '/home/common/ACNLP/eng2nav/NSL_nllb_ft/grn_NSL_600M/fold_0/checkpoint-7601'. Use `repo_type` argument if needed.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/common/ACNLP/eng2nav/NSL_nllb_ft/test_nsl_nllb.py", line 154, in <module>
+    main()
+  File "/home/common/ACNLP/eng2nav/NSL_nllb_ft/test_nsl_nllb.py", line 115, in main
+    tokenizer = NllbTokenizer.from_pretrained(
+  File "/home/emarkle26/.conda/envs/nllb/lib/python3.10/site-packages/transformers/tokenization_utils_base.py", line 2190, in from_pretrained
+    resolved_config_file = cached_file(
+  File "/home/emarkle26/.conda/envs/nllb/lib/python3.10/site-packages/transformers/utils/hub.py", line 466, in cached_file
+    raise EnvironmentError(
+OSError: Incorrect path_or_model_id: '/home/common/ACNLP/eng2nav/NSL_nllb_ft/grn_NSL_600M/fold_0/checkpoint-7601'. Please provide either the path to a local folder or the repo_id of a model on the Hub.

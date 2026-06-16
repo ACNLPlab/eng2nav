@@ -1,0 +1,83 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt So that is the way I spent my days from that time on.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.899675
+(z0 / cause-01
+    :ARG1 (z1 / spend-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / day
+                        :possessor z2)
+              :ARG2 (z4 / that)
+              :temporal (z5 / from
+                            :op1 (z6 / time
+                                     :mod (z7 / that)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That is the way my grandfather drove me about and spoke to me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.899693
+(z0 / and
+    :op1 (z1 / drive-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather))
+                       :direction (z6 / about))
+             :op2 (z7 / speak-01
+                      :ARG0 z2
+                      :ARG2 z4))
+    :domain (z8 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt At that time horses were the only means people had for transportation.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.899698
+(z0 / horse
+    :temporal (z1 / time
+                  :mod (z2 / that))
+    :domain (z3 / means
+                :mod (z4 / only)
+                :purpose (z5 / transport-01
+                             :ARG0 (z6 / person))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt he was perhaps nine years old at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.899702
+(z0 / have-age-91
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / temporal-quantity
+              :unit (z3 / year)
+              :quant 9)
+    :ARG3 (z4 / perhaps)
+    :temporal (z5 / time
+                  :mod (z6 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is what I had an ambition to do at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.899706
+(z0 / ambition-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / that))
+    :temporal (z4 / time
+                  :mod (z5 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was very beautiful up there on the mountain at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:10:28.899710
+(z0 / beautiful-02
+    :ARG1 (z1 / it)
+    :place (z2 / there
+               :place (z3 / mountain))
+    :temporal (z4 / time
+                  :mod (z5 / that)))

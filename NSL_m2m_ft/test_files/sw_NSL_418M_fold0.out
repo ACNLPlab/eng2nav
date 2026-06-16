@@ -1,0 +1,21 @@
+==========================================
+Testing NSL English→Navajo M2M100 Model
+Job ID: 1255795
+Node: dgx001
+==========================================
+  Test : 3,196 sentences
+  Translated 320/3196
+  Translated 640/3196
+  Translated 960/3196
+  Translated 1280/3196
+  Translated 1600/3196
+  Translated 1920/3196
+  Translated 2240/3196
+  Translated 2560/3196
+  Translated 2880/3196
+  Translated 3196/3196
+  Saved → /home/common/ACNLP/eng2nav/NSL_m2m_ft/sw_NSL_418M/fold_4/results/test_predictions.txt
+==========================================
+Testing complete!
+Predictions saved to: /home/common/ACNLP/eng2nav/NSL_m2m_ft/sw_NSL_418M/fold_4/results/test_predictions.txt
+==========================================

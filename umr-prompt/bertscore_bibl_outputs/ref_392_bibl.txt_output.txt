@@ -1,0 +1,99 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt When he said the plane nearly turned over with him it was because (this plane was flying low and to gain altitude) the plane had to fly at a steep climb - (it seemed that it would fall over backward).
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:03.228753
+(z0 / cause-01
+    :ARG0 (z1 / obligate-01
+              :ARG1 (z2 / plane
+                        :mod (z3 / this))
+              :ARG2 (z4 / fly-01
+                        :ARG0 z2
+                        :purpose (z5 / gain-02
+                                     :ARG0 z2
+                                     :ARG1 (z6 / altitude))
+                        :manner (z7 / climb-01
+                                    :ARG1 z2
+                                    :manner (z8 / steep)))
+              :ARG1 (z9 / seem-01
+                        :ARG1 (z10 / fall-over-04
+                                   :ARG1 z2
+                                   :direction (z11 / trajectory
+                                                   :ARG4-of (z12 / backward-02
+                                                                 :ARG3 (z13 / cartesian-framework-91
+                                                                            :ARG1 (z14 / builder)))))
+                        :temporal (z15 / say-01
+                                       :ARG0 (z16 / he)
+                                       :ARG1 (z17 / turn-over-03
+                                                  :ARG1 z2
+                                                  :companion z16
+                                                  :degree (z18 / near))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The plane almost turned over with me (looking for it),” he said with concern.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:03.228769
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / turn-01
+              :ARG1 (z3 / plane)
+              :companion z1
+              :temporal (z4 / look-01
+                            :ARG0 z1
+                            :ARG1 (z5 / it))
+              :degree (z6 / almost)
+              :quote z0)
+    :manner (z7 / concern-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt While we were flying through there, there were other planes flying alongside us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:03.228773
+(z0 / fly-01
+    :ARG1 (z1 / plane
+              :ARG1-of (z2 / other-01))
+    :temporal (z3 / through
+                  :op1 (z4 / there))
+    :place (z5 / beside
+               :op1 (z6 / we)
+               :ARG3 (z7 / cartesian-framework-91
+                         :ARG1 z6
+                         :FR (z8 / relative-to-builder))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The plane would repeatedly drop (in an air pocket).
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:03.228777
+(z0 / drop-01
+    :ARG1 (z1 / plane)
+    :frequency (z2 / multiple)
+    :place (z3 / pocket
+               :mod (z4 / air)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That's what the pilot (of this plane) told me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:03.228781
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / pilot-01
+                           :ARG1 (z3 / plane
+                                     :mod (z4 / this))))
+    :ARG1 (z5 / that)
+    :ARG2 (z6 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt At dusk we took off in a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:03.228785
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :ARG3 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :dayperiod (z4 / dusk)))

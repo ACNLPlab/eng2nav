@@ -1,0 +1,87 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt But when one would be riding the burro the billy goat would merely look up if one teased him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:24.484054
+(z0 / contrast-91
+    :ARG2 (z1 / look-01
+              :ARG0 (z2 / goat
+                        :mod (z3 / billy))
+              :ARG1 (z4 / up)
+              :condition (z5 / tease-01
+                             :ARG0 (z6 / one)
+                             :ARG1 z2)
+              :mod (z7 / mere)
+              :condition (z8 / ride-01
+                             :ARG0 z6
+                             :ARG1 (z9 / burro))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Once we had billy goats in the herd.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:24.484070
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / goat
+              :mod (z3 / billy)
+              :place (z4 / herd))
+    :temporal (z5 / once))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:24.484075
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt When the sheep would be on the side of the mountain, I'd skirt them from above.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:24.484079
+(z0 / skirt-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :source (z3 / above-01
+                :ARG3 (z4 / cartesian-framework-91
+                          :ARG1 (z5 / build-space)))
+    :temporal (z6 / have-place-91
+                  :ARG1 z2
+                  :ARG2 (z7 / side
+                            :part-of (z8 / mountain))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:24.484083
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We had one billy goat in the herd that was just a little bit mean.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:24.484088
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / goat
+              :mod (z3 / billy)
+              :place (z4 / herd)
+              :ARG0-of (z5 / mean-01
+                           :degree (z6 / little))
+              :quant 1))

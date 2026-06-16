@@ -1,0 +1,64 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:09.421473
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt they asked me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:09.421485
+(z0 / ask-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He told it to me in a nice way.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:09.421489
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / it)
+    :ARG2 (z3 / i)
+    :manner (z4 / nice-01))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:09.421493
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:09.421497
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I heard them saying that.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:34:09.421502
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / say-01
+              :ARG0 (z3 / they)
+              :ARG1 (z4 / that)))

@@ -1,0 +1,81 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I kept asking how high we were.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:20.479869
+(z0 / keep-02
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / ask-01
+              :ARG0 z1
+              :ARG1 (z3 / high-05
+                        :ARG1 (z4 / we)
+                        :ARG3 (z5 / cartesian-framework-91
+                                  :ARG1 (z6 / build-space)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I racked my brains trying to think how we were going to put out the fire.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:20.479888
+(z0 / racked-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / brain)
+    :ARG2 (z3 / think-01
+              :ARG0 z1
+              :ARG1 (z4 / thing
+                        :manner-of (z5 / put-out-09
+                                       :ARG0 (z6 / we)
+                                       :ARG1 (z7 / fire)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That was about how big we were when we herded sheep by ourselves.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:20.479893
+(z0 / big
+    :domain (z1 / that)
+    :temporal (z2 / herd-01
+                  :ARG0 (z3 / we)
+                  :ARG1 (z4 / sheep)
+                  :manner (z5 / by-oneself)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then early on the following morning we were awakened,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:20.479897
+(z0 / awaken-01
+    :ARG1 (z1 / we)
+    :temporal (z2 / early-01
+                  :ARG2 (z3 / date-entity
+                            :dayperiod (z4 / morning)
+                            :mod (z5 / following)))
+    :temporal (z6 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt At six o'clock we were put aboard a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:20.479901
+(z0 / put-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / plane)
+    :temporal (z3 / date-entity
+                  :time 6))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I was one of those who came back (on the next day) to where the people were.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:57:20.479906
+(z0 / include-91
+    :ARG1 (z1 / person
+              :refer-person 1st)
+    :ARG2 (z2 / person
+              :ARG0-of (z3 / come-01
+                           :ARG1 z1
+                           :ARG4 (z4 / back)
+                           :ARG4 (z5 / space
+                                     :place-of (z6 / person)
+                                     :temporal (z7 / day
+                                                   :mod (z8 / next))))))

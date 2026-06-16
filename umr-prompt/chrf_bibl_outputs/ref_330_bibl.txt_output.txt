@@ -1,0 +1,112 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We were loaded with hay, food and firewood.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:32.749070
+(z0 / load-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / and
+              :op1 (z3 / hay)
+              :op2 (z4 / food)
+              :op3 (z5 / firewood)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We said they must be fighting over the firewood.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:32.749086
+(z0 / say-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / obligate-01
+              :ARG1 (z3 / fight-01
+                        :ARG0 (z4 / they)
+                        :ARG2 (z5 / firewood))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt In the evening after we had unloaded another load of wood we started back home in the wagon.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:32.749091
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :place (z3 / wagon)
+    :temporal (z4 / after
+                  :op1 (z5 / load-01
+                           :ARG0 z1
+                           :ARG1 (z6 / load
+                                     :mod (z7 / another)
+                                     :consist-of (z8 / wood))))
+    :temporal (z9 / date-entity
+                  :dayperiod (z10 / evening)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The one I referred to as River Man, who is now known as Short Hair, and another boy with him. These were the ones who were locked inside.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:32.749095
+(z0 / and
+    :op1 (z1 / one
+             :ARG1-of (z2 / refer-03
+                          :ARG0 (z3 / i)
+                          :ARG2 (z4 / man
+                                    :name (z5 / name
+                                              :op1 "River"
+                                              :op2 "Man")
+                                    :wiki -)
+                          :ARG1-of (z6 / know-02
+                                       :temporal (z7 / now)))
+             :op2 (z8 / boy
+                      :mod (z9 / another)
+                      :ARG1-of (z10 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z11 / boy)))
+             :domain (z12 / one
+                          :ARG1-of (z13 / lock-01
+                                        :ARG2 (z14 / inside))
+                          :domain (z15 / this))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My grandfather had a fine wether goat that he was quite proud of. He killed it there, and the people feasted with great joy.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:32.749099
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather)))
+             :ARG1 (z6 / goat
+                       :mod (z7 / fine)
+                       :ARG1-of (z8 / pride-01
+                                    :ARG0 z2
+                                    :degree (z9 / quite))))
+    :op2 (z10 / kill-01
+              :ARG0 z2
+              :ARG1 z6
+              :place (z11 / there))
+    :op3 (z12 / eat-01
+              :ARG0 (z13 / person)
+              :ARG1 z6
+              :manner (z14 / joy
+                           :degree (z15 / great))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The small planes - the two motored ones - loaded at Winslow and hauled from there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:02:32.749103
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG1 (z2 / plane
+                       :mod (z3 / small)
+                       :ARG1-of (z4 / motored-01)
+                       :quant 2)
+             :ARG2 (z5 / city
+                       :name (z6 / name
+                                 :op1 "Winslow")
+                       :wiki "Winslow,_Virginia"))
+    :op2 (z7 / haul-01
+             :ARG1 z2
+             :source z5))

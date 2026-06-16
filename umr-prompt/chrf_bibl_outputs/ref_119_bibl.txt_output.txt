@@ -1,0 +1,88 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt A party is in its way coming to us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:15.209108
+(z0 / have-direction-91
+    :ARG1 (z1 / party)
+    :ARG2 (z2 / come-33
+              :ARG1 z1
+              :ARG3 (z3 / we)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt My cousin too lost no time in running away.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:15.209126
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 (z5 / time
+              :quant-of (z6 / run-02
+                            :ARG0 z1
+                            :direction (z7 / away)))
+    :mod (z8 / too)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt "I am putting these two boys in schcool." he said by way of promise.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:15.209131
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / put-01
+              :ARG0 z1
+              :ARG1 (z3 / boy
+                        :mod (z4 / this)
+                        :quant 2)
+              :ARG2 (z5 / cool-04)
+              :quote z0)
+    :manner (z6 / promise-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:15.209135
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We went out according to our instructions.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:15.209139
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :direction (z2 / out)
+    :manner (z3 / instruct-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They work on a basis of single minutes. They would say it's so far between certain points.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:26:15.209143
+(z0 / and
+    :op1 (z1 / work-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / temporal-quantity
+                       :unit (z4 / minute)
+                       :quant 1))
+    :op2 (z5 / say-01
+             :ARG0 z2
+             :ARG1 (z6 / between-01
+                       :ARG1 (z7 / it)
+                       :ARG2 (z8 / point
+                                 :mod (z9 / certain))
+                       :ARG3 (z10 / so))))

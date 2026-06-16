@@ -1,0 +1,2534 @@
+=== CHRF SCORES for eng_engumr_nav_navumr_output.txt ===
+
+--- Comparing ---
+Gold:        Ałk’idą́ą́’ díí nahasdzáán nihił dah si’ánígíí bikáa’gi ’ádahóót’įįd ha’níigo baa dahane’
+Translation: Díí nihookáá’ bikáa’gi háálá’ ’áhóót’įįdígíí baa hane’ hólǫ́.
+CHRF: 30.3650
+
+--- Comparing ---
+Gold:        Ch’óol’į́’í hoolyéegi ’áhóót’įįd daaní
+Translation: Díí hane’ Gobernador Knobdi yiską́ áłníí’.
+CHRF: 9.9281
+
+--- Comparing ---
+Gold:        ’Áłtsé Hastiin dóó ’Áłtsé ’Asdzą́ą́ wolyéii ’índa Yoołgaii ’Asdzą́ą́ dóó ’Asdzą́ą́ Nádleehé ’ahíjiikaigo nidzíiztą́ jiní
+Translation: Áłtsé Hastiin dóó Áłtsé Asdzáán, dóó Yoołgai Asdzáán dóó Asdzáá Nádleehé danáályaa’go da sidá.
+CHRF: 34.4089
+
+--- Comparing ---
+Gold:        Ńléídę́ę́’ hayííłką́ągo ’Áłtsé Hastiin ’azhdoolish biniiyé ch’ízhníyáago Ch’óol’į́’í si’ą́ąjį’ ’ajííghal ńt’éé’ bílátahgi t’áá ’áłtsíísígo k’os bił dah shoogish jiní
+Translation: Yiską́ągo Áłtsé Hastiin bikáá’góó deeyá tsii’ biniinaa; Ch’óol’į́’í bílátahgi yájił’eeł dóó k’os bił dah shoogish yíníłtin jiní.
+CHRF: 39.4601
+
+--- Comparing ---
+Gold:        Yah ’anídzoodzáago Ńléí la’ ha’át’éego Ch’óol’į́’í bílátahgi k’os bił dah shoogish
+Translation: Hooghan góne’ nádiiyáago, “Háíshį́ Ch’óol’į́’í si’ą́ąjį’ ’ajííghal ńt’éé’ bílátahgi t’áá ’áłtsíísígo k’os bił dah shoogish?” yíníłti’.
+CHRF: 47.3931
+
+--- Comparing ---
+Gold:        Haalá ’áhoodzaa shą́ą́’ dohníi ni’ dííniid Bilį́į́’ Łizhinii yę́ę
+Translation: ’Ashkihéi, t’áá shoodí! Nidííniidígíí nítsákees, ni jiní Bilį́į́’ Łizhinii yę́ę
+CHRF: 46.0073
+
+--- Comparing ---
+Gold:        T’áá ’áko Na’niłhodí wolyéhę́ę ’alą́ąjį’ ’ákóne’ dah yiite’ dóó Naat’áanii yę́ę yiyaayáahgi yizhjih
+Translation: Na’niłhodí wolyéé ńt’éé’ ’éí t’áá ’íiyisí ’ahígíí deidiits’a’, dóó Naat’áanii yę́ę ’abee’ yitł’óół bee yiil’ą́.
+CHRF: 41.9127
+
+--- Comparing ---
+Gold:        ’Aadóó t’áá ’át’é ’áajį’ dah diijéé’
+Translation: ’Aadóó ’áłtso yah yéego ’o’ooldee’
+CHRF: 18.5762
+
+--- Comparing ---
+Gold:        Hastiin ’Adiits’a’ii yę́ę ’éí wóniidi tsin dánídíkǫs yę́ę báátis yajiiltáál níwohjigo
+Translation: Góne’ bíla’di tsin dánídíkǫs bikaadę́ę́’ ’Adiits’a’ii Sání yisdzool,
+CHRF: 38.1832
+
+--- Comparing ---
+Gold:        ’Aadóó doo ’ééhoozin da
+Translation: Dóó doo bee haz’ą́ da náhoodleeł.
+CHRF: 23.3796
+
+--- Comparing ---
+Gold:        Tł’óó’góó tł’óó’góó t’óó daha’níits’a’
+Translation: Da’ahoodzaa bił t’óó daha’níits’a’
+CHRF: 46.5581
+
+--- Comparing ---
+Gold:        Naat’áanii yę́ę tł’óó’góó yił ch’íníjéé’
+Translation: ’Aají bił daazt’į́’
+CHRF: 7.8139
+
+--- Comparing ---
+Gold:        Kǫ́ǫ́ yił yijahgo t’áá ’atát’ah ch’ínísh’na’
+Translation: ’Áko bikáa’gi yaa hadááł’ánígo naashchąąh dóó binahji’ nahoodzááh
+CHRF: 16.1158
+
+--- Comparing ---
+Gold:        T’áá shį́į́ ’áko wóne’dę́ę́’ dáda’deeskaal
+Translation: ’Áajį’ biyi’di daazts’í’ naaznil
+CHRF: 7.8661
+
+--- Comparing ---
+Gold:        ’Ashiiké naaki ’ólta’jį’ nii’nil ńt’éé’ ’éí ’atah t’áá ’ákóne’ bidá’deelkaal lá
+Translation: Ashkiiké naaki ’ólta’góó deeyááłígíí biyi’ dahaz’ą́.
+CHRF: 28.1198
+
+--- Comparing ---
+Gold:        Toohnii wolyéé ńt’éé’ ’éí k’ad Kiichil wolyé dishínígíí náánáła’ yił ndilt’éego t’áá ’ákóne’é bidá’deelkaal
+Translation: Tsékooh Hastiin wolyé dishnínę́ę ’éí, dííjį’ Da’áłts’ózí joolyéé, dóó bił t’áá łá’ ’ashkii. Díí ’éí ’áadi bidá’deelkaalígíí ńt’éé’.
+CHRF: 37.6448
+
+--- Comparing ---
+Gold:        ’Éí bininaa hastiin Wéela wolyéé ńt’éé’ dishnínígíí Naat’áanii yich’ijí silį́į́’
+Translation: Díí biniinaa, hastíín Weela wolyé dishnínę́ę Ajeent bich’į’ yáhoot’į́į́’—
+CHRF: 33.8785
+
+--- Comparing ---
+Gold:        Biye’ naalyéhé bá hooghan góne’ ’atah bidá’deelkaalgo biniinaa
+Translation: Bik’ehgo ashiiké t’áá łá’ ’atah t’áá ’ákóne’ bidá’deelkaalígíí be’awéé’ ashkii nít’į́.
+CHRF: 34.7510
+
+--- Comparing ---
+Gold:        Naat’áanii yę́ę nagháíjigo diné hoł noodah
+Translation: Diné Naat’áanii háágóó yił yijah.
+CHRF: 30.6749
+
+--- Comparing ---
+Gold:        T’áá ’áyídí góyaa bidah ’áajigo
+Translation: Ńléí t’áá ’áhánígi tséghaaʼ si’ą́.
+CHRF: 17.4357
+
+--- Comparing ---
+Gold:        Bighá nílį́įgo ’ałch’ishdę́ę́’ Bis Dootł’izh Deez’á
+Translation: Łeezh dootł’izhígíí biyi’ tsékooh hólǫ́, naaki yá’di kéyah bits’idá hólǫ́.
+CHRF: 21.5945
+
+--- Comparing ---
+Gold:        ’Éí bihoolyé
+Translation: Jó ’éí naałtsoos bá hooghan éí ’óosye’ jiní.
+CHRF: 12.6326
+
+--- Comparing ---
+Gold:        T’áá nízaad bidah
+Translation: Ayóó yitł’óół lá
+CHRF: 3.3784
+
+--- Comparing ---
+Gold:        Bidah góyaa ’ahołhan
+Translation: Shádi’góó naalnééł!
+CHRF: 11.2200
+
+--- Comparing ---
+Gold:        Bidah góyaa
+Translation: Bidah góyaa
+CHRF: 100.0000
+
+--- Comparing ---
+Gold:        Bidah góyaa t’óó daha’níits’a’
+Translation: Bidah góyaa t’óó dahojilne’.
+CHRF: 61.8443
+
+--- Comparing ---
+Gold:        Nagháí kin biniit’aadóó diné lą’í naazį́įgo ’áádóó ’atah sézį́
+Translation: Diné t’óó ’ahayóí naalyéhé bá hooghan bich’į’ naazį́, dóó shí éí bítah nilį́.
+CHRF: 25.3077
+
+--- Comparing ---
+Gold:        Shidá’í yę́ę ’éí t’áá shíighahdóó sizį́
+Translation: Shádí shił naazį́
+CHRF: 10.0679
+
+--- Comparing ---
+Gold:        ’Áádóó háí shį́į́ t’áá ’éiyá ’ałdó’ ’ákwii naazį́į ni’ ’éí doo bénáshniih da
+Translation: Ádóó háí łáá’ díídi naazníí’ doo shił bééhózin da.
+CHRF: 19.9038
+
+--- Comparing ---
+Gold:        Nahgóó yił yijahgo hááhgóóshį́į́ diné ’adadziiłts’in
+Translation: Naat’áanii yę́ę diné hoł noodahgo, dine’é bi’é’é’ ts’ą́ą’í bee ńdeiniłts’in.
+CHRF: 22.7243
+
+--- Comparing ---
+Gold:        Naat’áanii yę́ę ńdeiniłts’in
+Translation: ’Adadziiłts’in
+CHRF: 24.3801
+
+--- Comparing ---
+Gold:        Ńléígóó yił yijahgo Yoo’ó ’Adika’í wolyéhę́ę kodóó ch’élwod
+Translation: Áko ts’ídá yáágo yił yijahgo, Yoo’ó ’Adika’í wolyé’ígíí díídi nideesdzih.
+CHRF: 47.5291
+
+--- Comparing ---
+Gold:        Nahjí hááhgóóshį́į́ diné t’óó naanáájah
+Translation: Bilį́į́’ Łizhinii biniit’a’ nahjígo diné t’áá íiyisí naazį́.
+CHRF: 24.4679
+
+--- Comparing ---
+Gold:        T’áá shį́į́ ’ałtso bilį́į́’ kǫ́ǫ́ naazį́įgo
+Translation: ’Éí t’áá ałtso bilį́į́’ nahaghááji’ naazį́ hólǫ́ǫgo
+CHRF: 44.8839
+
+--- Comparing ---
+Gold:        T’óó ’idahidiikaii łą́ą́ lá
+Translation: Diné habą́ą́’ náá’ bił daalníí’
+CHRF: 15.9403
+
+--- Comparing ---
+Gold:        ’Asdzání da ła’ da’atah
+Translation: Dóó díí bidá’ahígíí asdzání ła’ siláago.
+CHRF: 27.5686
+
+--- Comparing ---
+Gold:        ’Éí shį́į́ t’áá ’ákǫ́ǫ́ ’atah dabiiską́ ’ałdó
+Translation: Díí asdzáán dóó éí ’áadi bił danidiiską́ą’.
+CHRF: 18.6287
+
+--- Comparing ---
+Gold:        ’Éí shį́į́ diné bitsą́ ’áda’jił’į́ biniiyé
+Translation: Hastóí bá ch’iyáán ’ánááda’ nít’į́į́’go dah sidááh.
+CHRF: 17.5768
+
+--- Comparing ---
+Gold:        Bine’dę́ę́’ dó’ ’asdzání ła’ ’atah níyáá lá
+Translation: Díí asdzáán bits’áadah t’áá łá’í dził bine’dę́ę́’ ádį́į́’ nááłnii’.
+CHRF: 33.4535
+
+--- Comparing ---
+Gold:        ’Éí hááhdóó shį́į́ t’áá ’éiyá ’asdzání t’áá ’éí ni’
+Translation: Háádę́ę́’ t’áá íiyisí deeyá hóla
+CHRF: 13.0693
+
+--- Comparing ---
+Gold:        Kódzaago t’áá ch’ééh ’ádaaníigo t’áá ’ákwii yaa ’ádahalyą́ nahalinii dooda daani
+Translation: Díí áníł’į́į́’go Bilį́į́’ Łizhinii bina’anishí diné t’áá ch’íná yáłti’, t’áá łá’í diné haz’ą́’ bee náná’anishígíí dóó naabaahiigíí yiyiilááh bina’oolkiłgóó “Dooda” ’áłníí’.
+CHRF: 23.3784
+
+--- Comparing ---
+Gold:        ’Éí diné shijée’gi kwii náánísdzá ’atah
+Translation: Yiską́ągo diné ’ałníí’ígíí góó danánísdzáá’ígíí bits’ą́ą́’ t’áá łá’ nishłį́.
+CHRF: 24.3962
+
+--- Comparing ---
+Gold:        Ńt’éé’ ’éí diné bine’dę́ę́’ bíkahazt’i’ silį́į’ii tł’éédą́ą́’ hane’ bitaast’áanii niheeskai lá
+Translation: Ńt’éé’ dził bine’dę́ę́’ diné hane’ bił naaznilígíí dóó danídaal’aahígíí bił ’aníbą́ą́z lá
+CHRF: 30.9604
+
+--- Comparing ---
+Gold:        Bee’eldǫǫh ’índa k’aa’ da shódaoozt’e’ lá
+Translation: Be’eldǫǫ’ dóó tsii’ dóó ats’á’ hólǫ́
+CHRF: 21.7446
+
+--- Comparing ---
+Gold:        Diné dó’ łą́ą́ lá
+Translation: Díí diné t’óó ’ahayóí lá
+CHRF: 15.8266
+
+--- Comparing ---
+Gold:        T’áá kojí t’áá dabinááł nahalingo ’íikaii dó’ łą́ą́ lá
+Translation: ’Ałdó nihí łą́ą́ t’áá shoodí ’ałníí’ łá.
+CHRF: 17.5070
+
+--- Comparing ---
+Gold:        Díí diné dahóółchį’ii bá ch’iyáán ’ál’į́įgi hastiin ńt’éé’ Tó Dík’ǫ́zhi ńt’éé’ Tsézhints’óóz wolyéé ńt’éé’ ’éí shį́į́ ha’áłchíní t’áá dah joo’ishgo ’asdzání ’éí shį́į́ bá ch’iyáán ’ádajił’į́įgo yiską́
+Translation: Áshįįhí hastiin, Slender Lava wolyéé’, ’íídę́ę́’ bik’é diné’é hólǫ́; dóó bí asdzání chahałhóó’ t’áá ałtso diné ’adidaalnihígíí ’áda’jił’į́.
+CHRF: 22.1531
+
+--- Comparing ---
+Gold:        ’Ahbínígo shį́į́ bitsą́ ’ánááda’jiidlaa
+Translation: ’Abínígo asdzání náá bich’iyáán ’ajił’į́
+CHRF: 23.2968
+
+--- Comparing ---
+Gold:        ’Áko ńláhjí siláago yinééł
+Translation: Háálágo Diné naabaahii nahgóó deyáígíí beehózinii.
+CHRF: 11.0894
+
+--- Comparing ---
+Gold:        K’ad hágoshį́į́
+Translation: K’ad hágoshíí! Hágoshį́į́!
+CHRF: 85.0341
+
+--- Comparing ---
+Gold:        T’áá ńléí dzígaigi dooleeł
+Translation: T’áá ’iiyisí Ńléí dzígaijigo nihidiilkaad.
+CHRF: 38.4989
+
+--- Comparing ---
+Gold:        K’ad hágoshíí
+Translation: K’ad hágoshį́į́
+CHRF: 75.0110
+
+--- Comparing ---
+Gold:        T’ah doo yah ’iinééhdą́ą́’ t’ah doo yah ’iinééhdą́ą́’
+Translation: Bits’ą́ą́’ ’áajį’ ni’níná! Bits’ą́ą́’ ’áajį’ ni’níná!
+CHRF: 15.7729
+
+--- Comparing ---
+Gold:        Ha’át’íishą’ bee ’ádoolnííł níigo Bilį́į́’ Łizhinii yę́ę ch’ééh kwii naanáálwoł
+Translation: Háálá, ’íínílá! níigo Bilį́į́’ Łizhinii yę́ę náá’ yiyá t’áá íiyisí.
+CHRF: 42.9632
+
+--- Comparing ---
+Gold:        ’Áko ’eii be’ashiiké nilíinii hááhgóóshį́į́ hááhinoojah
+Translation: Ádą́ą́’ bi’ashkiiké hááhgóó t’áá íiyisí nínízin.
+CHRF: 23.8665
+
+--- Comparing ---
+Gold:        Shadahastóí ńt’éé’ ’índa dashimá sání ńt’éé’ Naakaii Dine’é danilį́įgo hojoobá’ígo Hwééldi hoolyéédę́ę́’ nináda’iishjidgo kwii Lók’a’jígai hoolyéegi kéédahat’į́į́ ńt’éé’
+Translation: Shik’éí ’áádó’ dine’é, hastoi dóó sáanii, Naakaii Diné’é nilį́į́ ńt’éé’. Ts’ídágo Hwééldígíí náághah, binaalyéhé bizis bikáá’ na’áłdeehgo, háálágo díí Lók’a’jíkai-di danilį́ ńt’éé’.
+CHRF: 36.0414
+
+--- Comparing ---
+Gold:        Kodóó shį́į́ haakai nahalin silį́į́’
+Translation: Dííji’ t’áá íiyisí iiná daniilį́.
+CHRF: 10.2831
+
+--- Comparing ---
+Gold:        Dleesh Bii’ Tó hoolyéegi dahooghan ńt’ée’go dah ’adiiná jiní nagháí dził báátis gó’ąą
+Translation: ’Áádóó Łeezhígíí Tó Sidoots’ą́ hoolyéegi bi hooghanígíí déé’, nagháí dził bikáá’góó dóó bináhji’go deiyá.
+CHRF: 37.6684
+
+--- Comparing ---
+Gold:        ’Ákǫ́ǫ́ ’oonéełgo dahwiiłkaahgo ’ákwii shi’dizhchį́ jiní
+Translation: Díí ni’nínágo chahałhééhgo danidiiską́ą’, ’índa ’éí danidiiską́ą’ígíídi shiyázhí ’ííł’į́ hodoo’niid.
+CHRF: 19.9565
+
+--- Comparing ---
+Gold:        Ghąąjį’ wolyéego ńdízídígíí daashin t’áá ’éí biyi’ jiní
+Translation: T’áá íiyisí, shí nisingo Ghąąjį’di ’át’é.
+CHRF: 22.8426
+
+--- Comparing ---
+Gold:        Tł’ée’go hááhgóóshį́į́ deezhchxíilgo ts’ídá ’ákóne’ shi’dizhchį́ jiní
+Translation: Tł’óółíí’gi yas bik’ahgo ’ał’ą́ą’ deesk’ą́jį’ yisht’į́.
+CHRF: 13.3197
+
+--- Comparing ---
+Gold:        Shichei ńt’éé’ Naakai Dine’é Łigaii wolyéé ńt’éé’ dóó ła’ dó’ Diné Táchéhéni’ Biye’ wolyéé ńt’éé’ ’éí shį́į́ t’éiyá diné nilį́įgo dóó sáanii dó’ díkwíí shį́į́ kwii shaa naanish bííghą́ą́’
+Translation: Shichei Naakaii Dine’é Łigai wolyéé’ ńt’éé’, dóó hastiin t’áá łahgo ’éí Chidííl Bighan Nits’áádii Biye’ wolyéé’ ńt’éé’, díí naaki hastiin t’áá íiyisí ńt’éé’. Díí dóó asdzání daazts’į́’ shikaadéé’ ayóo nidaalnish.
+CHRF: 37.5755
+
+--- Comparing ---
+Gold:        Shichei tł’ízí cho’ádinii ’ayói da ’át’é halį́į́’ ńt’ée’go ’éí ’ákwii jiisxį́įgo hááhgóóshį́į́ diné bił dahózhǫ́ǫgo da’oolghal jiní
+Translation: Shicheii éí tł’ízí da’ádílį́í’ nizhóní hólǫ́, éí bá ayóo yá’áhoot’ééł. ’Iidááh éí yilts’ą́, áádóó Diné éí ayóo jiyá’go éí adááyą́.
+CHRF: 22.7989
+
+--- Comparing ---
+Gold:        Tł’éédą́ą́’ shi’dizhchį́įgo t’áá ’áko dah náá’dii’ná jiní
+Translation: ’Aádóó tł’éédą́ą́’ shijishchį́įgo bikáá’gi nihił dah nááda’diit’a’
+CHRF: 48.0406
+
+--- Comparing ---
+Gold:        ’Íídą́ą́’ łį́į́’ t’éiyá bee nda’aldeehgo
+Translation: ’Íídą́ą́’ diné łį́į́’ t’éiyá bee nda’aldeeh
+CHRF: 85.2541
+
+--- Comparing ---
+Gold:        Shimá tł’éédą́ą́’ shijishchį́įgo t’áá ni’ jiníyá jiní níwohjį’ haa shį́į́ nízahgi ni’ínéehgo ’áajį’
+Translation: Tł’éédą́ą́’ shi’dizhchį́įgo t’áá ’áko shimá t’áá ni’ dine’é danidii’náígíí góó niikai jiní
+CHRF: 38.8722
+
+--- Comparing ---
+Gold:        Tł’éédą́ą́’ yidzaazgo yas biyi’ ’íldeé jiní
+Translation: ’Áádóó tł’éédą́ą́’ yas biniinaa, yas bitahgo ’áhoot’éego deiikai.
+CHRF: 34.7087
+
+--- Comparing ---
+Gold:        Ha’át’íí shį́į́ yówéé ’át’éego diné t’áá bizááká kéédahat’į́į́ ńt’éé’ lá ’íídą́ą́’
+Translation: Jó ’akon ’ákót’éego ’íídą́ą́’go iiná łahgo baa yáhooł’aan.
+CHRF: 20.8563
+
+--- Comparing ---
+Gold:        K’adgo ’éiyá ’ajiłchíihgo hak’az biih wolyeed lágo ha’níigo honídahodéeníih łeh
+Translation: K’ad asdzání awéé’ yichxą́ą́’go t’áá íiyisí baa ’áhólyá, doo haadzid yik’ááh da bił yániłti’.
+CHRF: 16.5205
+
+--- Comparing ---
+Gold:        ’Íídą́ą́’ ’éí doo ’ákót’ée da ńt’éé’ lá
+Translation: ’Íídą́ą́’ ’éí t’áá ’ajít’éego nilį́.
+CHRF: 41.4935
+
+--- Comparing ---
+Gold:        ’Áádóó wóshdę́ę́’ haa shį́į́ yit’éego shiyaa hazlį́į́’ ’éí doo ts’ídá hazhó’ó bénáshniih da
+Translation: ’Áádę́ę́’go t’áá íiyisí hastiin nishłį́. Éí baa t’áá ’áhoot’éé’ doo shił nitsídzíní da.
+CHRF: 22.3953
+
+--- Comparing ---
+Gold:        Neeznáá daats’í shinááhai dóó ’índa t’áá kóníghání nahalingo ’énáshniihgo hodideeshzhiizh
+Translation: Shí neeznáá daats’í honááhai bits’ą́ą́’ nahodíílnih ’éí t’áá íiyisígo doo ts’ídá bénáshniih da.
+CHRF: 36.9329
+
+--- Comparing ---
+Gold:        ’Áyąą ’ahbínígo nizhónígo ’ashhoshę́ę shichei náshidiyiiłhą́ą́h
+Translation: ’Abínígo yá’át’ééhgo shiná’oolkiłgo shicheii bee’eldóóní biyi’di shiyilááh.
+CHRF: 26.2731
+
+--- Comparing ---
+Gold:        Nahgóó nahgóó
+Translation: Haalá! Haalá!
+CHRF: 2.7778
+
+--- Comparing ---
+Gold:        Ha’át’íí biniiyé sínítį́
+Translation: Ha’át’íísh nits’ą́’?
+CHRF: 33.2255
+
+--- Comparing ---
+Gold:        Nahgóó dághádílyeed
+Translation: Naatsį́įs nidaashní!
+CHRF: 5.5477
+
+--- Comparing ---
+Gold:        Dinigisgo háadi shį́į́ deeteel t’áá ’áłtsé silį́’ígíí nik’i ch’ídoolwoł
+Translation: Doo dziil ní hólǫ́go da, doo yá’át’ééhí t’ááłá’í éí níyólkááł.
+CHRF: 15.1332
+
+--- Comparing ---
+Gold:        Honíyóigo ’éí łeezh naanídaasdláadgo ’áadi ’índa shíníljool dooleeł jiníi łeh ńt’éé’ shichei yę́ę
+Translation: Bidziilgo, t’áá nahasdzáán bikáa’ shikaadéé’ yitł’ááh dóó na’oolkiłgo biniinaa t’áá dinííł’į́go nít’į́į́’go deesh’ą́, áko shichei t’áá shich’į’ yááłti’.
+CHRF: 21.7553
+
+--- Comparing ---
+Gold:        ’Índa hastóí t’áá ’ałtso ’ákódajiníi łeh ńt’éé’
+Translation: ’Ákót’éego sání t’áá ałtso ’ádajiní łeh
+CHRF: 35.3994
+
+--- Comparing ---
+Gold:        ’Eíshą’ ’ana dahólóonii hoł béédahózingo ’ádajiníí ńt’éé’
+Translation: Naabaah yáhoołkááłígíí baa hólne’ biniinaa díí daaníigo dahojilne’.
+CHRF: 18.8083
+
+--- Comparing ---
+Gold:        Shichei yę́ę ’ákót’éego t’áá nashineeyood dóó t’áá shich’į’ yááłti’
+Translation: ’Íídą́ą́’ ’ákót’éego shicheii chidí bee shił na’oolkił dóó shí yáłti’
+CHRF: 35.2342
+
+--- Comparing ---
+Gold:        Doo hashkéego ’áníi da
+Translation: Doo báháchį’go ’áníi da
+CHRF: 45.4126
+
+--- Comparing ---
+Gold:        Doo t’áá na’níle’ee ’áníi da
+Translation: Doo ts’ídágo ’áníi da
+CHRF: 31.4676
+
+--- Comparing ---
+Gold:        Hazhóó’ógo ’áshiłníí ńt’éé’
+Translation: Yá’át’ééhgo shił hojilne’
+CHRF: 20.3054
+
+--- Comparing ---
+Gold:        Jó ’éí ’áádę́ę́’ ’ákót’éego shíiníłką́
+Translation: Jó ’íídą́ą́’go t’áá ałts’óó shijį́ t’áá íiyisígíí ’éí ’ákót’éego át’é.
+CHRF: 37.0073
+
+--- Comparing ---
+Gold:        Shidá’í ńt’éé’ T’iisyaa Bikiní wolyéé ńt’éé’ tsíłkę́ę́h nilį́įgo ’éí ’áyaa nikishidiilt’e’
+Translation: Shik’éí hastiin ’éí Forked House wolyéé ńt’éé’. ’Éí hastiin yázhí nilį́ dóó shí bi’áłchíní yinishłį́.
+CHRF: 27.6634
+
+--- Comparing ---
+Gold:        Nikishidiił’a’
+Translation: Na’anishgóó shí yídiilá.
+CHRF: 18.9173
+
+--- Comparing ---
+Gold:        Łį́į́’ bá naasłóozgo
+Translation: Bí łį́į’ bí yinaałnííh
+CHRF: 15.1443
+
+--- Comparing ---
+Gold:        Bitsinaabąąs hólǫ́ǫgo bilį́į́’ na’ałbąąsii hólǫ́ǫgo
+Translation: Tsinaabąsii dóó łį́į́’ naaki bił ’oolǫ́.
+CHRF: 30.9305
+
+--- Comparing ---
+Gold:        Díí bee chizh nihíyeeh díí bee nanilnish shiłníigo
+Translation: Bee chizh ’ánínááh lágo bee na’anish shijinígo
+CHRF: 33.8748
+
+--- Comparing ---
+Gold:        Ts’ídá tseebííts’áadah shinááhaigo Bis Dootł’izh Deez’áhí hoolyéegi k’ad naalyéhé bá hooghan ninínáanii t’áá shił bééhózin ńt’éé’
+Translation: ’Íídą́ą́’ tseebíídiin daats’í shinááhaiígíí, Bis Dootł’izh Deez’áhí hoolyéegi díí naalyéhé bá hooghan bee ’áł’ánígíí diné ’éí di’gi ni’níná — háájíigo t’áá nít’éego shí bééhózin jílį́įgo.
+CHRF: 56.7859
+
+--- Comparing ---
+Gold:        Hastiin ’Adiits’a’í yę́ęni’ Chíí’ dabijiníí lágo baa ’ákoniizį́į́’
+Translation: Shí t’áá ’áłts’íísgo be’ehózinígíí, ’Adiits’a’ii yę́ęni’ Hastiin Dodge éí Chíí’ yileeh łeh
+CHRF: 38.8347
+
+--- Comparing ---
+Gold:        Kin Hóchxǫ́’í hoolyéédę́ę́’ Bilagáana Dah Shizhóód wolyéé ńt’éé’ ’éí shį́į́ Chíí’ ’ayóigo bich’ooní ńt’éé’ lá
+Translation: Hastiin ’Adiits’a’ii éí Manuelitóó Bilagáana Dah Shizhóód wolyéígíí bik’is łikaní át’é.
+CHRF: 32.2313
+
+--- Comparing ---
+Gold:        ’Áko ’éí yaa ndilt’éego Bis Dootł’izh Deez’áhí hoolyéegi naalyéhé bá hooghan ’áhoolaa
+Translation: Bis Dootł’izh Deez’áhí hoolyéegi naalyéhé bá hooghan naakígíí ’adííł’ą́
+CHRF: 65.3048
+
+--- Comparing ---
+Gold:        Dąągo ’ákwii ni’níná
+Translation: Dąągo t’ah ńt’éé’ ’áájį’di hodoo’niid
+CHRF: 23.2868
+
+--- Comparing ---
+Gold:        Naałniih dinék’ehjígo hayaayááh dahóóghánę́ędą́ą́’ dabidii’ní k’ad
+Translation: Azee’ ntsaaígíí hadaghaah, dóó dííjíí éí ‘bitsiis łą́ą́’ yitíinii’ígíí’ bee nihiyáníłti’.
+CHRF: 20.3087
+
+--- Comparing ---
+Gold:        ’Íídą́ą́’ dąągo t’ah ńt’éé’ Bis Dootł’izh Deez’áhí hoolyéegi ni’níná hodoo’niid
+Translation: ’Áko dąągo Bis Dootł’izh Deez’áhídi ni’níná, íiyisí.
+CHRF: 42.7868
+
+--- Comparing ---
+Gold:        K’adshą’ Hastiin ’Adiits’a’ii yidoolyeeł léi’ Dah Shizhóód yidoolyeeł léi’ kót’éego ’ákǫ́ǫ́ ninínáá lá
+Translation: Jó ’éí kódzaago Hastiin ’Adiits’a’í yę́ęnį́į́’ígíí Chíí’, dóó Big Lump Setting Up yę́ęnį́į́’ígíí, ko’ góó deikai.
+CHRF: 24.4490
+
+--- Comparing ---
+Gold:        Naalyéhé bá hooghan ’áhoolyaa dóó dį́į́’ daats’í ’éí nááhaigo ’ákwii doo hazhó’ó bénáshniih da t’ah ńt’éé’ naalyéhé bá hooghandi chizh nihoheeh nihizhdííniid shidá’í ńt’éé’ dishnínígíí
+Translation: Naalyéhé bá hooghan ’áhoolaa dóó k’ad dį́į́’ binááh biyi’ji’ t’áá shoodí, háádę́ę́ʼ t’áá bee hazhą́ doo shił bééhózin da, shí éí shizhé’é yázhí yiníłnii’ nihíłníigo naalyéhé bá hooghangóó chizh nihíyeeh
+CHRF: 43.4918
+
+--- Comparing ---
+Gold:        ’Áádę́ę́’ shį́į́ chizh ho’doo’niidgo
+Translation: Dáádáá’ naalyéhé dine’é chizh nízin.
+CHRF: 13.5791
+
+--- Comparing ---
+Gold:        ’Ashkii ła’ Tótsohnii nilį́įgo t’áá ’áłahjį’ bił tádísh’aash ’éí hoł
+Translation: Ashkii léi’ Tó’áhání nilį́į́, ’éí t’áá íiyisí bił na’aldeehígíí lá.
+CHRF: 25.4231
+
+--- Comparing ---
+Gold:        ’Aadóó ’aají nihinaanish deezt’i’
+Translation: ’Ákót’éego nihinaanish ch’íníjéé’
+CHRF: 36.5292
+
+--- Comparing ---
+Gold:        Sitsilí ’ahidii’níigo tádiit’aash
+Translation: "Shitsilí!" dadii’níigo tádiit’aash.
+CHRF: 73.8494
+
+--- Comparing ---
+Gold:        Naalyéhé bá hooghangi chizh nihiigeeh
+Translation: Dóó Naalyéhé bá hooghan góó tsin bee na’aldeeh.
+CHRF: 52.3772
+
+--- Comparing ---
+Gold:        ’Áłchíní ’ólta’jį’ ndaha’níiłgo baa na’aldeeh jiní ha’níigo yii’nii’
+Translation: Hane’go yii’nii’, diné nikaadgo nidaagohłį́, ’áłchíní ’ólta’jį’ ndaha’niłígíí.
+CHRF: 51.6685
+
+--- Comparing ---
+Gold:        Ch’ínílį́į́jí baa na’aldeeh jiní
+Translation: ’Áko Ch’ínílį́į́di ’ałhólǫ́ hodoo’niid
+CHRF: 34.8555
+
+--- Comparing ---
+Gold:        Hahgo shį́į́ kwii bił ’ínééh jiní ha’níigo yii’nii’
+Translation: ’Áko háádę́ę́’ hajį́ kwe’égo yinééłgo hodoo’niid
+CHRF: 19.7422
+
+--- Comparing ---
+Gold:        ’Áádóó baa yiníit’į́įgo chizh ha’iilbąąs
+Translation: Tsinaabąąs bee chizh nihíyeehgo, bina’ nihidiiłnííł.
+CHRF: 20.9419
+
+--- Comparing ---
+Gold:        ’Ashkihéi ’íídíiltah hodííniid hoł naash’aash yę́ę
+Translation: ’Íídíiltah, shik’is baa yíníłti’.
+CHRF: 22.1357
+
+--- Comparing ---
+Gold:        Hágoshį́į́ jidííniid
+Translation: T’áá shoodí, dííniid.
+CHRF: 30.9135
+
+--- Comparing ---
+Gold:        ’Aadóó baa yiníit’į́įgo baa nihił hózhǫ́ǫgo tádiit’aash
+Translation: Dóó ná’oolkááh, bee yáhoot’ééłgo ndahojisne’.
+CHRF: 9.1724
+
+--- Comparing ---
+Gold:        ’I’íí’ą́ągo chizh bida nááhee’nilgo hooghangóó dah ń’diilbą́ą́z
+Translation: Ch’į́į’go chizh t’áá łá’í bidah ’ahii’nííłgo tsinaabąąs bikáá’gi bighanah náádiit’áázh.
+CHRF: 24.0927
+
+--- Comparing ---
+Gold:        Hooghandi nániit’áázh ńt’éé’ shidá’í yę́ę sidáá lá
+Translation: Hooghangóó nániikaigo ńt’éé’ ’áadi shidá’í hólǫ́ lá
+CHRF: 39.9099
+
+--- Comparing ---
+Gold:        Shichei Naakaii Dine’étsoh wolyéé ńt’éé’ ’éí dó’ sidáá lá
+Translation: Ńt’éé’ ’ákwii shichei yę́ę Naakaii Dine’étsoh wolyé t’áá shoodí sidáá lá.
+CHRF: 63.4410
+
+--- Comparing ---
+Gold:        ’Áko ’ákwe’é bee bił hwiilne’
+Translation: Áko nihinitsáhákees bił yijilne’
+CHRF: 23.4304
+
+--- Comparing ---
+Gold:        ’Áłchíní ’ólta’jį’ ndaha’nííł jiní
+Translation: ’Áłchíní ’ólta’jį’ ’adahat’ééh jiní.
+CHRF: 61.5059
+
+--- Comparing ---
+Gold:        T’áá ’áníidlah ’íídíiltah dii’niid dii’níigo bee hoł hwiilne’
+Translation: Ólta’góó ’íídíiltah díígo bił hwiilne’.
+CHRF: 35.2428
+
+--- Comparing ---
+Gold:        T’áá shį́į́ ’áko
+Translation: Koshį́į́ t’áá shoodí
+CHRF: 43.4384
+
+--- Comparing ---
+Gold:        Jó ’aadę́ę́’ nihich’į’ ’oonééł lá
+Translation: ’Áł’ą́ą’í nihá deiyá
+CHRF: 8.8050
+
+--- Comparing ---
+Gold:        Háadish dó’ baa dáádidooh’ash nihizhdííniid shidá’í yę́ę dóó shichei yę́ę
+Translation: “T’áá íiyisí doo bidah daniłnááh da,” shinaaí dóó shichei nihí yááłtiin.
+CHRF: 26.7118
+
+--- Comparing ---
+Gold:        Biiskání naalyéhé bá hooghangóó niikai dóó shichei yę́ę naaltsoos nihá bizhdeelchid
+Translation: Náábiiskánígo Naalyéhé bá hooghangi deiyá, dóó shicheii nihí bąąh naaltsoos bikáa’ bí áts’á’ łitsoh yítł’oh.
+CHRF: 50.2943
+
+--- Comparing ---
+Gold:        Naaki yiską́ągo Ch’ínílį́į́dę́ę́’ ’áłchíní ’ólta’góó dadeesht’eezhígíí kwii bił ’íbąąs ha’níigo hastóí nihinááł yee ’ałch’į’ hadaasdzíí’
+Translation: Chinle góne’ ’áłchíní ’ólta’góó na’aldeehgo, naaki yiską́ągo ’índa deiyá jiní ha’níigo, dóó dine’é na’nízhoozhígíí bee yá’áłti’go yii’nii’.
+CHRF: 38.8851
+
+--- Comparing ---
+Gold:        Yee ’ałch’į’ hadaasdzíi’ii hastóí ła’ Wéela wolyéé ńt’éé’ Tsénikání yine’jí kéédahat’į́į́ ńt’éé’
+Translation: Baa yee ’ałch’į’ hadaasdzíígíí hastóí bidábínígíí t’áá łą́’ ’éí Weela yoolyé. Éí Round Rock bine’jí nagháí deest’į́’.
+CHRF: 36.8203
+
+--- Comparing ---
+Gold:        ’Íídąą’ ’éí naat’áanii danilį́įgo
+Translation: ’áádóó ’íídą́ą́’ ’éí naat’áanii t’áá łá’í nilį́
+CHRF: 51.3585
+
+--- Comparing ---
+Gold:        Yoo’ó ’Adika’í wolyéé ńt’éé’ ’éí dó’ siláago ’atah nilį́įgo
+Translation: T’áá łá’í Yoo’ó ’Adika’í wolyéhę́ę, dóó ’éí siláago ’átah nilį́.
+CHRF: 57.3557
+
+--- Comparing ---
+Gold:        ’Ayóo baa dzólníigo ’óolyéé ńt’éé’
+Translation: ’Éí hastiin ’ayóo daats’į́’ dóó nidaazí át’é.
+CHRF: 13.2582
+
+--- Comparing ---
+Gold:        Ch’ínílį́į́dóó naagháa ndi Tséhootsooídi siláago ’atah nilį́į́ ńt’éé’
+Translation: ’Éí Ch’ínílį́į́dę́ę́’ nilį́, nít’éé’ Tséhootsooídi siláago ’atah nilį́.
+CHRF: 67.3596
+
+--- Comparing ---
+Gold:        ’Éí Tséhootsooídóó Bilagáana Naat’áanii Yázhí wolyéé ńt’éé’ ’alą́ąjį’ yił yíkai lá
+Translation: ’Éí t’áá áłtségo yáájiłgo Fort Defiancegóne’ bilagáana hastiin Naat’áanii Yazhí wolyéé léi’ bił deyá.
+CHRF: 36.0508
+
+--- Comparing ---
+Gold:        ’Akwii shichei ńt’éé’ nihee hajoodzíí’
+Translation: ’Áájį’ shichei yááłti’ dóó nihí baa yá’áhoot’į́į́’.
+CHRF: 22.8780
+
+--- Comparing ---
+Gold:        Shí díí ’ashiiké naakigo ’ólta’jį’ ninishnííł jiníigo bee hajoodzíí’
+Translation: Díí ashkii naaki ’ólta’góó nidaasháał, na’ídlį́’go jidííniid
+CHRF: 23.6050
+
+--- Comparing ---
+Gold:        Yiską́ągo ’índa ’áłchíní bił ’íbąąs ha’níigo t’óó hooghangóó nániikai
+Translation: Hodoo’niidgo t’áá łá’ yiską́ągo ’áłchíní bił dah ’adidoobąs deyáago, hooghangóó dah ń’diilbą́ą́z.
+CHRF: 43.8986
+
+--- Comparing ---
+Gold:        ’Áadi danihiiską́ągo ’áádę́ę́’ t’áá ni’ náániikai
+Translation: Dií ’atah t’áá ’ákǫ́ǫ́ nihiiską́, háálá kéé’ bitł’óółgo náádiidlį́.
+CHRF: 29.9091
+
+--- Comparing ---
+Gold:        Ńt’́éé’ ’áłchíní bił ’aníbą́ą́z lá
+Translation: Ńt’éé’ awéé’ yázhí ’áłah hólǫ́ lá
+CHRF: 16.6284
+
+--- Comparing ---
+Gold:        Hastiin léi’ Tó Dích’íi’nii nilį́į́ ńt’éé’ Chį́shch’į́į́d dabijiníí ńt’éé’ ’éí ’áłchíní yaa ’áhályą́ągo bił na’aldeeh lá
+Translation: Hastiin ła’ Tódích’íi’nii nilį́, Diné éí Tsii’ Ndaazí joolyéé. ’Éí diné níł náádeyá, ’áłchíní baa ’áhólyą́ągo.
+CHRF: 37.0065
+
+--- Comparing ---
+Gold:        T’áá ’áłch’į́į́dígo Bilagáana bizaad bił bééhózin ńt’éé’
+Translation: Bilagáana bizaad ’áłts’íísí bee yáti’.
+CHRF: 32.7722
+
+--- Comparing ---
+Gold:        ’Éí shį́į́ bąą ’áłchíní baa ’áhólyą́ą dooleeł bi’doo’niid
+Translation: ’Áko ’éí bik’ehgo bee haz’ą́ągo ’áłchíní yádiłhiłígíí bíníníł’į́.
+CHRF: 23.1027
+
+--- Comparing ---
+Gold:        ’Ahaninéí’niłgo yaa naaghá
+Translation: ’Éí ’ałnííłnááh
+CHRF: 7.6119
+
+--- Comparing ---
+Gold:        Bis Dootł’izh Deez’áhí binaagi ’áłchíní ndayiiznilii t’ah doo ’ałtso ndayii’éesh da
+Translation: Bis Dootł’izh Deez’áhídę́ę́’ ’áłchíní ’ólta’jį’ ndaha’niłígíí doo t’áá ’áłtso k’ad yah bił déíyá da.
+CHRF: 42.3513
+
+--- Comparing ---
+Gold:        ’Áko naaki yiską́ągo ’índa bił dah ’adidoobąs hodoo’niid
+Translation: Naaki yiską́ągo tsinaabąąs ’áłchíní bił deeyá jiní.
+CHRF: 33.0223
+
+--- Comparing ---
+Gold:        Nagháí Lók’a’jíkai góne’ dóó Tsééhílį́į́ góne’ dóó Sǫ’ Siláágóó dóó ńléí Tséhootsooíjį’
+Translation: Lók’a’jígai dóó Tsaile dóó Crystal bik’ehgo deiyá, dóó Tséhootsooi hoolyéégóó báátis.
+CHRF: 30.9730
+
+--- Comparing ---
+Gold:        Koshį́į́ ’át’éego bee haz’ą́ągo
+Translation: Éí daats’į́’ bina’oolkił ’áhoot’éé’ lá
+CHRF: 9.8059
+
+--- Comparing ---
+Gold:        Ńt’ée’go nagháí dził bine’jí K’aabizhii dóó Tsé Łichíí’ Dah ’Azkání nahós’a’gi diné kéédahat’ínígíí ’ólta’ wolyéii baa ch’íhwiit’aahgo shį́į́ yik’ee dadiniihgo ntsídaakees lá
+Translation: ’Ach’į’ dził jį’ bine’dę́ę́’ Cove dóó Red Rock kéyah bikáa’gi daniidlį́’ díné’é ’i’íníłta’ baa ná’oolkiłígíí yich’į’go yínítsékees.
+CHRF: 21.1951
+
+--- Comparing ---
+Gold:        ’Éí t’áá ’ániidígo hastóí dajizlį́į’go ’ałtso ’ádajidin
+Translation: T’áá ’áłts’íísgo díí Diné ch’oonii ádaalį́, dóó t’áá ’áłtso doo iiná da.
+CHRF: 25.3781
+
+--- Comparing ---
+Gold:        ’Íídą́ą́’ ’ashiiké dajílį́įgo ’ádajíít’įįd
+Translation: ’Íídą́ą́’ t’áá ’áko yiyiłáhgo hastį́į́ yázhí danilį́.
+CHRF: 29.3342
+
+--- Comparing ---
+Gold:        ’Áłchíní ’ólta’góó ’adahat’éésh ha’nínígíí t’áá nihitah ńt’i’í bíni’ biniinaa háágóó ’ániit’ée dooleeł
+Translation: Díí ’áłchíní ’ólta’góó dadeesht’eezhígíí bił nidoolkáá’go t’áá íiyisí baa hodooníł, jiní.
+CHRF: 29.4469
+
+--- Comparing ---
+Gold:        Niha’áłchíní doo ła’ haa diiltéeł da dajiníigo shį́į́ ’át’éé lá
+Translation: Nihí yíníłnii’go ha’níigo ’ólta’ doo ła’ íiyisí bi’áłchíní yiláh da
+CHRF: 31.1937
+
+--- Comparing ---
+Gold:        Bilį́į́’ Łizhinii joolyéé ńt’éé’ ’éí ’áájí ’ákót’éego bee dah ’ajoo’ish ńt’éé
+Translation: Bilį́į́’ Łizhinii wolyéé hastiin ’éí ’aní’eezhígíí naat’áanii nít’į́.
+CHRF: 33.4664
+
+--- Comparing ---
+Gold:        Bis Dootł’izh Deez’áhí hoolyéegi ’ákwíí yiską́ągo biniiyé ’ínééh jiní díí ’áłchíní ’ólta’jį’ ndaha’niłígíí kót’éego shį́į́ dajíínii’
+Translation: Ákót’éego ha’níigo yiyi’nii’, bithan t’áá adiní yiską́ągo Bis Dootł’izh Deez’áhígíí bił ’ínééh ’áłchíní ’ólta’góó ndayiiznilígíí biniiyé dine’é.
+CHRF: 52.1483
+
+--- Comparing ---
+Gold:        ’Áko shį́į́ hwii’ ndahodik’ǫǫshgo tsídazhdeezkééz
+Translation: ’Áko ’éí ’áájí ts’óózígo baa tsídahodeeskéés
+CHRF: 22.2214
+
+--- Comparing ---
+Gold:        ’Ashiiké díkwídiilt’eeł lá
+Translation: ’Ashkihéi, ńléí yah ’íídíiltah yę́ę
+CHRF: 18.1612
+
+--- Comparing ---
+Gold:        ’Ákǫ́ǫ́ dooleeł dazhdííniid shį́į́ lá ’áádę́ę́’
+Translation: ’Áhoodzaa lágo yidlą́.
+CHRF: 8.0273
+
+--- Comparing ---
+Gold:        ’Áko shį́į́ ’áádę́ę́’ biniiyé dashdiikai
+Translation: ’Áko koshį́į́ ’adígo ’áłchíní ’ólta’jį’ na’aldeehígíí baa dah na’azníí’ bik'ehgo deyá.
+CHRF: 25.8939
+
+--- Comparing ---
+Gold:        ’Éí nihí doo deii’niih da dóó doo nihił béédahózin da lá
+Translation: Díí baa doo nihíł yíníłti’ da dóó doo nihíł bééhózin da
+CHRF: 41.9820
+
+--- Comparing ---
+Gold:        ’Éí Bis Dootł’izh Deez’áhígi ’adááh jíkai silį́į́’ lá
+Translation: Bis Dootł’izh Deez’áhí hoolyéegi bi’ólta’ dóone’é na’ídiiłka’.
+CHRF: 44.6472
+
+--- Comparing ---
+Gold:        Naalyéhé bá hooghan dóó t’áá ’áhánígi kin ła’ si’ą́
+Translation: Naalyéhé bá hooghan bikǫ́ǫ’go kin íígíí
+CHRF: 43.0808
+
+--- Comparing ---
+Gold:        ’Íídą́ą́’ kin hóchxǫ́’í dahodii’ní
+Translation: ’Íídą́ą́’ ’éí kin hóchxǫ́ʼígíí yíníyé.
+CHRF: 50.2383
+
+--- Comparing ---
+Gold:        Diné naalyéhé bá hooghangi ńdaakahii yii’ ńdanijah biniiyé kin si’ą́
+Translation: Kin díí naalyéhé bá hooghan góne’ nááhai’ígíí diné ’ałníí’ bá hooghan biniiyé ádoolnííł.
+CHRF: 39.1604
+
+--- Comparing ---
+Gold:        ’Áájí shį́į́ jíkai lá
+Translation: Black Horse bí’áłáanii ’adígóó na’oolkił
+CHRF: 7.7160
+
+--- Comparing ---
+Gold:        Nichǫ́ǫ́’ígo ntsídajikeesgo shį́į́ jíkai lá ’áko hastóí t’áá kǫ́ǫ́ kéédahat’íinii ’éí doo há deiniih da
+Translation: ’Áádóó daaníigo hócho’ígo nitsáhákees bił yah adanááh. Diné kéédahat’ínígíí doo bidahaz’ání baa ’ádin béédahózin da.
+CHRF: 25.2389
+
+--- Comparing ---
+Gold:        Tł’ée’go shį́į́ ’ákót’éego bee ’ádaa ndahojisne’
+Translation: Nít’į́į́’ tł’óó’go ’ahił yáłti’, biniiyé yóólne’.
+CHRF: 16.8807
+
+--- Comparing ---
+Gold:        Shichei ńt’éé’ dishnínígíí dóó náánáłá shidá’ígo ’Ashkii Yázhí wolyéé ńt’éé’ ’éí shį́į́ tł’ée’go ’áadi jiní’áazhgo ’ákót’éego hanááł yee ’ahił dahalne’
+Translation: Shichei wolyé dishnínę́ę dóó shinaaí łáá’ ’Ashkii Yázhí wolyé, t’áá ’áhání tł’óó’go góó diiyá dóó biniiyé yáníłti’ígíí yóódį́į́’.
+CHRF: 31.6172
+
+--- Comparing ---
+Gold:        Bilį́į́’ Łizhinii wolyéé ńt’éé’ Na’niłhodí wolyéé ńt’éé’ Kin Łichíi’nii Nééz wolyéé ńt’éé’ Yoo’ee Hataałí Sání wolyéé ńt’éé’ Kin Łichíi’nii nilį́įgo dóó bił naa’aash ńt’éé’ Tó Dích’íi’nii nilį́įgo Yoo’ee Bida’ wolyéé ńt’éé’ ła’ dó’ hastiin ńt’éé’ t’óó bééhasinígo bééhasin ńt’éé’ shá’áyééh ńt’éé’ ’li’di Aałiiłtsooí wolyéé ńt’éé’ k’ad t’áá ’ákódígo áádę́ę́’ yíkai yę́ę bénáshniih
+Translation: Díí danohłį́į’ígíí biyi’ hadánígíí doo, Bilį́į́’ Łizhinii wolyéé’ hastiin, dóó Limper wolyéé’ hastiin, dóó Kin Łichíí’nii Nitsaa wolyéé’ hastiin, dóó Old Bead Chant Singer wolyéé’ hastiin — ’éí Kin Łichíí’nii nilį́ — dóó bí ach’į́’, Tó Dích’íi’nii nilį́, Bead Chant’s Nephew wolyéé’ hastiin, dóó lá’ hastiin t’áá łahgo shí nihit’ááhígíí dóó shí ak’é bee nihidaní. Biyázh ’éí Yellow Fermentive Chewer wolyéé’. Díí t’áá ’áhoot’éego t’áá áłtségo shi nínízinígíí dííji’go, dził bine’dę́ę’góó deedááłígíí.
+CHRF: 35.8625
+
+--- Comparing ---
+Gold:        Ła’ shį́į́ daaháí ní hóla
+Translation: Háí ts’ídá át’é ’éí doo bénáshniih da
+CHRF: 9.5192
+
+--- Comparing ---
+Gold:        Yiską́ągo Naat’áanii bił yah ’adiikah daaníigo shį́į́ ndahaz’ą́
+Translation: Daats’íí binaahat’á, Náábiiskánígo Ajeent wolyéhígíí bighandi bił ’a’ahdiikaah.
+CHRF: 24.5263
+
+--- Comparing ---
+Gold:        Nihí kódeiniidzin kót’éego baa ntsídeiikees díí bee nihaa ní’diildee’ígíí daaníigo shį́į́ hoł ndahasne’ jilą’í baa ’ałah jílį́įgo
+Translation: ’Éíshą’ nitsáhákeesígíí—díí nihá nídeeshááłígíí ’ólta’ bee haz’ą́ bá be’ádahoozinígíí—éí nahazne’. Díí bąąh daná’oodzą́ą́’ígíí kǫ́ǫ́góó diné bił yá’áhodilne’.
+CHRF: 21.7104
+
+--- Comparing ---
+Gold:        ’Áko ’éí ’áájí binahat’a’ą́ą bik’ehgo tsídahodeeskéés
+Translation: ’Áko diné bíhaz’ání bik’ehgo tsídazhdeezkééz
+CHRF: 38.0122
+
+--- Comparing ---
+Gold:        Haalá ’áhoodzaa hastóí háí yee’ t’áá haa ’ánóht’é
+Translation: Haalá, hastóí, dííde’ t’áá ’íiyisí hataał yá’áhoot’ééł ’át’é?
+CHRF: 37.6137
+
+--- Comparing ---
+Gold:        ’Ałk’idą́ą́’ hastóí ńt’éé’ t’óó hahane’ danilį́ ha’at’íí shį́į́ ’óolyé łee ’íyátééh wolyé jiní háí yee’ bééhonohsin dajiníigo shį́į́ baa ńda’jooskan
+Translation: ’Áájígo Diné sání bá hane’ nayiisnį́į́’; ’éí “Talk One Into the Grave” yínílyé. Háíshą̨̨́’ nihá ’éí bééhózin? jiní Bilį́į́’ Łizhinii yę́ę, ’áhoot’éego yíníł’į́į́’.
+CHRF: 20.2684
+
+--- Comparing ---
+Gold:        ’Éí shį́į́ dził bine’dę́ę́’ jíkai yę́ę ’ádajiní
+Translation: Dził bine’dę́ę́’ díí Diné díígo dahojilne’
+CHRF: 36.6116
+
+--- Comparing ---
+Gold:        Díí k’ad t’óó jiní jinínígíí ’éí ’át’é
+Translation: Díí kót’éego shił nááhálne’. Shí t’áá shí éí doo ’ałníí’gi da.
+CHRF: 21.1435
+
+--- Comparing ---
+Gold:        Ha’át’éegoónee’shą’ naat’i’íí ’óolyéé ńt’éé’
+Translation: Áádóó t’áá ’éiyá ha’át’éego díí hataał ’al’į́į́ ńt’éé’ shį́į́ hóla
+CHRF: 32.8056
+
+--- Comparing ---
+Gold:        Shí lą́ą jiní jiní ’Ashkii Yázhí joolyé dishnínę́ę
+Translation: Aoo’, ’Ashkii Yázhí wolyéé ńt’éé’ dishnínígíí jidííniid.
+CHRF: 41.9101
+
+--- Comparing ---
+Gold:        ’Áko lá ndidoołt’eeł ni jiní Bilį́į́’ Łizhinii yę́ę
+Translation: Díí biniiyé naaki diné bił nídoolnííł, Bilį́į́’ Łizhinii yę́ę.
+CHRF: 49.2850
+
+--- Comparing ---
+Gold:        ’Áko shį́į́ shichei yę́ę Naakaii Dine’étsoh wolyé dishnínę́ę bił ’ahizhdii’áázh
+Translation: Áko shichei, Naakaii Dine’étsoh wolyéé’go shiyááłti’ígíí, yił t’áá íiyisí yá’.
+CHRF: 44.4924
+
+--- Comparing ---
+Gold:        ’Éí nahozhdoołaał biniiyé
+Translation: ’Aadóó łee’íyátééh ha’nínígíí baa nijzh’áázh
+CHRF: 12.7258
+
+--- Comparing ---
+Gold:        Naalyéhé ba hooghanídóó shádi’ááh bich’ijígo dinék’ehjígo Kin Ts’iil dahodii’ni ha’át’íí shį́į́ ’ałk’idą́ą́’ dahodííłid
+Translation: Naalyéhé bá hooghan shádi’ááhgi Diné bizaad bee “Shattered House” dahodii’níígíí kin neeztą́’ígíí si’ą́. ’Áajigo daats’í bá yidlóół.
+CHRF: 34.0104
+
+--- Comparing ---
+Gold:        ’Anaasázi wolyéé ńt’éé’ jiní
+Translation: Anaasází daalį́ lą́ʼ.
+CHRF: 22.0165
+
+--- Comparing ---
+Gold:        Łeeshch’ih nahalingo hadaashjin
+Translation: Nít’į́į́’ ts’óó’ łahgo łizhin.
+CHRF: 7.6391
+
+--- Comparing ---
+Gold:        ’Áájį’ shį́į́ łee’íyátééh ha’nínígíí baa nijzh’áázh
+Translation: ’Akwii nahozhdoołaał
+CHRF: 4.9469
+
+--- Comparing ---
+Gold:        Ha’át’éego shį́į́ ’al’į́į́ ńt’éé’ hóla
+Translation: Haash nideez’ą́ígíí doo shił béédahózin da.
+CHRF: 10.1575
+
+--- Comparing ---
+Gold:        ’Aajį’ shį́į́ kódzaago yiską́
+Translation: Jó ’éí tʼą́ą́’go nááłnii’
+CHRF: 7.3298
+
+--- Comparing ---
+Gold:        Nihí ’éí shidá’í bighandi náánihiiską́
+Translation: Nihí ’éí shidá’í hooghandi t’áá íiyisí danihiiską́ą’
+CHRF: 64.6658
+
+--- Comparing ---
+Gold:        Díí jį́ ’áłchíní ’ólta’góó bił ’oobąs yę́ę bitah nihi’dee’nííł
+Translation: Dííjį́ ’áłchíní ’ólta’góó naaznííłígíí bii’ nihidiilnih lá
+CHRF: 49.5171
+
+--- Comparing ---
+Gold:        Yiską́ągo ’éí ’atah nihił dah ’adiinééh kót’éego biniiyé hooghandóó ’ahbínígo t’áá ni’ dah náádiikai
+Translation: Yiską́ągo bił nidadiikai. ’Áko bik’ehgo ’Ahbínígo hooghanígóó kéé’ át’éego náá dadiikai.
+CHRF: 38.0511
+
+--- Comparing ---
+Gold:        Hastóí yę́ę bił dah diikai
+Translation: Hastóí bił deiyá,
+CHRF: 28.7575
+
+--- Comparing ---
+Gold:        Naaltsoos nihá yididoolchiłii bee ’ééhózin dooleełii’ ’éí shichei yę́ę Naakaii Dine’étsoh yę́ęni’
+Translation: Éí nihá naaltsoos bik’ijį’ bizhdeelchidígíí dóó nihá baa dah si’ánígíí bił danohłį́į’. Éí shichei, Naakaii Dine’étsoh nít’į́.
+CHRF: 38.2763
+
+--- Comparing ---
+Gold:        ’Éí nihá yiizį’ díí ndiniilt’éhígíí
+Translation: Nihá naaki baa dah si’ání.
+CHRF: 8.0734
+
+--- Comparing ---
+Gold:        Kingi niikai ńt’éé’ diné t’óó ’ahayóí ’áłah silį́į́’ lá
+Translation: Báhásánídi nihił ’ílwodgo ńt’éé’ Diné lótso danáásdzání lá.
+CHRF: 18.7627
+
+--- Comparing ---
+Gold:        Łį́į́’ t’óó ’ahayóí naazį́
+Translation: Łį́į’ ’áádíní da t’óó naazį́
+CHRF: 35.0067
+
+--- Comparing ---
+Gold:        ’Íídą́ą́’ łį́į́’ t’éiyá bee nda’aldeeh
+Translation: ’Íídą́ą́’ dine’é bee nda’aldeehígíí t’éiyá łį́į́’ nít’į́
+CHRF: 68.3637
+
+--- Comparing ---
+Gold:        Tł’éédą́ą́’ baa nda’asdee’ii ’éí ła’ doo nihił béédahózin da
+Translation: Níhí t’áá ałts’íísgo doo ha’át’ísh t’ááłáhádi ’aajį’ ’ál’į́į́ígíí bééhózin da.
+CHRF: 19.0075
+
+--- Comparing ---
+Gold:        Bilį́į́’ Łizhinii wolyéé léi’ t’éiyá nagháí dził bine’dę́ę́’ ’aní’eezh lá
+Translation: Bilį́į́’ Łizhinii joolyéé łá dził bine’dę́ę́’ jíkai diné bił níyáá lá
+CHRF: 51.1513
+
+--- Comparing ---
+Gold:        T’óó ’ákót’éhégo nihił béédahoozin
+Translation: Éí t’áá íiyisí nihá hodíílnih.
+CHRF: 10.6910
+
+--- Comparing ---
+Gold:        K’ad kwe’é naanish dahodooleeł
+Translation: K’ad kwii na’anish dooleeł nihi’doo’niid
+CHRF: 46.1331
+
+--- Comparing ---
+Gold:        Niha’áłchíní naaltsoos bá ’ánáádadoolniił hodoo’niid
+Translation: Nihí ’ałchíní áádáá’í bá naaltsoos bee na’ídíílnii’.
+CHRF: 36.9105
+
+--- Comparing ---
+Gold:        T’áá diné siláago danilínígíí táá’ ’ákwii yiniiyé naakai
+Translation: ’Éí biniiyé ’éídi táá’ lá Diné siláago
+CHRF: 32.2853
+
+--- Comparing ---
+Gold:        Yoo’ó ’Adika’í yę́ę lá Tséhootsooídę́ę́’ Hastiin Deez Hastiin ’Anilí ni’ Biye’ dó’ wolyéé ńt’éé’
+Translation: ’Éí t’áá łá’ Yoo’ó ’Adika’í wolyéé; t’áá łá’ Tséhootsooídi nilį́ Singed Man joolyéé, áádóó naagháa Rag Man biye’ wolyéé.
+CHRF: 37.4431
+
+--- Comparing ---
+Gold:        Ła’ ’éí ’Adiits’a’ii yę́ęni’ biyé ńt’éé’
+Translation: T’áá łá’ ’éí Hastiin ’Adiits’a’í ba’ádání nilį́.
+CHRF: 32.6289
+
+--- Comparing ---
+Gold:        Táchii’nii ńt’éé’ Ts’óhootsogi ’éí t’áá ’áhodííniidgo naa’ahóóhai ńda’adleehgo jáádk’ehgi łį́į́’ ’ałghadeesht’áazhgo łį́į́’ bik’I ch’élwodgo biisxį́
+Translation: Táchii’nii dine’é hastíín. Díí hastíí’ t’áá jíchii’ St. Michaelsdi roodíyóódi yiyíílááh. Na’álkaah bits’áhoot’éego bina’álkaah bikáa’ na’álkaahí łį́į́’ bíyáá’ yiyíílááh.
+CHRF: 25.6767
+
+--- Comparing ---
+Gold:        ’Íídą́ą́’ ’éí siláago nilį́
+Translation: ’Íídą́ą́’ ’éí siláago nilį́
+CHRF: 100.0000
+
+--- Comparing ---
+Gold:        Daánee’shą’ wolyéé ńt’éé’ t’óó bééhasinígo bééhasin ńt’éé’
+Translation: Haash yíyá doo nitsíkees da; t’áá íiyisí naal’į́’go bił ííníłnih.
+CHRF: 11.4187
+
+--- Comparing ---
+Gold:        T’óó ’Adiits’a’ii Baadaaní t’éiyá bi’di’níí ńt’éé’
+Translation: ’Éí t’óó ’íiyisí ’Adiits’a’ii yę́ęni’ bi’adeezhí yiníł’į́.
+CHRF: 34.9882
+
+--- Comparing ---
+Gold:        Jó ’éí ’íídą́ą́’ siláago nilį́
+Translation: ’Íídą́ą́’ ’éí siláago nilį́
+CHRF: 64.5027
+
+--- Comparing ---
+Gold:        ’Áko táá’ lá siláago
+Translation: Áko siláago táá’ lá.
+CHRF: 65.2635
+
+--- Comparing ---
+Gold:        Kódzaa jó ’akon
+Translation: ’Ákót’éego ’ákódzaa
+CHRF: 24.7122
+
+--- Comparing ---
+Gold:        Ńt’éé’go k’ad dooleeł hodoo’niid shą’ lá
+Translation: ’Áko t’áá jíík’ehgo nihá hólne’
+CHRF: 10.5407
+
+--- Comparing ---
+Gold:        T’óó diné yah ’ahijeeh naalyéhé bá hooghan góne’
+Translation: Naalyéhé bá hooghan góne’ yah ’a’ooldeehígíí diné nihí yáníłʼį́.
+CHRF: 58.0520
+
+--- Comparing ---
+Gold:        ’Atah ’ákóne’ yah ’iikai
+Translation: ’Áko t’áá jíík’ehgo dine’é bikéé’ dah náádiit’áázh
+CHRF: 15.1887
+
+--- Comparing ---
+Gold:        Nihí díí ninihi’dee’nil yę́ęni’ t’áá ła’ tádiit’aash
+Translation: Nihí naaki ’ólta’jį’ ’ałní’.
+CHRF: 12.1111
+
+--- Comparing ---
+Gold:        Nahgóó nihees’nilii ’éí doo shił bééhózin da
+Translation: Ła’ awéé’ ’ólta’góó deeyááhígíí, ’éí t’áadoo háíí baa shił bééhózin da.
+CHRF: 38.8471
+
+--- Comparing ---
+Gold:        Jó ’ákohgo chizh niniigį́įgo chizh bidah ’ahii’nííł ńt’éé’ kóoní ’asdzání naakigo łį́į́’ yoo’ish́ Nikinát’áazhgo shį́į́
+Translation: Chizh bideeʼ áłtsé nááhadááhígíí, bidá nááhee’nilgo, kʼídę́ę́ʼ asdzání naaki łį́į́ʼ yił yááhígíí nihinłtaʼ.
+CHRF: 23.6302
+
+--- Comparing ---
+Gold:        ’Ałdó’ shį́į́ biyáazhgo niiníłtį́įgo
+Translation: Daats’í bihooghangóó deeyááł.
+CHRF: 11.0403
+
+--- Comparing ---
+Gold:        Toohnii wolyéé ńt’éé’ ’éí shį́į́ ’íídą́ą́’ niiníłtį́
+Translation: Díí ’asdzání ła’ be’ashkii ’ólta’jį’ nidayiizníí’ lá.
+CHRF: 12.3620
+
+--- Comparing ---
+Gold:        ’Aadę́ę́’ nihik’iníghal ’asdzání ’Asdzą́ą́ Tł’ááshchí’í’ wolyé k’ad t’ah naaghá ’éí
+Translation: Asdzáán niháádéé’ yínínáá’. ’Éí Kéé’ Łichíí’í Asdzáán joolyéé ńt’éé’. Háálá íiná nilį́.
+CHRF: 17.6272
+
+--- Comparing ---
+Gold:        Bitsii’ łigai
+Translation: Dóó bitł’óół łigai.
+CHRF: 26.9405
+
+--- Comparing ---
+Gold:        Ńt’éé’ ’ání ’Eii la’ ’ałdó’ ’ashiiké ’akǫ́ǫ́ chizh niiníyínígíí nii’nil ha’ní ’ałdó’ ’i’ííníłta’ ha’ní
+Translation: Yiyáágo yáłti’, “ha’níigo ’éídi tsin nahaz’ą́ą́łígíí ashiiké ’ólta’ baa ndayiiznilii — ’ólta’góó deeyááł lá.”
+CHRF: 21.8064
+
+--- Comparing ---
+Gold:        Yíh kad la’ bee da’iináajį’ ’adahashzhiizh yę́ęni’ nihiłní
+Translation: Hólá, háálá, dííji’ nihikáa’gi baa íił’į́go t’áá ajíłii’ danitsaa’, nihá baa yáłti’.
+CHRF: 19.2098
+
+--- Comparing ---
+Gold:        Ha’át’éegoónee’shą’ nihaa tsídeezkéezgo ’ání
+Translation: ’Ákót’éego yáłti’ígíí ha’át’íí bínízin shį́į́ hóla
+CHRF: 22.1138
+
+--- Comparing ---
+Gold:        ’Áko kodóó t’óó baa yiidloh nihí
+Translation: Nááji’ bínígíí t’óó nihich’į́į́’.
+CHRF: 13.6137
+
+--- Comparing ---
+Gold:        T’áá lá ’aaníinii ni’ádinii’nil lą́ą
+Translation: Ndi t’áá íiyisí ’át’éé lá. ’Ólta’góó nihá adeesdzíí’.
+CHRF: 13.0595
+
+--- Comparing ---
+Gold:        Jó baa hózhónígi ’át’éego baa hane’ t’óó niiddzį́į́’
+Translation: Ołta’ éí yá’át’ééh báhane’ nihidiníł
+CHRF: 18.5049
+
+--- Comparing ---
+Gold:        Shíínee’ ’ákwíiniizį́į́’
+Translation: ’Áko shí nisin.
+CHRF: 9.6828
+
+--- Comparing ---
+Gold:        Kojí t’áá ’ádíighahígo shí ntséskeesii shich’ooní nilíinii ’áajį’ bee bił hashné
+Translation: T’áá jíík’ehgo t’áá shí shínitsáhákeesígíí bee shik’is yił yáłti’
+CHRF: 20.2217
+
+--- Comparing ---
+Gold:        Jó ’akon bidááh háníí lá sitsilí ’akóoní Chíí’ binaalyéhé bá hooghan
+Translation: Nít’ę́ę́’, t’áá íiyisí baa nahjį’ dóó bí nízinígíí. Díí Chii naaltsoos bá hooghan ná’oolkił.
+CHRF: 27.0259
+
+--- Comparing ---
+Gold:        Haa shį́į́ nízahdę́ę́’ Hwééldi hoolyéédę́ę́’ nináda’iis’náádą́ą́’ hojoobá’ígo łį́į́’ bighangóó łį́į́’ bichaan yii’ na’atsigo habíyííłką́ jiní
+Translation: Hááláʼígíí Hwéeldi dééʼ náásdáágo ayóó yaajiłhééł.
+CHRF: 8.1651
+
+--- Comparing ---
+Gold:        T’óó haiłkááhdą́ą́’ łį́į́’ bichaan ch’éhégéedi tsin hasht’eelyaago dah yootį́įł łeh jiní
+Translation: Abíní’ t’áá íiyisígo dahgóó náádiiyá, t’áá bidách’į́’go ’ałnééhígíí tsin ’áłts’íís bił.
+CHRF: 16.4110
+
+--- Comparing ---
+Gold:        Sháyahjį’ bitsii’ yę́ęni’ bighájíchii’go nahaltsaad łeh jiní
+Translation: Yáádę́ę́’ bąą dah sidágo, jóhonaa’éí bits’áadahgi, bitsii’di łichíí’go yilnááh; éí ’ééhózin.
+CHRF: 24.3983
+
+--- Comparing ---
+Gold:        Kodóó ’óosye’ jiní Chíí’
+Translation: Kót’éego Chii yoolyé́
+CHRF: 8.9410
+
+--- Comparing ---
+Gold:        ’Aadóó shį́į́ Bilagáana ńdahidiiłtį́
+Translation: Háálá bilagáana ła’ bighan-di deest’į́į́ł.
+CHRF: 28.6742
+
+--- Comparing ---
+Gold:        Jó ’éí yee hideeznaad
+Translation: ’Ákót’éego iiná biyi’ hool’á’
+CHRF: 7.6988
+
+--- Comparing ---
+Gold:        ’Áádę́ę́’ binitsékees deezt’i’ be’iina deezt’i’ii k’ad kǫ́ǫ́ t’óó bidááh hání
+Translation: ’Éí ’ákót’éego biníyol hajíł’į́. Hózhǫ́ǫgo adáhodahooł’ą́ dóó dííji’ éí bi’adindíínígíí biyi’ nilį́į́’.
+CHRF: 15.6446
+
+--- Comparing ---
+Gold:        ’Adiits’a’go
+Translation: “Bilagáana bizaad bił bééhózin,” shí yíníłti’.
+CHRF: 7.4906
+
+--- Comparing ---
+Gold:        Jó shí ’éí nisingo baa ntséskees ’íídą́ą́’
+Translation: Jó ’éí ’íídą́ą́’ ’éí adínílnish shí yínízin.
+CHRF: 32.4556
+
+--- Comparing ---
+Gold:        ’Éí bik’ehgo ’ádee hadeesdzíí’
+Translation: Biniinaa ’éí bá’ólta’di shí t’áá íiyisí baa nishtą́.
+CHRF: 9.2961
+
+--- Comparing ---
+Gold:        Diné shidiiyáii dó’ t’áá ’ákót’é
+Translation: Dóó shíł na’ídííł’į́į́’ígíí éí áádóó díígo yínitsékees.
+CHRF: 11.4370
+
+--- Comparing ---
+Gold:        Jó shí kót’éego nabik’í tséskeesgo ’éí bik’ehgo t’áá ’aaníí ’íídą́ą́’ shił ’adááhóóniid ni’
+Translation: Díí baa nitsékeesgo, na’nitin t’áá íiyisí nisin ’íídą́ą́’.
+CHRF: 24.5146
+
+--- Comparing ---
+Gold:        Yę́ęni’ k’adshą’ doo ’ákódoonííł da léi’
+Translation: Nídíshjį’ doo ’ákót’ée da dooleeł lá.
+CHRF: 26.7954
+
+--- Comparing ---
+Gold:        Naalyéhé bá hooghan góne’ yah ’o’ooldee’
+Translation: Diné yah ’ahijeeh naalyéhé bá hooghan góne’
+CHRF: 62.3879
+
+--- Comparing ---
+Gold:        Ha’déébįįd lá
+Translation: T’áá ałtso níltsaa
+CHRF: 5.2083
+
+--- Comparing ---
+Gold:        Kojígo bik’I na’iiniihí naanii dah sitą́
+Translation: Díí nahjígo bikáá’ na’iiniihí nítł’ááh
+CHRF: 43.6879
+
+--- Comparing ---
+Gold:        T’ah nah wóniidi ’éí tsin dánídíkǫs
+Translation: Wóniidi níwohjigo t’áá ’ájíłį́ tsin dánídíkǫs báátis hólǫ́.
+CHRF: 46.8364
+
+--- Comparing ---
+Gold:        ’Áádę́ę́’ Hastiin ’Adiits’a’ii yę́ę ch’íníyá
+Translation: ’Akwii ’áádę́ę́’go Chii’ yishááh.
+CHRF: 19.5268
+
+--- Comparing ---
+Gold:        Nák’ee ’Aznilii wolyéé ńt’éé’ Lók’aah Nteeldóó bik’isgo naalyéhé yá sidáago Jaa’ ’Abaní dabijiníí ńt’éé’ ’éí nagháí ’át’ééjí bikáá’ na’iiniihí yine’jí naaghá
+Translation: Lók’aahnteelgi Biná’ bee adáníl’į́į’ígíí bi’áádí, Tsídii wolyéé’ hastiin, díídi naaltsoos bá ’ałníí’ lá. ’Éí nahjígo na’iiniihí biká’ daazlį́į́’ lá.
+CHRF: 28.5326
+
+--- Comparing ---
+Gold:        ’Ayóo diné yidiits’a’go ’óolyéé ńt’éé’ Jaa’ ’Abaní
+Translation: The Bat éí Diné bizaad bił ’ayóo bééhózinígíí hastíín ńt’éé’.
+CHRF: 20.5021
+
+--- Comparing ---
+Gold:        Hodíina’go Naat’áanii Yazhí wolyéé léi’ ch’ínáánádzá
+Translation: K’ad t’áá łahgo ’éí Naat’áanii Yázhí wolyéé’ígíí deeshááh lá.
+CHRF: 39.8722
+
+--- Comparing ---
+Gold:        Dóó nahgóó diné yílák’e dadeesnii’
+Translation: ’Aadóó Chíí’ bikáa’gi ninishtła
+CHRF: 12.4661
+
+--- Comparing ---
+Gold:        Dóó ’Adiits’a’ii Sání yę́ę yíighahdóó niníyá
+Translation: Hastiin ’Adiits’a’ii ’éí bibá yáhoot’ééłígíí nilį́
+CHRF: 32.1250
+
+--- Comparing ---
+Gold:        ’Adiits’a’ii Sání yę́ę bá ’ata’ halne’go ’aadóó diné yich’į’ ’ayá’niiłti’
+Translation: Diné’é baa yáłti’ hajį́’go
+CHRF: 11.4996
+
+--- Comparing ---
+Gold:        Bilį́į́’ Łizhinii yę́ę ’éí nahjígo bikáá’ na’iiniihí yąąh sizį́
+Translation: Łį́į́ʼdiłhił ’éí nahjí tábil biniit’aadóó sizį́
+CHRF: 26.4574
+
+--- Comparing ---
+Gold:        Diné yił naakai yę́ę t’áá yił naazį́
+Translation: Bidiné’é bił naazį́.
+CHRF: 26.4774
+
+--- Comparing ---
+Gold:        ’Áłchíní ndayiiznilii dabi’dééji’ dóó t’áá łą́ą́góó ’ólta’ bee nahazne’
+Translation: ’Ółta’góó bí’áłchíní baa níníłtį’ígíí dine’é bídindzin dah halne’, dóó ’ólta’ baa ałhááhgo nihí hashné’.
+CHRF: 28.4546
+
+--- Comparing ---
+Gold:        T’áá áko Bilį́į́’ Łizhinii yę́ę ’ání Díí ’áłchíní hats’ą́ą́’ ’ólta’góó ’adahat’éshígíí ’éí hahgo nihí nagháí dził dine’jí kééhwiit’íinii nihik’iit’ééh
+Translation: Haalá díí ’áłchíní dine’é bits’ą́ą́’go ’ólta’góó ’adahat’éésh ha’nínígíí — hááshą́ą́’ shį́į́ dził bine’dę́ę́’ jíkai dine’é bitah ńt’i’í? Bilį́į́’ Łizhinii yę́ę
+CHRF: 48.1975
+
+--- Comparing ---
+Gold:        dííniid
+Translation: Yáłti’
+CHRF: 2.4510
+
+--- Comparing ---
+Gold:        T’áá shį́į́ nihik’iidoot’ih hahgo dá
+Translation: Ha’ííshjį́’go nídeeyá.
+CHRF: 8.4476
+
+--- Comparing ---
+Gold:        Díí k’ad ’éí kojigo dziłtát’ah góne’ niki’níná yiską́ągo ní Naat’áanii Yázhí yę́ę
+Translation: “Yiską́ągo ńléí deiyá; t’áá dził bikáá’ yádeiyá,” Naat’áanii Yazhí (Shipley) yá’áłti’.
+CHRF: 30.1628
+
+--- Comparing ---
+Gold:        Nihí ’éí niha’áłchíní doo ła’ naa dadiiltéeł da
+Translation: Niha’áłchíní doo ła’ níł ’ádoolnííł da.
+CHRF: 49.0970
+
+--- Comparing ---
+Gold:        Bíni’ biniinaa háágóó ’áda’ahiil’į́į dooleeł níigo Bilį́į́’ Łizhinii yę́ę yee niiltee’
+Translation: “T’áá jį́ík’ehgo díí biniiyé’ nihá naabaah, t’áadoo naabaah da,” jiní Bilį́į́’ Łizhinii yę́ę ch’ééhgo.
+CHRF: 37.2776
+
+--- Comparing ---
+Gold:        Kó’ahidi’níigo łą́ądi saad ’ałná ninánídéél
+Translation: ’Ákót’éego ’ałch’į’ yááłti’ígíí Ajeent dóó łį́į’ łizhiní saad ał’ą́ą́’ ’ałch’į’ yááłti’.
+CHRF: 17.2835
+
+--- Comparing ---
+Gold:        Na’niłhodí wolyé dishnínę́ę ’éí nah t’áá ’áhání nahalindę́ę́’ beeldléí yee ’ákászaazgo sizį́
+Translation: Na’niłhodí wolyéé ’éí Bilį́į́’ Łizhinii bich’į’ hadít’ą́, bik’ijį’ ’abání bee ná’awol’į́į́’.
+CHRF: 27.1813
+
+--- Comparing ---
+Gold:        ’Aadóó bich’ooní danilíinii kojigo ’ałkéé’ nízį́
+Translation: ’Aadóó díí ’ałní’ígíí dine’é t’áá ’ałkéé’go dah siikéego naazį́.
+CHRF: 30.0876
+
+--- Comparing ---
+Gold:        Kodóó ’ániid February wolyéego ńdeezidę́ę naakigóó yoołkáłę́ędą́ą́’ kodóó dah dadiikai Tó Naneesdizídóó dį́niiltéego
+Translation: Biiskání naakigóó Tó Naneesdizí-déé’ dį́į́’ nihí niikai.
+CHRF: 24.0472
+
+--- Comparing ---
+Gold:        Bits’á nihi’diisdláa’go dah nihi’diit’eezh
+Translation: Níhí t’áá ajiłíí’ danilį́į́’.
+CHRF: 9.2352
+
+--- Comparing ---
+Gold:        ’Éí ńléí Béésh Sinil hoolyéhédi niikai
+Translation: Béésh Sinildi nihił ’ílwod
+CHRF: 34.8402
+
+--- Comparing ---
+Gold:        Hiłiijį́į’go ’áádóó chidí naat’a’í nihił ńdiit’a’
+Translation: Chahałheełgo chidí naat’a’í biih nihił dah da’diit’a’.
+CHRF: 44.3137
+
+--- Comparing ---
+Gold:        Phoenix hoolyéedi nihił ’aneezdá
+Translation: Hoozdoodi nihił ná’ít’a’
+CHRF: 24.8612
+
+--- Comparing ---
+Gold:        Tádiin dah ’alzhin ’adeiilyaa ’áajį’
+Translation: Tááʼdiin míínítsgo ’áadi nihił ná’ít’a’
+CHRF: 17.7125
+
+--- Comparing ---
+Gold:        ’Áádóó biiskání t’óó naaniiníłkánígo ńdanihidiinil
+Translation: T’áá ’áko yiską́ągo ’abínídą́ą́’ t’áá hajíínágo nihideesdzih
+CHRF: 15.6145
+
+--- Comparing ---
+Gold:        ’Aadóó chidí bee dah nihi’diit’eezh
+Translation: ’Áádóó chidígi shiyá.
+CHRF: 23.6719
+
+--- Comparing ---
+Gold:        Siláago nda’ał’eełígíí kééhat’į́į́ léi’gi nihił ’ílwod
+Translation: Navy Field hoolyéedi niikai
+CHRF: 8.3691
+
+--- Comparing ---
+Gold:        Hastánígi ’oolkiłgo chidí naat’a’í biih náánihi’doo’nil
+Translation: Hastą́ą́góó ’oolkiłgo chidí naat’a’í bidahjį’ nidiilyaa’
+CHRF: 53.4126
+
+--- Comparing ---
+Gold:        Chidí naat’a’í dį́į́’ naazį́į́ lá
+Translation: Chidí naat’a’í dį́į́’ lá
+CHRF: 67.9598
+
+--- Comparing ---
+Gold:        T’áá ’ał’ąą biih dahaakai
+Translation: T’áá íiyisí łá’ łá’ bikáá’gi nihidíł’ą́’
+CHRF: 19.5348
+
+--- Comparing ---
+Gold:        Shí chidí naat’a’í Tomahawk wolyéé léi’ biih shi’dool’a’
+Translation: Tomahawk hoolyéhígíí chidí naat’a’í bii’ shí nídááh.
+CHRF: 46.6003
+
+--- Comparing ---
+Gold:        Dį́į́’ bitsiits’iin lá
+Translation: ’Éí chidí naat’a’í bitsiits’iin dį́į́’ bąąh dah naaznilígíí áłníí’.
+CHRF: 51.3552
+
+--- Comparing ---
+Gold:        Díí chidí naat’a’í kódaat’éhígíí t’óó ’ahayóí nda’ayéé lá
+Translation: Chidí naat’a’í díí ’át’éego bááh ’ayóí ’ádaniłtsxooí bee ndaayéé.
+CHRF: 35.7770
+
+--- Comparing ---
+Gold:        T’óó ’ahayóí tł’oh waa’í beda’astł’ónígíí bii’ deesk’id lágo biih yíyá
+Translation: Bikáa’gi tł’oh Alfáálfaa nitsaa danídááhígíí hólǫ́ shí yiníłnii’.
+CHRF: 18.1206
+
+--- Comparing ---
+Gold:        Chidí ndi biih dahabąąsgo bee ndaayéé lá
+Translation: Díí chidí naat’a’í chidí íísh nda’ayéé lá
+CHRF: 25.2962
+
+--- Comparing ---
+Gold:        ’Aadóó nihił dah da’diit’a’
+Translation: ’Aadóó nihił ńdiit’a’
+CHRF: 62.4599
+
+--- Comparing ---
+Gold:        Diné bikéyah biyi’ góne’
+Translation: Dinétahgóó
+CHRF: 14.8177
+
+--- Comparing ---
+Gold:        Béésh Sinil hoolyéhígíí bikáá’dę́ę́’ nihił ch’í’ít’a’
+Translation: Ńléí Béésh Sinil hoolyéhé góyaa nihił ch’í’ít’a’.
+CHRF: 61.1778
+
+--- Comparing ---
+Gold:        Hoodzo biyi’ góne’ nihił ’o’oot’a’go k’ad kodóó ni bee níhólnííh
+Translation: Naabeehó Bináhásdzo tábąąhgi niikai, shí yíníłti’, “Díí ts’ídá nít’éego.”
+CHRF: 15.2938
+
+--- Comparing ---
+Gold:        Háágóó shį́į́ diné kéédahat’į́ shi’doo’niid
+Translation: Diné háadi deest’į́ígíí níł bééhózin.
+CHRF: 14.7581
+
+--- Comparing ---
+Gold:        ’Aadóó tsézhin yaa ndanees’ą́ą́ góne’ dóó ’Oozéí Hótsaa ha’nínígíí bikáá’ góne’ nihił ’ít’a’
+Translation: ’Aadóó dził łizhinii t’áá yaa ndaaz’áágóó bikáá’dę́ę́’, dóó Oraibi hoolyéhígíí bikáá’dę́ę́’ nihił ch’í’ít’a’.
+CHRF: 33.8006
+
+--- Comparing ---
+Gold:        ’Aadóó ’eii dził t’áá yaa ndaaz’áágóó dóó ńléí Béégashii Bito’jį’
+Translation: ’Aadóó níwohjį’ dził bitsi’ góne’ dóó Cow Springs ha’nínígíí bikáá’ góne’
+CHRF: 20.3364
+
+--- Comparing ---
+Gold:        ’Aadóó níwohjį’ Shą́ą́’ Tóhí hoolyéégóó dóó báátis
+Translation: ’Aadóó Shą́ą́ Tó bikáá’góó dóó k’iji’ bikáá’góó
+CHRF: 29.8281
+
+--- Comparing ---
+Gold:        ’Aadóó níwohjį’ ’Ooljéé’ Tó hoolyé ’ákóyaa
+Translation: ’Aadóó Ooljééʼ Tó góó
+CHRF: 24.2798
+
+--- Comparing ---
+Gold:        ’Aadóó ńléí Naakaii Bich’ah hoolyéhé góyaa nihił ch’í’ít’a’
+Translation: ’Aadóó Mexican Hat bikáá’dę́ę́’ nihił ’ít’a’
+CHRF: 23.2721
+
+--- Comparing ---
+Gold:        ’Áko díí ’ákǫ́ǫ́ nihił ’oot’ahgo chidí naat’a’í náánáła’ nihik’ijinaa dayíkááh
+Translation: ’Éída biyi’ nihił ’ít’a’go, chidí naat’a’í la’ nihił dah ’ít’a’.
+CHRF: 34.1013
+
+--- Comparing ---
+Gold:        Ts’ídá ’ał’ąą ’aheedanízahdi dayíkááh
+Translation: T’áá ’ákót’éego nahgo ádaahwiitʼą́.
+CHRF: 11.4848
+
+--- Comparing ---
+Gold:        Nihijaa’ bąąh na’aznilgo níłch’i bee hane’é ha’nínígíí bee bił ’ałch’į’ yádeiilti’
+Translation: Níłch’i naalkidí bits’íís nihikáa’ dah siilaa, dóó Níłch’i Naalkidí bee ’ahił daniyáłti’.
+CHRF: 22.3359
+
+--- Comparing ---
+Gold:        Ts’ídá kóhoot’éhígi yishááł dadii’níigo bee ’ahił dahwiilne’ ’ałch’ishdę́ę́’
+Translation: ’Ákót’éego nihikóhoolyéé’ baa ’ádaa yádeiilti’.
+CHRF: 14.2422
+
+--- Comparing ---
+Gold:        Kót’éego niikai
+Translation: Jó ’akon ’ákót’éego deidiyá
+CHRF: 38.5911
+
+--- Comparing ---
+Gold:        ’Aadóó ńléí tooh ńlínígíí t’áá bikáá’ gódeg nihił ’ít’a’
+Translation: ’Aadóó ńléí Sán Hwáán Bitooh bikáá’góó dah nihił ch’í’ít’a’
+CHRF: 46.9821
+
+--- Comparing ---
+Gold:        Naat’áanii Nééz t’áá bich’į’dóó naa’áda’ilyaa dził binit’aa gódeg Lók’a’jígai bich’į’go
+Translation: Naat’áanii Néézdi déyáágo, dził yádiłhiłígíí bikéé’góó Lók’a’jíkai góó nihijí’ nídeeshjaa’.
+CHRF: 34.7468
+
+--- Comparing ---
+Gold:        Lók’a’jígai bikáa’gi díkwíidi shį́į́ ’ałk’inéiikai
+Translation: Lók’a’jígai hoolyéhígíí bikáá’dę́ę́’ áłts’íís jį́’ nihił ch’í’ít’a’.
+CHRF: 29.3853
+
+--- Comparing ---
+Gold:        ’Aadóó Ch’ínílį́įjigo
+Translation: ’Aadóó ńléí Ch’ínílį́į́góó niikai.
+CHRF: 56.2567
+
+--- Comparing ---
+Gold:        ’Aadóó Lók’aah Nteel bikáá’góó dóó Łeeyi’ Tóógóó
+Translation: ’Aadóó Ganado hoolyéégóó dóó Klagetoh hoolyéégóó
+CHRF: 22.4668
+
+--- Comparing ---
+Gold:        ’Aadóó ńléí béésh ńti’i’jį’
+Translation: Béésh bikáá’góó
+CHRF: 12.5381
+
+--- Comparing ---
+Gold:        ’Aadóó nát’ą́ą́’ nínáániikai
+Translation: ’Aadóó yádiikááh
+CHRF: 23.0545
+
+--- Comparing ---
+Gold:        Díwózhii Biił Tóódę́ę́’ dóó ’Ałch’į’ ’Áhoot’é bikáá’dę́ę́’
+Translation: ’Aadóó Greasewood dóó Sunrise Springs bikáá’dę́ę́’ náá nihił ch’í’ít’a’
+CHRF: 30.7033
+
+--- Comparing ---
+Gold:        ’Aadóó ’eii Dziłíjiin dah sitą́ t’áá bikáá’góó náániikai
+Translation: ’Aadóó báátis bikáá’ yaa Dziłíjiin bikáá’ góne’ nihił ’ít’a’
+CHRF: 41.3348
+
+--- Comparing ---
+Gold:        ’Éí ńléí Tó Dínéeshzhee’di ’ahééniikai
+Translation: Tó Dínéeshzhee’ hoolyéhgóó niikai, nát’ą́ą́’ nínáániikai
+CHRF: 46.1707
+
+--- Comparing ---
+Gold:        ’Aadóó ’índa ńléí Hoozdo hoolyéé góyaa nihił dah ń’diit’a’
+Translation: ’Aadóó Phoenix hoolyéégóó ná’diit’áázh
+CHRF: 32.7844
+
+--- Comparing ---
+Gold:        ’Áko ’ałní’ní’ą́ągo ’áadi nihił ná’ít’a’
+Translation: Déé’di naakits’áadahgóó ’oolkiłgo nihił ’aneezdá.
+CHRF: 20.2872
+
+--- Comparing ---
+Gold:        T’óó nidziizyeel nahalingo ’ałní’ní’ą́ągo ńléí Hoozdo hoolyéedi gohwééh deiidlą́ą́’
+Translation: Ch’iyáán didiyą́, ’áádę́ę́’ ’atiin t’áá ’ádíí bikáa’gi t’áá ’ałts’íísgo ná’ít’a’, dóó t’áá ałtsó ’áhoot’ééłígíí łehégo nihí nitsáhákees. T’áá yéigo e’e’aahgo Hoozdo hoolyéedi nínáániikai
+CHRF: 26.4297
+
+--- Comparing ---
+Gold:        T’óó da’iidą́ą́’ dóó t’áá ’ákǫ́ǫ́ t’áá bikék’ehgi nihił náá’ít’a’
+Translation: ’Íídą́ą́’ ’ákót’éego nihahasdzaan bikáá’di tł’oh nayiilts’áád ni’
+CHRF: 23.2603
+
+--- Comparing ---
+Gold:        T’áá yéigo hííłch’į’go Hoozdo hoolyéedi nínáániikai
+Translation: ’I’íí’ą́ągo łahgo t’áá ałtso Phoenix hoolyéedi náá nihił ná’ít’a’.
+CHRF: 30.5439
+
+--- Comparing ---
+Gold:        Kót’éego tł’oh bidah ’adahii’níiłgo nihikéyah bikáá’góó tádííyá
+Translation: Díígo nihikéyah bikáa’ naaghááhígíí tł’oh jéé’ shíł náá’ít’a’.
+CHRF: 35.8420
+
+--- Comparing ---
+Gold:        Yiską́ągo ’abínídą́ą́’ ’índa dooleeł nááhodoo’niid
+Translation: ’Áko t’áá ła’ajínígíí abínígóó t’ááłá’í chidí naat’a’í dooleeł hodoo’niid.
+CHRF: 36.5455
+
+--- Comparing ---
+Gold:        Biiskání dį́’ígóó yoołkáałgo nihił dah nááda’diit’a’
+Translation: Náábiiskání February wolyéego dį́į́’ígóó yoołkáałgo náá nihił dah da’diit’a’.
+CHRF: 69.7199
+
+--- Comparing ---
+Gold:        ’Áko ’índa t’ah doo haiłkaahgóó dį́’ígi ’oolkiłgo nínáánihi’dii’nil
+Translation: ’Ałdééłníí’ bits’ą́ądi dį́į́’ ’oolkiłgo ’ą́ą́’go nihidiists’ą́.
+CHRF: 24.0136
+
+--- Comparing ---
+Gold:        ’Áko ndi hastą́ą́góó ’oolkiłgo ’índa nihił dah náá’diit’a’
+Translation: Ndi hastánígi ’oolkiłgo t’áá shoodí nihił dah da’diit’a’.
+CHRF: 46.9883
+
+--- Comparing ---
+Gold:        ’Ákohgo ’índa doo chohoo’į́į́góó ’áhí bee tł’éé’ lá kodi
+Translation: ’Íídą́ą́’ hááhgóó níłtsą́.
+CHRF: 8.5431
+
+--- Comparing ---
+Gold:        Doo ’ééhózin da lá ’ákót’éego
+Translation: ’Áají níyol bii’, háádéé’ nílį́ doo nił bééhózin da.
+CHRF: 30.7894
+
+--- Comparing ---
+Gold:        ’Áko ńléí yót’áahdi deigo tseebííts’áadahdi miil ’adées’eez biighahdi ’atah táhodishłe’ ’éí bijį́į́dą́ą́’
+Translation: ’Íídą́ą́’ yádiłhiłgi 18,000 feetdi dah nishłį́ —
+CHRF: 12.0997
+
+--- Comparing ---
+Gold:        K’os bikáá’dóó haa shį́į́ náánízáád sha’shin
+Translation: Háádę́ę́’ shį́į́ k’os bikáa’di łahgo hóla.
+CHRF: 30.5013
+
+--- Comparing ---
+Gold:        Haa nízaadi dah neiikai dishníigo bíniná’ídíshki’
+Translation: Háádida dahgo nihí danilį́ígíí bá náá yish’ááh
+CHRF: 17.5745
+
+--- Comparing ---
+Gold:        ’Áko ni’ bikáá’dóó tseebííts’áadahdi miil ’adées’eezdi dah neiikai níigo na’ałt’a’ígíí shił náhálnih
+Translation: Dóó pilooti shí yíníłti’, nihí yót’áahdi tseebííts’áadahdi miil ’adées’eez biighahdi nahasdzáán bik’ahgi, t’áá’ íiyisí tó bii’ haz’ą́ígíí bik’ahgi.
+CHRF: 44.7190
+
+--- Comparing ---
+Gold:        ’Áko t’áá bíyó yéé’ shii’ ńdídááh
+Translation: T’áá ’áłch’į́į́dígo nishnidlid ńt’éé’
+CHRF: 16.7782
+
+--- Comparing ---
+Gold:        Nihił bidah ńdílts’i’iigi ’ánát’įįh
+Translation: Chidí naat’a’í níłch’i ts’ees biyi’ náádi yágo deyá.
+CHRF: 17.0323
+
+--- Comparing ---
+Gold:        Yaago ’ashdladi neeznádiin ’adées’eez bíighahgóó nihił yaa ńdílts’i’ jiní
+Translation: T’áá íiyisí 500 feet yich’į́’.
+CHRF: 4.9638
+
+--- Comparing ---
+Gold:        T’áá shį́į́ ’ákónéehee bik’ee nił hóyéé’ shiłní na’ałt’a’ígíí
+Translation: ’Atsidii yił neiikaiígíí deeshch’į’ígíí biniiyé doo shí bee hodíílnih da shił hojilne’.
+CHRF: 19.0634
+
+--- Comparing ---
+Gold:        ’Áko t’áá ’aaníí bik’ee hóyéé’ lá
+Translation: Tsídii binaa’ deiłnááhgo iiná dóó doo iiná da níłt’éego éí nílį́.
+CHRF: 14.0965
+
+--- Comparing ---
+Gold:        T’áá zéé’ naakiit’į́įgo bee na’aldeehii ’át’éé lá chidí naat’a’í wolyéii
+Translation: ’Azhą́’ ’ákót’ée ndi ’Íídą́ą́’ t’áá naakidi ninááda’siigigo ’i’íí’ą́
+CHRF: 17.2018
+
+--- Comparing ---
+Gold:        ’Azhą́’ ’ákót’ée ndi t’áá naakidi ninááda’siigigo ’anáá’oot’ą́
+Translation: T’áá íiyisíí’, jóhonaa’éí ha’níí’ígíí náá naakiit’į́įgo nihił na’áłdeeh.
+CHRF: 21.6890
+
+--- Comparing ---
+Gold:        Náábiiskání ’ashdla’ígóó yoołkáałgo díí Arizona wolyéego náhásdzooígíí biyi’dóó nihinant’a’í nilíinii Governor wolyéhígíí bił ’ahidiikai
+Translation: Biiskání ashdla’ígóó February wolyéego Arizona Naat’áaniiígíí bił nidanilti’.
+CHRF: 30.4134
+
+--- Comparing ---
+Gold:        California biyi’dę́ę́’ siláołtsooí yinant’a’í nilį́į́ léi’ dó bił ’ahidiikai
+Translation: Káliifóorniya góne’ naabaahii naat’áanii t’áá ’áłts’íísí nihił na’azlį́.
+CHRF: 19.1944
+
+--- Comparing ---
+Gold:        ’Éí díí hastóí naakigo ’iih yí’áázh dóó nihił nínáá’diit’a’
+Translation: Díí naaki hastóí chidí naat’a’í bii’ yidaashááh, ’áádóó nihił dah nááda’diit’a’.
+CHRF: 42.9208
+
+--- Comparing ---
+Gold:        Hastóí kódaalyéenii chidí naat’a’í kóolyéhígíí ’akǫ́ǫ́ bił yit’ah ha’níigo nihilą́ąjį’ níłch’i bee dahane’ígíí bee náhánihgo nihił ’ít’a’
+Translation: Yáádį́į́’go na’ídíníłnii díí hastóí éí t’áá íiyisí chidí naat’a’í bii’ dah si’ą́ígíí.
+CHRF: 23.1234
+
+--- Comparing ---
+Gold:        K’ad ’índa tł’oh dóó ch’iyáán dóó chizh dó’ danihiyéél
+Translation: Tł’oh dóó ch’iyáán dóó chizh nihíł hólǫ́.
+CHRF: 53.0123
+
+--- Comparing ---
+Gold:        ’Éí Kiis’áanii bik’ijį’ dasiigad
+Translation: Hopí yę́ę yee yitaa nihił ’ałne’
+CHRF: 7.6618
+
+--- Comparing ---
+Gold:        ’Ayahkin Tsétsohk’id Kin Naazt’i’ ’Oozéí Hótsaa Tł’ohchin Tó dóó Ndadziizdélí dahoolyéégóó bidah ’ada’iyee’nil
+Translation: Walpi, Shipaulovi, Shimopovi, Oraibi, Hotevilla dóó Ndadziizdeli bikáa’ yę́ę’ ’ałne’.
+CHRF: 18.4249
+
+--- Comparing ---
+Gold:        Naakidi daats’í bikáa’gi nihił nídeest’a’
+Translation: Díí kintah bidáá’dę́ę́’ naakájį́’ ts’ídá nihił ch’í’ít’a’.
+CHRF: 25.1329
+
+--- Comparing ---
+Gold:        Bikéé’góó nihił ń’dít’ahgo daníil’į́į̨go t’óó nihiyaadi naaná’oolyis
+Translation: Bikáá’dę́ę́’ nihił ch’í’ít’a’gi nihíłnííł dóó diné t’óó ’ahayóí naalnááh nihiłtsą́.
+CHRF: 24.3627
+
+--- Comparing ---
+Gold:        Chizh yę́ę daats’í baa da’ahijigą́ t’óó dadii’ní
+Translation: Chizh baa daniłts’į́į́’ dooleeł níigo áníłniiʼ
+CHRF: 20.8099
+
+--- Comparing ---
+Gold:        Díí hastóí bił neiikai yę́ę ’éí łą́ą́góó nashídééłkid
+Translation: Díí diné nihíł chidí na’át’á’í bee deeshááłígíí, t’áá łą́ą́góó nashídíłkid.
+CHRF: 35.2239
+
+--- Comparing ---
+Gold:        Haa yit’éego diné yéigo bide ’ádahoot’é
+Translation: Háádę́ę́ʼgo diné ’atíbi’diilyaa?
+CHRF: 20.2080
+
+--- Comparing ---
+Gold:        níigo nashídíłkid
+Translation: Shíníłnii’
+CHRF: 12.6327
+
+--- Comparing ---
+Gold:        Yéigo diné bee bide ’ádahoot’éégóó bee bił nahashne’
+Translation: Diné hodíílnihígíí íiyisí t’áá ałtséego bá yíníłti’.
+CHRF: 12.2436
+
+--- Comparing ---
+Gold:        ’Áádóó Naabeehó bikéyah bikáá’góó t’áá ’ałtsogo hada’iilzidgo ńléí Tucson hoolyéedi nihił ná’ít’a’
+Translation: Diné Bikéyah binaalkaahgo Tucsongóó nihił ná’ít’a’.
+CHRF: 29.6696
+
+--- Comparing ---
+Gold:        ’Áadi hastóí yę́ę bida náát’áázh
+Translation: ’Éídi hastóí naakigo déyá
+CHRF: 27.2249
+
+--- Comparing ---
+Gold:        Nihí ’éí Phoenix hoolyéedi nihił ná’ít’a’go bida néiikai
+Translation: Nihí ’éí nihił ná’ít’a’, dóó Phoenix hoolyéedi nihił ’aneezdá
+CHRF: 67.3784
+
+--- Comparing ---
+Gold:        Biiskání hastą́ą́góó yoołkáałgo ’éí shí t’áa doo ch’íníyáa da
+Translation: Náábiiskání hastą́ą́góó yoołkáałgo doo dah ch’ínáánísdzá da,
+CHRF: 60.4303
+
+--- Comparing ---
+Gold:        Chidí naat’a’í t’áá bíyó shijééhkał ’áyiilaago biniinaa
+Translation: Chidí dahi naaznilígíí biniinaa, t’áá ałts’ó’go doo shił yíníł’į́’ da.
+CHRF: 30.8769
+
+--- Comparing ---
+Gold:        Ndiilt’éego ’ákwíidzaa lá
+Translation: ’Áko nihá ’ákódzaa díí ndiniilt’éhígíí
+CHRF: 30.5740
+
+--- Comparing ---
+Gold:        Damį́įgo biiskání tsoots’idgóó yoołkáałgo ’índa ’atah ch’ínáánísdzá
+Translation: Biiskání ts’osts’idjį́ náá naashá.
+CHRF: 23.0741
+
+--- Comparing ---
+Gold:        T’áá ’ákót’éego ńlááhdę́ę́’ bee haz’ánę́ę ’éí bik’ehgo dah náádadiikai
+Translation: Nihina’nitin bits’áhoot’éego naagháa’góó niikai
+CHRF: 16.5648
+
+--- Comparing ---
+Gold:        ’Íídą́ą́’ ’índa t’áá ła’ajį́ dį́įdi ’ałnánéiikaigo ’i’íí’ą́
+Translation: ’Ákohgo dį́įdi chidí naat’a’í bee nihił nídeest’a’.
+CHRF: 18.7946
+
+--- Comparing ---
+Gold:        T’áá tł’oh t’éiyá nináádeiigéego
+Translation: Tł’ohígíí ’ałdó’ nideiigé.
+CHRF: 23.7062
+
+--- Comparing ---
+Gold:        Tseebíígóó yoołkáałgo t’áá ’ákót’éego dah náádiikai
+Translation: Tsosts’idgóó náá díníyá.
+CHRF: 11.4814
+
+--- Comparing ---
+Gold:        ’Áko díí tł’ohígíí t’éiyá ’aghá nideiigé
+Translation: Łahgo tł’oh nináádeiigéego
+CHRF: 24.3250
+
+--- Comparing ---
+Gold:        T’áá ńléí ’áłtséédą́ą́’ ’át’éhę́ęgi ’át’éego ’áhí bee náánátł’éé’ lá
+Translation: T’ą́ą́’ lá’ígíí bik’ijį’go, náá chohoo’į́į́ ayóo tł’ohgo áhoot’ééł.
+CHRF: 17.9882
+
+--- Comparing ---
+Gold:        K’os bikáa’di łahgo ’át’éego nááhást’ą́ą́ lá
+Translation: K’os bikáá’dę́ę́’di éí shí baa nitsídíí’
+CHRF: 23.5609
+
+--- Comparing ---
+Gold:        Łahgóó dził daní’á nahalingo ’índa łahgóó séí daní’á nahalin łahgóó nizhónígo dził dadeez’á nahalingo tádiikai k’os bikáa’di
+Translation: Łahgóó k’os dził na’ní’íígíí ’át’éego nááhást’ą́ą́; t’ááłá’í séí naaznilígíí ’át’éego nááhást’ą́ą́, dóó t’ááłá’í t’áá shoodí méesá ’át’éego nááhást’ą́ą́ lá.
+CHRF: 17.2138
+
+--- Comparing ---
+Gold:        Yaago ni’ bikáá’ góyaa ’éí doo ’ééhózin da
+Translation: Doo kéyah shádi’góó nidaníł’į́ da
+CHRF: 14.9292
+
+--- Comparing ---
+Gold:        ’Azhą́ ’ákót’éé lá ndi ’ałdó’ ’íídą́ą́’ dį́įdi nda’siigį́įgo ’i’íí’ą́
+Translation: ’Azhą́’ ’ákót’ée ndi t’áá dį́į́’di ’anáá’oot’ą́
+CHRF: 29.2739
+
+--- Comparing ---
+Gold:        ’I’íí’ą́ągo nihił ná’oot’ahgo chidí naat’a’í bitsiits’iin ła’ nihits’ą́ą́’ ná’oot’ahgo ’áhóót’įįd
+Translation: Hííłch’į’go nihił ná’ít’a’go, chidí naat’a’í binii’na’azí t’áá łá’í kǫʼ yidló. Éí Kinłání dóó Hoozdo bidáá’di nít’į́.
+CHRF: 34.3824
+
+--- Comparing ---
+Gold:        Shoo ńléí lá haa hóót’įįd
+Translation: Níí, ha’íí nahasdlį́į́?
+CHRF: 9.6032
+
+--- Comparing ---
+Gold:        Diiltła lá shidííniid na’ałt’a’ígíí
+Translation: Hodíílnih! jidííniid
+CHRF: 24.1165
+
+--- Comparing ---
+Gold:        Nééł’į́į́’ ńt’éé’ hááhgóó shį́į́ kǫ’ bąą dah sidá
+Translation: ’Atahgi kǫʼ yiiłtsą́
+CHRF: 6.7577
+
+--- Comparing ---
+Gold:        ’Áko doo chohoo’į́į́góó bik’ee shił hóóyéé’
+Translation: ’Áko ’ákót’įįhgo doo baa ’áhoot’é da lá
+CHRF: 17.9009
+
+--- Comparing ---
+Gold:        Hóyéé’ lá
+Translation: Díí biniiyé tsʼídá ’át’é
+CHRF: 9.6002
+
+--- Comparing ---
+Gold:        T’áadoo ’áhó’ne’gi da lá ’ákot’įįhgo
+Translation: Doo t’áá íiyisí ’ééhózin da ha’át’íí yideidleeł.
+CHRF: 14.8554
+
+--- Comparing ---
+Gold:        Bidah ya’iiltáál ndi t’áá hazéé’ yidoot’įįł lá
+Translation: T’áá shǫ́ǫ́dí bidááh na’adzohgo, ní iiná’ bináádínííł lá.
+CHRF: 14.8292
+
+--- Comparing ---
+Gold:        T’áá zéé’ yit’į́į́jí t’éiyá bił nahadeełgo bee na’aldeehgo ’át’éé lá chidí naat’a’í wolyéii
+Translation: Chidí naat’a’í bił yádeet’į́į́’go hazéé’ doołt’į́į́ł lá
+CHRF: 27.9962
+
+--- Comparing ---
+Gold:        Doo ’ééhózin da lá
+Translation: Doo t'áá íiyisí bééhózin da
+CHRF: 52.6122
+
+--- Comparing ---
+Gold:        T’óó yíní dilyinee t’éiyá bee na’adáá lá
+Translation: T’óó nídááh dóó hózhǫ́ǫgo nínízin.
+CHRF: 14.9093
+
+--- Comparing ---
+Gold:        ’Áko ha’át’éego lá díí nihits’ą́ą́’ diiltłaaígíí ńdínóotsis lá nisingo haa’í lá doo ntsíníkéez da
+Translation: T’áá íiyisí baa nitsáhákees nish’į́ kǫ’ haash yinááznííł.
+CHRF: 12.3626
+
+--- Comparing ---
+Gold:        K’adshą’ díí bitsiits’iin dah naaznilígíí t’áá biyi’dę́ę́’ kǫ’ bee daniltsésígíí dadeez’áá lá
+Translation: Ndi díí bitsiits’iin t’áá bikéé’ji’ ’éí bee kǫʼ baa dahaneʼígíí hólǫ́.
+CHRF: 30.9426
+
+--- Comparing ---
+Gold:        ’Áko ’ákót’įįhgo nizhónígo bee náníltsis lá
+Translation: ’Áko díí bits’áhoot’éego dooł’áahgo kǫ’ t’áá ’ahééhgo deestł’į́’ lá
+CHRF: 17.5820
+
+--- Comparing ---
+Gold:        Nániikaigo t’áá ła’ajínígo dahodinołyįįh nihi’doo’niid
+Translation: Nániit’áázh ńt’éé’, yiską́ągo doo naalnish da dooleeł hodoo’niid.
+CHRF: 29.1200
+
+--- Comparing ---
+Gold:        T’áá hazhó’ó ’ahéhee’gi ’át’éego nihich’į’ ch’íhoot’ą́
+Translation: Díí yá’át’ééhgo baa hane’ ’áhoot’éé.
+CHRF: 19.0375
+
+--- Comparing ---
+Gold:        ’Áko doo ’asohodoobéezh da lá
+Translation: Doo t’áá íiyisí yá’át’ééh da!
+CHRF: 9.4746
+
+--- Comparing ---
+Gold:        Nda’ałt’a’ii ’ałnááhoojah
+Translation: Chidí naat’a’í bee yiilwołígíí t’áá ’ákót’éego ’ałnááhoojah.
+CHRF: 44.5307
+
+--- Comparing ---
+Gold:        Ła’ ’ałné’é’áahjį’ nda’ałt’a’
+Translation: Ła’ na’aniilkaadgo ch’í’ít’a’
+CHRF: 19.6004
+
+--- Comparing ---
+Gold:        ’Ałné’é’ááh dóó bik’ijį’ ła’ nda’ałt’a’
+Translation: Áádóó ’áádáá’ dineʼé nits’áhágo na’anish ’áníł’į́.
+CHRF: 15.0297
+
+--- Comparing ---
+Gold:        Dį̨́įdi ’ałnáá da’at’ahgo ’áko t’áá dį́į́’ ’ałnáá da’ałt’ah
+Translation: Chidí naat’a’í naal’į́į́’ dį́į́’ silá.
+CHRF: 16.8838
+
+--- Comparing ---
+Gold:        ’Índa bidah ’ada’iinííł yiniiyé ’ii’ dah naháaztánígíí t’áá ’ákót’éego ’ałnááhoojah
+Translation: Na’áłkáání dóó ’ałnááhoojah
+CHRF: 19.7779
+
+--- Comparing ---
+Gold:        Nihí ’éí shá bíighah ’ii’ dah naháatą́ągo ’i’ii’aah
+Translation: ’Ach’į’ nihí naalnishígíí jį́ t’áá naazhjée’go chidí biyáagi t’áá íiyisí nihídizdááh.
+CHRF: 16.6748
+
+--- Comparing ---
+Gold:        Naabeehó hoł nishkai yę́ę ’ałdó’ ’áájí t’áá ’ákót’é
+Translation: Diné ’áłtséí, Phoenixgóó shił deeshááłígíí, áádóó yę́ę ’ákót’éego ’ą́t’é.
+CHRF: 26.5434
+
+--- Comparing ---
+Gold:        Nihikéédę́ę́’ ła’ náá’íldee’
+Translation: ’Áádę́ę́’ áłts’íísí Diné nihíł naa’aash dó’ t’áá nihikéé’ joolwoł.
+CHRF: 30.0916
+
+--- Comparing ---
+Gold:        T’áá díí baa nisiikai yę́ę t’áá ’ákót’éego baa nináádzískai
+Translation: Nihí bik’ehgo t’áá ’ał’ąą daniilį́.
+CHRF: 14.0516
+
+--- Comparing ---
+Gold:        T’áá hazhó’ó baa deizhdoo’į́į́ ńt’éé’
+Translation: Jíík’e’ dooleełígíí dayínízin
+CHRF: 6.8826
+
+--- Comparing ---
+Gold:        ’Ákót’éego shinááł bee ’ahił dahojilne’
+Translation: ’Ádájinígíí yishł’į́.
+CHRF: 8.9215
+
+--- Comparing ---
+Gold:        Tágí jį́ hoł nda’at’a’go diné ła’ Tó Dínéeshzhee’ hoolyéédę́ę́’ njigháago Shighan yę́ę ch’ééh bíká ’ásht’į́ jiníigo baa ch’íhozhní’ą́
+Translation: ’Ałnánéiikaigo táá’ yiską́ągo Tó Dínéeshzhee’di hastį́į́’ jiníigo ch’ééh haghan háázneeztą́ą́’ t’áá hó.
+CHRF: 28.0957
+
+--- Comparing ---
+Gold:        Haghan bénáhojoohya’ lá
+Translation: T’áá íiyisí háázneeztą́ą́’.
+CHRF: 4.5872
+
+--- Comparing ---
+Gold:        ’Ákwii tł’oh ła’ shá bidah ’adoo’nił jiníigo ts’ídá tágí jį́ ch’ééh haghan háázneeztą́ą́’ t’áá hó
+Translation: Tágí jį́ gad bíhooghanígíí náádááh dooleeł bá yíníłnííh, nídoodá’ t’áá biyiis’ání gad bénáhojoohya’ lá.
+CHRF: 20.3492
+
+--- Comparing ---
+Gold:        Dooda lá
+Translation: Dooda!
+CHRF: 48.9330
+
+--- Comparing ---
+Gold:        Chidí naat’a’í t’óó k’asdą́ą́’ shił náhidéélts’id jiníigo t’óó ’ák’édí ńjídleeh
+Translation: Chidí naatʼaʼí shił łahgo ’iilts’ííd, ajílwołíí’go jiní.
+CHRF: 22.9355
+
+--- Comparing ---
+Gold:        Kót’éego shił hojilne’
+Translation: Díí ’áshiłníí.
+CHRF: 11.2951
+
+--- Comparing ---
+Gold:        Díí diné baa hashne’ígíí ’éí Bi’éé Łikizhii dabijiní
+Translation: Díí hastíín dishínígíí, ’éí ’e’e’aah na’aznilígíí wolyé.
+CHRF: 19.8262
+
+--- Comparing ---
+Gold:        ’Éí shį́į́ chidí naat’a’í deigo hoł hááhályeedgo shił tsédeg ’iilts’ííd jinízingo ’éí ’ááłjiníí lá
+Translation: Chidí naat’a’í t’óó k’asdą́ą́’ bił náhidéélts’id jiníígo, biniinaa díí chidí naat’a’í ’ak’álį́į́’go dayíkááh, biká’ dah si’á nít’į́į́’ t’áá íiyisí ts’ídágo dayíkááh; bila’ dah náhidéélts’id nít’éego.
+CHRF: 29.6509
+
+--- Comparing ---
+Gold:        Kót’éego Bilagáana hoł na’ałt’a’ yę́ę shił nááhálne’
+Translation: ’Ákót’éego díí ’atsiniltł’ish bee ’ádíílwołígíí shił hojilne’
+CHRF: 23.5860
+
+--- Comparing ---
+Gold:        Chidí naat’a’í t’áá ’ádaałts’íísígíí bitsiits’iin t’áá naakíhí bąąh dah naaznilígíí ’éí t’áá Béésh Sinil hoolyéédóó bá hééł ’áńda’al’įįhgo t’áá ’áádóó ’ada’iiyeeh
+Translation: Chidí naat’a’í ’áłts’íísígíí — naaki-bitsiits’iinígíí — Béésh Sinilgi bá hééł ’ánída’al’įįhgo t’áá ’áádę́ę́’ ’ada’iiyeeh.
+CHRF: 53.6017
+
+--- Comparing ---
+Gold:        Díí chidí naat’a’í ’ayóí ’ádaniłtsxooígíí ’éí bitsiits’iin dį́į́’ bąąh dah naaznil
+Translation: Díí nitsaa chidí naat’a’í dį́į́’ bitsiits’iin bee hólǫ́
+CHRF: 42.1757
+
+--- Comparing ---
+Gold:        ’Éí t’áá ńléí Hoozdodi bá hééł ’ánída’al’įįhgo t’áá ’áádę́ę́’ ’ada’iiyeeh
+Translation: Phoenixdę́ę́’ yilwod dóó yigeeh
+CHRF: 11.9555
+
+--- Comparing ---
+Gold:        Béésh Sinilgi ’éí ’ahodiyooshéí doo bíhóoghah da daaníigo ’ádaat’į́į́ lá
+Translation: Béésh Sinil Airport bida’ ayóo yázhígo biniinaa, díí ná’oolkił.
+CHRF: 22.4635
+
+--- Comparing ---
+Gold:        Bił nda’at’a’go díí k’ad kóhoolyéedi neiikai daaníi łeh lá
+Translation: Chidí naat’a’í bił yá’ání dine’é naasgo kóhoot’éé’ bee ’ahił dahwiilne’.
+CHRF: 25.7258
+
+--- Comparing ---
+Gold:        Kéyah naaltsoos bikáá’ bida’alyaa yígíí dóó ’oolkiłígíí bił ’ahąąh sinilgo bee bił béédahózin lá
+Translation: Naaltsoos bee dóó flight time bee díí bił bééhózin.
+CHRF: 23.3838
+
+--- Comparing ---
+Gold:        Díí ’oolkił t’ááłá’í dah ’alzhingo ha’níigo ’oolkiłígíí ts’ídá ’éí t’éiyá bik’ehgo na’aldeeh lá
+Translation: Ts’ídá t’áá łáʼ kwíí yik’ehgo da’álééh. Łahjígo bina’ji’ t’áá íiyisí deeyá yíníłníigo.
+CHRF: 27.8138
+
+--- Comparing ---
+Gold:        ’Áko ts’ídá kwíí dah ’alzhin bíighah daaníigo yik’ehgo ndaakai lá
+Translation: Áádóó dah ’alzhin díkwíígo níníłígíí bik’ehgo na’aldeeh.
+CHRF: 34.1724
+
+--- Comparing ---
+Gold:        Kót’éego shidine’é bikéyah bikáá’góó táhodííle’
+Translation: Jó ’éí díí shí hane’ shidine’é bikéyah bikáa’gi yá
+CHRF: 50.3974
+
+--- Comparing ---
+Gold:        Dóó ’áádę́ę́’ ha’íísid
+Translation: Ńléígo bikéyah nísh’į́.
+CHRF: 7.4687
+
+--- Comparing ---
+Gold:        ’Áko t’áá ’aaníí ’át’éé lá
+Translation: Dóó éí t’áá íiyisí ’át’é
+CHRF: 27.3162
+
+--- Comparing ---
+Gold:        Łahgóó béégashii ’índa łį́į’ da t’óó naazį́ yas danitł’izígíí shį́į́ biniinaa
+Translation: Łahgóó béégashii dóó łį́į́’ t’óó naazį́, daats’í yas nitsį́į́’ biniinaa’.
+CHRF: 50.8847
+
+--- Comparing ---
+Gold:        Yikáá’ hahakáahgo yiníká dahatłííshgóó ’ákǫ́ǫ́ t’óó naazį́
+Translation: Díí bikáá’ hadzidígíí yéego yisnééł, ’áko t’óó t’áá ’áádóó nízį́.
+CHRF: 25.4717
+
+--- Comparing ---
+Gold:        Doo náás dadikáah da
+Translation: Doo náá deyá da
+CHRF: 29.9952
+
+--- Comparing ---
+Gold:        ’Áko t’áá ’áajį’ dichin ndahałtseed dóó ndajiidlóóh
+Translation: ’Áko t’áá shoodí ch’íyáán adinígíí t’áá hazéé’ yideet’įįł lá dóó deesk’aahgo t’áá hazéé’ yideet’įįł.
+CHRF: 23.8867
+
+--- Comparing ---
+Gold:        ’Índa łahgóó dibé bighan biyi’góó dibé t’áá naazhjée’go ’ada’ii’aah lá
+Translation: Łahgóó tséłkégi dibé ’ii’ dah naháatą́ągo ’ádaalnííł.
+CHRF: 19.4418
+
+--- Comparing ---
+Gold:        ’Áko ’éí t’óó ’ił bił yah ’adajiishood
+Translation: Diné tʼáá íiyisí tsin sikaad bídiił’ááh.
+CHRF: 11.8396
+
+--- Comparing ---
+Gold:        Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+Translation: Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+CHRF: 100.0000
+
+--- Comparing ---
+Gold:        Kót’éego shidine’é bide ’áhoot’éé lá
+Translation: Díí shidine’é binání’á át’é.
+CHRF: 35.5312
+
+--- Comparing ---
+Gold:        Diné bilį́į́’ t’óó ’ahayóí bits’ą́ą́’ bináádíníídee’ lá
+Translation: Diné łą́ą́’ bínaalyéhé nidiit’ą́’.
+CHRF: 19.9035
+
+--- Comparing ---
+Gold:        Łį́į́’ neilózí ’índa naat’áaniishchíín danilíinii dibé bi’oh ’áńdoolnííł daanínę́ęni’ ’éí shį́į́ t’áá hazhó’ó bił da’ahéhee’
+Translation: Daats’í’ bikéyahdi na’oolkiłígíí dóó dístríkt naat’áanii yá’át’éeh nízin, bilį́į́’ ’áłts’óózgo biniinaa.
+CHRF: 23.9455
+
+--- Comparing ---
+Gold:        Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+Translation: Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+CHRF: 100.0000
+
+--- Comparing ---
+Gold:        Doo níłt’éegiísh ’ánihi’diilyaa
+Translation: Díí bee haz’ą́ígíí doo ’áłts’íísí da.
+CHRF: 12.4661
+
+--- Comparing ---
+Gold:        God wolyéii ’atínihiilaa
+Translation: Diyin God nihídiilyaa.
+CHRF: 20.5976
+
+--- Comparing ---
+Gold:        Shí nisingo baa ntséskees
+Translation: Shíínee’ ’ákwíí nízį́
+CHRF: 10.3576
+
+--- Comparing ---
+Gold:        Háadi shį́į́ God ’ání ’atínihidi’doolnííł nihíłnínę́ęni’ ’éí k’ad ’ákónihi’diilyaa
+Translation: Naaltsoos bikáa’gi God yíníłti’ígíí dine’é ’atídiilaa dooleeł, dóó shį́į́ yiską́.
+CHRF: 22.4461
+
+--- Comparing ---
+Gold:        K’ad tseebííts’áadah nááhaiídą́ą́’ ’ałdó’ ’ákódzaa ni’
+Translation: ’Áłdó’ tseebíí ts’áadah jígo kódzaa
+CHRF: 41.5298
+
+--- Comparing ---
+Gold:        ’Íídą́ą́’ ’ałdó’ ’atínihi’diilyaa
+Translation: ’Íídą́ą́’ ’atínihiilaa
+CHRF: 57.1808
+
+--- Comparing ---
+Gold:        Diné niidlíinii t’ah doo nihił bééhoozįįh da díí God wolyéii ’atínihił’ínígíí
+Translation: Diné God wolyéii ’atínihiilaa ígíí doo náá nihíł bééhózin da.
+CHRF: 41.7919
+
+--- Comparing ---
+Gold:        Kót’éego ’át’é
+Translation: T’áá ’aaníí ’át’éé lá
+CHRF: 22.3308
+
+--- Comparing ---
+Gold:        Kwe’é yee’ shahane’ t’áá ’áłts’íísígo hólǫ́
+Translation: Hane’ yázhí yíníłti’.
+CHRF: 9.9133
+
+--- Comparing ---
+Gold:        ’Éí díí ’áłchíní ’ídlį́į́dą́ą́’ hane’ígíí ’át’é
+Translation: ’Awéé’di hane’
+CHRF: 9.0249
+
+--- Comparing ---
+Gold:        ’Áłchíní danilínígíí ’éí bee bił hashne’ díidí
+Translation: ’Aadóó t’áá łá’ awéé’ yázhí bá yíníłti’ígíí.
+CHRF: 13.2251
+
+--- Comparing ---
+Gold:        ’Ánísts’ísígo tseebíí daats’í shinááhaigo ńléí dziłghą́ą’di Lók’ai’jígai bighą́ą’di ła’ shił naa’aash jílį́įgo ’éí t’éiyá hoł ndinisht’éego na’niilkaad ńt’éé’
+Translation: Shiyázhígíí, tseebíí daats’í shonááhai, shił naa’aash Lók’a’jígai dził bikáá’gi dibé na’níilkaad.
+CHRF: 34.6503
+
+--- Comparing ---
+Gold:        Díí shił naa’aash jílínígíí ’éí t’áá shitísígo ’ázhníłtso
+Translation: Shík’éí ’éí t’áá bíyó shí hojíyą́ągo.
+CHRF: 18.1675
+
+--- Comparing ---
+Gold:        Náhást’éi daats’í honááhai ’íídą́ą́’
+Translation: ’Íídą́ą́’ ’éí náhást’éí daats’í yázhí nilį́
+CHRF: 45.5441
+
+--- Comparing ---
+Gold:        ’Ákwe’é naniilze’go dziłdi t’áá sáhí na’niilkaad
+Translation: Dibé t’áá nihí bił dah nidoolkahgo, éí nihi ’áhoot’é’ t’áá adíníní ’át’é ni’.
+CHRF: 19.5616
+
+--- Comparing ---
+Gold:        ’Áko díí shį́įgo ’ei dziłgóó ndaakaiígíí shash wolyéhígíí dziłdi dahólǫ́ ’íídą́ą́’
+Translation: ’Íídą́ą́’ díí dziłghą́ą’di, dziłdi danilį́į́’ígíí shash wolyéego dahólǫ́.
+CHRF: 49.8115
+
+--- Comparing ---
+Gold:        ’Éí bízhi’ígíí doo shash jiníi da jó ’ákót’éego ’éí ’aájí dziłjí diné kéédahat’ínígíí doo shash daaníi da
+Translation: Áko shash wolyéego ’éí doo józhíi da. ’Áadi dziłgóó diné t’áadoo t’áá íiyisí shash jiníi da.
+CHRF: 34.0841
+
+--- Comparing ---
+Gold:        Shił naa’aash jílínígíí shį́į́ t’éiyá łahgóó t’áá hoł béédahózin
+Translation: T’áá íiyisí shił naa’aash ’éí t’áá áłts’íísí baa beehózin.
+CHRF: 31.2966
+
+--- Comparing ---
+Gold:        ’Áko ńléí t’áá hoł béédahózinígóó bee nashizhnitin łeh
+Translation: ’Aadóó yínízinígíí shí baa nídáníłtin
+CHRF: 14.1857
+
+--- Comparing ---
+Gold:        Díí kǫ́ǫ́ dziłgóó t’áadoo le’é dahólǫ́ shash wolyéego ’éí hólǫ́ ’éí doo józhíi da
+Translation: Díí dziłdi t’áá íiyisí ’ádíí hólǫ́. Shash wolyéhígíí háí hólǫ́, nít’į́’ ’éí bízhi’ígíí doo t’áá íiyisí shash jiníi da.
+CHRF: 32.1812
+
+--- Comparing ---
+Gold:        Doo shash jiníi da
+Translation: Diné doo shash daaníi da
+CHRF: 52.6194
+
+--- Comparing ---
+Gold:        Ts’ídá doo ’áhá’níi da
+Translation: Áko éí saad t’áá íiyisí doo jiníi da
+CHRF: 24.1216
+
+--- Comparing ---
+Gold:        ’Éidíígíí t’áá ká ’ákódóóne’ jiníigo nashizhnitin
+Translation: Nashizhnitinígíí shił hojilne’ łeh
+CHRF: 31.1432
+
+--- Comparing ---
+Gold:        Hó t’áá hojíyą́ągo hó t’áadoo le’é t’áá baa ’áhozhnízin
+Translation: ’Éí shitísígo ’ázhníłtso, ’áko ’ádá’í bíhozin.
+CHRF: 16.1930
+
+--- Comparing ---
+Gold:        Díí shashígíí ’éí t’áá łahgo ’át’éego wójí
+Translation: Shash łahgo ’át’éego wójí wolyé.
+CHRF: 50.7782
+
+--- Comparing ---
+Gold:        Shį́įgo ’éí tseet’ohí wolyéego wójí shijiníigo kót’éego nashizhnitin
+Translation: Łahgo ’át’éego wójí jiníigo nashizhnitin
+CHRF: 44.5461
+
+--- Comparing ---
+Gold:        ’Áko ’abínígo dah náádí’níilkaadgo ninááshizhneestą́ą́’
+Translation: ’Áádóó ’Ahbínígo dibé dah ’adíníilkaadgo, díí binaʼnitin baa náá shii hólneʼ.
+CHRF: 38.0523
+
+--- Comparing ---
+Gold:        ’Áadóó dah ’adíníilkaad
+Translation: Dibé dah náádí’níilkaad
+CHRF: 37.2610
+
+--- Comparing ---
+Gold:        Ńléí ’ayóí ’át’éego dahodíłch’il léi’góó na’neelkaad
+Translation: Dóó ’éí ńléí bikéyah deest’į́’ígíí léi’jį’ na’niilkaad
+CHRF: 23.3431
+
+--- Comparing ---
+Gold:        Nídíshchíí’ ch’ó da t’iisbáí ’índa chéch’il da bee dahodíłch’il
+Translation: Díí bikéyah biyi’ tsin nitsaa dóó gáa’ dóó tsin ts’ózí dóó ch’íí’ ’ayóó dahodíłch’il.
+CHRF: 28.9738
+
+--- Comparing ---
+Gold:        Ch’ídaasdzisdę́ę́’ tó ch’ídaazlį́ ńléí dah ńdadzilgaigóó ’éí łahgóó be’ek’id naazyį́
+Translation: Tsékooh bidáá’go tó hadínílíní, dóó bina’diłhił bikéyah bikáa’gi tó yázhí hólǫ́.
+CHRF: 11.5143
+
+--- Comparing ---
+Gold:        Kót’éego dahózhónígo nahaz’ą́ą́ ńt’éé’ lá ’íídą́ą́ díí dziłghą́ą’di
+Translation: ’Íídąą’ dził bikáa’di t’áá íiyisí nizhóní.
+CHRF: 15.2795
+
+--- Comparing ---
+Gold:        Dibé lą’í da naniilkaad
+Translation: Dibé ’atah nitsaa nihá hólǫ́.
+CHRF: 19.6690
+
+--- Comparing ---
+Gold:        ’Áko ńléi hodíłch’il góne’ nihits’ą́ą́’ ’eekaigo ’áadi hóteelgo ńdookaigo t’óó bikéé’ tádiit’aash
+Translation: Dibé ch’ahdi yágo daa’istł’ó’go, t’áá íiyisí bikéé’ náádiil’ááh.
+CHRF: 16.9959
+
+--- Comparing ---
+Gold:        ’Áádóó ’ałts’á shiit’áázh łahjí ’aninááh shijinígo
+Translation: Hak’éjí góó deeya shiłníigo, k’ad t’áá íiyisí nidayá łeh
+CHRF: 17.3527
+
+--- Comparing ---
+Gold:        Binániidgi dibé yikahgo shí ńléí yódahjígo ’ííyá
+Translation: Dibé dził bik’ahgi nít’į́į́’go, yádi’góó bił shinaal’į́.
+CHRF: 15.8083
+
+--- Comparing ---
+Gold:        ’Áko ’áadi naasháago shash doo józhíi da shijiníigo nashizhnitinę́ę bénááshnii’
+Translation: ’Áko ’áadi dah deeyáágo, “shash” saad doo jiníi da bá shiyáʼáłtiʼígíí shizhní łeh
+CHRF: 32.8986
+
+--- Comparing ---
+Gold:        Ha’át’éego lá shash doo jiníi da lá nisingo tádíshááh ’áadi
+Translation: ’Áádóó baa ninisinígíí tádíníł’aash, haash yinilyégo diné doo “shash” jiníí da,
+CHRF: 24.5722
+
+--- Comparing ---
+Gold:        ’Áádóó hak’ijį’ bidah ńdideeshwoł niizį́į́’ hó ’éí ńléí shiyaají joogáałgo
+Translation: ’Áko ’Alą́ą́jį’ shik’éí bił ’áłts’á na’azt’éego nisin, shík’ehjí kó yikahą́ą́ígíí bích’į’ kó níshdlį́.
+CHRF: 17.2261
+
+--- Comparing ---
+Gold:        ’Aadóó bidah góyaa hach’į’go ńdiishwod Aadę́ę́’ shash léi’ yilwoł shił naa’aash
+Translation: Áko bá’áádę́ę́’ yishjéé’. Shik’éí, shash nihá yíyá!
+CHRF: 15.5869
+
+--- Comparing ---
+Gold:        ’Akóó ’akóó shash léi’ yilwoł
+Translation: Ádaahwiinít’į́ ádaahwiinít’į́
+CHRF: 5.8594
+
+--- Comparing ---
+Gold:        Shash shash ’ákóó shash dishníigo haa nishwod dóó t’óó hwíighah ch’íníshwod
+Translation: Shash! Shash! bí yá yéego naasháájį’.
+CHRF: 11.5987
+
+--- Comparing ---
+Gold:        Ńléí haláahdi ’índa naanísíswod
+Translation: Bik’ahgóó shááhgo
+CHRF: 5.8859
+
+--- Comparing ---
+Gold:        ’Áko ’índa ’áádę́ę́’ haa nánísdzá
+Translation: Nát’ą́ą́’ yínínááł dóó bígóó nánísdzáá
+CHRF: 26.4140
+
+--- Comparing ---
+Gold:        Haa nánísdzáá ńt’éé’ hááhgóó shį́į́ doo hoł hózhǫ́ǫ da
+Translation: Bijée’gi kwii nánísdzá, dóó shį́į́ báháchį’.
+CHRF: 29.9693
+
+--- Comparing ---
+Gold:        Ha’át’íí lá diníigo naanáníítééł
+Translation: Ha’át’éego nínízin, nááhoołkááhgo dóó díígo níyóółti’?
+CHRF: 24.9779
+
+--- Comparing ---
+Gold:        Shą́ą́’ doo ’ájíníi da ndishní
+Translation: Doo níníłnííh da shą́ą́’ ndishníigo ’éí doo józhíi da
+CHRF: 43.0394
+
+--- Comparing ---
+Gold:        Doo ’áhá’níi da ts’ídá doo ’ájíníi da ndishní
+Translation: T’áá íiyisí?
+CHRF: 5.6726
+
+--- Comparing ---
+Gold:        ’Akǫ̨́ǫ́ t’áá ’áyídígóó ndaakaigo ’át’é
+Translation: Daats’í kwii nihá íiyisí dahólǫ́.
+CHRF: 9.9221
+
+--- Comparing ---
+Gold:        ’Éí bąą doo józhíi da shą́ą́’ ndishní
+Translation: Doo ’ájíníi da? Éí t’áá íiyisí kót’éego ndishní.
+CHRF: 25.2868
+
+--- Comparing ---
+Gold:        Łahgo ’át’éego wójí shą́ą́ ndishníigo bee nił hashne’ jiníigo t’áá bíyó shich’ahojííshkeed
+Translation: “T’áá ’aaníí bina’ dahólǫ́ níníłti’,” shił naneest’ą́go yíníłti’."
+CHRF: 13.8410
+
+--- Comparing ---
+Gold:        ’Aadóó dibé bikéé’ dah náádiit’áázh
+Translation: ’Áádóó dibé náá yiyiiyáago ná’diit’á’.
+CHRF: 33.8549
+
+--- Comparing ---
+Gold:        Dibé bikéé’ neit’aashgo nááhodoo’na’go t’ah ńt’éé’ nagháí chéch’il yáázhtahgi łééchąą’í hááhgóó shį́į́ ndahał’in yiits’a’
+Translation: T’áá ’áłts’óólgo bidá’ náádiit’áázh, jį́’, yah ajígo dééh tsin biyi’di łééchąą’í shį́į́ ndahał’íígíí nííł’į́
+CHRF: 30.1490
+
+--- Comparing ---
+Gold:        Ha’át’íí lá łééchąą’í ndeił’in yiits’a’
+Translation: Ha’át’íí bá łééchąą’í ndeił’in?
+CHRF: 67.1244
+
+--- Comparing ---
+Gold:        Ha’át’íí lá łééchąą’í ndeił’in lá nisingo ’áádóó ’ákǫ́ǫ́ ńdiishwod
+Translation: Ha’át’íí lá łééchąą’í ndeił’in yiits’a’ doo shíł bééhózin da, ’áko kǫ́ǫ́de’ yishwoł.
+CHRF: 55.1603
+
+--- Comparing ---
+Gold:        Shił naa’aash dó’ t’áá shikéé’ joolwoł
+Translation: Shí baa hodeeyá
+CHRF: 5.7884
+
+--- Comparing ---
+Gold:        Łééchąą’í ndahał’inę́ęjį’ yishwoł ńt’éé kǫ́ǫ́ shash sizį́įgo yiiłtsą́
+Translation: Łééchąą’í ndeił’inígíí ’akǫ́ǫ́ niikai, ’éí shash dah si’ą́.
+CHRF: 32.7832
+
+--- Comparing ---
+Gold:        T’áá ’áádóó ninishtłago t’áá ’áádóó nísh’į́
+Translation: ’Áádę́ę́’ shį́į́ ninishtła dóó haa ha’íísid
+CHRF: 26.9875
+
+--- Comparing ---
+Gold:        Hááhgóó shį́į́ báháchį’
+Translation: Hááhgóóshį́į́ hashkéego ńt’éé’
+CHRF: 54.6505
+
+--- Comparing ---
+Gold:        Biyi’ hodi’níigo sizį́
+Translation: Yoolkáálgo yishááh.
+CHRF: 7.7445
+
+--- Comparing ---
+Gold:        T’áadoo le’é ńléí tsin da ’akǫ́ǫ́ ndadeeztąądígíí tsé da náyiiláahgo yee ’adziiłne’
+Translation: Éí binaagóó Nahasdzáán bikáa’ ts’ídá daniláhígíí, tsin dóó tsé t’áá jíík’ehgo, yinaal’į́.
+CHRF: 19.0641
+
+--- Comparing ---
+Gold:        Łééchąą’í yę́ę yee yitaa ’ałne’
+Translation: ’Áádóó łééchąą’í baa yiinááł’ą́
+CHRF: 28.6795
+
+--- Comparing ---
+Gold:        Tsin da yee yitaa’ałhaał
+Translation: Tsin bee bídá’ yideiniłts’in
+CHRF: 15.7509
+
+--- Comparing ---
+Gold:        ’Áko hááhgóó shį́į́ łééchąą’í ndahał’ingo binánoodah
+Translation: Łééchąą’í biyaa náhwiilyaa’ ayóó yidlóó’go.
+CHRF: 20.4327
+
+--- Comparing ---
+Gold:        T’óó ’ákót’éego bik’í níghal dóó yaashtáál
+Translation: ’Éí áłts’íísígo yiiłtsą́, jį’ t’áá ákót’éego naashá.
+CHRF: 29.0550
+
+--- Comparing ---
+Gold:        Shił naa’aash dó’ t’áá shikéé’ yajiiltáál
+Translation: Shik’éí ’ałdó t’áá iiyisí yah yishááł.
+CHRF: 20.5654
+
+--- Comparing ---
+Gold:        Ńléí doo deeghánídi ’índa ninishtła
+Translation: Bee yáhoot’ééłígíí t’áá ch’ínígíí góne’ shá náhást’į́į́’.
+CHRF: 13.9795
+
+--- Comparing ---
+Gold:        Ninishtłago ’índa ’áadi shíjílwod
+Translation: T’áá éí ninishtła’go shik’éí shił nániidlį́
+CHRF: 28.2000
+
+--- Comparing ---
+Gold:        ’Áadóó dah náádiit’ázhí ’éí ńléí dibé yikahą́ą bidááhjí ’iit’áázh
+Translation: ’Áádóó náádiit’áázh dóó dibé naaghá’ígíídi nidiiłwoł, ’áhoot’éego bits’ídági deiyááł dóó ba’ádeilniih.
+CHRF: 31.4101
+
+--- Comparing ---
+Gold:        ’Áádóó ’índa ńléí dzígaijigo dibé béé’niilnii’
+Translation: Kéyah bikáa’góó ch’ééní’niilkaad.
+CHRF: 14.3596
+
+--- Comparing ---
+Gold:        ’Éí ńléí dah ńdzílgai léi’jį’ ch’ééní’niilkaad
+Translation: Dahodíłch’ilgóó deego náá’ dibé na’niilkaad.
+CHRF: 26.2837
+
+--- Comparing ---
+Gold:        ’Éí t’áá ’ákwii na’aniilkaadgo ’ałní’ní’ą́
+Translation: ’Áadi dééhgi danishtááh dóó dibé Jóhonaa’éí bátaa’góó ch’ééní’niilkaad
+CHRF: 25.9812
+
+--- Comparing ---
+Gold:        ’Íídą́ą́’ ’ákót’éego ts’ídá ’áłtsé shash yiiłtsą́ą ni’
+Translation: Kót’éego t’áá ’áłts’íísgo shash yíníłní.
+CHRF: 33.7771
+
+--- Comparing ---
+Gold:        Biiskání ła’ náánéiłtsą́ą ndi ’éí ńléí ’ákohdi t’áá nízaadi binániigi yigáał náánéiłtsą́
+Translation: Yiską́ągo la’ t’áá łá’í azhį́ kǫ́ǫ́ dził bikáa’ deeyágo yiiłtsą́
+CHRF: 17.6436
+
+--- Comparing ---
+Gold:        ’Ei ga’ ’óolyéé lá shash t’óó nisin
+Translation: Sidáá ’éí shash doołeeł.
+CHRF: 12.6554
+
+--- Comparing ---
+Gold:        Náánáłah ’éiyá t’áá ’éidí bi’aak’eedi ’éi doo dziłghą́ą’di da ’éí t’áá ńléí téehdi ’áadi ninánii’náago nináá’niilkaad ńt’éé’
+Translation: T’áá íiyisígíí ak’eiígíí Dziłdę́ę́’ tsékoohgóó nínáániikai ’ákwii na’aniilkaad
+CHRF: 17.9098
+
+--- Comparing ---
+Gold:        Deenásts’aa’ ’atah ndaakaigo bił na’aniilkaad
+Translation: Deenásts’aa’ ’atahgo bił na’niilkaad ńt’éé’, dóó éí t’áá íiyisí na’ałnih łeh ni’.
+CHRF: 60.4663
+
+--- Comparing ---
+Gold:        ’Áko ńléí ła’ ’ałk’i náánéilwo’go da’ahógeehgo ’ałts’ą́ą́hjí bik’i dah nániikeehgo ’ałch’į’ nihił nínáhidí’níilchéeh łeh
+Translation: ’Áko ńléi deenásts’aa’ bił na’aniilkaadgo dóó bita’ góne’ ’aníjílwo’go, nihí t’áá ádaat’éego deenásts’aa’ biká’ nidaashleeł, ’índa baa yáníł’á na’aniilkaad.
+CHRF: 25.6652
+
+--- Comparing ---
+Gold:        Bik’i dah siikéego bitsiits’iin yee ná’ahiigohgo hááhgóó shį́į́ baa dlo nihighą́ą łeh ni’
+Translation: Bikáa’ daniidááh, ch’ééjiilyeedgo hááhgóó shį́į́ dlo nihighą́ą.
+CHRF: 38.2259
+
+--- Comparing ---
+Gold:        Łahda bidah ’anániidahgo hááhgóó shį́į́ baa dlo nihighą́ą łeh
+Translation: T’áá łá’íígo danilch’į́į́’, ’áádóó jíí’ náá’ hááhgóó shį́į́ nihidloh.
+CHRF: 31.7938
+
+--- Comparing ---
+Gold:        Kót’éego deenásts’aa’ bee nei’née łeh ni’
+Translation: ’Íídą́ą́’ ’ákót’éego dibé hastłʼish bił nihananá’ nít’éé’
+CHRF: 25.1842
+
+--- Comparing ---
+Gold:        Łahda ńléí doo deeghánídę́ę́’ deenásts’aa’ ’ałts’ą́ą́’ ninát’ashgo ’aadę́ę́’ ’ałch’į’ náádiilwo’go bita’ góne’ ’aníjílwo’go t’áá ’ahánídę́ę́’ ’ahinoolchéełgo ’índa níláahjį’ ch’ééjiilyeedgo kót’éego da baa neit’aash łeh ńt’éé’
+Translation: Łahgo ’ałch’į’ nít’áázhgo, shik’éí bik’ijį’ deeya’, ’áko bitsiits’iin yee ná’ahiigohgo bik’ahgo yilá.
+CHRF: 16.8061
+
+--- Comparing ---
+Gold:        Dibé t’óó nihiná náákahgo shábíighah deenásts’aa’ bee nei’née łeh ni’
+Translation: Dibé nahalingo tł’oh yiyá, dóó t’áá naazhjée’go deenásts’aa’ bee nei’née łeh ni’.
+CHRF: 53.1053
+
+--- Comparing ---
+Gold:        Tł’ízí chǫǫh dó’ ’atahgo bił na’niilkaad ńt’éé’ łah
+Translation: Ła’go tł’ízí ką’ bił na’niilkaad.
+CHRF: 38.8987
+
+--- Comparing ---
+Gold:        ’Éí ’ałdó’ t’áá ńléí halgaidi
+Translation: Kééhat’į́į́ shikaadgi ’ałdó’ shį́į́ yiską́.
+CHRF: 20.6797
+
+--- Comparing ---
+Gold:        Doo dziłdi da
+Translation: Doo dził bikéyahdi da.
+CHRF: 57.4691
+
+--- Comparing ---
+Gold:        Tł’ízí ką’ ła’ t’áá bíyó hashkéego bił na’niilkaad ńt’éé’
+Translation: Tł’ízí chǫǫh t’áá łá’í t’áá bíyó yéé’ hashké ’atahgo bił na’niilkaad
+CHRF: 57.6951
+
+--- Comparing ---
+Gold:        ’Áko ńléí ha’át’éegi da baa níjít’įįhgo bí’dzíts’ihgo bikéé’jígo jidigháahgo da hach’į’ báháchįįh
+Translation: Diné t’ááłá’í éí baa hodíílnihgo, t’áá ájíłeehgo yilł’ish dóó binaagóó deeyá, áko báháchį’.
+CHRF: 19.4987
+
+--- Comparing ---
+Gold:        ’Áko díí t’áá ’áłahjį’ télii bee na’niilkaad ’ałkéé’ dah siikéego
+Translation: ’Áádóó dibé bóóro bił t’áá jíík’ehgo ’adíníilkaad, bóóro bii’ ’ałkéé’ nidizį́.
+CHRF: 27.9369
+
+--- Comparing ---
+Gold:        ’Éí bikáá’dóó baa níjít’į́įgo ’éí ’áłtąą t’óó náhoníl’įįh łeh
+Translation: Adoo burro bikáa’ ’ałná’ígíígo, biyi’ yídáázhgo tł’ízí chǫǫh t’áá íiyisí bináá’ dah si’ą́.
+CHRF: 15.9428
+
+--- Comparing ---
+Gold:        ’Ákót’éego dó t’éiyá t’áá ’áháníjį’ bit’áahjį’ na’adá
+Translation: ’Áko, bił t’áá íiyisí hadíílkał kǫ́ǫ’go, doo ha’át’íí bá nahidi’nííł da.
+CHRF: 17.8660
+
+
+=== AVERAGE CHRF SCORE: 28.4646 ===

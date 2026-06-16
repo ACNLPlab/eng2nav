@@ -1,0 +1,63 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt A party is in its way coming to us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:43.701987
+(z0 / have-direction-91
+    :ARG1 (z1 / party)
+    :ARG2 (z2 / come-33
+              :ARG1 z1
+              :ARG3 (z3 / we)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:43.701999
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:43.702003
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This was my people's disaster.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:43.702008
+(z0 / disaster
+    :domain (z1 / this)
+    :possessor (z2 / person
+                   :possessor (z3 / i)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He stood up for the two of us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:43.702012
+(z0 / stand-up-07
+    :ARG0 (z1 / he)
+    :affectee (z2 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt "It will reach you sometime.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:08:43.702016
+(z0 / reach-01
+    :ARG0 (z1 / it)
+    :ARG1 (z2 / you)
+    :temporal (z3 / sometime))

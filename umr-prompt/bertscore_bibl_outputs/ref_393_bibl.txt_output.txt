@@ -1,0 +1,62 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That's what the pilot (of this plane) told me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:17.923418
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / pilot-01
+                           :ARG1 (z3 / plane
+                                     :mod (z4 / this))))
+    :ARG1 (z5 / that)
+    :ARG2 (z6 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:17.923430
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That’s what I think.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:17.923435
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:17.923439
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is how I saw my first bear.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:17.923443
+(z0 / see-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :ord (z3 / ordinal-entity
+                       :value 1))
+    :manner (z4 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That was what I thought.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:35:17.923447
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))

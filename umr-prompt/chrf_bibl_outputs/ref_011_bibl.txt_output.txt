@@ -1,0 +1,86 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt "Outside with him!" voices were saying.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:43.481497
+(z0 / say-01
+    :ARG0 (z1 / voice)
+    :ARG1 (z2 / outside
+              :companion (z3 / he)
+              :quote z0))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt down there" voices were heard saying.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:43.481523
+(z0 / say-01
+    :ARG0 (z1 / voice
+              :place (z2 / there
+                         :ARG1-of (z3 / down-03
+                                      :ARG5 (z4 / cartesian-framework-91
+                                                :ARG1 (z5 / build-space))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt These people from the other side of the mountain were saying this.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:43.481527
+(z0 / say-01
+    :ARG0 (z1 / person
+              :mod (z2 / this)
+              :source (z3 / side
+                          :ARG1-of (z4 / other-01)
+                          :part-of (z5 / mountain)))
+    :ARG1 (z6 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt The people of his band were standing with him.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:43.481531
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-org-role-92
+                           :ARG2 (z3 / he)
+                           :ARG3 (z4 / band
+                                     :possessor z3)))
+    :ARG2 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt As we came to find out, they were saying that (the school) would not get a one of their children.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:43.481536
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / get-01
+              :ARG0 (z3 / school)
+              :ARG1 (z4 / one
+                        :ARG1-of (z5 / have-rel-role-92
+                                     :ARG2 z1
+                                     :ARG3 (z6 / child)))
+              :polarity -)
+    :temporal (z7 / come-01
+                  :ARG1 (z8 / we)
+                  :ARG2 (z9 / thing
+                            :ARG1-of (z10 / find-01
+                                          :ARG0 z8))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt As they were taking him outside I crawled and squeezed myself out among them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:35:43.481540
+(z0 / and
+    :op1 (z1 / crawl-01
+             :ARG0 (z2 / i)
+             :temporal (z3 / take-01
+                           :ARG0 (z4 / they)
+                           :ARG1 (z5 / he)
+                           :ARG2 (z6 / outside))
+             :op2 (z7 / squeeze-01
+                      :ARG0 z2
+                      :ARG1 z2
+                      :place (z8 / among
+                                 :op1 (z9 / they)))))

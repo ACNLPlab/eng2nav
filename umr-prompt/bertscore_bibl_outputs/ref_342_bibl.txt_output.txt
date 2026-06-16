@@ -1,0 +1,84 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt As for us, we flew back and got off at Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:04.776534
+(z0 / and
+    :op1 (z1 / fly-01
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / back))
+    :op2 (z4 / get-05
+             :ARG0 z2
+             :ARG1 (z5 / off)
+             :ARG2 (z6 / city
+                       :name (z7 / name
+                                 :op1 "Phoenix")
+                       :wiki "Phoenix,_Arizona")))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:04.776550
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt As for us, we spent another night at my uncle's hogan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:04.776555
+(z0 / spend-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / night
+              :mod (z3 / another))
+    :ARG2 (z4 / hogan
+              :possessor (z5 / person
+                             :ARG1-of (z6 / have-rel-role-92
+                                          :ARG2 (z7 / i)
+                                          :ARG3 (z8 / uncle)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt And then we started back to Phoenix,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:04.776559
+(z0 / and
+    :op2 (z1 / start-01
+             :ARG0 (z2 / we)
+             :place (z3 / city
+                        :name (z4 / name
+                                  :op1 "Phoenix")
+                        :wiki "Phoenix,_Arizona")
+             :temporal (z5 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:04.776563
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt After we had inspected the reservation we flew back, but to Tucson.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:04.776567
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Tucson")
+              :wiki "Tucson,_Arizona")
+    :temporal (z4 / after
+                  :op1 (z5 / inspect-01
+                           :ARG0 z1
+                           :ARG1 (z6 / reservation))))

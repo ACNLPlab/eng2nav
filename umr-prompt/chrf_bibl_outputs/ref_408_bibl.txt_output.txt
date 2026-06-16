@@ -1,0 +1,113 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then they would starve or freeze to death right where they stood.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:17.936743
+(z0 / or
+    :op1 (z1 / starve-01
+             :ARG1 (z2 / they))
+    :op2 (z3 / freeze-02
+             :ARG1 z2)
+    :temporal (z4 / then)
+    :place (z5 / stand-01
+               :ARG1 z2
+               :mod (z6 / right-yy)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt While they were making this move they stopped for the night, and it is said that I was born where they halted.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:17.936761
+(z0 / and
+    :op1 (z1 / stop-01
+             :ARG0 (z2 / they)
+             :temporal (z3 / move-01
+                           :ARG0 z2
+                           :mod (z4 / this))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / night)))
+    :op2 (z7 / say-01
+             :ARG1 (z8 / bear-02
+                       :ARG1 (z9 / i)
+                       :place (z10 / halt-01
+                                   :ARG0 z2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Then we started off again, and went over to where the sheep were walking in order to get in ahead of them and cut them off.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:17.936765
+(z0 / and
+    :op1 (z1 / start-01
+             :ARG0 (z2 / we)
+             :mod (z3 / again)
+             :temporal (z4 / then)
+             :purpose (z5 / go-02
+                          :ARG0 z2
+                          :ARG4 (z6 / over
+                                    :op1 (z7 / location
+                                             :place-of (z8 / walk-01
+                                                           :ARG0 (z9 / sheep)))
+                                    :purpose (z10 / get-05
+                                                  :ARG1 z2
+                                                  :ARG2 (z11 / ahead
+                                                             :op1 z9
+                                                             :ARG2 z9
+                                                             :ARG3 (z12 / cartesian-framework-91
+                                                                        :ARG1 z9
+                                                                        :FR (z13 / relative-to-builder))))
+                                    :purpose (z14 / cut-02
+                                                  :ARG0 z2
+                                                  :ARG1 z9)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:17.936770
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They would break through this crust, and just stand there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:17.936774
+(z0 / and
+    :op1 (z1 / break-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / crust
+                       :mod (z4 / this)))
+    :op2 (z5 / stand-01
+             :ARG1 z2
+             :mod (z6 / just)
+             :place (z7 / there)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt When they spread out into the brush we would just let them go and follow them.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:33:17.936778
+(z0 / and
+    :op1 (z1 / let-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / go-02
+                       :ARG0 (z4 / they))
+             :op2 (z5 / follow-02
+                      :ARG0 z2
+                      :ARG1 z4)
+             :temporal (z6 / spread-01
+                           :ARG0 z4
+                           :direction (z7 / brush))
+             :mod (z8 / just)))

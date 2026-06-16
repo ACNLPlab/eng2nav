@@ -1,0 +1,72 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That day the fog was really thick.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:55:18.781807
+(z0 / thick-03
+    :ARG1 (z1 / fog)
+    :degree (z2 / really)
+    :temporal (z3 / day
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:55:18.781824
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That day we made four flights,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:55:18.781828
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / day)
+                  :mod (z4 / that))
+    :frequency 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt On that day I was up 18,000 feet in the sky -
+# ::annotator bart-amr
+# ::date 2025-10-21 23:55:18.781832
+(z0 / be-destined-for-91
+    :ARG1 (z1 / i)
+    :ARG2 (z2 / space
+              :ARG1-of (z3 / up-03
+                           :ARG4 (z4 / sky)
+                           :ARG5 (z5 / cartesian-framework-91
+                                     :ARG1 (z6 / build-space))
+                           :quant (z7 / distance-quantity
+                                      :unit (z8 / foot)
+                                      :quant 18000))
+              :temporal (z9 / day
+                            :mod (z10 / that))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That was probably their plan.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:55:18.781836
+(z0 / plan-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / that)
+    :mod (z3 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we hauled two loads that day.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:55:18.781840
+(z0 / have-concession-91
+    :ARG1 (z1 / haul-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 2)
+              :temporal (z4 / day
+                            :mod (z5 / that))))

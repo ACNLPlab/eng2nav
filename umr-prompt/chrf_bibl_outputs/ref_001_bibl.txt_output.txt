@@ -1,0 +1,118 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt There are stories which tell of the events which took place long ago on this earth of ours.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:06.736378
+(z0 / tell-01
+    :ARG0 (z1 / story)
+    :ARG1 (z2 / event
+              :place (z3 / earth
+                         :mod (z4 / this)
+                         :possessor (z5 / we))
+              :temporal (z6 / before
+                            :op1 (z7 / now)
+                            :quant (z8 / long))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt South from the trading post there is a ruin which we call in Navajo "Shattered House." Someone burned it long ago.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:06.736395
+(z0 / ruin-01
+    :ARG1-of (z1 / call-01
+                 :ARG0 (z2 / we)
+                 :ARG2 (z3 / house
+                           :name (z4 / name
+                                     :op1 "Shattered"
+                                     :op2 "House")
+                           :wiki "Shattered_House"))
+    :place (z5 / space
+               :ARG1-of (z6 / south-01
+                            :ARG2 (z7 / post
+                                      :mod (z8 / trade))
+                            :ARG3 (z9 / cartesian-framework-91
+                                      :ARG1 (z10 / builder)))
+               :ARG1-of (z11 / burn-01
+                             :ARG0 (z12 / someone)
+                             :temporal (z13 / before
+                                            :op1 (z14 / now)
+                                            :quant (z15 / long)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt ‘There are certain things here in the mountains. There is something called ‘bear,” but one never refers to it by that name.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:06.736399
+(z0 / contrast-91
+    :ARG1 (z1 / thing
+              :mod (z2 / certain)
+              :place (z3 / here
+                         :place (z4 / mountain)))
+    :ARG2 (z5 / refer-number
+              :ARG1 (z6 / something
+                        :ARG1-of (z7 / call-01
+                                     :ARG2 (z8 / bear)))
+              :temporal (z9 / ever)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt As for the rest of the children who were going to school, I don't know anything about them.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:06.736403
+(z0 / know-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / anything)
+    :ARG2 (z3 / person
+              :ARG1-of (z4 / have-rel-role-92
+                           :ARG2 (z5 / school)
+                           :ARG3 (z6 / rest)))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In the evening, on our return trip, one of the motors caught fire. It happened between Flagstaff and Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:06.736407
+(z0 / burn-01
+    :ARG1 (z1 / motor
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / motor)))
+    :temporal (z4 / date-entity
+                  :dayperiod (z5 / evening))
+    :temporal (z6 / return-01
+                  :ARG1 (z7 / we))
+    :place (z8 / between
+               :op1 (z9 / city
+                        :name (z10 / name
+                                   :op1 "Flagstaff")
+                        :wiki "Flagstaff,_Arizona")
+               :op2 (z11 / city
+                         :name (z12 / name
+                                    :op1 "Phoenix")
+                         :wiki "Phoenix")))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 21:31:06.736411
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))

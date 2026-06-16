@@ -1,0 +1,2025 @@
+File: ref_001_bibl.txt_output.txt
+Gold: Ałk’idą́ą́’ díí nahasdzáán nihił dah si’ánígíí bikáa’gi ’ádahóót’įįd ha’níigo baa dahane’
+Translation: Díí nihookáá’ bikáa’gi háálá’ ’áhóót’įįdígíí baa hane’ hólǫ́.
+
+File: ref_002_bibl.txt_output.txt
+Gold: Ch’óol’į́’í hoolyéegi ’áhóót’įįd daaní
+Translation: Díí hane’ Gobernador Knobdi yiską́ áłníí’.
+
+File: ref_003_bibl.txt_output.txt
+Gold: ’Áłtsé Hastiin dóó ’Áłtsé ’Asdzą́ą́ wolyéii ’índa Yoołgaii ’Asdzą́ą́ dóó ’Asdzą́ą́ Nádleehé ’ahíjiikaigo nidzíiztą́ jiní
+Translation: Áłtsé Hastiin dóó Áłtsé Asdzáán, dóó Yoołgai Asdzáán dóó Asdzáá Nádleehé danáályaa’go da sidá.
+
+File: ref_004_bibl.txt_output.txt
+Gold: Ńléídę́ę́’ hayííłką́ągo ’Áłtsé Hastiin ’azhdoolish biniiyé ch’ízhníyáago Ch’óol’į́’í si’ą́ąjį’ ’ajííghal ńt’éé’ bílátahgi t’áá ’áłtsíísígo k’os bił dah shoogish jiní
+Translation: Yiską́ągo Áłtsé Hastiin bikáá’góó deeyá tsii’ biniinaa; Ch’óol’į́’í bílátahgi yájił’eeł dóó k’os bił dah shoogish yíníłtin jiní.
+
+File: ref_005_bibl.txt_output.txt
+Gold: Yah ’anídzoodzáago Ńléí la’ ha’át’éego Ch’óol’į́’í bílátahgi k’os bił dah shoogish
+Translation: Hooghan góne’ nádiiyáago, “Háíshį́ Ch’óol’į́’í si’ą́ąjį’ ’ajííghal ńt’éé’ bílátahgi t’áá ’áłtsíísígo k’os bił dah shoogish?” yíníłti’.
+
+File: ref_006_bibl.txt_output.txt
+Gold: Haalá ’áhoodzaa shą́ą́’ dohníi ni’ dííniid Bilį́į́’ Łizhinii yę́ę
+Translation: ’Ashkihéi, t’áá shoodí! Nidííniidígíí nítsákees, ni jiní Bilį́į́’ Łizhinii yę́ę
+
+File: ref_007_bibl.txt_output.txt
+Gold: T’áá ’áko Na’niłhodí wolyéhę́ę ’alą́ąjį’ ’ákóne’ dah yiite’ dóó Naat’áanii yę́ę yiyaayáahgi yizhjih
+Translation: Na’niłhodí wolyéé ńt’éé’ ’éí t’áá ’íiyisí ’ahígíí deidiits’a’, dóó Naat’áanii yę́ę ’abee’ yitł’óół bee yiil’ą́.
+
+File: ref_008_bibl.txt_output.txt
+Gold: ’Aadóó t’áá ’át’é ’áajį’ dah diijéé’
+Translation: ’Aadóó ’áłtso yah yéego ’o’ooldee’
+
+File: ref_009_bibl.txt_output.txt
+Gold: Hastiin ’Adiits’a’ii yę́ę ’éí wóniidi tsin dánídíkǫs yę́ę báátis yajiiltáál níwohjigo
+Translation: Góne’ bíla’di tsin dánídíkǫs bikaadę́ę́’ ’Adiits’a’ii Sání yisdzool,
+
+File: ref_010_bibl.txt_output.txt
+Gold: ’Aadóó doo ’ééhoozin da
+Translation: Dóó doo bee haz’ą́ da náhoodleeł.
+
+File: ref_011_bibl.txt_output.txt
+Gold: Tł’óó’góó tł’óó’góó t’óó daha’níits’a’
+Translation: Da’ahoodzaa bił t’óó daha’níits’a’
+
+File: ref_012_bibl.txt_output.txt
+Gold: Naat’áanii yę́ę tł’óó’góó yił ch’íníjéé’
+Translation: ’Aají bił daazt’į́’
+
+File: ref_013_bibl.txt_output.txt
+Gold: Kǫ́ǫ́ yił yijahgo t’áá ’atát’ah ch’ínísh’na’
+Translation: ’Áko bikáa’gi yaa hadááł’ánígo naashchąąh dóó binahji’ nahoodzááh
+
+File: ref_014_bibl.txt_output.txt
+Gold: T’áá shį́į́ ’áko wóne’dę́ę́’ dáda’deeskaal
+Translation: ’Áajį’ biyi’di daazts’í’ naaznil
+
+File: ref_015_bibl.txt_output.txt
+Gold: ’Ashiiké naaki ’ólta’jį’ nii’nil ńt’éé’ ’éí ’atah t’áá ’ákóne’ bidá’deelkaal lá
+Translation: Ashkiiké naaki ’ólta’góó deeyááłígíí biyi’ dahaz’ą́.
+
+File: ref_016_bibl.txt_output.txt
+Gold: Toohnii wolyéé ńt’éé’ ’éí k’ad Kiichil wolyé dishínígíí náánáła’ yił ndilt’éego t’áá ’ákóne’é bidá’deelkaal
+Translation: Tsékooh Hastiin wolyé dishnínę́ę ’éí, dííjį’ Da’áłts’ózí joolyéé, dóó bił t’áá łá’ ’ashkii. Díí ’éí ’áadi bidá’deelkaalígíí ńt’éé’.
+
+File: ref_017_bibl.txt_output.txt
+Gold: ’Éí bininaa hastiin Wéela wolyéé ńt’éé’ dishnínígíí Naat’áanii yich’ijí silį́į́’
+Translation: Díí biniinaa, hastíín Weela wolyé dishnínę́ę Ajeent bich’į’ yáhoot’į́į́’—
+
+File: ref_018_bibl.txt_output.txt
+Gold: Biye’ naalyéhé bá hooghan góne’ ’atah bidá’deelkaalgo biniinaa
+Translation: Bik’ehgo ashiiké t’áá łá’ ’atah t’áá ’ákóne’ bidá’deelkaalígíí be’awéé’ ashkii nít’į́.
+
+File: ref_019_bibl.txt_output.txt
+Gold: Naat’áanii yę́ę nagháíjigo diné hoł noodah
+Translation: Diné Naat’áanii háágóó yił yijah.
+
+File: ref_020_bibl.txt_output.txt
+Gold: T’áá ’áyídí góyaa bidah ’áajigo
+Translation: Ńléí t’áá ’áhánígi tséghaaʼ si’ą́.
+
+File: ref_021_bibl.txt_output.txt
+Gold: Bighá nílį́įgo ’ałch’ishdę́ę́’ Bis Dootł’izh Deez’á
+Translation: Łeezh dootł’izhígíí biyi’ tsékooh hólǫ́, naaki yá’di kéyah bits’idá hólǫ́.
+
+File: ref_022_bibl.txt_output.txt
+Gold: ’Éí bihoolyé
+Translation: Jó ’éí naałtsoos bá hooghan éí ’óosye’ jiní.
+
+File: ref_023_bibl.txt_output.txt
+Gold: T’áá nízaad bidah
+Translation: Ayóó yitł’óół lá
+
+File: ref_024_bibl.txt_output.txt
+Gold: Bidah góyaa ’ahołhan
+Translation: Shádi’góó naalnééł!
+
+File: ref_025_bibl.txt_output.txt
+Gold: Bidah góyaa
+Translation: Bidah góyaa
+
+File: ref_026_bibl.txt_output.txt
+Gold: Bidah góyaa t’óó daha’níits’a’
+Translation: Bidah góyaa t’óó dahojilne’.
+
+File: ref_027_bibl.txt_output.txt
+Gold: Nagháí kin biniit’aadóó diné lą’í naazį́įgo ’áádóó ’atah sézį́
+Translation: Diné t’óó ’ahayóí naalyéhé bá hooghan bich’į’ naazį́, dóó shí éí bítah nilį́.
+
+File: ref_028_bibl.txt_output.txt
+Gold: Shidá’í yę́ę ’éí t’áá shíighahdóó sizį́
+Translation: Shádí shił naazį́
+
+File: ref_029_bibl.txt_output.txt
+Gold: ’Áádóó háí shį́į́ t’áá ’éiyá ’ałdó’ ’ákwii naazį́į ni’ ’éí doo bénáshniih da
+Translation: Ádóó háí łáá’ díídi naazníí’ doo shił bééhózin da.
+
+File: ref_030_bibl.txt_output.txt
+Gold: Nahgóó yił yijahgo hááhgóóshį́į́ diné ’adadziiłts’in
+Translation: Naat’áanii yę́ę diné hoł noodahgo, dine’é bi’é’é’ ts’ą́ą’í bee ńdeiniłts’in.
+
+File: ref_031_bibl.txt_output.txt
+Gold: Naat’áanii yę́ę ńdeiniłts’in
+Translation: ’Adadziiłts’in
+
+File: ref_032_bibl.txt_output.txt
+Gold: Ńléígóó yił yijahgo Yoo’ó ’Adika’í wolyéhę́ę kodóó ch’élwod
+Translation: Áko ts’ídá yáágo yił yijahgo, Yoo’ó ’Adika’í wolyé’ígíí díídi nideesdzih.
+
+File: ref_033_bibl.txt_output.txt
+Gold: Nahjí hááhgóóshį́į́ diné t’óó naanáájah
+Translation: Bilį́į́’ Łizhinii biniit’a’ nahjígo diné t’áá íiyisí naazį́.
+
+File: ref_034_bibl.txt_output.txt
+Gold: T’áá shį́į́ ’ałtso bilį́į́’ kǫ́ǫ́ naazį́įgo
+Translation: ’Éí t’áá ałtso bilį́į́’ nahaghááji’ naazį́ hólǫ́ǫgo
+
+File: ref_035_bibl.txt_output.txt
+Gold: T’óó ’idahidiikaii łą́ą́ lá
+Translation: Diné habą́ą́’ náá’ bił daalníí’
+
+File: ref_036_bibl.txt_output.txt
+Gold: ’Asdzání da ła’ da’atah
+Translation: Dóó díí bidá’ahígíí asdzání ła’ siláago.
+
+File: ref_037_bibl.txt_output.txt
+Gold: ’Éí shį́į́ t’áá ’ákǫ́ǫ́ ’atah dabiiską́ ’ałdó
+Translation: Díí asdzáán dóó éí ’áadi bił danidiiską́ą’.
+
+File: ref_038_bibl.txt_output.txt
+Gold: ’Éí shį́į́ diné bitsą́ ’áda’jił’į́ biniiyé
+Translation: Hastóí bá ch’iyáán ’ánááda’ nít’į́į́’go dah sidááh.
+
+File: ref_039_bibl.txt_output.txt
+Gold: Bine’dę́ę́’ dó’ ’asdzání ła’ ’atah níyáá lá
+Translation: Díí asdzáán bits’áadah t’áá łá’í dził bine’dę́ę́’ ádį́į́’ nááłnii’.
+
+File: ref_040_bibl.txt_output.txt
+Gold: ’Éí hááhdóó shį́į́ t’áá ’éiyá ’asdzání t’áá ’éí ni’
+Translation: Háádę́ę́’ t’áá íiyisí deeyá hóla
+
+File: ref_041_bibl.txt_output.txt
+Gold: Kódzaago t’áá ch’ééh ’ádaaníigo t’áá ’ákwii yaa ’ádahalyą́ nahalinii dooda daani
+Translation: Díí áníł’į́į́’go Bilį́į́’ Łizhinii bina’anishí diné t’áá ch’íná yáłti’, t’áá łá’í diné haz’ą́’ bee náná’anishígíí dóó naabaahiigíí yiyiilááh bina’oolkiłgóó “Dooda” ’áłníí’.
+
+File: ref_042_bibl.txt_output.txt
+Gold: ’Éí diné shijée’gi kwii náánísdzá ’atah
+Translation: Yiską́ągo diné ’ałníí’ígíí góó danánísdzáá’ígíí bits’ą́ą́’ t’áá łá’ nishłį́.
+
+File: ref_043_bibl.txt_output.txt
+Gold: Ńt’éé’ ’éí diné bine’dę́ę́’ bíkahazt’i’ silį́į’ii tł’éédą́ą́’ hane’ bitaast’áanii niheeskai lá
+Translation: Ńt’éé’ dził bine’dę́ę́’ diné hane’ bił naaznilígíí dóó danídaal’aahígíí bił ’aníbą́ą́z lá
+
+File: ref_044_bibl.txt_output.txt
+Gold: Bee’eldǫǫh ’índa k’aa’ da shódaoozt’e’ lá
+Translation: Be’eldǫǫ’ dóó tsii’ dóó ats’á’ hólǫ́
+
+File: ref_045_bibl.txt_output.txt
+Gold: Diné dó’ łą́ą́ lá
+Translation: Díí diné t’óó ’ahayóí lá
+
+File: ref_046_bibl.txt_output.txt
+Gold: T’áá kojí t’áá dabinááł nahalingo ’íikaii dó’ łą́ą́ lá
+Translation: ’Ałdó nihí łą́ą́ t’áá shoodí ’ałníí’ łá.
+
+File: ref_047_bibl.txt_output.txt
+Gold: Díí diné dahóółchį’ii bá ch’iyáán ’ál’į́įgi hastiin ńt’éé’ Tó Dík’ǫ́zhi ńt’éé’ Tsézhints’óóz wolyéé ńt’éé’ ’éí shį́į́ ha’áłchíní t’áá dah joo’ishgo ’asdzání ’éí shį́į́ bá ch’iyáán ’ádajił’į́įgo yiską́
+Translation: Áshįįhí hastiin, Slender Lava wolyéé’, ’íídę́ę́’ bik’é diné’é hólǫ́; dóó bí asdzání chahałhóó’ t’áá ałtso diné ’adidaalnihígíí ’áda’jił’į́.
+
+File: ref_048_bibl.txt_output.txt
+Gold: ’Ahbínígo shį́į́ bitsą́ ’ánááda’jiidlaa
+Translation: ’Abínígo asdzání náá bich’iyáán ’ajił’į́
+
+File: ref_049_bibl.txt_output.txt
+Gold: ’Áko ńláhjí siláago yinééł
+Translation: Háálágo Diné naabaahii nahgóó deyáígíí beehózinii.
+
+File: ref_050_bibl.txt_output.txt
+Gold: K’ad hágoshį́į́
+Translation: K’ad hágoshíí! Hágoshį́į́!
+
+File: ref_051_bibl.txt_output.txt
+Gold: T’áá ńléí dzígaigi dooleeł
+Translation: T’áá ’iiyisí Ńléí dzígaijigo nihidiilkaad.
+
+File: ref_052_bibl.txt_output.txt
+Gold: K’ad hágoshíí
+Translation: K’ad hágoshį́į́
+
+File: ref_053_bibl.txt_output.txt
+Gold: T’ah doo yah ’iinééhdą́ą́’ t’ah doo yah ’iinééhdą́ą́’
+Translation: Bits’ą́ą́’ ’áajį’ ni’níná! Bits’ą́ą́’ ’áajį’ ni’níná!
+
+File: ref_054_bibl.txt_output.txt
+Gold: Ha’át’íishą’ bee ’ádoolnííł níigo Bilį́į́’ Łizhinii yę́ę ch’ééh kwii naanáálwoł
+Translation: Háálá, ’íínílá! níigo Bilį́į́’ Łizhinii yę́ę náá’ yiyá t’áá íiyisí.
+
+File: ref_055_bibl.txt_output.txt
+Gold: ’Áko ’eii be’ashiiké nilíinii hááhgóóshį́į́ hááhinoojah
+Translation: Ádą́ą́’ bi’ashkiiké hááhgóó t’áá íiyisí nínízin.
+
+File: ref_056_bibl.txt_output.txt
+Gold: Shadahastóí ńt’éé’ ’índa dashimá sání ńt’éé’ Naakaii Dine’é danilį́įgo hojoobá’ígo Hwééldi hoolyéédę́ę́’ nináda’iishjidgo kwii Lók’a’jígai hoolyéegi kéédahat’į́į́ ńt’éé’
+Translation: Shik’éí ’áádó’ dine’é, hastoi dóó sáanii, Naakaii Diné’é nilį́į́ ńt’éé’. Ts’ídágo Hwééldígíí náághah, binaalyéhé bizis bikáá’ na’áłdeehgo, háálágo díí Lók’a’jíkai-di danilį́ ńt’éé’.
+
+File: ref_057_bibl.txt_output.txt
+Gold: Kodóó shį́į́ haakai nahalin silį́į́’
+Translation: Dííji’ t’áá íiyisí iiná daniilį́.
+
+File: ref_058_bibl.txt_output.txt
+Gold: Dleesh Bii’ Tó hoolyéegi dahooghan ńt’ée’go dah ’adiiná jiní nagháí dził báátis gó’ąą
+Translation: ’Áádóó Łeezhígíí Tó Sidoots’ą́ hoolyéegi bi hooghanígíí déé’, nagháí dził bikáá’góó dóó bináhji’go deiyá.
+
+File: ref_059_bibl.txt_output.txt
+Gold: ’Ákǫ́ǫ́ ’oonéełgo dahwiiłkaahgo ’ákwii shi’dizhchį́ jiní
+Translation: Díí ni’nínágo chahałhééhgo danidiiską́ą’, ’índa ’éí danidiiską́ą’ígíídi shiyázhí ’ííł’į́ hodoo’niid.
+
+File: ref_060_bibl.txt_output.txt
+Gold: Ghąąjį’ wolyéego ńdízídígíí daashin t’áá ’éí biyi’ jiní
+Translation: T’áá íiyisí, shí nisingo Ghąąjį’di ’át’é.
+
+File: ref_061_bibl.txt_output.txt
+Gold: Tł’ée’go hááhgóóshį́į́ deezhchxíilgo ts’ídá ’ákóne’ shi’dizhchį́ jiní
+Translation: Tł’óółíí’gi yas bik’ahgo ’ał’ą́ą’ deesk’ą́jį’ yisht’į́.
+
+File: ref_062_bibl.txt_output.txt
+Gold: Shichei ńt’éé’ Naakai Dine’é Łigaii wolyéé ńt’éé’ dóó ła’ dó’ Diné Táchéhéni’ Biye’ wolyéé ńt’éé’ ’éí shį́į́ t’éiyá diné nilį́įgo dóó sáanii dó’ díkwíí shį́į́ kwii shaa naanish bííghą́ą́’
+Translation: Shichei Naakaii Dine’é Łigai wolyéé’ ńt’éé’, dóó hastiin t’áá łahgo ’éí Chidííl Bighan Nits’áádii Biye’ wolyéé’ ńt’éé’, díí naaki hastiin t’áá íiyisí ńt’éé’. Díí dóó asdzání daazts’į́’ shikaadéé’ ayóo nidaalnish.
+
+File: ref_063_bibl.txt_output.txt
+Gold: Shichei tł’ízí cho’ádinii ’ayói da ’át’é halį́į́’ ńt’ée’go ’éí ’ákwii jiisxį́įgo hááhgóóshį́į́ diné bił dahózhǫ́ǫgo da’oolghal jiní
+Translation: Shicheii éí tł’ízí da’ádílį́í’ nizhóní hólǫ́, éí bá ayóo yá’áhoot’ééł. ’Iidááh éí yilts’ą́, áádóó Diné éí ayóo jiyá’go éí adááyą́.
+
+File: ref_064_bibl.txt_output.txt
+Gold: Tł’éédą́ą́’ shi’dizhchį́įgo t’áá ’áko dah náá’dii’ná jiní
+Translation: ’Aádóó tł’éédą́ą́’ shijishchį́įgo bikáá’gi nihił dah nááda’diit’a’
+
+File: ref_065_bibl.txt_output.txt
+Gold: ’Íídą́ą́’ łį́į́’ t’éiyá bee nda’aldeehgo
+Translation: ’Íídą́ą́’ diné łį́į́’ t’éiyá bee nda’aldeeh
+
+File: ref_066_bibl.txt_output.txt
+Gold: Shimá tł’éédą́ą́’ shijishchį́įgo t’áá ni’ jiníyá jiní níwohjį’ haa shį́į́ nízahgi ni’ínéehgo ’áajį’
+Translation: Tł’éédą́ą́’ shi’dizhchį́įgo t’áá ’áko shimá t’áá ni’ dine’é danidii’náígíí góó niikai jiní
+
+File: ref_067_bibl.txt_output.txt
+Gold: Tł’éédą́ą́’ yidzaazgo yas biyi’ ’íldeé jiní
+Translation: ’Áádóó tł’éédą́ą́’ yas biniinaa, yas bitahgo ’áhoot’éego deiikai.
+
+File: ref_068_bibl.txt_output.txt
+Gold: Ha’át’íí shį́į́ yówéé ’át’éego diné t’áá bizááká kéédahat’į́į́ ńt’éé’ lá ’íídą́ą́’
+Translation: Jó ’akon ’ákót’éego ’íídą́ą́’go iiná łahgo baa yáhooł’aan.
+
+File: ref_069_bibl.txt_output.txt
+Gold: K’adgo ’éiyá ’ajiłchíihgo hak’az biih wolyeed lágo ha’níigo honídahodéeníih łeh
+Translation: K’ad asdzání awéé’ yichxą́ą́’go t’áá íiyisí baa ’áhólyá, doo haadzid yik’ááh da bił yániłti’.
+
+File: ref_070_bibl.txt_output.txt
+Gold: ’Íídą́ą́’ ’éí doo ’ákót’ée da ńt’éé’ lá
+Translation: ’Íídą́ą́’ ’éí t’áá ’ajít’éego nilį́.
+
+File: ref_071_bibl.txt_output.txt
+Gold: ’Áádóó wóshdę́ę́’ haa shį́į́ yit’éego shiyaa hazlį́į́’ ’éí doo ts’ídá hazhó’ó bénáshniih da
+Translation: ’Áádę́ę́’go t’áá íiyisí hastiin nishłį́. Éí baa t’áá ’áhoot’éé’ doo shił nitsídzíní da.
+
+File: ref_072_bibl.txt_output.txt
+Gold: Neeznáá daats’í shinááhai dóó ’índa t’áá kóníghání nahalingo ’énáshniihgo hodideeshzhiizh
+Translation: Shí neeznáá daats’í honááhai bits’ą́ą́’ nahodíílnih ’éí t’áá íiyisígo doo ts’ídá bénáshniih da.
+
+File: ref_073_bibl.txt_output.txt
+Gold: ’Áyąą ’ahbínígo nizhónígo ’ashhoshę́ę shichei náshidiyiiłhą́ą́h
+Translation: ’Abínígo yá’át’ééhgo shiná’oolkiłgo shicheii bee’eldóóní biyi’di shiyilááh.
+
+File: ref_074_bibl.txt_output.txt
+Gold: Nahgóó nahgóó
+Translation: Haalá! Haalá!
+
+File: ref_075_bibl.txt_output.txt
+Gold: Ha’át’íí biniiyé sínítį́
+Translation: Ha’át’íísh nits’ą́’?
+
+File: ref_076_bibl.txt_output.txt
+Gold: Nahgóó dághádílyeed
+Translation: Naatsį́įs nidaashní!
+
+File: ref_077_bibl.txt_output.txt
+Gold: Dinigisgo háadi shį́į́ deeteel t’áá ’áłtsé silį́’ígíí nik’i ch’ídoolwoł
+Translation: Doo dziil ní hólǫ́go da, doo yá’át’ééhí t’ááłá’í éí níyólkááł.
+
+File: ref_078_bibl.txt_output.txt
+Gold: Honíyóigo ’éí łeezh naanídaasdláadgo ’áadi ’índa shíníljool dooleeł jiníi łeh ńt’éé’ shichei yę́ę
+Translation: Bidziilgo, t’áá nahasdzáán bikáa’ shikaadéé’ yitł’ááh dóó na’oolkiłgo biniinaa t’áá dinííł’į́go nít’į́į́’go deesh’ą́, áko shichei t’áá shich’į’ yááłti’.
+
+File: ref_079_bibl.txt_output.txt
+Gold: ’Índa hastóí t’áá ’ałtso ’ákódajiníi łeh ńt’éé’
+Translation: ’Ákót’éego sání t’áá ałtso ’ádajiní łeh
+
+File: ref_080_bibl.txt_output.txt
+Gold: ’Eíshą’ ’ana dahólóonii hoł béédahózingo ’ádajiníí ńt’éé’
+Translation: Naabaah yáhoołkááłígíí baa hólne’ biniinaa díí daaníigo dahojilne’.
+
+File: ref_081_bibl.txt_output.txt
+Gold: Shichei yę́ę ’ákót’éego t’áá nashineeyood dóó t’áá shich’į’ yááłti’
+Translation: ’Íídą́ą́’ ’ákót’éego shicheii chidí bee shił na’oolkił dóó shí yáłti’
+
+File: ref_082_bibl.txt_output.txt
+Gold: Doo hashkéego ’áníi da
+Translation: Doo báháchį’go ’áníi da
+
+File: ref_083_bibl.txt_output.txt
+Gold: Doo t’áá na’níle’ee ’áníi da
+Translation: Doo ts’ídágo ’áníi da
+
+File: ref_084_bibl.txt_output.txt
+Gold: Hazhóó’ógo ’áshiłníí ńt’éé’
+Translation: Yá’át’ééhgo shił hojilne’
+
+File: ref_085_bibl.txt_output.txt
+Gold: Jó ’éí ’áádę́ę́’ ’ákót’éego shíiníłką́
+Translation: Jó ’íídą́ą́’go t’áá ałts’óó shijį́ t’áá íiyisígíí ’éí ’ákót’éego át’é.
+
+File: ref_086_bibl.txt_output.txt
+Gold: Shidá’í ńt’éé’ T’iisyaa Bikiní wolyéé ńt’éé’ tsíłkę́ę́h nilį́įgo ’éí ’áyaa nikishidiilt’e’
+Translation: Shik’éí hastiin ’éí Forked House wolyéé ńt’éé’. ’Éí hastiin yázhí nilį́ dóó shí bi’áłchíní yinishłį́.
+
+File: ref_087_bibl.txt_output.txt
+Gold: Nikishidiił’a’
+Translation: Na’anishgóó shí yídiilá.
+
+File: ref_088_bibl.txt_output.txt
+Gold: Łį́į́’ bá naasłóozgo
+Translation: Bí łį́į’ bí yinaałnííh
+
+File: ref_089_bibl.txt_output.txt
+Gold: Bitsinaabąąs hólǫ́ǫgo bilį́į́’ na’ałbąąsii hólǫ́ǫgo
+Translation: Tsinaabąsii dóó łį́į́’ naaki bił ’oolǫ́.
+
+File: ref_090_bibl.txt_output.txt
+Gold: Díí bee chizh nihíyeeh díí bee nanilnish shiłníigo
+Translation: Bee chizh ’ánínááh lágo bee na’anish shijinígo
+
+File: ref_091_bibl.txt_output.txt
+Gold: Ts’ídá tseebííts’áadah shinááhaigo Bis Dootł’izh Deez’áhí hoolyéegi k’ad naalyéhé bá hooghan ninínáanii t’áá shił bééhózin ńt’éé’
+Translation: ’Íídą́ą́’ tseebíídiin daats’í shinááhaiígíí, Bis Dootł’izh Deez’áhí hoolyéegi díí naalyéhé bá hooghan bee ’áł’ánígíí diné ’éí di’gi ni’níná — háájíigo t’áá nít’éego shí bééhózin jílį́įgo.
+
+File: ref_092_bibl.txt_output.txt
+Gold: Hastiin ’Adiits’a’í yę́ęni’ Chíí’ dabijiníí lágo baa ’ákoniizį́į́’
+Translation: Shí t’áá ’áłts’íísgo be’ehózinígíí, ’Adiits’a’ii yę́ęni’ Hastiin Dodge éí Chíí’ yileeh łeh
+
+File: ref_093_bibl.txt_output.txt
+Gold: Kin Hóchxǫ́’í hoolyéédę́ę́’ Bilagáana Dah Shizhóód wolyéé ńt’éé’ ’éí shį́į́ Chíí’ ’ayóigo bich’ooní ńt’éé’ lá
+Translation: Hastiin ’Adiits’a’ii éí Manuelitóó Bilagáana Dah Shizhóód wolyéígíí bik’is łikaní át’é.
+
+File: ref_094_bibl.txt_output.txt
+Gold: ’Áko ’éí yaa ndilt’éego Bis Dootł’izh Deez’áhí hoolyéegi naalyéhé bá hooghan ’áhoolaa
+Translation: Bis Dootł’izh Deez’áhí hoolyéegi naalyéhé bá hooghan naakígíí ’adííł’ą́
+
+File: ref_095_bibl.txt_output.txt
+Gold: Dąągo ’ákwii ni’níná
+Translation: Dąągo t’ah ńt’éé’ ’áájį’di hodoo’niid
+
+File: ref_096_bibl.txt_output.txt
+Gold: Naałniih dinék’ehjígo hayaayááh dahóóghánę́ędą́ą́’ dabidii’ní k’ad
+Translation: Azee’ ntsaaígíí hadaghaah, dóó dííjíí éí ‘bitsiis łą́ą́’ yitíinii’ígíí’ bee nihiyáníłti’.
+
+File: ref_097_bibl.txt_output.txt
+Gold: ’Íídą́ą́’ dąągo t’ah ńt’éé’ Bis Dootł’izh Deez’áhí hoolyéegi ni’níná hodoo’niid
+Translation: ’Áko dąągo Bis Dootł’izh Deez’áhídi ni’níná, íiyisí.
+
+File: ref_098_bibl.txt_output.txt
+Gold: K’adshą’ Hastiin ’Adiits’a’ii yidoolyeeł léi’ Dah Shizhóód yidoolyeeł léi’ kót’éego ’ákǫ́ǫ́ ninínáá lá
+Translation: Jó ’éí kódzaago Hastiin ’Adiits’a’í yę́ęnį́į́’ígíí Chíí’, dóó Big Lump Setting Up yę́ęnį́į́’ígíí, ko’ góó deikai.
+
+File: ref_099_bibl.txt_output.txt
+Gold: Naalyéhé bá hooghan ’áhoolyaa dóó dį́į́’ daats’í ’éí nááhaigo ’ákwii doo hazhó’ó bénáshniih da t’ah ńt’éé’ naalyéhé bá hooghandi chizh nihoheeh nihizhdííniid shidá’í ńt’éé’ dishnínígíí
+Translation: Naalyéhé bá hooghan ’áhoolaa dóó k’ad dį́į́’ binááh biyi’ji’ t’áá shoodí, háádę́ę́ʼ t’áá bee hazhą́ doo shił bééhózin da, shí éí shizhé’é yázhí yiníłnii’ nihíłníigo naalyéhé bá hooghangóó chizh nihíyeeh
+
+File: ref_100_bibl.txt_output.txt
+Gold: ’Áádę́ę́’ shį́į́ chizh ho’doo’niidgo
+Translation: Dáádáá’ naalyéhé dine’é chizh nízin.
+
+File: ref_101_bibl.txt_output.txt
+Gold: ’Ashkii ła’ Tótsohnii nilį́įgo t’áá ’áłahjį’ bił tádísh’aash ’éí hoł
+Translation: Ashkii léi’ Tó’áhání nilį́į́, ’éí t’áá íiyisí bił na’aldeehígíí lá.
+
+File: ref_102_bibl.txt_output.txt
+Gold: ’Aadóó ’aají nihinaanish deezt’i’
+Translation: ’Ákót’éego nihinaanish ch’íníjéé’
+
+File: ref_103_bibl.txt_output.txt
+Gold: Sitsilí ’ahidii’níigo tádiit’aash
+Translation: "Shitsilí!" dadii’níigo tádiit’aash.
+
+File: ref_104_bibl.txt_output.txt
+Gold: Naalyéhé bá hooghangi chizh nihiigeeh
+Translation: Dóó Naalyéhé bá hooghan góó tsin bee na’aldeeh.
+
+File: ref_105_bibl.txt_output.txt
+Gold: ’Áłchíní ’ólta’jį’ ndaha’níiłgo baa na’aldeeh jiní ha’níigo yii’nii’
+Translation: Hane’go yii’nii’, diné nikaadgo nidaagohłį́, ’áłchíní ’ólta’jį’ ndaha’niłígíí.
+
+File: ref_106_bibl.txt_output.txt
+Gold: Ch’ínílį́į́jí baa na’aldeeh jiní
+Translation: ’Áko Ch’ínílį́į́di ’ałhólǫ́ hodoo’niid
+
+File: ref_107_bibl.txt_output.txt
+Gold: Hahgo shį́į́ kwii bił ’ínééh jiní ha’níigo yii’nii’
+Translation: ’Áko háádę́ę́’ hajį́ kwe’égo yinééłgo hodoo’niid
+
+File: ref_108_bibl.txt_output.txt
+Gold: ’Áádóó baa yiníit’į́įgo chizh ha’iilbąąs
+Translation: Tsinaabąąs bee chizh nihíyeehgo, bina’ nihidiiłnííł.
+
+File: ref_109_bibl.txt_output.txt
+Gold: ’Ashkihéi ’íídíiltah hodííniid hoł naash’aash yę́ę
+Translation: ’Íídíiltah, shik’is baa yíníłti’.
+
+File: ref_110_bibl.txt_output.txt
+Gold: Hágoshį́į́ jidííniid
+Translation: T’áá shoodí, dííniid.
+
+File: ref_111_bibl.txt_output.txt
+Gold: ’Aadóó baa yiníit’į́įgo baa nihił hózhǫ́ǫgo tádiit’aash
+Translation: Dóó ná’oolkááh, bee yáhoot’ééłgo ndahojisne’.
+
+File: ref_112_bibl.txt_output.txt
+Gold: ’I’íí’ą́ągo chizh bida nááhee’nilgo hooghangóó dah ń’diilbą́ą́z
+Translation: Ch’į́į’go chizh t’áá łá’í bidah ’ahii’nííłgo tsinaabąąs bikáá’gi bighanah náádiit’áázh.
+
+File: ref_113_bibl.txt_output.txt
+Gold: Hooghandi nániit’áázh ńt’éé’ shidá’í yę́ę sidáá lá
+Translation: Hooghangóó nániikaigo ńt’éé’ ’áadi shidá’í hólǫ́ lá
+
+File: ref_114_bibl.txt_output.txt
+Gold: Shichei Naakaii Dine’étsoh wolyéé ńt’éé’ ’éí dó’ sidáá lá
+Translation: Ńt’éé’ ’ákwii shichei yę́ę Naakaii Dine’étsoh wolyé t’áá shoodí sidáá lá.
+
+File: ref_115_bibl.txt_output.txt
+Gold: ’Áko ’ákwe’é bee bił hwiilne’
+Translation: Áko nihinitsáhákees bił yijilne’
+
+File: ref_116_bibl.txt_output.txt
+Gold: ’Áłchíní ’ólta’jį’ ndaha’nííł jiní
+Translation: ’Áłchíní ’ólta’jį’ ’adahat’ééh jiní.
+
+File: ref_117_bibl.txt_output.txt
+Gold: T’áá ’áníidlah ’íídíiltah dii’niid dii’níigo bee hoł hwiilne’
+Translation: Ólta’góó ’íídíiltah díígo bił hwiilne’.
+
+File: ref_118_bibl.txt_output.txt
+Gold: T’áá shį́į́ ’áko
+Translation: Koshį́į́ t’áá shoodí
+
+File: ref_119_bibl.txt_output.txt
+Gold: Jó ’aadę́ę́’ nihich’į’ ’oonééł lá
+Translation: ’Áł’ą́ą’í nihá deiyá
+
+File: ref_120_bibl.txt_output.txt
+Gold: Háadish dó’ baa dáádidooh’ash nihizhdííniid shidá’í yę́ę dóó shichei yę́ę
+Translation: “T’áá íiyisí doo bidah daniłnááh da,” shinaaí dóó shichei nihí yááłtiin.
+
+File: ref_121_bibl.txt_output.txt
+Gold: Biiskání naalyéhé bá hooghangóó niikai dóó shichei yę́ę naaltsoos nihá bizhdeelchid
+Translation: Náábiiskánígo Naalyéhé bá hooghangi deiyá, dóó shicheii nihí bąąh naaltsoos bikáa’ bí áts’á’ łitsoh yítł’oh.
+
+File: ref_122_bibl.txt_output.txt
+Gold: Naaki yiską́ągo Ch’ínílį́į́dę́ę́’ ’áłchíní ’ólta’góó dadeesht’eezhígíí kwii bił ’íbąąs ha’níigo hastóí nihinááł yee ’ałch’į’ hadaasdzíí’
+Translation: Chinle góne’ ’áłchíní ’ólta’góó na’aldeehgo, naaki yiską́ągo ’índa deiyá jiní ha’níigo, dóó dine’é na’nízhoozhígíí bee yá’áłti’go yii’nii’.
+
+File: ref_123_bibl.txt_output.txt
+Gold: Yee ’ałch’į’ hadaasdzíi’ii hastóí ła’ Wéela wolyéé ńt’éé’ Tsénikání yine’jí kéédahat’į́į́ ńt’éé’
+Translation: Baa yee ’ałch’į’ hadaasdzíígíí hastóí bidábínígíí t’áá łą́’ ’éí Weela yoolyé. Éí Round Rock bine’jí nagháí deest’į́’.
+
+File: ref_124_bibl.txt_output.txt
+Gold: ’Íídąą’ ’éí naat’áanii danilį́įgo
+Translation: ’áádóó ’íídą́ą́’ ’éí naat’áanii t’áá łá’í nilį́
+
+File: ref_125_bibl.txt_output.txt
+Gold: Yoo’ó ’Adika’í wolyéé ńt’éé’ ’éí dó’ siláago ’atah nilį́įgo
+Translation: T’áá łá’í Yoo’ó ’Adika’í wolyéhę́ę, dóó ’éí siláago ’átah nilį́.
+
+File: ref_126_bibl.txt_output.txt
+Gold: ’Ayóo baa dzólníigo ’óolyéé ńt’éé’
+Translation: ’Éí hastiin ’ayóo daats’į́’ dóó nidaazí át’é.
+
+File: ref_127_bibl.txt_output.txt
+Gold: Ch’ínílį́į́dóó naagháa ndi Tséhootsooídi siláago ’atah nilį́į́ ńt’éé’
+Translation: ’Éí Ch’ínílį́į́dę́ę́’ nilį́, nít’éé’ Tséhootsooídi siláago ’atah nilį́.
+
+File: ref_128_bibl.txt_output.txt
+Gold: ’Éí Tséhootsooídóó Bilagáana Naat’áanii Yázhí wolyéé ńt’éé’ ’alą́ąjį’ yił yíkai lá
+Translation: ’Éí t’áá áłtségo yáájiłgo Fort Defiancegóne’ bilagáana hastiin Naat’áanii Yazhí wolyéé léi’ bił deyá.
+
+File: ref_129_bibl.txt_output.txt
+Gold: ’Akwii shichei ńt’éé’ nihee hajoodzíí’
+Translation: ’Áájį’ shichei yááłti’ dóó nihí baa yá’áhoot’į́į́’.
+
+File: ref_130_bibl.txt_output.txt
+Gold: Shí díí ’ashiiké naakigo ’ólta’jį’ ninishnííł jiníigo bee hajoodzíí’
+Translation: Díí ashkii naaki ’ólta’góó nidaasháał, na’ídlį́’go jidííniid
+
+File: ref_131_bibl.txt_output.txt
+Gold: Yiską́ągo ’índa ’áłchíní bił ’íbąąs ha’níigo t’óó hooghangóó nániikai
+Translation: Hodoo’niidgo t’áá łá’ yiską́ągo ’áłchíní bił dah ’adidoobąs deyáago, hooghangóó dah ń’diilbą́ą́z.
+
+File: ref_132_bibl.txt_output.txt
+Gold: ’Áadi danihiiską́ągo ’áádę́ę́’ t’áá ni’ náániikai
+Translation: Dií ’atah t’áá ’ákǫ́ǫ́ nihiiską́, háálá kéé’ bitł’óółgo náádiidlį́.
+
+File: ref_133_bibl.txt_output.txt
+Gold: Ńt’́éé’ ’áłchíní bił ’aníbą́ą́z lá
+Translation: Ńt’éé’ awéé’ yázhí ’áłah hólǫ́ lá
+
+File: ref_134_bibl.txt_output.txt
+Gold: Hastiin léi’ Tó Dích’íi’nii nilį́į́ ńt’éé’ Chį́shch’į́į́d dabijiníí ńt’éé’ ’éí ’áłchíní yaa ’áhályą́ągo bił na’aldeeh lá
+Translation: Hastiin ła’ Tódích’íi’nii nilį́, Diné éí Tsii’ Ndaazí joolyéé. ’Éí diné níł náádeyá, ’áłchíní baa ’áhólyą́ągo.
+
+File: ref_135_bibl.txt_output.txt
+Gold: T’áá ’áłch’į́į́dígo Bilagáana bizaad bił bééhózin ńt’éé’
+Translation: Bilagáana bizaad ’áłts’íísí bee yáti’.
+
+File: ref_136_bibl.txt_output.txt
+Gold: ’Éí shį́į́ bąą ’áłchíní baa ’áhólyą́ą dooleeł bi’doo’niid
+Translation: ’Áko ’éí bik’ehgo bee haz’ą́ągo ’áłchíní yádiłhiłígíí bíníníł’į́.
+
+File: ref_137_bibl.txt_output.txt
+Gold: ’Ahaninéí’niłgo yaa naaghá
+Translation: ’Éí ’ałnííłnááh
+
+File: ref_138_bibl.txt_output.txt
+Gold: Bis Dootł’izh Deez’áhí binaagi ’áłchíní ndayiiznilii t’ah doo ’ałtso ndayii’éesh da
+Translation: Bis Dootł’izh Deez’áhídę́ę́’ ’áłchíní ’ólta’jį’ ndaha’niłígíí doo t’áá ’áłtso k’ad yah bił déíyá da.
+
+File: ref_139_bibl.txt_output.txt
+Gold: ’Áko naaki yiską́ągo ’índa bił dah ’adidoobąs hodoo’niid
+Translation: Naaki yiską́ągo tsinaabąąs ’áłchíní bił deeyá jiní.
+
+File: ref_140_bibl.txt_output.txt
+Gold: Nagháí Lók’a’jíkai góne’ dóó Tsééhílį́į́ góne’ dóó Sǫ’ Siláágóó dóó ńléí Tséhootsooíjį’
+Translation: Lók’a’jígai dóó Tsaile dóó Crystal bik’ehgo deiyá, dóó Tséhootsooi hoolyéégóó báátis.
+
+File: ref_141_bibl.txt_output.txt
+Gold: Koshį́į́ ’át’éego bee haz’ą́ągo
+Translation: Éí daats’į́’ bina’oolkił ’áhoot’éé’ lá
+
+File: ref_142_bibl.txt_output.txt
+Gold: Ńt’ée’go nagháí dził bine’jí K’aabizhii dóó Tsé Łichíí’ Dah ’Azkání nahós’a’gi diné kéédahat’ínígíí ’ólta’ wolyéii baa ch’íhwiit’aahgo shį́į́ yik’ee dadiniihgo ntsídaakees lá
+Translation: ’Ach’į’ dził jį’ bine’dę́ę́’ Cove dóó Red Rock kéyah bikáa’gi daniidlį́’ díné’é ’i’íníłta’ baa ná’oolkiłígíí yich’į’go yínítsékees.
+
+File: ref_143_bibl.txt_output.txt
+Gold: ’Éí t’áá ’ániidígo hastóí dajizlį́į’go ’ałtso ’ádajidin
+Translation: T’áá ’áłts’íísgo díí Diné ch’oonii ádaalį́, dóó t’áá ’áłtso doo iiná da.
+
+File: ref_144_bibl.txt_output.txt
+Gold: ’Íídą́ą́’ ’ashiiké dajílį́įgo ’ádajíít’įįd
+Translation: ’Íídą́ą́’ t’áá ’áko yiyiłáhgo hastį́į́ yázhí danilį́.
+
+File: ref_145_bibl.txt_output.txt
+Gold: ’Áłchíní ’ólta’góó ’adahat’éésh ha’nínígíí t’áá nihitah ńt’i’í bíni’ biniinaa háágóó ’ániit’ée dooleeł
+Translation: Díí ’áłchíní ’ólta’góó dadeesht’eezhígíí bił nidoolkáá’go t’áá íiyisí baa hodooníł, jiní.
+
+File: ref_146_bibl.txt_output.txt
+Gold: Niha’áłchíní doo ła’ haa diiltéeł da dajiníigo shį́į́ ’át’éé lá
+Translation: Nihí yíníłnii’go ha’níigo ’ólta’ doo ła’ íiyisí bi’áłchíní yiláh da
+
+File: ref_147_bibl.txt_output.txt
+Gold: Bilį́į́’ Łizhinii joolyéé ńt’éé’ ’éí ’áájí ’ákót’éego bee dah ’ajoo’ish ńt’éé
+Translation: Bilį́į́’ Łizhinii wolyéé hastiin ’éí ’aní’eezhígíí naat’áanii nít’į́.
+
+File: ref_148_bibl.txt_output.txt
+Gold: Bis Dootł’izh Deez’áhí hoolyéegi ’ákwíí yiską́ągo biniiyé ’ínééh jiní díí ’áłchíní ’ólta’jį’ ndaha’niłígíí kót’éego shį́į́ dajíínii’
+Translation: Ákót’éego ha’níigo yiyi’nii’, bithan t’áá adiní yiską́ągo Bis Dootł’izh Deez’áhígíí bił ’ínééh ’áłchíní ’ólta’góó ndayiiznilígíí biniiyé dine’é.
+
+File: ref_149_bibl.txt_output.txt
+Gold: ’Áko shį́į́ hwii’ ndahodik’ǫǫshgo tsídazhdeezkééz
+Translation: ’Áko ’éí ’áájí ts’óózígo baa tsídahodeeskéés
+
+File: ref_150_bibl.txt_output.txt
+Gold: ’Ashiiké díkwídiilt’eeł lá
+Translation: ’Ashkihéi, ńléí yah ’íídíiltah yę́ę
+
+File: ref_151_bibl.txt_output.txt
+Gold: ’Ákǫ́ǫ́ dooleeł dazhdííniid shį́į́ lá ’áádę́ę́’
+Translation: ’Áhoodzaa lágo yidlą́.
+
+File: ref_152_bibl.txt_output.txt
+Gold: ’Áko shį́į́ ’áádę́ę́’ biniiyé dashdiikai
+Translation: ’Áko koshį́į́ ’adígo ’áłchíní ’ólta’jį’ na’aldeehígíí baa dah na’azníí’ bik'ehgo deyá.
+
+File: ref_153_bibl.txt_output.txt
+Gold: ’Éí nihí doo deii’niih da dóó doo nihił béédahózin da lá
+Translation: Díí baa doo nihíł yíníłti’ da dóó doo nihíł bééhózin da
+
+File: ref_154_bibl.txt_output.txt
+Gold: ’Éí Bis Dootł’izh Deez’áhígi ’adááh jíkai silį́į́’ lá
+Translation: Bis Dootł’izh Deez’áhí hoolyéegi bi’ólta’ dóone’é na’ídiiłka’.
+
+File: ref_155_bibl.txt_output.txt
+Gold: Naalyéhé bá hooghan dóó t’áá ’áhánígi kin ła’ si’ą́
+Translation: Naalyéhé bá hooghan bikǫ́ǫ’go kin íígíí
+
+File: ref_156_bibl.txt_output.txt
+Gold: ’Íídą́ą́’ kin hóchxǫ́’í dahodii’ní
+Translation: ’Íídą́ą́’ ’éí kin hóchxǫ́ʼígíí yíníyé.
+
+File: ref_157_bibl.txt_output.txt
+Gold: Diné naalyéhé bá hooghangi ńdaakahii yii’ ńdanijah biniiyé kin si’ą́
+Translation: Kin díí naalyéhé bá hooghan góne’ nááhai’ígíí diné ’ałníí’ bá hooghan biniiyé ádoolnííł.
+
+File: ref_158_bibl.txt_output.txt
+Gold: ’Áájí shį́į́ jíkai lá
+Translation: Black Horse bí’áłáanii ’adígóó na’oolkił
+
+File: ref_159_bibl.txt_output.txt
+Gold: Nichǫ́ǫ́’ígo ntsídajikeesgo shį́į́ jíkai lá ’áko hastóí t’áá kǫ́ǫ́ kéédahat’íinii ’éí doo há deiniih da
+Translation: ’Áádóó daaníigo hócho’ígo nitsáhákees bił yah adanááh. Diné kéédahat’ínígíí doo bidahaz’ání baa ’ádin béédahózin da.
+
+File: ref_160_bibl.txt_output.txt
+Gold: Tł’ée’go shį́į́ ’ákót’éego bee ’ádaa ndahojisne’
+Translation: Nít’į́į́’ tł’óó’go ’ahił yáłti’, biniiyé yóólne’.
+
+File: ref_161_bibl.txt_output.txt
+Gold: Shichei ńt’éé’ dishnínígíí dóó náánáłá shidá’ígo ’Ashkii Yázhí wolyéé ńt’éé’ ’éí shį́į́ tł’ée’go ’áadi jiní’áazhgo ’ákót’éego hanááł yee ’ahił dahalne’
+Translation: Shichei wolyé dishnínę́ę dóó shinaaí łáá’ ’Ashkii Yázhí wolyé, t’áá ’áhání tł’óó’go góó diiyá dóó biniiyé yáníłti’ígíí yóódį́į́’.
+
+File: ref_162_bibl.txt_output.txt
+Gold: Bilį́į́’ Łizhinii wolyéé ńt’éé’ Na’niłhodí wolyéé ńt’éé’ Kin Łichíi’nii Nééz wolyéé ńt’éé’ Yoo’ee Hataałí Sání wolyéé ńt’éé’ Kin Łichíi’nii nilį́įgo dóó bił naa’aash ńt’éé’ Tó Dích’íi’nii nilį́įgo Yoo’ee Bida’ wolyéé ńt’éé’ ła’ dó’ hastiin ńt’éé’ t’óó bééhasinígo bééhasin ńt’éé’ shá’áyééh ńt’éé’ ’li’di Aałiiłtsooí wolyéé ńt’éé’ k’ad t’áá ’ákódígo áádę́ę́’ yíkai yę́ę bénáshniih
+Translation: Díí danohłį́į’ígíí biyi’ hadánígíí doo, Bilį́į́’ Łizhinii wolyéé’ hastiin, dóó Limper wolyéé’ hastiin, dóó Kin Łichíí’nii Nitsaa wolyéé’ hastiin, dóó Old Bead Chant Singer wolyéé’ hastiin — ’éí Kin Łichíí’nii nilį́ — dóó bí ach’į́’, Tó Dích’íi’nii nilį́, Bead Chant’s Nephew wolyéé’ hastiin, dóó lá’ hastiin t’áá łahgo shí nihit’ááhígíí dóó shí ak’é bee nihidaní. Biyázh ’éí Yellow Fermentive Chewer wolyéé’. Díí t’áá ’áhoot’éego t’áá áłtségo shi nínízinígíí dííji’go, dził bine’dę́ę’góó deedááłígíí.
+
+File: ref_163_bibl.txt_output.txt
+Gold: Ła’ shį́į́ daaháí ní hóla
+Translation: Háí ts’ídá át’é ’éí doo bénáshniih da
+
+File: ref_164_bibl.txt_output.txt
+Gold: Yiską́ągo Naat’áanii bił yah ’adiikah daaníigo shį́į́ ndahaz’ą́
+Translation: Daats’íí binaahat’á, Náábiiskánígo Ajeent wolyéhígíí bighandi bił ’a’ahdiikaah.
+
+File: ref_165_bibl.txt_output.txt
+Gold: Nihí kódeiniidzin kót’éego baa ntsídeiikees díí bee nihaa ní’diildee’ígíí daaníigo shį́į́ hoł ndahasne’ jilą’í baa ’ałah jílį́įgo
+Translation: ’Éíshą’ nitsáhákeesígíí—díí nihá nídeeshááłígíí ’ólta’ bee haz’ą́ bá be’ádahoozinígíí—éí nahazne’. Díí bąąh daná’oodzą́ą́’ígíí kǫ́ǫ́góó diné bił yá’áhodilne’.
+
+File: ref_166_bibl.txt_output.txt
+Gold: ’Áko ’éí ’áájí binahat’a’ą́ą bik’ehgo tsídahodeeskéés
+Translation: ’Áko diné bíhaz’ání bik’ehgo tsídazhdeezkééz
+
+File: ref_167_bibl.txt_output.txt
+Gold: Haalá ’áhoodzaa hastóí háí yee’ t’áá haa ’ánóht’é
+Translation: Haalá, hastóí, dííde’ t’áá ’íiyisí hataał yá’áhoot’ééł ’át’é?
+
+File: ref_168_bibl.txt_output.txt
+Gold: ’Ałk’idą́ą́’ hastóí ńt’éé’ t’óó hahane’ danilį́ ha’at’íí shį́į́ ’óolyé łee ’íyátééh wolyé jiní háí yee’ bééhonohsin dajiníigo shį́į́ baa ńda’jooskan
+Translation: ’Áájígo Diné sání bá hane’ nayiisnį́į́’; ’éí “Talk One Into the Grave” yínílyé. Háíshą̨̨́’ nihá ’éí bééhózin? jiní Bilį́į́’ Łizhinii yę́ę, ’áhoot’éego yíníł’į́į́’.
+
+File: ref_169_bibl.txt_output.txt
+Gold: ’Éí shį́į́ dził bine’dę́ę́’ jíkai yę́ę ’ádajiní
+Translation: Dził bine’dę́ę́’ díí Diné díígo dahojilne’
+
+File: ref_170_bibl.txt_output.txt
+Gold: Díí k’ad t’óó jiní jinínígíí ’éí ’át’é
+Translation: Díí kót’éego shił nááhálne’. Shí t’áá shí éí doo ’ałníí’gi da.
+
+File: ref_171_bibl.txt_output.txt
+Gold: Ha’át’éegoónee’shą’ naat’i’íí ’óolyéé ńt’éé’
+Translation: Áádóó t’áá ’éiyá ha’át’éego díí hataał ’al’į́į́ ńt’éé’ shį́į́ hóla
+
+File: ref_172_bibl.txt_output.txt
+Gold: Shí lą́ą jiní jiní ’Ashkii Yázhí joolyé dishnínę́ę
+Translation: Aoo’, ’Ashkii Yázhí wolyéé ńt’éé’ dishnínígíí jidííniid.
+
+File: ref_173_bibl.txt_output.txt
+Gold: ’Áko lá ndidoołt’eeł ni jiní Bilį́į́’ Łizhinii yę́ę
+Translation: Díí biniiyé naaki diné bił nídoolnííł, Bilį́į́’ Łizhinii yę́ę.
+
+File: ref_174_bibl.txt_output.txt
+Gold: ’Áko shį́į́ shichei yę́ę Naakaii Dine’étsoh wolyé dishnínę́ę bił ’ahizhdii’áázh
+Translation: Áko shichei, Naakaii Dine’étsoh wolyéé’go shiyááłti’ígíí, yił t’áá íiyisí yá’.
+
+File: ref_175_bibl.txt_output.txt
+Gold: ’Éí nahozhdoołaał biniiyé
+Translation: ’Aadóó łee’íyátééh ha’nínígíí baa nijzh’áázh
+
+File: ref_176_bibl.txt_output.txt
+Gold: Naalyéhé ba hooghanídóó shádi’ááh bich’ijígo dinék’ehjígo Kin Ts’iil dahodii’ni ha’át’íí shį́į́ ’ałk’idą́ą́’ dahodííłid
+Translation: Naalyéhé bá hooghan shádi’ááhgi Diné bizaad bee “Shattered House” dahodii’níígíí kin neeztą́’ígíí si’ą́. ’Áajigo daats’í bá yidlóół.
+
+File: ref_177_bibl.txt_output.txt
+Gold: ’Anaasázi wolyéé ńt’éé’ jiní
+Translation: Anaasází daalį́ lą́ʼ.
+
+File: ref_178_bibl.txt_output.txt
+Gold: Łeeshch’ih nahalingo hadaashjin
+Translation: Nít’į́į́’ ts’óó’ łahgo łizhin.
+
+File: ref_179_bibl.txt_output.txt
+Gold: ’Áájį’ shį́į́ łee’íyátééh ha’nínígíí baa nijzh’áázh
+Translation: ’Akwii nahozhdoołaał
+
+File: ref_180_bibl.txt_output.txt
+Gold: Ha’át’éego shį́į́ ’al’į́į́ ńt’éé’ hóla
+Translation: Haash nideez’ą́ígíí doo shił béédahózin da.
+
+File: ref_181_bibl.txt_output.txt
+Gold: ’Aajį’ shį́į́ kódzaago yiską́
+Translation: Jó ’éí tʼą́ą́’go nááłnii’
+
+File: ref_182_bibl.txt_output.txt
+Gold: Nihí ’éí shidá’í bighandi náánihiiską́
+Translation: Nihí ’éí shidá’í hooghandi t’áá íiyisí danihiiską́ą’
+
+File: ref_183_bibl.txt_output.txt
+Gold: Díí jį́ ’áłchíní ’ólta’góó bił ’oobąs yę́ę bitah nihi’dee’nííł
+Translation: Dííjį́ ’áłchíní ’ólta’góó naaznííłígíí bii’ nihidiilnih lá
+
+File: ref_184_bibl.txt_output.txt
+Gold: Yiską́ągo ’éí ’atah nihił dah ’adiinééh kót’éego biniiyé hooghandóó ’ahbínígo t’áá ni’ dah náádiikai
+Translation: Yiską́ągo bił nidadiikai. ’Áko bik’ehgo ’Ahbínígo hooghanígóó kéé’ át’éego náá dadiikai.
+
+File: ref_185_bibl.txt_output.txt
+Gold: Hastóí yę́ę bił dah diikai
+Translation: Hastóí bił deiyá,
+
+File: ref_186_bibl.txt_output.txt
+Gold: Naaltsoos nihá yididoolchiłii bee ’ééhózin dooleełii’ ’éí shichei yę́ę Naakaii Dine’étsoh yę́ęni’
+Translation: Éí nihá naaltsoos bik’ijį’ bizhdeelchidígíí dóó nihá baa dah si’ánígíí bił danohłį́į’. Éí shichei, Naakaii Dine’étsoh nít’į́.
+
+File: ref_187_bibl.txt_output.txt
+Gold: ’Éí nihá yiizį’ díí ndiniilt’éhígíí
+Translation: Nihá naaki baa dah si’ání.
+
+File: ref_188_bibl.txt_output.txt
+Gold: Kingi niikai ńt’éé’ diné t’óó ’ahayóí ’áłah silį́į́’ lá
+Translation: Báhásánídi nihił ’ílwodgo ńt’éé’ Diné lótso danáásdzání lá.
+
+File: ref_189_bibl.txt_output.txt
+Gold: Łį́į́’ t’óó ’ahayóí naazį́
+Translation: Łį́į’ ’áádíní da t’óó naazį́
+
+File: ref_190_bibl.txt_output.txt
+Gold: ’Íídą́ą́’ łį́į́’ t’éiyá bee nda’aldeeh
+Translation: ’Íídą́ą́’ dine’é bee nda’aldeehígíí t’éiyá łį́į́’ nít’į́
+
+File: ref_191_bibl.txt_output.txt
+Gold: Tł’éédą́ą́’ baa nda’asdee’ii ’éí ła’ doo nihił béédahózin da
+Translation: Níhí t’áá ałts’íísgo doo ha’át’ísh t’ááłáhádi ’aajį’ ’ál’į́į́ígíí bééhózin da.
+
+File: ref_192_bibl.txt_output.txt
+Gold: Bilį́į́’ Łizhinii wolyéé léi’ t’éiyá nagháí dził bine’dę́ę́’ ’aní’eezh lá
+Translation: Bilį́į́’ Łizhinii joolyéé łá dził bine’dę́ę́’ jíkai diné bił níyáá lá
+
+File: ref_193_bibl.txt_output.txt
+Gold: T’óó ’ákót’éhégo nihił béédahoozin
+Translation: Éí t’áá íiyisí nihá hodíílnih.
+
+File: ref_194_bibl.txt_output.txt
+Gold: K’ad kwe’é naanish dahodooleeł
+Translation: K’ad kwii na’anish dooleeł nihi’doo’niid
+
+File: ref_195_bibl.txt_output.txt
+Gold: Niha’áłchíní naaltsoos bá ’ánáádadoolniił hodoo’niid
+Translation: Nihí ’ałchíní áádáá’í bá naaltsoos bee na’ídíílnii’.
+
+File: ref_196_bibl.txt_output.txt
+Gold: T’áá diné siláago danilínígíí táá’ ’ákwii yiniiyé naakai
+Translation: ’Éí biniiyé ’éídi táá’ lá Diné siláago
+
+File: ref_197_bibl.txt_output.txt
+Gold: Yoo’ó ’Adika’í yę́ę lá Tséhootsooídę́ę́’ Hastiin Deez Hastiin ’Anilí ni’ Biye’ dó’ wolyéé ńt’éé’
+Translation: ’Éí t’áá łá’ Yoo’ó ’Adika’í wolyéé; t’áá łá’ Tséhootsooídi nilį́ Singed Man joolyéé, áádóó naagháa Rag Man biye’ wolyéé.
+
+File: ref_198_bibl.txt_output.txt
+Gold: Ła’ ’éí ’Adiits’a’ii yę́ęni’ biyé ńt’éé’
+Translation: T’áá łá’ ’éí Hastiin ’Adiits’a’í ba’ádání nilį́.
+
+File: ref_199_bibl.txt_output.txt
+Gold: Táchii’nii ńt’éé’ Ts’óhootsogi ’éí t’áá ’áhodííniidgo naa’ahóóhai ńda’adleehgo jáádk’ehgi łį́į́’ ’ałghadeesht’áazhgo łį́į́’ bik’I ch’élwodgo biisxį́
+Translation: Táchii’nii dine’é hastíín. Díí hastíí’ t’áá jíchii’ St. Michaelsdi roodíyóódi yiyíílááh. Na’álkaah bits’áhoot’éego bina’álkaah bikáa’ na’álkaahí łį́į́’ bíyáá’ yiyíílááh.
+
+File: ref_200_bibl.txt_output.txt
+Gold: ’Íídą́ą́’ ’éí siláago nilį́
+Translation: ’Íídą́ą́’ ’éí siláago nilį́
+
+File: ref_201_bibl.txt_output.txt
+Gold: Daánee’shą’ wolyéé ńt’éé’ t’óó bééhasinígo bééhasin ńt’éé’
+Translation: Haash yíyá doo nitsíkees da; t’áá íiyisí naal’į́’go bił ííníłnih.
+
+File: ref_202_bibl.txt_output.txt
+Gold: T’óó ’Adiits’a’ii Baadaaní t’éiyá bi’di’níí ńt’éé’
+Translation: ’Éí t’óó ’íiyisí ’Adiits’a’ii yę́ęni’ bi’adeezhí yiníł’į́.
+
+File: ref_203_bibl.txt_output.txt
+Gold: Jó ’éí ’íídą́ą́’ siláago nilį́
+Translation: ’Íídą́ą́’ ’éí siláago nilį́
+
+File: ref_204_bibl.txt_output.txt
+Gold: ’Áko táá’ lá siláago
+Translation: Áko siláago táá’ lá.
+
+File: ref_205_bibl.txt_output.txt
+Gold: Kódzaa jó ’akon
+Translation: ’Ákót’éego ’ákódzaa
+
+File: ref_206_bibl.txt_output.txt
+Gold: Ńt’éé’go k’ad dooleeł hodoo’niid shą’ lá
+Translation: ’Áko t’áá jíík’ehgo nihá hólne’
+
+File: ref_207_bibl.txt_output.txt
+Gold: T’óó diné yah ’ahijeeh naalyéhé bá hooghan góne’
+Translation: Naalyéhé bá hooghan góne’ yah ’a’ooldeehígíí diné nihí yáníłʼį́.
+
+File: ref_208_bibl.txt_output.txt
+Gold: ’Atah ’ákóne’ yah ’iikai
+Translation: ’Áko t’áá jíík’ehgo dine’é bikéé’ dah náádiit’áázh
+
+File: ref_209_bibl.txt_output.txt
+Gold: Nihí díí ninihi’dee’nil yę́ęni’ t’áá ła’ tádiit’aash
+Translation: Nihí naaki ’ólta’jį’ ’ałní’.
+
+File: ref_210_bibl.txt_output.txt
+Gold: Nahgóó nihees’nilii ’éí doo shił bééhózin da
+Translation: Ła’ awéé’ ’ólta’góó deeyááhígíí, ’éí t’áadoo háíí baa shił bééhózin da.
+
+File: ref_211_bibl.txt_output.txt
+Gold: Jó ’ákohgo chizh niniigį́įgo chizh bidah ’ahii’nííł ńt’éé’ kóoní ’asdzání naakigo łį́į́’ yoo’ish́ Nikinát’áazhgo shį́į́
+Translation: Chizh bideeʼ áłtsé nááhadááhígíí, bidá nááhee’nilgo, kʼídę́ę́ʼ asdzání naaki łį́į́ʼ yił yááhígíí nihinłtaʼ.
+
+File: ref_212_bibl.txt_output.txt
+Gold: ’Ałdó’ shį́į́ biyáazhgo niiníłtį́įgo
+Translation: Daats’í bihooghangóó deeyááł.
+
+File: ref_213_bibl.txt_output.txt
+Gold: Toohnii wolyéé ńt’éé’ ’éí shį́į́ ’íídą́ą́’ niiníłtį́
+Translation: Díí ’asdzání ła’ be’ashkii ’ólta’jį’ nidayiizníí’ lá.
+
+File: ref_214_bibl.txt_output.txt
+Gold: ’Aadę́ę́’ nihik’iníghal ’asdzání ’Asdzą́ą́ Tł’ááshchí’í’ wolyé k’ad t’ah naaghá ’éí
+Translation: Asdzáán niháádéé’ yínínáá’. ’Éí Kéé’ Łichíí’í Asdzáán joolyéé ńt’éé’. Háálá íiná nilį́.
+
+File: ref_215_bibl.txt_output.txt
+Gold: Bitsii’ łigai
+Translation: Dóó bitł’óół łigai.
+
+File: ref_216_bibl.txt_output.txt
+Gold: Ńt’éé’ ’ání ’Eii la’ ’ałdó’ ’ashiiké ’akǫ́ǫ́ chizh niiníyínígíí nii’nil ha’ní ’ałdó’ ’i’ííníłta’ ha’ní
+Translation: Yiyáágo yáłti’, “ha’níigo ’éídi tsin nahaz’ą́ą́łígíí ashiiké ’ólta’ baa ndayiiznilii — ’ólta’góó deeyááł lá.”
+
+File: ref_217_bibl.txt_output.txt
+Gold: Yíh kad la’ bee da’iináajį’ ’adahashzhiizh yę́ęni’ nihiłní
+Translation: Hólá, háálá, dííji’ nihikáa’gi baa íił’į́go t’áá ajíłii’ danitsaa’, nihá baa yáłti’.
+
+File: ref_218_bibl.txt_output.txt
+Gold: Ha’át’éegoónee’shą’ nihaa tsídeezkéezgo ’ání
+Translation: ’Ákót’éego yáłti’ígíí ha’át’íí bínízin shį́į́ hóla
+
+File: ref_219_bibl.txt_output.txt
+Gold: ’Áko kodóó t’óó baa yiidloh nihí
+Translation: Nááji’ bínígíí t’óó nihich’į́į́’.
+
+File: ref_220_bibl.txt_output.txt
+Gold: T’áá lá ’aaníinii ni’ádinii’nil lą́ą
+Translation: Ndi t’áá íiyisí ’át’éé lá. ’Ólta’góó nihá adeesdzíí’.
+
+File: ref_221_bibl.txt_output.txt
+Gold: Jó baa hózhónígi ’át’éego baa hane’ t’óó niiddzį́į́’
+Translation: Ołta’ éí yá’át’ééh báhane’ nihidiníł
+
+File: ref_222_bibl.txt_output.txt
+Gold: Shíínee’ ’ákwíiniizį́į́’
+Translation: ’Áko shí nisin.
+
+File: ref_223_bibl.txt_output.txt
+Gold: Kojí t’áá ’ádíighahígo shí ntséskeesii shich’ooní nilíinii ’áajį’ bee bił hashné
+Translation: T’áá jíík’ehgo t’áá shí shínitsáhákeesígíí bee shik’is yił yáłti’
+
+File: ref_224_bibl.txt_output.txt
+Gold: Jó ’akon bidááh háníí lá sitsilí ’akóoní Chíí’ binaalyéhé bá hooghan
+Translation: Nít’ę́ę́’, t’áá íiyisí baa nahjį’ dóó bí nízinígíí. Díí Chii naaltsoos bá hooghan ná’oolkił.
+
+File: ref_225_bibl.txt_output.txt
+Gold: Haa shį́į́ nízahdę́ę́’ Hwééldi hoolyéédę́ę́’ nináda’iis’náádą́ą́’ hojoobá’ígo łį́į́’ bighangóó łį́į́’ bichaan yii’ na’atsigo habíyííłką́ jiní
+Translation: Hááláʼígíí Hwéeldi dééʼ náásdáágo ayóó yaajiłhééł.
+Łį́į́ʼ bighandę́ę́’ łį́į́ʼ chʼą́ąʼ biyiʼ nákʼaahgo, jóʼ ’éí iiná yee hideeznaad.
+
+File: ref_226_bibl.txt_output.txt
+Gold: T’óó haiłkááhdą́ą́’ łį́į́’ bichaan ch’éhégéedi tsin hasht’eelyaago dah yootį́įł łeh jiní
+Translation: Abíní’ t’áá íiyisígo dahgóó náádiiyá, t’áá bidách’į́’go ’ałnééhígíí tsin ’áłts’íís bił.
+
+File: ref_227_bibl.txt_output.txt
+Gold: Sháyahjį’ bitsii’ yę́ęni’ bighájíchii’go nahaltsaad łeh jiní
+Translation: Yáádę́ę́’ bąą dah sidágo, jóhonaa’éí bits’áadahgi, bitsii’di łichíí’go yilnááh; éí ’ééhózin.
+
+File: ref_228_bibl.txt_output.txt
+Gold: Kodóó ’óosye’ jiní Chíí’
+Translation: Kót’éego Chii yoolyé́
+
+File: ref_229_bibl.txt_output.txt
+Gold: ’Aadóó shį́į́ Bilagáana ńdahidiiłtį́
+Translation: Háálá bilagáana ła’ bighan-di deest’į́į́ł.
+
+File: ref_230_bibl.txt_output.txt
+Gold: Jó ’éí yee hideeznaad
+Translation: ’Ákót’éego iiná biyi’ hool’á’
+
+File: ref_231_bibl.txt_output.txt
+Gold: ’Áádę́ę́’ binitsékees deezt’i’ be’iina deezt’i’ii k’ad kǫ́ǫ́ t’óó bidááh hání
+Translation: ’Éí ’ákót’éego biníyol hajíł’į́. Hózhǫ́ǫgo adáhodahooł’ą́ dóó dííji’ éí bi’adindíínígíí biyi’ nilį́į́’.
+
+File: ref_232_bibl.txt_output.txt
+Gold: ’Adiits’a’go
+Translation: “Bilagáana bizaad bił bééhózin,” shí yíníłti’.
+
+File: ref_233_bibl.txt_output.txt
+Gold: Jó shí ’éí nisingo baa ntséskees ’íídą́ą́’
+Translation: Jó ’éí ’íídą́ą́’ ’éí adínílnish shí yínízin.
+
+File: ref_234_bibl.txt_output.txt
+Gold: ’Éí bik’ehgo ’ádee hadeesdzíí’
+Translation: Biniinaa ’éí bá’ólta’di shí t’áá íiyisí baa nishtą́.
+
+File: ref_235_bibl.txt_output.txt
+Gold: Diné shidiiyáii dó’ t’áá ’ákót’é
+Translation: Dóó shíł na’ídííł’į́į́’ígíí éí áádóó díígo yínitsékees.
+
+File: ref_236_bibl.txt_output.txt
+Gold: Jó shí kót’éego nabik’í tséskeesgo ’éí bik’ehgo t’áá ’aaníí ’íídą́ą́’ shił ’adááhóóniid ni’
+Translation: Díí baa nitsékeesgo, na’nitin t’áá íiyisí nisin ’íídą́ą́’.
+
+File: ref_237_bibl.txt_output.txt
+Gold: Yę́ęni’ k’adshą’ doo ’ákódoonííł da léi’
+Translation: Nídíshjį’ doo ’ákót’ée da dooleeł lá.
+
+File: ref_238_bibl.txt_output.txt
+Gold: Naalyéhé bá hooghan góne’ yah ’o’ooldee’
+Translation: Diné yah ’ahijeeh naalyéhé bá hooghan góne’
+
+File: ref_239_bibl.txt_output.txt
+Gold: Ha’déébįįd lá
+Translation: T’áá ałtso níltsaa
+
+File: ref_240_bibl.txt_output.txt
+Gold: Kojígo bik’I na’iiniihí naanii dah sitą́
+Translation: Díí nahjígo bikáá’ na’iiniihí nítł’ááh
+
+File: ref_241_bibl.txt_output.txt
+Gold: T’ah nah wóniidi ’éí tsin dánídíkǫs
+Translation: Wóniidi níwohjigo t’áá ’ájíłį́ tsin dánídíkǫs báátis hólǫ́.
+
+File: ref_242_bibl.txt_output.txt
+Gold: ’Áádę́ę́’ Hastiin ’Adiits’a’ii yę́ę ch’íníyá
+Translation: ’Akwii ’áádę́ę́’go Chii’ yishááh.
+
+File: ref_243_bibl.txt_output.txt
+Gold: Nák’ee ’Aznilii wolyéé ńt’éé’ Lók’aah Nteeldóó bik’isgo naalyéhé yá sidáago Jaa’ ’Abaní dabijiníí ńt’éé’ ’éí nagháí ’át’ééjí bikáá’ na’iiniihí yine’jí naaghá
+Translation: Lók’aahnteelgi Biná’ bee adáníl’į́į’ígíí bi’áádí, Tsídii wolyéé’ hastiin, díídi naaltsoos bá ’ałníí’ lá. ’Éí nahjígo na’iiniihí biká’ daazlį́į́’ lá.
+
+File: ref_244_bibl.txt_output.txt
+Gold: ’Ayóo diné yidiits’a’go ’óolyéé ńt’éé’ Jaa’ ’Abaní
+Translation: The Bat éí Diné bizaad bił ’ayóo bééhózinígíí hastíín ńt’éé’.
+
+File: ref_245_bibl.txt_output.txt
+Gold: Hodíina’go Naat’áanii Yazhí wolyéé léi’ ch’ínáánádzá
+Translation: K’ad t’áá łahgo ’éí Naat’áanii Yázhí wolyéé’ígíí deeshááh lá.
+
+File: ref_246_bibl.txt_output.txt
+Gold: Dóó nahgóó diné yílák’e dadeesnii’
+Translation: ’Aadóó Chíí’ bikáa’gi ninishtła
+
+File: ref_247_bibl.txt_output.txt
+Gold: Dóó ’Adiits’a’ii Sání yę́ę yíighahdóó niníyá
+Translation: Hastiin ’Adiits’a’ii ’éí bibá yáhoot’ééłígíí nilį́
+
+File: ref_248_bibl.txt_output.txt
+Gold: ’Adiits’a’ii Sání yę́ę bá ’ata’ halne’go ’aadóó diné yich’į’ ’ayá’niiłti’
+Translation: Diné’é baa yáłti’ hajį́’go
+
+File: ref_249_bibl.txt_output.txt
+Gold: Bilį́į́’ Łizhinii yę́ę ’éí nahjígo bikáá’ na’iiniihí yąąh sizį́
+Translation: Łį́į́ʼdiłhił ’éí nahjí tábil biniit’aadóó sizį́
+
+File: ref_250_bibl.txt_output.txt
+Gold: Diné yił naakai yę́ę t’áá yił naazį́
+Translation: Bidiné’é bił naazį́.
+
+File: ref_251_bibl.txt_output.txt
+Gold: ’Áłchíní ndayiiznilii dabi’dééji’ dóó t’áá łą́ą́góó ’ólta’ bee nahazne’
+Translation: ’Ółta’góó bí’áłchíní baa níníłtį’ígíí dine’é bídindzin dah halne’, dóó ’ólta’ baa ałhááhgo nihí hashné’.
+
+File: ref_252_bibl.txt_output.txt
+Gold: T’áá áko Bilį́į́’ Łizhinii yę́ę ’ání Díí ’áłchíní hats’ą́ą́’ ’ólta’góó ’adahat’éshígíí ’éí hahgo nihí nagháí dził dine’jí kééhwiit’íinii nihik’iit’ééh
+Translation: Haalá díí ’áłchíní dine’é bits’ą́ą́’go ’ólta’góó ’adahat’éésh ha’nínígíí — hááshą́ą́’ shį́į́ dził bine’dę́ę́’ jíkai dine’é bitah ńt’i’í? Bilį́į́’ Łizhinii yę́ę
+
+File: ref_253_bibl.txt_output.txt
+Gold: dííniid
+Translation: Yáłti’
+
+File: ref_254_bibl.txt_output.txt
+Gold: T’áá shį́į́ nihik’iidoot’ih hahgo dá
+Translation: Ha’ííshjį́’go nídeeyá.
+
+File: ref_255_bibl.txt_output.txt
+Gold: Díí k’ad ’éí kojigo dziłtát’ah góne’ niki’níná yiską́ągo ní Naat’áanii Yázhí yę́ę
+Translation: “Yiską́ągo ńléí deiyá; t’áá dził bikáá’ yádeiyá,” Naat’áanii Yazhí (Shipley) yá’áłti’.
+
+File: ref_256_bibl.txt_output.txt
+Gold: Nihí ’éí niha’áłchíní doo ła’ naa dadiiltéeł da
+Translation: Niha’áłchíní doo ła’ níł ’ádoolnííł da.
+
+File: ref_257_bibl.txt_output.txt
+Gold: Bíni’ biniinaa háágóó ’áda’ahiil’į́į dooleeł níigo Bilį́į́’ Łizhinii yę́ę yee niiltee’
+Translation: “T’áá jį́ík’ehgo díí biniiyé’ nihá naabaah, t’áadoo naabaah da,” jiní Bilį́į́’ Łizhinii yę́ę ch’ééhgo.
+
+File: ref_258_bibl.txt_output.txt
+Gold: Kó’ahidi’níigo łą́ądi saad ’ałná ninánídéél
+Translation: ’Ákót’éego ’ałch’į’ yááłti’ígíí Ajeent dóó łį́į’ łizhiní saad ał’ą́ą́’ ’ałch’į’ yááłti’.
+
+File: ref_259_bibl.txt_output.txt
+Gold: Na’niłhodí wolyé dishnínę́ę ’éí nah t’áá ’áhání nahalindę́ę́’ beeldléí yee ’ákászaazgo sizį́
+Translation: Na’niłhodí wolyéé ’éí Bilį́į́’ Łizhinii bich’į’ hadít’ą́, bik’ijį’ ’abání bee ná’awol’į́į́’.
+
+File: ref_260_bibl.txt_output.txt
+Gold: ’Aadóó bich’ooní danilíinii kojigo ’ałkéé’ nízį́
+Translation: ’Aadóó díí ’ałní’ígíí dine’é t’áá ’ałkéé’go dah siikéego naazį́.
+
+File: ref_261_bibl.txt_output.txt
+Gold: Kodóó ’ániid February wolyéego ńdeezidę́ę naakigóó yoołkáłę́ędą́ą́’ kodóó dah dadiikai Tó Naneesdizídóó dį́niiltéego
+Translation: Biiskání naakigóó Tó Naneesdizí-déé’ dį́į́’ nihí niikai.
+
+File: ref_262_bibl.txt_output.txt
+Gold: Bits’á nihi’diisdláa’go dah nihi’diit’eezh
+Translation: Níhí t’áá ajiłíí’ danilį́į́’.
+
+File: ref_263_bibl.txt_output.txt
+Gold: ’Éí ńléí Béésh Sinil hoolyéhédi niikai
+Translation: Béésh Sinildi nihił ’ílwod
+
+File: ref_264_bibl.txt_output.txt
+Gold: Hiłiijį́į’go ’áádóó chidí naat’a’í nihił ńdiit’a’
+Translation: Chahałheełgo chidí naat’a’í biih nihił dah da’diit’a’.
+
+File: ref_265_bibl.txt_output.txt
+Gold: Phoenix hoolyéedi nihił ’aneezdá
+Translation: Hoozdoodi nihił ná’ít’a’
+
+File: ref_266_bibl.txt_output.txt
+Gold: Tádiin dah ’alzhin ’adeiilyaa ’áajį’
+Translation: Tááʼdiin míínítsgo ’áadi nihił ná’ít’a’
+
+File: ref_267_bibl.txt_output.txt
+Gold: ’Áádóó biiskání t’óó naaniiníłkánígo ńdanihidiinil
+Translation: T’áá ’áko yiską́ągo ’abínídą́ą́’ t’áá hajíínágo nihideesdzih
+
+File: ref_268_bibl.txt_output.txt
+Gold: ’Aadóó chidí bee dah nihi’diit’eezh
+Translation: ’Áádóó chidígi shiyá.
+
+File: ref_269_bibl.txt_output.txt
+Gold: Siláago nda’ał’eełígíí kééhat’į́į́ léi’gi nihił ’ílwod
+Translation: Navy Field hoolyéedi niikai
+
+File: ref_270_bibl.txt_output.txt
+Gold: Hastánígi ’oolkiłgo chidí naat’a’í biih náánihi’doo’nil
+Translation: Hastą́ą́góó ’oolkiłgo chidí naat’a’í bidahjį’ nidiilyaa’
+
+File: ref_271_bibl.txt_output.txt
+Gold: Chidí naat’a’í dį́į́’ naazį́į́ lá
+Translation: Chidí naat’a’í dį́į́’ lá
+
+File: ref_272_bibl.txt_output.txt
+Gold: T’áá ’ał’ąą biih dahaakai
+Translation: T’áá íiyisí łá’ łá’ bikáá’gi nihidíł’ą́’
+
+File: ref_273_bibl.txt_output.txt
+Gold: Shí chidí naat’a’í Tomahawk wolyéé léi’ biih shi’dool’a’
+Translation: Tomahawk hoolyéhígíí chidí naat’a’í bii’ shí nídááh.
+
+File: ref_274_bibl.txt_output.txt
+Gold: Dį́į́’ bitsiits’iin lá
+Translation: ’Éí chidí naat’a’í bitsiits’iin dį́į́’ bąąh dah naaznilígíí áłníí’.
+
+File: ref_275_bibl.txt_output.txt
+Gold: Díí chidí naat’a’í kódaat’éhígíí t’óó ’ahayóí nda’ayéé lá
+Translation: Chidí naat’a’í díí ’át’éego bááh ’ayóí ’ádaniłtsxooí bee ndaayéé.
+
+File: ref_276_bibl.txt_output.txt
+Gold: T’óó ’ahayóí tł’oh waa’í beda’astł’ónígíí bii’ deesk’id lágo biih yíyá
+Translation: Bikáa’gi tł’oh Alfáálfaa nitsaa danídááhígíí hólǫ́ shí yiníłnii’.
+
+File: ref_277_bibl.txt_output.txt
+Gold: Chidí ndi biih dahabąąsgo bee ndaayéé lá
+Translation: Díí chidí naat’a’í chidí íísh nda’ayéé lá
+
+File: ref_278_bibl.txt_output.txt
+Gold: ’Aadóó nihił dah da’diit’a’
+Translation: ’Aadóó nihił ńdiit’a’
+
+File: ref_279_bibl.txt_output.txt
+Gold: Diné bikéyah biyi’ góne’
+Translation: Dinétahgóó
+
+File: ref_280_bibl.txt_output.txt
+Gold: Béésh Sinil hoolyéhígíí bikáá’dę́ę́’ nihił ch’í’ít’a’
+Translation: Ńléí Béésh Sinil hoolyéhé góyaa nihił ch’í’ít’a’.
+
+File: ref_281_bibl.txt_output.txt
+Gold: Hoodzo biyi’ góne’ nihił ’o’oot’a’go k’ad kodóó ni bee níhólnííh
+Translation: Naabeehó Bináhásdzo tábąąhgi niikai, shí yíníłti’, “Díí ts’ídá nít’éego.”
+
+File: ref_282_bibl.txt_output.txt
+Gold: Háágóó shį́į́ diné kéédahat’į́ shi’doo’niid
+Translation: Diné háadi deest’į́ígíí níł bééhózin.
+
+File: ref_283_bibl.txt_output.txt
+Gold: ’Aadóó tsézhin yaa ndanees’ą́ą́ góne’ dóó ’Oozéí Hótsaa ha’nínígíí bikáá’ góne’ nihił ’ít’a’
+Translation: ’Aadóó dził łizhinii t’áá yaa ndaaz’áágóó bikáá’dę́ę́’, dóó Oraibi hoolyéhígíí bikáá’dę́ę́’ nihił ch’í’ít’a’.
+
+File: ref_284_bibl.txt_output.txt
+Gold: ’Aadóó ’eii dził t’áá yaa ndaaz’áágóó dóó ńléí Béégashii Bito’jį’
+Translation: ’Aadóó níwohjį’ dził bitsi’ góne’ dóó Cow Springs ha’nínígíí bikáá’ góne’
+
+File: ref_285_bibl.txt_output.txt
+Gold: ’Aadóó níwohjį’ Shą́ą́’ Tóhí hoolyéégóó dóó báátis
+Translation: ’Aadóó Shą́ą́ Tó bikáá’góó dóó k’iji’ bikáá’góó
+
+File: ref_286_bibl.txt_output.txt
+Gold: ’Aadóó níwohjį’ ’Ooljéé’ Tó hoolyé ’ákóyaa
+Translation: ’Aadóó Ooljééʼ Tó góó
+
+File: ref_287_bibl.txt_output.txt
+Gold: ’Aadóó ńléí Naakaii Bich’ah hoolyéhé góyaa nihił ch’í’ít’a’
+Translation: ’Aadóó Mexican Hat bikáá’dę́ę́’ nihił ’ít’a’
+
+File: ref_288_bibl.txt_output.txt
+Gold: ’Áko díí ’ákǫ́ǫ́ nihił ’oot’ahgo chidí naat’a’í náánáła’ nihik’ijinaa dayíkááh
+Translation: ’Éída biyi’ nihił ’ít’a’go, chidí naat’a’í la’ nihił dah ’ít’a’.
+
+File: ref_289_bibl.txt_output.txt
+Gold: Ts’ídá ’ał’ąą ’aheedanízahdi dayíkááh
+Translation: T’áá ’ákót’éego nahgo ádaahwiitʼą́.
+
+File: ref_290_bibl.txt_output.txt
+Gold: Nihijaa’ bąąh na’aznilgo níłch’i bee hane’é ha’nínígíí bee bił ’ałch’į’ yádeiilti’
+Translation: Níłch’i naalkidí bits’íís nihikáa’ dah siilaa, dóó Níłch’i Naalkidí bee ’ahił daniyáłti’.
+
+File: ref_291_bibl.txt_output.txt
+Gold: Ts’ídá kóhoot’éhígi yishááł dadii’níigo bee ’ahił dahwiilne’ ’ałch’ishdę́ę́’
+Translation: ’Ákót’éego nihikóhoolyéé’ baa ’ádaa yádeiilti’.
+
+File: ref_292_bibl.txt_output.txt
+Gold: Kót’éego niikai
+Translation: Jó ’akon ’ákót’éego deidiyá
+
+File: ref_293_bibl.txt_output.txt
+Gold: ’Aadóó ńléí tooh ńlínígíí t’áá bikáá’ gódeg nihił ’ít’a’
+Translation: ’Aadóó ńléí Sán Hwáán Bitooh bikáá’góó dah nihił ch’í’ít’a’
+
+File: ref_294_bibl.txt_output.txt
+Gold: Naat’áanii Nééz t’áá bich’į’dóó naa’áda’ilyaa dził binit’aa gódeg Lók’a’jígai bich’į’go
+Translation: Naat’áanii Néézdi déyáágo, dził yádiłhiłígíí bikéé’góó Lók’a’jíkai góó nihijí’ nídeeshjaa’.
+
+File: ref_295_bibl.txt_output.txt
+Gold: Lók’a’jígai bikáa’gi díkwíidi shį́į́ ’ałk’inéiikai
+Translation: Lók’a’jígai hoolyéhígíí bikáá’dę́ę́’ áłts’íís jį́’ nihił ch’í’ít’a’.
+
+File: ref_296_bibl.txt_output.txt
+Gold: ’Aadóó Ch’ínílį́įjigo
+Translation: ’Aadóó ńléí Ch’ínílį́į́góó niikai.
+
+File: ref_297_bibl.txt_output.txt
+Gold: ’Aadóó Lók’aah Nteel bikáá’góó dóó Łeeyi’ Tóógóó
+Translation: ’Aadóó Ganado hoolyéégóó dóó Klagetoh hoolyéégóó
+
+File: ref_298_bibl.txt_output.txt
+Gold: ’Aadóó ńléí béésh ńti’i’jį’
+Translation: Béésh bikáá’góó
+
+File: ref_299_bibl.txt_output.txt
+Gold: ’Aadóó nát’ą́ą́’ nínáániikai
+Translation: ’Aadóó yádiikááh
+
+File: ref_300_bibl.txt_output.txt
+Gold: Díwózhii Biił Tóódę́ę́’ dóó ’Ałch’į’ ’Áhoot’é bikáá’dę́ę́’
+Translation: ’Aadóó Greasewood dóó Sunrise Springs bikáá’dę́ę́’ náá nihił ch’í’ít’a’
+
+File: ref_301_bibl.txt_output.txt
+Gold: ’Aadóó ’eii Dziłíjiin dah sitą́ t’áá bikáá’góó náániikai
+Translation: ’Aadóó báátis bikáá’ yaa Dziłíjiin bikáá’ góne’ nihił ’ít’a’
+
+File: ref_302_bibl.txt_output.txt
+Gold: ’Éí ńléí Tó Dínéeshzhee’di ’ahééniikai
+Translation: Tó Dínéeshzhee’ hoolyéhgóó niikai, nát’ą́ą́’ nínáániikai
+
+File: ref_303_bibl.txt_output.txt
+Gold: ’Aadóó ’índa ńléí Hoozdo hoolyéé góyaa nihił dah ń’diit’a’
+Translation: ’Aadóó Phoenix hoolyéégóó ná’diit’áázh
+
+File: ref_304_bibl.txt_output.txt
+Gold: ’Áko ’ałní’ní’ą́ągo ’áadi nihił ná’ít’a’
+Translation: Déé’di naakits’áadahgóó ’oolkiłgo nihił ’aneezdá.
+
+File: ref_305_bibl.txt_output.txt
+Gold: T’óó nidziizyeel nahalingo ’ałní’ní’ą́ągo ńléí Hoozdo hoolyéedi gohwééh deiidlą́ą́’
+Translation: Ch’iyáán didiyą́, ’áádę́ę́’ ’atiin t’áá ’ádíí bikáa’gi t’áá ’ałts’íísgo ná’ít’a’, dóó t’áá ałtsó ’áhoot’ééłígíí łehégo nihí nitsáhákees. T’áá yéigo e’e’aahgo Hoozdo hoolyéedi nínáániikai
+
+File: ref_306_bibl.txt_output.txt
+Gold: T’óó da’iidą́ą́’ dóó t’áá ’ákǫ́ǫ́ t’áá bikék’ehgi nihił náá’ít’a’
+Translation: ’Íídą́ą́’ ’ákót’éego nihahasdzaan bikáá’di tł’oh nayiilts’áád ni’
+
+File: ref_307_bibl.txt_output.txt
+Gold: T’áá yéigo hííłch’į’go Hoozdo hoolyéedi nínáániikai
+Translation: ’I’íí’ą́ągo łahgo t’áá ałtso Phoenix hoolyéedi náá nihił ná’ít’a’.
+
+File: ref_308_bibl.txt_output.txt
+Gold: Kót’éego tł’oh bidah ’adahii’níiłgo nihikéyah bikáá’góó tádííyá
+Translation: Díígo nihikéyah bikáa’ naaghááhígíí tł’oh jéé’ shíł náá’ít’a’.
+
+File: ref_309_bibl.txt_output.txt
+Gold: Yiską́ągo ’abínídą́ą́’ ’índa dooleeł nááhodoo’niid
+Translation: ’Áko t’áá ła’ajínígíí abínígóó t’ááłá’í chidí naat’a’í dooleeł hodoo’niid.
+
+File: ref_310_bibl.txt_output.txt
+Gold: Biiskání dį́’ígóó yoołkáałgo nihił dah nááda’diit’a’
+Translation: Náábiiskání February wolyéego dį́į́’ígóó yoołkáałgo náá nihił dah da’diit’a’.
+
+File: ref_311_bibl.txt_output.txt
+Gold: ’Áko ’índa t’ah doo haiłkaahgóó dį́’ígi ’oolkiłgo nínáánihi’dii’nil
+Translation: ’Ałdééłníí’ bits’ą́ądi dį́į́’ ’oolkiłgo ’ą́ą́’go nihidiists’ą́.
+
+File: ref_312_bibl.txt_output.txt
+Gold: ’Áko ndi hastą́ą́góó ’oolkiłgo ’índa nihił dah náá’diit’a’
+Translation: Ndi hastánígi ’oolkiłgo t’áá shoodí nihił dah da’diit’a’.
+
+File: ref_313_bibl.txt_output.txt
+Gold: ’Ákohgo ’índa doo chohoo’į́į́góó ’áhí bee tł’éé’ lá kodi
+Translation: ’Íídą́ą́’ hááhgóó níłtsą́.
+
+File: ref_314_bibl.txt_output.txt
+Gold: Doo ’ééhózin da lá ’ákót’éego
+Translation: ’Áají níyol bii’, háádéé’ nílį́ doo nił bééhózin da.
+
+File: ref_315_bibl.txt_output.txt
+Gold: ’Áko ńléí yót’áahdi deigo tseebííts’áadahdi miil ’adées’eez biighahdi ’atah táhodishłe’ ’éí bijį́į́dą́ą́’
+Translation: ’Íídą́ą́’ yádiłhiłgi 18,000 feetdi dah nishłį́ —
+
+File: ref_316_bibl.txt_output.txt
+Gold: K’os bikáá’dóó haa shį́į́ náánízáád sha’shin
+Translation: Háádę́ę́’ shį́į́ k’os bikáa’di łahgo hóla.
+
+File: ref_317_bibl.txt_output.txt
+Gold: Haa nízaadi dah neiikai dishníigo bíniná’ídíshki’
+Translation: Háádida dahgo nihí danilį́ígíí bá náá yish’ááh
+
+File: ref_318_bibl.txt_output.txt
+Gold: ’Áko ni’ bikáá’dóó tseebííts’áadahdi miil ’adées’eezdi dah neiikai níigo na’ałt’a’ígíí shił náhálnih
+Translation: Dóó pilooti shí yíníłti’, nihí yót’áahdi tseebííts’áadahdi miil ’adées’eez biighahdi nahasdzáán bik’ahgi, t’áá’ íiyisí tó bii’ haz’ą́ígíí bik’ahgi.
+
+File: ref_319_bibl.txt_output.txt
+Gold: ’Áko t’áá bíyó yéé’ shii’ ńdídááh
+Translation: T’áá ’áłch’į́į́dígo nishnidlid ńt’éé’
+
+File: ref_320_bibl.txt_output.txt
+Gold: Nihił bidah ńdílts’i’iigi ’ánát’įįh
+Translation: Chidí naat’a’í níłch’i ts’ees biyi’ náádi yágo deyá.
+
+File: ref_321_bibl.txt_output.txt
+Gold: Yaago ’ashdladi neeznádiin ’adées’eez bíighahgóó nihił yaa ńdílts’i’ jiní
+Translation: T’áá íiyisí 500 feet yich’į́’.
+
+File: ref_322_bibl.txt_output.txt
+Gold: T’áá shį́į́ ’ákónéehee bik’ee nił hóyéé’ shiłní na’ałt’a’ígíí
+Translation: ’Atsidii yił neiikaiígíí deeshch’į’ígíí biniiyé doo shí bee hodíílnih da shił hojilne’.
+
+File: ref_323_bibl.txt_output.txt
+Gold: ’Áko t’áá ’aaníí bik’ee hóyéé’ lá
+Translation: Tsídii binaa’ deiłnááhgo iiná dóó doo iiná da níłt’éego éí nílį́.
+
+File: ref_324_bibl.txt_output.txt
+Gold: T’áá zéé’ naakiit’į́įgo bee na’aldeehii ’át’éé lá chidí naat’a’í wolyéii
+Translation: ’Azhą́’ ’ákót’ée ndi ’Íídą́ą́’ t’áá naakidi ninááda’siigigo ’i’íí’ą́
+
+File: ref_325_bibl.txt_output.txt
+Gold: ’Azhą́’ ’ákót’ée ndi t’áá naakidi ninááda’siigigo ’anáá’oot’ą́
+Translation: T’áá íiyisíí’, jóhonaa’éí ha’níí’ígíí náá naakiit’į́įgo nihił na’áłdeeh.
+
+File: ref_326_bibl.txt_output.txt
+Gold: Náábiiskání ’ashdla’ígóó yoołkáałgo díí Arizona wolyéego náhásdzooígíí biyi’dóó nihinant’a’í nilíinii Governor wolyéhígíí bił ’ahidiikai
+Translation: Biiskání ashdla’ígóó February wolyéego Arizona Naat’áaniiígíí bił nidanilti’.
+
+File: ref_327_bibl.txt_output.txt
+Gold: California biyi’dę́ę́’ siláołtsooí yinant’a’í nilį́į́ léi’ dó bił ’ahidiikai
+Translation: Káliifóorniya góne’ naabaahii naat’áanii t’áá ’áłts’íísí nihił na’azlį́.
+
+File: ref_328_bibl.txt_output.txt
+Gold: ’Éí díí hastóí naakigo ’iih yí’áázh dóó nihił nínáá’diit’a’
+Translation: Díí naaki hastóí chidí naat’a’í bii’ yidaashááh, ’áádóó nihił dah nááda’diit’a’.
+
+File: ref_329_bibl.txt_output.txt
+Gold: Hastóí kódaalyéenii chidí naat’a’í kóolyéhígíí ’akǫ́ǫ́ bił yit’ah ha’níigo nihilą́ąjį’ níłch’i bee dahane’ígíí bee náhánihgo nihił ’ít’a’
+Translation: Yáádį́į́’go na’ídíníłnii díí hastóí éí t’áá íiyisí chidí naat’a’í bii’ dah si’ą́ígíí.
+
+File: ref_330_bibl.txt_output.txt
+Gold: K’ad ’índa tł’oh dóó ch’iyáán dóó chizh dó’ danihiyéél
+Translation: Tł’oh dóó ch’iyáán dóó chizh nihíł hólǫ́.
+
+File: ref_331_bibl.txt_output.txt
+Gold: ’Éí Kiis’áanii bik’ijį’ dasiigad
+Translation: Hopí yę́ę yee yitaa nihił ’ałne’
+
+File: ref_332_bibl.txt_output.txt
+Gold: ’Ayahkin Tsétsohk’id Kin Naazt’i’ ’Oozéí Hótsaa Tł’ohchin Tó dóó Ndadziizdélí dahoolyéégóó bidah ’ada’iyee’nil
+Translation: Walpi, Shipaulovi, Shimopovi, Oraibi, Hotevilla dóó Ndadziizdeli bikáa’ yę́ę’ ’ałne’.
+
+File: ref_333_bibl.txt_output.txt
+Gold: Naakidi daats’í bikáa’gi nihił nídeest’a’
+Translation: Díí kintah bidáá’dę́ę́’ naakájį́’ ts’ídá nihił ch’í’ít’a’.
+
+File: ref_334_bibl.txt_output.txt
+Gold: Bikéé’góó nihił ń’dít’ahgo daníil’į́į̨go t’óó nihiyaadi naaná’oolyis
+Translation: Bikáá’dę́ę́’ nihił ch’í’ít’a’gi nihíłnííł dóó diné t’óó ’ahayóí naalnááh nihiłtsą́.
+
+File: ref_335_bibl.txt_output.txt
+Gold: Chizh yę́ę daats’í baa da’ahijigą́ t’óó dadii’ní
+Translation: Chizh baa daniłts’į́į́’ dooleeł níigo áníłniiʼ
+
+File: ref_336_bibl.txt_output.txt
+Gold: Díí hastóí bił neiikai yę́ę ’éí łą́ą́góó nashídééłkid
+Translation: Díí diné nihíł chidí na’át’á’í bee deeshááłígíí, t’áá łą́ą́góó nashídíłkid.
+
+File: ref_337_bibl.txt_output.txt
+Gold: Haa yit’éego diné yéigo bide ’ádahoot’é
+Translation: Háádę́ę́ʼgo diné ’atíbi’diilyaa?
+
+File: ref_338_bibl.txt_output.txt
+Gold: níigo nashídíłkid
+Translation: Shíníłnii’
+
+File: ref_339_bibl.txt_output.txt
+Gold: Yéigo diné bee bide ’ádahoot’éégóó bee bił nahashne’
+Translation: Diné hodíílnihígíí íiyisí t’áá ałtséego bá yíníłti’.
+
+File: ref_340_bibl.txt_output.txt
+Gold: ’Áádóó Naabeehó bikéyah bikáá’góó t’áá ’ałtsogo hada’iilzidgo ńléí Tucson hoolyéedi nihił ná’ít’a’
+Translation: Diné Bikéyah binaalkaahgo Tucsongóó nihił ná’ít’a’.
+
+File: ref_341_bibl.txt_output.txt
+Gold: ’Áadi hastóí yę́ę bida náát’áázh
+Translation: ’Éídi hastóí naakigo déyá
+
+File: ref_342_bibl.txt_output.txt
+Gold: Nihí ’éí Phoenix hoolyéedi nihił ná’ít’a’go bida néiikai
+Translation: Nihí ’éí nihił ná’ít’a’, dóó Phoenix hoolyéedi nihił ’aneezdá
+
+File: ref_343_bibl.txt_output.txt
+Gold: Biiskání hastą́ą́góó yoołkáałgo ’éí shí t’áa doo ch’íníyáa da
+Translation: Náábiiskání hastą́ą́góó yoołkáałgo doo dah ch’ínáánísdzá da,
+
+File: ref_344_bibl.txt_output.txt
+Gold: Chidí naat’a’í t’áá bíyó shijééhkał ’áyiilaago biniinaa
+Translation: Chidí dahi naaznilígíí biniinaa, t’áá ałts’ó’go doo shił yíníł’į́’ da.
+
+File: ref_345_bibl.txt_output.txt
+Gold: Ndiilt’éego ’ákwíidzaa lá
+Translation: ’Áko nihá ’ákódzaa díí ndiniilt’éhígíí
+
+File: ref_346_bibl.txt_output.txt
+Gold: Damį́įgo biiskání tsoots’idgóó yoołkáałgo ’índa ’atah ch’ínáánísdzá
+Translation: Biiskání ts’osts’idjį́ náá naashá.
+
+File: ref_347_bibl.txt_output.txt
+Gold: T’áá ’ákót’éego ńlááhdę́ę́’ bee haz’ánę́ę ’éí bik’ehgo dah náádadiikai
+Translation: Nihina’nitin bits’áhoot’éego naagháa’góó niikai
+
+File: ref_348_bibl.txt_output.txt
+Gold: ’Íídą́ą́’ ’índa t’áá ła’ajį́ dį́įdi ’ałnánéiikaigo ’i’íí’ą́
+Translation: ’Ákohgo dį́įdi chidí naat’a’í bee nihił nídeest’a’.
+
+File: ref_349_bibl.txt_output.txt
+Gold: T’áá tł’oh t’éiyá nináádeiigéego
+Translation: Tł’ohígíí ’ałdó’ nideiigé.
+
+File: ref_350_bibl.txt_output.txt
+Gold: Tseebíígóó yoołkáałgo t’áá ’ákót’éego dah náádiikai
+Translation: Tsosts’idgóó náá díníyá.
+
+File: ref_351_bibl.txt_output.txt
+Gold: ’Áko díí tł’ohígíí t’éiyá ’aghá nideiigé
+Translation: Łahgo tł’oh nináádeiigéego
+
+File: ref_352_bibl.txt_output.txt
+Gold: T’áá ńléí ’áłtséédą́ą́’ ’át’éhę́ęgi ’át’éego ’áhí bee náánátł’éé’ lá
+Translation: T’ą́ą́’ lá’ígíí bik’ijį’go, náá chohoo’į́į́ ayóo tł’ohgo áhoot’ééł.
+
+File: ref_353_bibl.txt_output.txt
+Gold: K’os bikáa’di łahgo ’át’éego nááhást’ą́ą́ lá
+Translation: K’os bikáá’dę́ę́’di éí shí baa nitsídíí’
+
+File: ref_354_bibl.txt_output.txt
+Gold: Łahgóó dził daní’á nahalingo ’índa łahgóó séí daní’á nahalin łahgóó nizhónígo dził dadeez’á nahalingo tádiikai k’os bikáa’di
+Translation: Łahgóó k’os dził na’ní’íígíí ’át’éego nááhást’ą́ą́; t’ááłá’í séí naaznilígíí ’át’éego nááhást’ą́ą́, dóó t’ááłá’í t’áá shoodí méesá ’át’éego nááhást’ą́ą́ lá.
+
+File: ref_355_bibl.txt_output.txt
+Gold: Yaago ni’ bikáá’ góyaa ’éí doo ’ééhózin da
+Translation: Doo kéyah shádi’góó nidaníł’į́ da
+
+File: ref_356_bibl.txt_output.txt
+Gold: ’Azhą́ ’ákót’éé lá ndi ’ałdó’ ’íídą́ą́’ dį́įdi nda’siigį́įgo ’i’íí’ą́
+Translation: ’Azhą́’ ’ákót’ée ndi t’áá dį́į́’di ’anáá’oot’ą́
+
+File: ref_357_bibl.txt_output.txt
+Gold: ’I’íí’ą́ągo nihił ná’oot’ahgo chidí naat’a’í bitsiits’iin ła’ nihits’ą́ą́’ ná’oot’ahgo ’áhóót’įįd
+Translation: Hííłch’į’go nihił ná’ít’a’go, chidí naat’a’í binii’na’azí t’áá łá’í kǫʼ yidló. Éí Kinłání dóó Hoozdo bidáá’di nít’į́.
+
+File: ref_358_bibl.txt_output.txt
+Gold: Shoo ńléí lá haa hóót’įįd
+Translation: Níí, ha’íí nahasdlį́į́?
+
+File: ref_359_bibl.txt_output.txt
+Gold: Diiltła lá shidííniid na’ałt’a’ígíí
+Translation: Hodíílnih! jidííniid
+
+File: ref_360_bibl.txt_output.txt
+Gold: Nééł’į́į́’ ńt’éé’ hááhgóó shį́į́ kǫ’ bąą dah sidá
+Translation: ’Atahgi kǫʼ yiiłtsą́
+
+File: ref_361_bibl.txt_output.txt
+Gold: ’Áko doo chohoo’į́į́góó bik’ee shił hóóyéé’
+Translation: ’Áko ’ákót’įįhgo doo baa ’áhoot’é da lá
+
+File: ref_362_bibl.txt_output.txt
+Gold: Hóyéé’ lá
+Translation: Díí biniiyé tsʼídá ’át’é
+
+File: ref_363_bibl.txt_output.txt
+Gold: T’áadoo ’áhó’ne’gi da lá ’ákot’įįhgo
+Translation: Doo t’áá íiyisí ’ééhózin da ha’át’íí yideidleeł.
+
+File: ref_364_bibl.txt_output.txt
+Gold: Bidah ya’iiltáál ndi t’áá hazéé’ yidoot’įįł lá
+Translation: T’áá shǫ́ǫ́dí bidááh na’adzohgo, ní iiná’ bináádínííł lá.
+
+File: ref_365_bibl.txt_output.txt
+Gold: T’áá zéé’ yit’į́į́jí t’éiyá bił nahadeełgo bee na’aldeehgo ’át’éé lá chidí naat’a’í wolyéii
+Translation: Chidí naat’a’í bił yádeet’į́į́’go hazéé’ doołt’į́į́ł lá
+
+File: ref_366_bibl.txt_output.txt
+Gold: Doo ’ééhózin da lá
+Translation: Doo t'áá íiyisí bééhózin da
+
+File: ref_367_bibl.txt_output.txt
+Gold: T’óó yíní dilyinee t’éiyá bee na’adáá lá
+Translation: T’óó nídááh dóó hózhǫ́ǫgo nínízin.
+
+File: ref_368_bibl.txt_output.txt
+Gold: ’Áko ha’át’éego lá díí nihits’ą́ą́’ diiltłaaígíí ńdínóotsis lá nisingo haa’í lá doo ntsíníkéez da
+Translation: T’áá íiyisí baa nitsáhákees nish’į́ kǫ’ haash yinááznííł.
+
+File: ref_369_bibl.txt_output.txt
+Gold: K’adshą’ díí bitsiits’iin dah naaznilígíí t’áá biyi’dę́ę́’ kǫ’ bee daniltsésígíí dadeez’áá lá
+Translation: Ndi díí bitsiits’iin t’áá bikéé’ji’ ’éí bee kǫʼ baa dahaneʼígíí hólǫ́.
+
+File: ref_370_bibl.txt_output.txt
+Gold: ’Áko ’ákót’įįhgo nizhónígo bee náníltsis lá
+Translation: ’Áko díí bits’áhoot’éego dooł’áahgo kǫ’ t’áá ’ahééhgo deestł’į́’ lá
+
+File: ref_371_bibl.txt_output.txt
+Gold: Nániikaigo t’áá ła’ajínígo dahodinołyįįh nihi’doo’niid
+Translation: Nániit’áázh ńt’éé’, yiską́ągo doo naalnish da dooleeł hodoo’niid.
+
+File: ref_372_bibl.txt_output.txt
+Gold: T’áá hazhó’ó ’ahéhee’gi ’át’éego nihich’į’ ch’íhoot’ą́
+Translation: Díí yá’át’ééhgo baa hane’ ’áhoot’éé.
+
+File: ref_373_bibl.txt_output.txt
+Gold: ’Áko doo ’asohodoobéezh da lá
+Translation: Doo t’áá íiyisí yá’át’ééh da!
+
+File: ref_374_bibl.txt_output.txt
+Gold: Nda’ałt’a’ii ’ałnááhoojah
+Translation: Chidí naat’a’í bee yiilwołígíí t’áá ’ákót’éego ’ałnááhoojah.
+
+File: ref_375_bibl.txt_output.txt
+Gold: Ła’ ’ałné’é’áahjį’ nda’ałt’a’
+Translation: Ła’ na’aniilkaadgo ch’í’ít’a’
+
+File: ref_376_bibl.txt_output.txt
+Gold: ’Ałné’é’ááh dóó bik’ijį’ ła’ nda’ałt’a’
+Translation: Áádóó ’áádáá’ dineʼé nits’áhágo na’anish ’áníł’į́.
+
+File: ref_377_bibl.txt_output.txt
+Gold: Dį̨́įdi ’ałnáá da’at’ahgo ’áko t’áá dį́į́’ ’ałnáá da’ałt’ah
+Translation: Chidí naat’a’í naal’į́į́’ dį́į́’ silá.
+
+File: ref_378_bibl.txt_output.txt
+Gold: ’Índa bidah ’ada’iinííł yiniiyé ’ii’ dah naháaztánígíí t’áá ’ákót’éego ’ałnááhoojah
+Translation: Na’áłkáání dóó ’ałnááhoojah
+
+File: ref_379_bibl.txt_output.txt
+Gold: Nihí ’éí shá bíighah ’ii’ dah naháatą́ągo ’i’ii’aah
+Translation: ’Ach’į’ nihí naalnishígíí jį́ t’áá naazhjée’go chidí biyáagi t’áá íiyisí nihídizdááh.
+
+File: ref_380_bibl.txt_output.txt
+Gold: Naabeehó hoł nishkai yę́ę ’ałdó’ ’áájí t’áá ’ákót’é
+Translation: Diné ’áłtséí, Phoenixgóó shił deeshááłígíí, áádóó yę́ę ’ákót’éego ’ą́t’é.
+
+File: ref_381_bibl.txt_output.txt
+Gold: Nihikéédę́ę́’ ła’ náá’íldee’
+Translation: ’Áádę́ę́’ áłts’íísí Diné nihíł naa’aash dó’ t’áá nihikéé’ joolwoł.
+
+File: ref_382_bibl.txt_output.txt
+Gold: T’áá díí baa nisiikai yę́ę t’áá ’ákót’éego baa nináádzískai
+Translation: Nihí bik’ehgo t’áá ’ał’ąą daniilį́.
+
+File: ref_383_bibl.txt_output.txt
+Gold: T’áá hazhó’ó baa deizhdoo’į́į́ ńt’éé’
+Translation: Jíík’e’ dooleełígíí dayínízin
+
+File: ref_384_bibl.txt_output.txt
+Gold: ’Ákót’éego shinááł bee ’ahił dahojilne’
+Translation: ’Ádájinígíí yishł’į́.
+
+File: ref_385_bibl.txt_output.txt
+Gold: Tágí jį́ hoł nda’at’a’go diné ła’ Tó Dínéeshzhee’ hoolyéédę́ę́’ njigháago Shighan yę́ę ch’ééh bíká ’ásht’į́ jiníigo baa ch’íhozhní’ą́
+Translation: ’Ałnánéiikaigo táá’ yiską́ągo Tó Dínéeshzhee’di hastį́į́’ jiníigo ch’ééh haghan háázneeztą́ą́’ t’áá hó.
+
+File: ref_386_bibl.txt_output.txt
+Gold: Haghan bénáhojoohya’ lá
+Translation: T’áá íiyisí háázneeztą́ą́’.
+
+File: ref_387_bibl.txt_output.txt
+Gold: ’Ákwii tł’oh ła’ shá bidah ’adoo’nił jiníigo ts’ídá tágí jį́ ch’ééh haghan háázneeztą́ą́’ t’áá hó
+Translation: Tágí jį́ gad bíhooghanígíí náádááh dooleeł bá yíníłnííh, nídoodá’ t’áá biyiis’ání gad bénáhojoohya’ lá.
+
+File: ref_388_bibl.txt_output.txt
+Gold: Dooda lá
+Translation: Dooda!
+
+File: ref_389_bibl.txt_output.txt
+Gold: Chidí naat’a’í t’óó k’asdą́ą́’ shił náhidéélts’id jiníigo t’óó ’ák’édí ńjídleeh
+Translation: Chidí naatʼaʼí shił łahgo ’iilts’ííd, ajílwołíí’go jiní.
+
+File: ref_390_bibl.txt_output.txt
+Gold: Kót’éego shił hojilne’
+Translation: Díí ’áshiłníí.
+
+File: ref_391_bibl.txt_output.txt
+Gold: Díí diné baa hashne’ígíí ’éí Bi’éé Łikizhii dabijiní
+Translation: Díí hastíín dishínígíí, ’éí ’e’e’aah na’aznilígíí wolyé.
+
+File: ref_392_bibl.txt_output.txt
+Gold: ’Éí shį́į́ chidí naat’a’í deigo hoł hááhályeedgo shił tsédeg ’iilts’ííd jinízingo ’éí ’ááłjiníí lá
+Translation: Chidí naat’a’í t’óó k’asdą́ą́’ bił náhidéélts’id jiníígo, biniinaa díí chidí naat’a’í ’ak’álį́į́’go dayíkááh, biká’ dah si’á nít’į́į́’ t’áá íiyisí ts’ídágo dayíkááh; bila’ dah náhidéélts’id nít’éego.
+
+File: ref_393_bibl.txt_output.txt
+Gold: Kót’éego Bilagáana hoł na’ałt’a’ yę́ę shił nááhálne’
+Translation: ’Ákót’éego díí ’atsiniltł’ish bee ’ádíílwołígíí shił hojilne’
+
+File: ref_394_bibl.txt_output.txt
+Gold: Chidí naat’a’í t’áá ’ádaałts’íísígíí bitsiits’iin t’áá naakíhí bąąh dah naaznilígíí ’éí t’áá Béésh Sinil hoolyéédóó bá hééł ’áńda’al’įįhgo t’áá ’áádóó ’ada’iiyeeh
+Translation: Chidí naat’a’í ’áłts’íísígíí — naaki-bitsiits’iinígíí — Béésh Sinilgi bá hééł ’ánída’al’įįhgo t’áá ’áádę́ę́’ ’ada’iiyeeh.
+
+File: ref_395_bibl.txt_output.txt
+Gold: Díí chidí naat’a’í ’ayóí ’ádaniłtsxooígíí ’éí bitsiits’iin dį́į́’ bąąh dah naaznil
+Translation: Díí nitsaa chidí naat’a’í dį́į́’ bitsiits’iin bee hólǫ́
+
+File: ref_396_bibl.txt_output.txt
+Gold: ’Éí t’áá ńléí Hoozdodi bá hééł ’ánída’al’įįhgo t’áá ’áádę́ę́’ ’ada’iiyeeh
+Translation: Phoenixdę́ę́’ yilwod dóó yigeeh
+
+File: ref_397_bibl.txt_output.txt
+Gold: Béésh Sinilgi ’éí ’ahodiyooshéí doo bíhóoghah da daaníigo ’ádaat’į́į́ lá
+Translation: Béésh Sinil Airport bida’ ayóo yázhígo biniinaa, díí ná’oolkił.
+
+File: ref_398_bibl.txt_output.txt
+Gold: Bił nda’at’a’go díí k’ad kóhoolyéedi neiikai daaníi łeh lá
+Translation: Chidí naat’a’í bił yá’ání dine’é naasgo kóhoot’éé’ bee ’ahił dahwiilne’.
+
+File: ref_399_bibl.txt_output.txt
+Gold: Kéyah naaltsoos bikáá’ bida’alyaa yígíí dóó ’oolkiłígíí bił ’ahąąh sinilgo bee bił béédahózin lá
+Translation: Naaltsoos bee dóó flight time bee díí bił bééhózin.
+
+File: ref_400_bibl.txt_output.txt
+Gold: Díí ’oolkił t’ááłá’í dah ’alzhingo ha’níigo ’oolkiłígíí ts’ídá ’éí t’éiyá bik’ehgo na’aldeeh lá
+Translation: Ts’ídá t’áá łáʼ kwíí yik’ehgo da’álééh. Łahjígo bina’ji’ t’áá íiyisí deeyá yíníłníigo.
+
+File: ref_401_bibl.txt_output.txt
+Gold: ’Áko ts’ídá kwíí dah ’alzhin bíighah daaníigo yik’ehgo ndaakai lá
+Translation: Áádóó dah ’alzhin díkwíígo níníłígíí bik’ehgo na’aldeeh.
+
+File: ref_402_bibl.txt_output.txt
+Gold: Kót’éego shidine’é bikéyah bikáá’góó táhodííle’
+Translation: Jó ’éí díí shí hane’ shidine’é bikéyah bikáa’gi yá
+
+File: ref_403_bibl.txt_output.txt
+Gold: Dóó ’áádę́ę́’ ha’íísid
+Translation: Ńléígo bikéyah nísh’į́.
+
+File: ref_404_bibl.txt_output.txt
+Gold: ’Áko t’áá ’aaníí ’át’éé lá
+Translation: Dóó éí t’áá íiyisí ’át’é
+
+File: ref_405_bibl.txt_output.txt
+Gold: Łahgóó béégashii ’índa łį́į’ da t’óó naazį́ yas danitł’izígíí shį́į́ biniinaa
+Translation: Łahgóó béégashii dóó łį́į́’ t’óó naazį́, daats’í yas nitsį́į́’ biniinaa’.
+
+File: ref_406_bibl.txt_output.txt
+Gold: Yikáá’ hahakáahgo yiníká dahatłííshgóó ’ákǫ́ǫ́ t’óó naazį́
+Translation: Díí bikáá’ hadzidígíí yéego yisnééł, ’áko t’óó t’áá ’áádóó nízį́.
+
+File: ref_407_bibl.txt_output.txt
+Gold: Doo náás dadikáah da
+Translation: Doo náá deyá da
+
+File: ref_408_bibl.txt_output.txt
+Gold: ’Áko t’áá ’áajį’ dichin ndahałtseed dóó ndajiidlóóh
+Translation: ’Áko t’áá shoodí ch’íyáán adinígíí t’áá hazéé’ yideet’įįł lá dóó deesk’aahgo t’áá hazéé’ yideet’įįł.
+
+File: ref_409_bibl.txt_output.txt
+Gold: ’Índa łahgóó dibé bighan biyi’góó dibé t’áá naazhjée’go ’ada’ii’aah lá
+Translation: Łahgóó tséłkégi dibé ’ii’ dah naháatą́ągo ’ádaalnííł.
+
+File: ref_410_bibl.txt_output.txt
+Gold: ’Áko ’éí t’óó ’ił bił yah ’adajiishood
+Translation: Diné tʼáá íiyisí tsin sikaad bídiił’ááh.
+
+File: ref_411_bibl.txt_output.txt
+Gold: Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+Translation: Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+
+File: ref_412_bibl.txt_output.txt
+Gold: Kót’éego shidine’é bide ’áhoot’éé lá
+Translation: Díí shidine’é binání’á át’é.
+
+File: ref_413_bibl.txt_output.txt
+Gold: Diné bilį́į́’ t’óó ’ahayóí bits’ą́ą́’ bináádíníídee’ lá
+Translation: Diné łą́ą́’ bínaalyéhé nidiit’ą́’.
+
+File: ref_414_bibl.txt_output.txt
+Gold: Łį́į́’ neilózí ’índa naat’áaniishchíín danilíinii dibé bi’oh ’áńdoolnííł daanínę́ęni’ ’éí shį́į́ t’áá hazhó’ó bił da’ahéhee’
+Translation: Daats’í’ bikéyahdi na’oolkiłígíí dóó dístríkt naat’áanii yá’át’éeh nízin, bilį́į́’ ’áłts’óózgo biniinaa.
+
+File: ref_415_bibl.txt_output.txt
+Gold: Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+Translation: Jó ’akon ’ákót’éego shidine’é ’atíbi’diilyaa
+
+File: ref_416_bibl.txt_output.txt
+Gold: Doo níłt’éegiísh ’ánihi’diilyaa
+Translation: Díí bee haz’ą́ígíí doo ’áłts’íísí da.
+
+File: ref_417_bibl.txt_output.txt
+Gold: God wolyéii ’atínihiilaa
+Translation: Diyin God nihídiilyaa.
+
+File: ref_418_bibl.txt_output.txt
+Gold: Shí nisingo baa ntséskees
+Translation: Shíínee’ ’ákwíí nízį́
+
+File: ref_419_bibl.txt_output.txt
+Gold: Háadi shį́į́ God ’ání ’atínihidi’doolnííł nihíłnínę́ęni’ ’éí k’ad ’ákónihi’diilyaa
+Translation: Naaltsoos bikáa’gi God yíníłti’ígíí dine’é ’atídiilaa dooleeł, dóó shį́į́ yiską́.
+
+File: ref_420_bibl.txt_output.txt
+Gold: K’ad tseebííts’áadah nááhaiídą́ą́’ ’ałdó’ ’ákódzaa ni’
+Translation: ’Áłdó’ tseebíí ts’áadah jígo kódzaa
+
+File: ref_421_bibl.txt_output.txt
+Gold: ’Íídą́ą́’ ’ałdó’ ’atínihi’diilyaa
+Translation: ’Íídą́ą́’ ’atínihiilaa
+
+File: ref_422_bibl.txt_output.txt
+Gold: Diné niidlíinii t’ah doo nihił bééhoozįįh da díí God wolyéii ’atínihił’ínígíí
+Translation: Diné God wolyéii ’atínihiilaa ígíí doo náá nihíł bééhózin da.
+
+File: ref_423_bibl.txt_output.txt
+Gold: Kót’éego ’át’é
+Translation: T’áá ’aaníí ’át’éé lá
+
+File: ref_424_bibl.txt_output.txt
+Gold: Kwe’é yee’ shahane’ t’áá ’áłts’íísígo hólǫ́
+Translation: Hane’ yázhí yíníłti’.
+
+File: ref_425_bibl.txt_output.txt
+Gold: ’Éí díí ’áłchíní ’ídlį́į́dą́ą́’ hane’ígíí ’át’é
+Translation: ’Awéé’di hane’
+
+File: ref_426_bibl.txt_output.txt
+Gold: ’Áłchíní danilínígíí ’éí bee bił hashne’ díidí
+Translation: ’Aadóó t’áá łá’ awéé’ yázhí bá yíníłti’ígíí.
+
+File: ref_427_bibl.txt_output.txt
+Gold: ’Ánísts’ísígo tseebíí daats’í shinááhaigo ńléí dziłghą́ą’di Lók’ai’jígai bighą́ą’di ła’ shił naa’aash jílį́įgo ’éí t’éiyá hoł ndinisht’éego na’niilkaad ńt’éé’
+Translation: Shiyázhígíí, tseebíí daats’í shonááhai, shił naa’aash Lók’a’jígai dził bikáá’gi dibé na’níilkaad.
+
+File: ref_428_bibl.txt_output.txt
+Gold: Díí shił naa’aash jílínígíí ’éí t’áá shitísígo ’ázhníłtso
+Translation: Shík’éí ’éí t’áá bíyó shí hojíyą́ągo.
+
+File: ref_429_bibl.txt_output.txt
+Gold: Náhást’éi daats’í honááhai ’íídą́ą́’
+Translation: ’Íídą́ą́’ ’éí náhást’éí daats’í yázhí nilį́
+
+File: ref_430_bibl.txt_output.txt
+Gold: ’Ákwe’é naniilze’go dziłdi t’áá sáhí na’niilkaad
+Translation: Dibé t’áá nihí bił dah nidoolkahgo, éí nihi ’áhoot’é’ t’áá adíníní ’át’é ni’.
+
+File: ref_431_bibl.txt_output.txt
+Gold: ’Áko díí shį́įgo ’ei dziłgóó ndaakaiígíí shash wolyéhígíí dziłdi dahólǫ́ ’íídą́ą́’
+Translation: ’Íídą́ą́’ díí dziłghą́ą’di, dziłdi danilį́į́’ígíí shash wolyéego dahólǫ́.
+
+File: ref_432_bibl.txt_output.txt
+Gold: ’Éí bízhi’ígíí doo shash jiníi da jó ’ákót’éego ’éí ’aájí dziłjí diné kéédahat’ínígíí doo shash daaníi da
+Translation: Áko shash wolyéego ’éí doo józhíi da. ’Áadi dziłgóó diné t’áadoo t’áá íiyisí shash jiníi da.
+
+File: ref_433_bibl.txt_output.txt
+Gold: Shił naa’aash jílínígíí shį́į́ t’éiyá łahgóó t’áá hoł béédahózin
+Translation: T’áá íiyisí shił naa’aash ’éí t’áá áłts’íísí baa beehózin.
+
+File: ref_434_bibl.txt_output.txt
+Gold: ’Áko ńléí t’áá hoł béédahózinígóó bee nashizhnitin łeh
+Translation: ’Aadóó yínízinígíí shí baa nídáníłtin
+
+File: ref_435_bibl.txt_output.txt
+Gold: Díí kǫ́ǫ́ dziłgóó t’áadoo le’é dahólǫ́ shash wolyéego ’éí hólǫ́ ’éí doo józhíi da
+Translation: Díí dziłdi t’áá íiyisí ’ádíí hólǫ́. Shash wolyéhígíí háí hólǫ́, nít’į́’ ’éí bízhi’ígíí doo t’áá íiyisí shash jiníi da.
+
+File: ref_436_bibl.txt_output.txt
+Gold: Doo shash jiníi da
+Translation: Diné doo shash daaníi da
+
+File: ref_437_bibl.txt_output.txt
+Gold: Ts’ídá doo ’áhá’níi da
+Translation: Áko éí saad t’áá íiyisí doo jiníi da
+
+File: ref_438_bibl.txt_output.txt
+Gold: ’Éidíígíí t’áá ká ’ákódóóne’ jiníigo nashizhnitin
+Translation: Nashizhnitinígíí shił hojilne’ łeh
+
+File: ref_439_bibl.txt_output.txt
+Gold: Hó t’áá hojíyą́ągo hó t’áadoo le’é t’áá baa ’áhozhnízin
+Translation: ’Éí shitísígo ’ázhníłtso, ’áko ’ádá’í bíhozin.
+
+File: ref_440_bibl.txt_output.txt
+Gold: Díí shashígíí ’éí t’áá łahgo ’át’éego wójí
+Translation: Shash łahgo ’át’éego wójí wolyé.
+
+File: ref_441_bibl.txt_output.txt
+Gold: Shį́įgo ’éí tseet’ohí wolyéego wójí shijiníigo kót’éego nashizhnitin
+Translation: Łahgo ’át’éego wójí jiníigo nashizhnitin
+
+File: ref_442_bibl.txt_output.txt
+Gold: ’Áko ’abínígo dah náádí’níilkaadgo ninááshizhneestą́ą́’
+Translation: ’Áádóó ’Ahbínígo dibé dah ’adíníilkaadgo, díí binaʼnitin baa náá shii hólneʼ.
+
+File: ref_443_bibl.txt_output.txt
+Gold: ’Áadóó dah ’adíníilkaad
+Translation: Dibé dah náádí’níilkaad
+
+File: ref_444_bibl.txt_output.txt
+Gold: Ńléí ’ayóí ’át’éego dahodíłch’il léi’góó na’neelkaad
+Translation: Dóó ’éí ńléí bikéyah deest’į́’ígíí léi’jį’ na’niilkaad
+
+File: ref_445_bibl.txt_output.txt
+Gold: Nídíshchíí’ ch’ó da t’iisbáí ’índa chéch’il da bee dahodíłch’il
+Translation: Díí bikéyah biyi’ tsin nitsaa dóó gáa’ dóó tsin ts’ózí dóó ch’íí’ ’ayóó dahodíłch’il.
+
+File: ref_446_bibl.txt_output.txt
+Gold: Ch’ídaasdzisdę́ę́’ tó ch’ídaazlį́ ńléí dah ńdadzilgaigóó ’éí łahgóó be’ek’id naazyį́
+Translation: Tsékooh bidáá’go tó hadínílíní, dóó bina’diłhił bikéyah bikáa’gi tó yázhí hólǫ́.
+
+File: ref_447_bibl.txt_output.txt
+Gold: Kót’éego dahózhónígo nahaz’ą́ą́ ńt’éé’ lá ’íídą́ą́ díí dziłghą́ą’di
+Translation: ’Íídąą’ dził bikáa’di t’áá íiyisí nizhóní.
+
+File: ref_448_bibl.txt_output.txt
+Gold: Dibé lą’í da naniilkaad
+Translation: Dibé ’atah nitsaa nihá hólǫ́.
+
+File: ref_449_bibl.txt_output.txt
+Gold: ’Áko ńléi hodíłch’il góne’ nihits’ą́ą́’ ’eekaigo ’áadi hóteelgo ńdookaigo t’óó bikéé’ tádiit’aash
+Translation: Dibé ch’ahdi yágo daa’istł’ó’go, t’áá íiyisí bikéé’ náádiil’ááh.
+
+File: ref_450_bibl.txt_output.txt
+Gold: ’Áádóó ’ałts’á shiit’áázh łahjí ’aninááh shijinígo
+Translation: Hak’éjí góó deeya shiłníigo, k’ad t’áá íiyisí nidayá łeh
+
+File: ref_451_bibl.txt_output.txt
+Gold: Binániidgi dibé yikahgo shí ńléí yódahjígo ’ííyá
+Translation: Dibé dził bik’ahgi nít’į́į́’go, yádi’góó bił shinaal’į́.
+
+File: ref_452_bibl.txt_output.txt
+Gold: ’Áko ’áadi naasháago shash doo józhíi da shijiníigo nashizhnitinę́ę bénááshnii’
+Translation: ’Áko ’áadi dah deeyáágo, “shash” saad doo jiníi da bá shiyáʼáłtiʼígíí shizhní łeh
+
+File: ref_453_bibl.txt_output.txt
+Gold: Ha’át’éego lá shash doo jiníi da lá nisingo tádíshááh ’áadi
+Translation: ’Áádóó baa ninisinígíí tádíníł’aash, haash yinilyégo diné doo “shash” jiníí da,
+
+File: ref_454_bibl.txt_output.txt
+Gold: ’Áádóó hak’ijį’ bidah ńdideeshwoł niizį́į́’ hó ’éí ńléí shiyaají joogáałgo
+Translation: ’Áko ’Alą́ą́jį’ shik’éí bił ’áłts’á na’azt’éego nisin, shík’ehjí kó yikahą́ą́ígíí bích’į’ kó níshdlį́.
+
+File: ref_455_bibl.txt_output.txt
+Gold: ’Aadóó bidah góyaa hach’į’go ńdiishwod Aadę́ę́’ shash léi’ yilwoł shił naa’aash
+Translation: Áko bá’áádę́ę́’ yishjéé’. Shik’éí, shash nihá yíyá!
+
+File: ref_456_bibl.txt_output.txt
+Gold: ’Akóó ’akóó shash léi’ yilwoł
+Translation: Ádaahwiinít’į́ ádaahwiinít’į́
+
+File: ref_457_bibl.txt_output.txt
+Gold: Shash shash ’ákóó shash dishníigo haa nishwod dóó t’óó hwíighah ch’íníshwod
+Translation: Shash! Shash! bí yá yéego naasháájį’.
+
+File: ref_458_bibl.txt_output.txt
+Gold: Ńléí haláahdi ’índa naanísíswod
+Translation: Bik’ahgóó shááhgo
+
+File: ref_459_bibl.txt_output.txt
+Gold: ’Áko ’índa ’áádę́ę́’ haa nánísdzá
+Translation: Nát’ą́ą́’ yínínááł dóó bígóó nánísdzáá
+
+File: ref_460_bibl.txt_output.txt
+Gold: Haa nánísdzáá ńt’éé’ hááhgóó shį́į́ doo hoł hózhǫ́ǫ da
+Translation: Bijée’gi kwii nánísdzá, dóó shį́į́ báháchį’.
+
+File: ref_461_bibl.txt_output.txt
+Gold: Ha’át’íí lá diníigo naanáníítééł
+Translation: Ha’át’éego nínízin, nááhoołkááhgo dóó díígo níyóółti’?
+
+File: ref_462_bibl.txt_output.txt
+Gold: Shą́ą́’ doo ’ájíníi da ndishní
+Translation: Doo níníłnííh da shą́ą́’ ndishníigo ’éí doo józhíi da
+
+File: ref_463_bibl.txt_output.txt
+Gold: Doo ’áhá’níi da ts’ídá doo ’ájíníi da ndishní
+Translation: T’áá íiyisí?
+
+File: ref_464_bibl.txt_output.txt
+Gold: ’Akǫ̨́ǫ́ t’áá ’áyídígóó ndaakaigo ’át’é
+Translation: Daats’í kwii nihá íiyisí dahólǫ́.
+
+File: ref_465_bibl.txt_output.txt
+Gold: ’Éí bąą doo józhíi da shą́ą́’ ndishní
+Translation: Doo ’ájíníi da? Éí t’áá íiyisí kót’éego ndishní.
+
+File: ref_466_bibl.txt_output.txt
+Gold: Łahgo ’át’éego wójí shą́ą́ ndishníigo bee nił hashne’ jiníigo t’áá bíyó shich’ahojííshkeed
+Translation: “T’áá ’aaníí bina’ dahólǫ́ níníłti’,” shił naneest’ą́go yíníłti’."
+
+File: ref_467_bibl.txt_output.txt
+Gold: ’Aadóó dibé bikéé’ dah náádiit’áázh
+Translation: ’Áádóó dibé náá yiyiiyáago ná’diit’á’.
+
+File: ref_468_bibl.txt_output.txt
+Gold: Dibé bikéé’ neit’aashgo nááhodoo’na’go t’ah ńt’éé’ nagháí chéch’il yáázhtahgi łééchąą’í hááhgóó shį́į́ ndahał’in yiits’a’
+Translation: T’áá ’áłts’óólgo bidá’ náádiit’áázh, jį́’, yah ajígo dééh tsin biyi’di łééchąą’í shį́į́ ndahał’íígíí nííł’į́
+
+File: ref_469_bibl.txt_output.txt
+Gold: Ha’át’íí lá łééchąą’í ndeił’in yiits’a’
+Translation: Ha’át’íí bá łééchąą’í ndeił’in?
+
+File: ref_470_bibl.txt_output.txt
+Gold: Ha’át’íí lá łééchąą’í ndeił’in lá nisingo ’áádóó ’ákǫ́ǫ́ ńdiishwod
+Translation: Ha’át’íí lá łééchąą’í ndeił’in yiits’a’ doo shíł bééhózin da, ’áko kǫ́ǫ́de’ yishwoł.
+
+File: ref_471_bibl.txt_output.txt
+Gold: Shił naa’aash dó’ t’áá shikéé’ joolwoł
+Translation: Shí baa hodeeyá
+
+File: ref_472_bibl.txt_output.txt
+Gold: Łééchąą’í ndahał’inę́ęjį’ yishwoł ńt’éé kǫ́ǫ́ shash sizį́įgo yiiłtsą́
+Translation: Łééchąą’í ndeił’inígíí ’akǫ́ǫ́ niikai, ’éí shash dah si’ą́.
+
+File: ref_473_bibl.txt_output.txt
+Gold: T’áá ’áádóó ninishtłago t’áá ’áádóó nísh’į́
+Translation: ’Áádę́ę́’ shį́į́ ninishtła dóó haa ha’íísid
+
+File: ref_474_bibl.txt_output.txt
+Gold: Hááhgóó shį́į́ báháchį’
+Translation: Hááhgóóshį́į́ hashkéego ńt’éé’
+
+File: ref_475_bibl.txt_output.txt
+Gold: Biyi’ hodi’níigo sizį́
+Translation: Yoolkáálgo yishááh.
+
+File: ref_476_bibl.txt_output.txt
+Gold: T’áadoo le’é ńléí tsin da ’akǫ́ǫ́ ndadeeztąądígíí tsé da náyiiláahgo yee ’adziiłne’
+Translation: Éí binaagóó Nahasdzáán bikáa’ ts’ídá daniláhígíí, tsin dóó tsé t’áá jíík’ehgo, yinaal’į́.
+
+File: ref_477_bibl.txt_output.txt
+Gold: Łééchąą’í yę́ę yee yitaa ’ałne’
+Translation: ’Áádóó łééchąą’í baa yiinááł’ą́
+
+File: ref_478_bibl.txt_output.txt
+Gold: Tsin da yee yitaa’ałhaał
+Translation: Tsin bee bídá’ yideiniłts’in
+
+File: ref_479_bibl.txt_output.txt
+Gold: ’Áko hááhgóó shį́į́ łééchąą’í ndahał’ingo binánoodah
+Translation: Łééchąą’í biyaa náhwiilyaa’ ayóó yidlóó’go.
+
+File: ref_480_bibl.txt_output.txt
+Gold: T’óó ’ákót’éego bik’í níghal dóó yaashtáál
+Translation: ’Éí áłts’íísígo yiiłtsą́, jį’ t’áá ákót’éego naashá.
+
+File: ref_481_bibl.txt_output.txt
+Gold: Shił naa’aash dó’ t’áá shikéé’ yajiiltáál
+Translation: Shik’éí ’ałdó t’áá iiyisí yah yishááł.
+
+File: ref_482_bibl.txt_output.txt
+Gold: Ńléí doo deeghánídi ’índa ninishtła
+Translation: Bee yáhoot’ééłígíí t’áá ch’ínígíí góne’ shá náhást’į́į́’.
+
+File: ref_483_bibl.txt_output.txt
+Gold: Ninishtłago ’índa ’áadi shíjílwod
+Translation: T’áá éí ninishtła’go shik’éí shił nániidlį́
+
+File: ref_484_bibl.txt_output.txt
+Gold: ’Áadóó dah náádiit’ázhí ’éí ńléí dibé yikahą́ą bidááhjí ’iit’áázh
+Translation: ’Áádóó náádiit’áázh dóó dibé naaghá’ígíídi nidiiłwoł, ’áhoot’éego bits’ídági deiyááł dóó ba’ádeilniih.
+
+File: ref_485_bibl.txt_output.txt
+Gold: ’Áádóó ’índa ńléí dzígaijigo dibé béé’niilnii’
+Translation: Kéyah bikáa’góó ch’ééní’niilkaad.
+
+File: ref_486_bibl.txt_output.txt
+Gold: ’Éí ńléí dah ńdzílgai léi’jį’ ch’ééní’niilkaad
+Translation: Dahodíłch’ilgóó deego náá’ dibé na’niilkaad.
+
+File: ref_487_bibl.txt_output.txt
+Gold: ’Éí t’áá ’ákwii na’aniilkaadgo ’ałní’ní’ą́
+Translation: ’Áadi dééhgi danishtááh dóó dibé Jóhonaa’éí bátaa’góó ch’ééní’niilkaad
+
+File: ref_488_bibl.txt_output.txt
+Gold: ’Íídą́ą́’ ’ákót’éego ts’ídá ’áłtsé shash yiiłtsą́ą ni’
+Translation: Kót’éego t’áá ’áłts’íísgo shash yíníłní.
+
+File: ref_489_bibl.txt_output.txt
+Gold: Biiskání ła’ náánéiłtsą́ą ndi ’éí ńléí ’ákohdi t’áá nízaadi binániigi yigáał náánéiłtsą́
+Translation: Yiską́ągo la’ t’áá łá’í azhį́ kǫ́ǫ́ dził bikáa’ deeyágo yiiłtsą́
+
+File: ref_490_bibl.txt_output.txt
+Gold: ’Ei ga’ ’óolyéé lá shash t’óó nisin
+Translation: Sidáá ’éí shash doołeeł.
+
+File: ref_491_bibl.txt_output.txt
+Gold: Náánáłah ’éiyá t’áá ’éidí bi’aak’eedi ’éi doo dziłghą́ą’di da ’éí t’áá ńléí téehdi ’áadi ninánii’náago nináá’niilkaad ńt’éé’
+Translation: T’áá íiyisígíí ak’eiígíí Dziłdę́ę́’ tsékoohgóó nínáániikai ’ákwii na’aniilkaad
+
+File: ref_492_bibl.txt_output.txt
+Gold: Deenásts’aa’ ’atah ndaakaigo bił na’aniilkaad
+Translation: Deenásts’aa’ ’atahgo bił na’niilkaad ńt’éé’, dóó éí t’áá íiyisí na’ałnih łeh ni’.
+
+File: ref_493_bibl.txt_output.txt
+Gold: ’Áko ńléí ła’ ’ałk’i náánéilwo’go da’ahógeehgo ’ałts’ą́ą́hjí bik’i dah nániikeehgo ’ałch’į’ nihił nínáhidí’níilchéeh łeh
+Translation: ’Áko ńléi deenásts’aa’ bił na’aniilkaadgo dóó bita’ góne’ ’aníjílwo’go, nihí t’áá ádaat’éego deenásts’aa’ biká’ nidaashleeł, ’índa baa yáníł’á na’aniilkaad.
+
+File: ref_494_bibl.txt_output.txt
+Gold: Bik’i dah siikéego bitsiits’iin yee ná’ahiigohgo hááhgóó shį́į́ baa dlo nihighą́ą łeh ni’
+Translation: Bikáa’ daniidááh, ch’ééjiilyeedgo hááhgóó shį́į́ dlo nihighą́ą.
+
+File: ref_495_bibl.txt_output.txt
+Gold: Łahda bidah ’anániidahgo hááhgóó shį́į́ baa dlo nihighą́ą łeh
+Translation: T’áá łá’íígo danilch’į́į́’, ’áádóó jíí’ náá’ hááhgóó shį́į́ nihidloh.
+
+File: ref_496_bibl.txt_output.txt
+Gold: Kót’éego deenásts’aa’ bee nei’née łeh ni’
+Translation: ’Íídą́ą́’ ’ákót’éego dibé hastłʼish bił nihananá’ nít’éé’
+
+File: ref_497_bibl.txt_output.txt
+Gold: Łahda ńléí doo deeghánídę́ę́’ deenásts’aa’ ’ałts’ą́ą́’ ninát’ashgo ’aadę́ę́’ ’ałch’į’ náádiilwo’go bita’ góne’ ’aníjílwo’go t’áá ’ahánídę́ę́’ ’ahinoolchéełgo ’índa níláahjį’ ch’ééjiilyeedgo kót’éego da baa neit’aash łeh ńt’éé’
+Translation: Łahgo ’ałch’į’ nít’áázhgo, shik’éí bik’ijį’ deeya’, ’áko bitsiits’iin yee ná’ahiigohgo bik’ahgo yilá.
+
+File: ref_498_bibl.txt_output.txt
+Gold: Dibé t’óó nihiná náákahgo shábíighah deenásts’aa’ bee nei’née łeh ni’
+Translation: Dibé nahalingo tł’oh yiyá, dóó t’áá naazhjée’go deenásts’aa’ bee nei’née łeh ni’.
+
+File: ref_499_bibl.txt_output.txt
+Gold: Tł’ízí chǫǫh dó’ ’atahgo bił na’niilkaad ńt’éé’ łah
+Translation: Ła’go tł’ízí ką’ bił na’niilkaad.
+
+File: ref_500_bibl.txt_output.txt
+Gold: ’Éí ’ałdó’ t’áá ńléí halgaidi
+Translation: Kééhat’į́į́ shikaadgi ’ałdó’ shį́į́ yiską́.
+
+File: ref_501_bibl.txt_output.txt
+Gold: Doo dziłdi da
+Translation: Doo dził bikéyahdi da.
+
+File: ref_502_bibl.txt_output.txt
+Gold: Tł’ízí ką’ ła’ t’áá bíyó hashkéego bił na’niilkaad ńt’éé’
+Translation: Tł’ízí chǫǫh t’áá łá’í t’áá bíyó yéé’ hashké ’atahgo bił na’niilkaad
+
+File: ref_503_bibl.txt_output.txt
+Gold: ’Áko ńléí ha’át’éegi da baa níjít’įįhgo bí’dzíts’ihgo bikéé’jígo jidigháahgo da hach’į’ báháchįįh
+Translation: Diné t’ááłá’í éí baa hodíílnihgo, t’áá ájíłeehgo yilł’ish dóó binaagóó deeyá, áko báháchį’.
+
+File: ref_504_bibl.txt_output.txt
+Gold: ’Áko díí t’áá ’áłahjį’ télii bee na’niilkaad ’ałkéé’ dah siikéego
+Translation: ’Áádóó dibé bóóro bił t’áá jíík’ehgo ’adíníilkaad, bóóro bii’ ’ałkéé’ nidizį́.
+
+File: ref_505_bibl.txt_output.txt
+Gold: ’Éí bikáá’dóó baa níjít’į́įgo ’éí ’áłtąą t’óó náhoníl’įįh łeh
+Translation: Adoo burro bikáa’ ’ałná’ígíígo, biyi’ yídáázhgo tł’ízí chǫǫh t’áá íiyisí bináá’ dah si’ą́.
+
+File: ref_506_bibl.txt_output.txt
+Gold: ’Ákót’éego dó t’éiyá t’áá ’áháníjį’ bit’áahjį’ na’adá
+Translation: ’Áko, bił t’áá íiyisí hadíílkał kǫ́ǫ’go, doo ha’át’íí bá nahidi’nííł da.
+

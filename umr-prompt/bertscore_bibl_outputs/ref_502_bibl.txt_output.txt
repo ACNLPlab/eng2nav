@@ -1,0 +1,71 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We had one billy goat in the herd that was just a little bit mean.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:26.263218
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / goat
+              :mod (z3 / billy)
+              :place (z4 / herd)
+              :ARG0-of (z5 / mean-01
+                           :degree (z6 / little))
+              :quant 1))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Once we had billy goats in the herd.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:26.263231
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / goat
+              :mod (z3 / billy)
+              :place (z4 / herd))
+    :temporal (z5 / once))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We had a large herd of sheep.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:26.263235
+(z0 / have-03
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / herd
+              :consist-of (z3 / sheep)
+              :ARG1-of (z4 / large-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We had the rams in the herd, and they used to really fight with one another.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:26.263240
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / ram
+                       :place (z4 / herd)))
+    :op2 (z5 / fight-01
+             :ARG0 z3
+             :ARG2 (z6 / other)
+             :degree (z7 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I was just a little bit scared.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:26.263244
+(z0 / fear-01
+    :ARG0 (z1 / i)
+    :degree (z2 / little))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He had a wagon and a team.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:08:26.263248
+(z0 / have-03
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / and
+              :op1 (z3 / wagon)
+              :op2 (z4 / team)))

@@ -1,0 +1,119 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt This man I'm talking about is one called Checked Shirt.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:35.542205
+(z0 / man
+    :mod (z1 / this)
+    :ARG1-of (z2 / talk-01
+                 :ARG0 (z3 / i))
+    :domain (z4 / shirt
+                :ARG1-of (z5 / call-01
+                             :ARG2 (z6 / checked-shirt))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Of those menfolk who were talking to one another about it, one was called Weela. He lived over behind Round Rock
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:35.542222
+(z0 / include-91
+    :ARG1 (z1 / man
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / and
+                                     :op1 (z4 / talk-01
+                                              :ARG0 (z5 / man)
+                                              :ARG1 (z6 / it)
+                                              :ARG2 (z7 / other)))
+                           :op2 (z8 / person
+                                    :name (z9 / name
+                                              :op1 "Weela")
+                                    :wiki -))
+              :ARG2 (z10 / person
+                         :ARG0-of (z11 / live-01
+                                       :place (z12 / behind
+                                                   :op1 (z13 / city
+                                                             :name (z14 / name
+                                                                        :op1 "Round"
+                                                                        :op2 "Rock")
+                                                             :wiki "Round_Rock,_Texas"))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:35.542227
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / and
+                       :op1 (z3 / one
+                                :ARG1-of (z4 / refer-03
+                                             :ARG0 (z5 / i)
+                                             :ARG2 (z6 / person
+                                                       :ARG1-of (z7 / have-rel-role-92
+                                                                    :ARG2 z5
+                                                                    :ARG3 (z8 / grandfather))))
+                                :op2 (z9 / person
+                                         :ARG1-of (z10 / have-rel-role-92
+                                                       :ARG2 z5
+                                                       :ARG3 (z11 / uncle)))
+                                :op3 (z12 / person
+                                          :name (z13 / name
+                                                     :op1 "Little"
+                                                     :op2 "Boy")
+                                          :mod (z14 / another)
+                                          :wiki -))
+                       :ARG4 (z15 / there)
+                       :temporal (z16 / date-entity
+                                      :dayperiod (z17 / night))
+                       :ARG1-of (z18 / appear-02))
+             :op2 (z19 / hear-01
+                       :ARG0 z5
+                       :ARG1 (z20 / tell-01
+                                  :ARG0 z2
+                                  :ARG1 (z21 / it)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt This is how he came to be called Chee (Red).
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:35.542231
+(z0 / come-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / call-01
+              :ARG1 z1
+              :ARG2 (z3 / name
+                        :op1 "Chee"
+                        :op2 "(_<pointer:4>_red")))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And we went about, talking enthusiastically about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:35.542235
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / we)
+             :direction (z3 / about)
+             :manner (z4 / talk-01
+                         :ARG0 z2
+                         :ARG1 (z5 / it)
+                         :manner (z6 / enthusiastically))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They said that if this business of taking children to school got to them they would really do something about it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:26:35.542240
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / do-02
+              :ARG0 z1
+              :ARG1 (z3 / something)
+              :condition (z4 / get-04
+                             :ARG1 (z5 / business
+                                       :purpose (z6 / take-01
+                                                    :ARG0 z1
+                                                    :ARG1 (z7 / child)
+                                                    :ARG2 (z8 / school)))
+                             :ARG2 z1)
+              :degree (z9 / really)))

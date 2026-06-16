@@ -1,0 +1,85 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I would take care of his horses for him.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:47.593042
+(z0 / care-03
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / horse
+              :possessor (z3 / he
+                             :ARG2-of z0)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and that was probably why he was told to take care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:47.593060
+(z0 / and
+    :op2 (z1 / cause-01
+             :ARG0 (z2 / that)
+             :ARG1 (z3 / tell-01
+                       :ARG1 (z4 / care-03
+                                 :ARG0 (z5 / he)
+                                 :ARG1 (z6 / child))
+                       :ARG2 z5)
+             :ARG1-of (z7 / likely-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And they went on the basis of how many minutes it would take.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:47.593065
+(z0 / and
+    :op2 (z1 / go-02
+             :ARG0 (z2 / they)
+             :manner (z3 / basis
+                         :op1 (z4 / temporal-quantity
+                                  :unit (z5 / minute)
+                                  :quant-of (z6 / take-10
+                                                :ARG1 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:47.593069
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt We would take the sheep out,
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:47.593073
+(z0 / take-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / sheep)
+    :direction (z3 / out))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nowadays when a woman gives birth they take special care of her, telling her not to catch cold.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:11:47.593077
+(z0 / care-03
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / she)
+    :ARG1-of (z3 / special-02)
+    :temporal (z4 / bear-02
+                  :ARG0 (z5 / woman))
+    :temporal (z6 / now)
+    :manner (z7 / tell-01
+                :ARG0 z1
+                :ARG1 (z8 / catch-03
+                          :ARG1 z2
+                          :ARG2 (z9 / cold)
+                          :polarity -)))

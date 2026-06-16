@@ -1,0 +1,84 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt under any circumstance?
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:40.436982
+(z0 / have-condition-91
+    :ARG2 (z1 / circumstance
+              :mod (z2 / any))
+    :ARG1-of (z3 / request-confirmation-91))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He wouldn't do anything under these circumstances even if one got very close to him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:40.437000
+(z0 / do-02
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / anything)
+    :temporal (z3 / circumstance
+                  :mod (z4 / this))
+    :concession (z5 / even-if
+                    :op1 (z6 / close-10
+                             :ARG1 (z7 / one)
+                             :ARG2 z1
+                             :degree (z8 / very))
+                    :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The Bat was a man who could understand Navajo very well.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:40.437004
+(z0 / man
+    :domain (z1 / person
+                :name (z2 / name
+                          :op1 "Bat")
+                :wiki "The_Bat")
+    :ARG0-of (z3 / understand-01
+                 :ARG1 (z4 / language
+                           :name (z5 / name
+                                     :op1 "Navajo")
+                           :wiki "Navajo_language"))
+    :domain z1)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They remained at the same distance apart.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:40.437008
+(z0 / remain-01
+    :ARG1 (z1 / they
+              :ARG1-of (z2 / apart-01
+                           :ARG2 (z3 / distance-quantity
+                                     :ARG3-of (z4 / same-01)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt I saw another one on the following day, but at a distance, and walking on the mountainside.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:40.437012
+(z0 / see-01
+    :ARG0 (z1 / person
+              :refer-person 1st)
+    :ARG1 (z2 / one
+              :mod (z3 / another))
+    :temporal (z4 / date-entity
+                  :dayperiod (z5 / day)
+                  :mod (z6 / following))
+    :manner (z7 / and
+                :op1 (z8 / distance-quantity
+                         :quant-of z2)
+                :op2 (z9 / walk-01
+                         :ARG0 z1
+                         :place (z10 / mountainside))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Many horses were standing about.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:55:40.437017
+(z0 / stand-01
+    :ARG1 (z1 / horse
+              :quant (z2 / many))
+    :ARG2 (z3 / about))

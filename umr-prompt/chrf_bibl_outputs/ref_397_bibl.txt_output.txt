@@ -1,0 +1,101 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They did this because the Winslow Airport was too small for them.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:32.718437
+(z0 / do-02
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / this)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / have-degree-91
+                           :ARG1 (z5 / airport
+                                     :name (z6 / name
+                                               :op1 "Winslow"
+                                               :op2 "Airport")
+                                     :wiki "Winslow_Airport")
+                           :ARG2 (z7 / small)
+                           :ARG3 (z8 / too)
+                           :ARG6 z1)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt They probably said this because they knew of the wars that were going on.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:32.718449
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / this)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / know-01
+                           :ARG0 z1
+                           :ARG1 (z5 / war-01)))
+    :ARG1-of (z6 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The small planes - the two motored ones - loaded at Winslow and hauled from there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:32.718454
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG1 (z2 / plane
+                       :mod (z3 / small)
+                       :ARG1-of (z4 / motored-01)
+                       :quant 2)
+             :ARG2 (z5 / city
+                       :name (z6 / name
+                                 :op1 "Winslow")
+                       :wiki "Winslow,_Virginia"))
+    :op2 (z7 / haul-01
+             :ARG1 z2
+             :source z5))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt it was because one of the boys locked in there was his son.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:32.718458
+(z0 / cause-01
+    :ARG0 (z1 / it)
+    :ARG1 (z2 / have-rel-role-92
+              :ARG1 (z3 / boy
+                        :ARG1-of (z4 / lock-01
+                                     :place (z5 / there)))
+              :ARG2 (z6 / he)
+              :ARG3 (z7 / son)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt While they were making this move they stopped for the night, and it is said that I was born where they halted.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:32.718462
+(z0 / and
+    :op1 (z1 / stop-01
+             :ARG0 (z2 / they)
+             :temporal (z3 / move-01
+                           :ARG0 z2
+                           :mod (z4 / this))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / night)))
+    :op2 (z7 / say-01
+             :ARG1 (z8 / bear-02
+                       :ARG1 (z9 / i)
+                       :place (z10 / halt-01
+                                   :ARG0 z2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He used to be out there early in the morning with a stick especially made for that purpose.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:32.718466
+(z0 / have-place-91
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / there)
+    :ARG3 (z3 / stick
+              :ARG1-of (z4 / make-01
+                           :ARG2 (z5 / purpose
+                                     :mod (z6 / that))
+                           :degree (z7 / especially)))
+    :temporal (z8 / early-01
+                  :ARG2 (z9 / date-entity
+                            :dayperiod (z10 / morning))))

@@ -1,0 +1,93 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt This is how he came to be called Chee (Red).
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:56.320450
+(z0 / come-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / call-01
+              :ARG1 z1
+              :ARG2 (z3 / name
+                        :op1 "Chee"
+                        :op2 "(_<pointer:4>_red")))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt This man I'm talking about is one called Checked Shirt.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:56.320466
+(z0 / man
+    :mod (z1 / this)
+    :ARG1-of (z2 / talk-01
+                 :ARG0 (z3 / i))
+    :domain (z4 / shirt
+                :ARG1-of (z5 / call-01
+                             :ARG2 (z6 / checked-shirt))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They used to call the Former Old Interpreter (Chee Dodge) Chee (Red) when I first heard of him.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:56.320470
+(z0 / call-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / person
+                       :name (z4 / name
+                                 :op1 "Chee"
+                                 :op2 "Dodge")
+                       :wiki -)
+              :op2 (z5 / person
+                       :name (z6 / name
+                                 :op1 "Former"
+                                 :op2 "Old"
+                                 :op3 "Interpreter")
+                       :wiki -)
+              :op3 (z7 / person
+                       :color (z8 / red))
+              :temporal (z9 / hear-01
+                            :ARG0 (z10 / i)
+                            :ARG1 z2
+                            :ord (z11 / ordinal-entity
+                                      :value 1))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That is how it came about that the one who would be called The Interpreter (Chee Dodge) and the one who would be named Big Lump Setting Up came to move there.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:56.320474
+(z0 / come-33
+    :ARG1 (z1 / and
+              :op1 (z2 / one
+                       :ARG1-of (z3 / call-01
+                                    :ARG2 (z4 / interpreter))
+                       :op2 (z5 / person
+                                :name (z6 / name
+                                          :op1 "Chee"
+                                          :op2 "Dodge")
+                                :wiki -)
+                       :op3 (z7 / one
+                                :ARG1-of (z8 / name-01
+                                             :ARG2 (z9 / set-up-03))))
+              :ARG2 (z10 / there))
+    :ARG2 (z11 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:56.320478
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt This is how my people suffered.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:18:56.320482
+(z0 / suffer-01
+    :ARG0 (z1 / person
+              :possessor (z2 / i))
+    :ARG1 (z3 / this))

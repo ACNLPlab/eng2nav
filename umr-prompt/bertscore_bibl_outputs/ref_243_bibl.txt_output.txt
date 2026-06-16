@@ -1,0 +1,116 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The brother of The One Who Has Eyeglasses (John Lorenzo Hubell) from Ganado, a man called the Bat, was a clerk there. He was over to one side behind the counter.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:20.089897
+(z0 / clerk
+    :place (z1 / there)
+    :domain (z2 / person
+                :ARG1-of (z3 / have-rel-role-92
+                             :ARG2 (z4 / person
+                                       :name (z5 / name
+                                                 :op1 "The"
+                                                 :op2 "One"
+                                                 :op3 "Who"
+                                                 :op3 "Has"
+                                                 :op4 "Eyeglasses")
+                                       :wiki -)
+                             :ARG3 (z6 / brother)
+                             :source (z7 / city
+                                         :name (z8 / name
+                                                   :op1 "Ganado")
+                                         :wiki "Ganado,_Florida")
+                             :ARG1-of (z9 / call-01
+                                          :ARG2 (z10 / Bat))))
+    :domain z2)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Black Horse was standing against the counter over to one side.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:20.089914
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG2 (z3 / space
+              :ARG1-of (z4 / next-to-02
+                           :ARG2 (z5 / counter)
+                           :ARG3 (z6 / cartesian-framework-91
+                                     :ARG1 (z7 / builder))
+                           :ARG1-of (z8 / over-04
+                                        :ARG5 z6
+                                        :quant (z9 / distance-quantity
+                                                   :quant 1)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt A man by the name of Black Horse was the leader of that faction.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:20.089918
+(z0 / lead-02
+    :ARG0 (z1 / man
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / faction
+              :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There was some man of the Bitter Water Clan whom people called Pug Nose. He was going around with the party, taking care of the children.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:20.089923
+(z0 / man
+    :mod (z1 / some)
+    :ARG1-of (z2 / have-org-role-92
+                 :ARG2 (z3 / local-region
+                           :name (z4 / name
+                                     :op1 "Bitter"
+                                     :op2 "Water"
+                                     :op3 "Clan")
+                           :wiki "Bitterwater")
+                 :ARG3 (z5 / person))
+    :ARG1-of (z6 / call-01
+                 :ARG0 (z7 / person)
+                 :ARG2 (z8 / person
+                           :ARG1-of (z9 / have-rel-role-92
+                                        :ARG2 z3
+                                        :ARG3 (z10 / child))))
+    :ARG0-of (z11 / go-01
+                  :ARG1 (z12 / around)
+                  :ARG2 (z13 / party)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:20.089927
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt One was called Bead Clan Gambler, and he was a member of the police force.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:50:20.089931
+(z0 / and
+    :op1 (z1 / call-01
+             :ARG1 (z2 / one)
+             :ARG2 (z3 / business
+                       :name (z4 / name
+                                 :op1 "Bade"
+                                 :op2 "Clan"
+                                 :op3 "Gambler")
+                       :wiki "Bead_Clan"))
+    :op2 (z5 / have-org-role-92
+             :ARG1 z2
+             :ARG2 (z6 / police)
+             :ARG3 (z7 / member)))

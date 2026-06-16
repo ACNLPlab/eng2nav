@@ -1,0 +1,94 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And when I would go up there, I'd remember what he had told me about not mentioning the word ‘bear’.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:52:30.658611
+(z0 / and
+    :op2 (z1 / remember-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / thing
+                       :ARG1-of (z4 / tell-01
+                                    :ARG0 (z5 / he)
+                                    :ARG2 (z6 / mention-01
+                                              :ARG0 z5
+                                              :ARG1 (z7 / word)
+                                              :polarity -)))
+             :temporal (z8 / go-02
+                           :ARG0 z2
+                           :ARG4 (z9 / there)
+                           :direction (z10 / up))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then in the morning when we would take out the sheep he would again remind me of this lesson.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:52:30.658628
+(z0 / remind-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / lesson
+              :mod (z3 / this))
+    :ARG2 (z4 / i)
+    :temporal (z5 / date-entity
+                  :dayperiod (z6 / morning)
+                  :temporal-of (z7 / take-out-11
+                                   :ARG0 (z8 / we)
+                                   :ARG1 (z9 / sheep))
+                  :mod (z10 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I used to go around wondering why under the sun a person should not say the word ‘bear’,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:52:30.658632
+(z0 / go-02
+    :ARG0 (z1 / i)
+    :ARG4 (z2 / around)
+    :purpose (z3 / wonder-01
+                 :ARG0 z1
+                 :ARG1 (z4 / thing
+                           :ARG0-of (z5 / cause-01
+                                        :ARG1 (z6 / recommend-01
+                                                  :ARG1 (z7 / say-01
+                                                            :ARG0 (z8 / person)
+                                                            :ARG1 (z9 / word
+                                                                      :mod (z10 / bear))
+                                                            :polarity -)
+                                                  :temporal (z11 / under
+                                                                 :op1 (z12 / sun)))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt People do not say ‘bear’,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:52:30.658637
+(z0 / say-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / bear)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt But one does not mention their name "bear”. People who live over there toward the mountains never say “bear”.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:52:30.658641
+(z0 / contrast-91
+    :ARG2 (z1 / mention-01
+              :ARG0 (z2 / one)
+              :ARG1 (z3 / name
+                        :op1 "bear")
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and he used to teach me what he knew.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:52:30.658645
+(z0 / and
+    :op2 (z1 / use-01
+             :ARG0 (z2 / he)
+             :ARG1 (z3 / teach-01
+                       :ARG0 z2
+                       :ARG1 (z4 / thing
+                                 :ARG1-of (z5 / know-02
+                                              :ARG0 z2))
+                       :ARG2 (z6 / i))))

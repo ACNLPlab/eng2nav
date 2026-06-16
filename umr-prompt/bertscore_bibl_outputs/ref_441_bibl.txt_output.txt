@@ -1,0 +1,80 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt he would say, instructing me. "In the summer time it is called 'bushy-tail'.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:15.737672
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / instruct-01
+              :ARG0 z1
+              :ARG1 (z3 / i)
+              :temporal (z4 / time
+                            :temporal-of (z5 / summer))
+              :temporal (z6 / call-01
+                            :ARG1 (z7 / it)
+                            :ARG2 (z8 / bushy-tail))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He would say as he taught me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:15.737689
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / teach-01
+              :ARG0 z1
+              :ARG1 (z3 / i)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt they asked me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:15.737693
+(z0 / ask-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt I told you that they have a different name,” he said as he scolded me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:15.737698
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / tell-01
+              :ARG0 z1
+              :ARG1 (z3 / have-03
+                        :ARG0 (z4 / they)
+                        :ARG1 (z5 / name
+                                  :ARG1-of (z6 / differ-02))
+                        :ARG2 (z7 / you))
+              :temporal (z8 / scold-01
+                            :ARG0 z1
+                            :ARG1 z7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He would tell me to haul wood with it, or to work with it.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:15.737702
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / or
+              :op1 (z3 / haul-01
+                       :ARG0 (z4 / i)
+                       :ARG1 (z5 / wood)
+                       :ARG3 (z6 / it))
+              :op2 (z7 / work-01
+                       :ARG0 z4
+                       :ARG1 z5))
+    :ARG2 z4)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:15.737706
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))

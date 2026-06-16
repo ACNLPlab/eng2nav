@@ -1,0 +1,157 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We dropped them on Walpi, Shipaulovi, Shimopovi, Oraibi, Hotevilla, and Ndadziizdeli.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:27.101265
+(z0 / drop-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :ARG2 (z3 / and
+              :op1 (z4 / city
+                       :name (z5 / name
+                                 :op1 "Walpi")
+                       :wiki "Walpi,_Florida")
+              :op2 (z6 / city
+                       :name (z7 / name
+                                 :op1 "Shipaulovi")
+                       :wiki -)
+              :op3 (z8 / city
+                       :name (z9 / name
+                                 :op1 "Shimopovi")
+                       :wiki -)
+              :op4 (z10 / city
+                        :name (z11 / name
+                                   :op1 "Oraibi")
+                        :wiki -)
+              :op5 (z12 / city
+                        :name (z13 / name
+                                   :op1 "Hotella")
+                        :wiki -)
+              :op5 (z14 / city
+                        :name (z15 / name
+                                   :op1 "Ndadziizdeli")
+                        :wiki -)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He had been asking that hay be dropped at his own house for three days, but he couldn't find it himself.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:27.101305
+(z0 / contrast-91
+    :ARG1 (z1 / ask-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / drop-01
+                        :ARG1 (z4 / hay)
+                        :ARG2 (z5 / house
+                                  :possessor z2))
+              :duration (z6 / temporal-quantity
+                            :unit (z7 / day)
+                            :quant 3))
+    :ARG2 (z8 / possible-01
+              :ARG1 (z9 / find-01
+                        :ARG0 z2
+                        :ARG1 z4)
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Tomorrow these will start out and will be routed right along the mountainside.", said Little Chief (Shipley)
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:27.101309
+(z0 / say-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Little"
+                        :op2 "Chief")
+              :wiki -)
+    :ARG1 (z3 / and
+              :op1 (z4 / start-out-05
+                       :ARG1 (z5 / thing
+                                 :mod (z6 / this))
+                       :temporal (z7 / date-entity
+                                     :dayperiod (z8 / tomorrow))
+                       :op2 (z9 / routed-01
+                                :ARG1 z5
+                                :path (z10 / along
+                                           :op1 (z11 / mountainide)
+                                           :mod (z12 / right-yy)))
+                       :quote z0)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then Black Horse spoke up and said, "This business of taking children away from people to put them in school - when is it going to affect the people from over beyond the mountain?"
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:27.101314
+(z0 / speak-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / affect-01
+              :ARG0 (z4 / business
+                        :purpose (z5 / take-away-05
+                                     :ARG0 z4
+                                     :ARG1 (z6 / child)
+                                     :ARG2 (z7 / person)
+                                     :purpose (z8 / put-01
+                                                  :ARG0 z4
+                                                  :ARG1 z6
+                                                  :ARG2 (z9 / school))))
+              :ARG1 (z10 / umr-unknown)
+              :ARG2 (z11 / person
+                         :source (z12 / over
+                                      :op1 (z13 / mountain)
+                                      :ARG5 (z14 / cartesian-framework-91
+                                                 :ARG1 (z15 / build-space))))
+              :temporal (z16 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When he said the plane nearly turned over with him it was because (this plane was flying low and to gain altitude) the plane had to fly at a steep climb - (it seemed that it would fall over backward).
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:27.101318
+(z0 / cause-01
+    :ARG0 (z1 / obligate-01
+              :ARG1 (z2 / plane
+                        :mod (z3 / this))
+              :ARG2 (z4 / fly-01
+                        :ARG0 z2
+                        :purpose (z5 / gain-02
+                                     :ARG0 z2
+                                     :ARG1 (z6 / altitude))
+                        :manner (z7 / climb-01
+                                    :ARG1 z2
+                                    :manner (z8 / steep)))
+              :ARG1 (z9 / seem-01
+                        :ARG1 (z10 / fall-over-04
+                                   :ARG1 z2
+                                   :direction (z11 / trajectory
+                                                   :ARG4-of (z12 / backward-02
+                                                                 :ARG3 (z13 / cartesian-framework-91
+                                                                            :ARG1 (z14 / builder)))))
+                        :temporal (z15 / say-01
+                                       :ARG0 (z16 / he)
+                                       :ARG1 (z17 / turn-over-03
+                                                  :ARG1 z2
+                                                  :companion z16
+                                                  :degree (z18 / near))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We trailed them for quite a while when suddenly, from within a nearby oak clump, there came the sound of dogs barking loudly.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:03:27.101323
+(z0 / lag-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :duration (z3 / while
+                  :degree (z4 / quite))
+    :temporal (z5 / sudden)
+    :temporal (z6 / sound-02
+                  :ARG0 (z7 / dog)
+                  :ARG1 (z8 / bark-01
+                            :ARG0 z7
+                            :manner (z9 / loud))
+                  :source (z10 / clump
+                               :mod (z11 / nearby))))

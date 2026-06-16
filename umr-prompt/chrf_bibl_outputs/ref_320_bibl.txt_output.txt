@@ -1,0 +1,105 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt The plane would repeatedly drop (in an air pocket).
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:38.099938
+(z0 / drop-01
+    :ARG1 (z1 / plane)
+    :frequency (z2 / multiple)
+    :place (z3 / pocket
+               :mod (z4 / air)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The plane almost turned over with me (looking for it),” he said with concern.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:38.099954
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / turn-01
+              :ARG1 (z3 / plane)
+              :companion z1
+              :temporal (z4 / look-01
+                            :ARG0 z1
+                            :ARG1 (z5 / it))
+              :degree (z6 / almost)
+              :quote z0)
+    :manner (z7 / concern-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We would sit on them, and when their heads came crashing together we would really die laughing.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:38.099958
+(z0 / and
+    :op1 (z1 / sit-01
+             :ARG1 (z2 / we)
+             :ARG2 (z3 / they))
+    :op2 (z4 / die-01
+             :ARG1 z2
+             :ARG1-of (z5 / real-04)
+             :temporal (z6 / crash-01
+                           :ARG1 z3
+                           :manner (z7 / together))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Some times we would fall off, and we would really laugh then too.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:38.099963
+(z0 / and
+    :op1 (z1 / fall-off-04
+             :ARG1 (z2 / we)
+             :temporal (z3 / sometimes))
+    :op2 (z4 / laugh-01
+             :ARG0 z2
+             :temporal (z5 / then)
+             :degree (z6 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When he said the plane nearly turned over with him it was because (this plane was flying low and to gain altitude) the plane had to fly at a steep climb - (it seemed that it would fall over backward).
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:38.099967
+(z0 / cause-01
+    :ARG0 (z1 / obligate-01
+              :ARG1 (z2 / plane
+                        :mod (z3 / this))
+              :ARG2 (z4 / fly-01
+                        :ARG0 z2
+                        :purpose (z5 / gain-02
+                                     :ARG0 z2
+                                     :ARG1 (z6 / altitude))
+                        :manner (z7 / climb-01
+                                    :ARG1 z2
+                                    :manner (z8 / steep)))
+              :ARG1 (z9 / seem-01
+                        :ARG1 (z10 / fall-over-04
+                                   :ARG1 z2
+                                   :direction (z11 / trajectory
+                                                   :ARG4-of (z12 / backward-02
+                                                                 :ARG3 (z13 / cartesian-framework-91
+                                                                            :ARG1 (z14 / builder)))))
+                        :temporal (z15 / say-01
+                                       :ARG0 (z16 / he)
+                                       :ARG1 (z17 / turn-over-03
+                                                  :ARG1 z2
+                                                  :companion z16
+                                                  :degree (z18 / near))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The sheep would be grazing nearby, and we would spend the whole day playing with the rams.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:38.099971
+(z0 / and
+    :op1 (z1 / grazing-01
+             :ARG1 (z2 / sheep)
+             :place (z3 / nearby))
+    :op2 (z4 / spend-02
+             :ARG0 (z5 / we)
+             :ARG1 (z6 / play-01
+                       :ARG0 z5
+                       :ARG1 (z7 / ram)
+                       :extent (z8 / whole))))

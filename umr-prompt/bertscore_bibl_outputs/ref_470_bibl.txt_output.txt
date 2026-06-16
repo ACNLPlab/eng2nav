@@ -1,0 +1,82 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I wondered what the dogs were barking at so I ran over there.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:43.140666
+(z0 / cause-01
+    :ARG0 (z1 / wonder-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / thing
+                        :ARG1-of (z4 / bark-01
+                                     :ARG0 (z5 / dog))))
+    :ARG1 (z6 / run-04
+              :ARG0 z2
+              :ARG4 (z7 / there)
+              :direction (z8 / over)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I got over to where the dog was barking, and there I saw a bear standing.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:43.140677
+(z0 / and
+    :op1 (z1 / get-01
+             :ARG0 (z2 / i)
+             :ARG4 (z3 / over
+                       :op1 (z4 / barking-01
+                                :ARG0 (z5 / dog))))
+    :op2 (z6 / see-01
+             :ARG0 z2
+             :ARG1 (z7 / stand-01
+                       :ARG1 (z8 / bear))
+             :place z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt What is it that the dogs can be heard barking at?
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:43.140682
+(z0 / possible-01
+    :ARG1 (z1 / hear-01
+              :ARG1 (z2 / barking-01
+                        :ARG0 (z3 / dog)
+                        :ARG1 (z4 / umr-unknown))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then the people noticed that the soldiers were moving along over there.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:43.140686
+(z0 / notice-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / move-01
+              :ARG0 (z3 / person
+                        :ARG1-of (z4 / have-org-role-92
+                                     :ARG3 (z5 / soldier)))
+              :direction (z6 / along)
+              :place (z7 / there)
+              :temporal (z8 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:43.140690
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt The dogs ran around him barking fiercely.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:58:43.140694
+(z0 / run-02
+    :ARG1 (z1 / dog)
+    :ARG4 (z2 / around
+              :op1 (z3 / he))
+    :manner (z4 / bark-01
+                :ARG0 z1
+                :manner (z5 / fierce)))

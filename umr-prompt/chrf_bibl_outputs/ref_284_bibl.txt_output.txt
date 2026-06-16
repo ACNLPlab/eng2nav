@@ -1,0 +1,114 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And then over the lower end of the mountains and over Cow Springs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:42:26.235080
+(z0 / and
+    :op2 (z1 / be-destined-for-91
+             :ARG2 (z2 / space
+                       :ARG1-of (z3 / over-04
+                                    :ARG2 (z4 / thing
+                                              :ARG1-of (z5 / end-05
+                                                           :ARG2 (z6 / mountain)
+                                                           :ARG1-of (z7 / have-degree-91
+                                                                        :ARG2 (z8 / low-04
+                                                                                  :ARG1 z4)
+                                                                        :ARG3 (z9 / more)))
+                                              :ARG3 (z10 / cartesian-framework-91
+                                                         :ARG1 (z11 / build-space))))
+                       :ARG1-of (z12 / over-04
+                                     :ARG2 (z13 / city
+                                                :name (z14 / name
+                                                           :op1 "Cow"
+                                                           :op2 "Springs")
+                                                :wiki "Cow_Springs,_Arkansas")
+                                     :ARG3 z10))
+             :temporal (z15 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Then we flew over the lower end of the black lava peaks, and over Oraibi.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:42:26.235097
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / then)
+    :place (z3 / and
+               :op1 (z4 / space
+                        :ARG1-of (z5 / end-06
+                                     :ARG2 (z6 / peak
+                                               :color (z7 / lava))
+                                     :ARG1-of (z8 / have-degree-91
+                                                  :ARG2 (z9 / low-04
+                                                            :ARG1 z6)
+                                                  :ARG3 (z10 / more)))
+                        :op2 (z11 / space
+                                  :ARG1-of (z12 / over-04
+                                                :ARG2 (z13 / thing
+                                                           :place (z14 / ocean
+                                                                       :name (z15 / name
+                                                                                  :op1 "Oraibi")
+                                                                       :wiki "Oraibi_Internationalis")
+                                                           :ARG3 (z16 / cartesian-framework-91
+                                                                      :ARG1 (z17 / build-space))))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt And then on over Shonto and over the ridge.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:42:26.235101
+(z0 / and
+    :op2 (z1 / be-destined-for-91
+             :ARG2 (z2 / space
+                       :ARG1-of (z3 / over-04
+                                    :ARG5 (z4 / cartesian-framework-91
+                                              :ARG1 (z5 / build-space)))
+                       :ARG1-of (z6 / over-04
+                                    :ARG5 z4)
+                       :ARG1-of (z7 / over-04
+                                    :ARG5 z4))
+             :temporal (z8 / then)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt But one does not mention their name "bear”. People who live over there toward the mountains never say “bear”.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:42:26.235106
+(z0 / contrast-91
+    :ARG2 (z1 / mention-01
+              :ARG0 (z2 / one)
+              :ARG1 (z3 / name
+                        :op1 "bear")
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt These people from the other side of the mountain were saying this.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:42:26.235110
+(z0 / say-01
+    :ARG0 (z1 / person
+              :mod (z2 / this)
+              :source (z3 / side
+                          :ARG1-of (z4 / other-01)
+                          :part-of (z5 / mountain)))
+    :ARG1 (z6 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And I found that the people from beyond the mountain - those among whom the news had been spread, and who were sent for - had arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:42:26.235114
+(z0 / and
+    :op2 (z1 / find-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / arrive-01
+                       :ARG1 (z4 / person
+                                 :source (z5 / beyond
+                                             :op1 (z6 / mountain))
+                                 :ARG1-of (z7 / include-91
+                                              :ARG2 (z8 / and
+                                                        :op1 (z9 / spread-03
+                                                                 :ARG1 (z10 / news))
+                                                        :op2 (z11 / send-01
+                                                                  :ARG1 z4)))))))

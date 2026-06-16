@@ -1,0 +1,61 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That happened to two of us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:54.674956
+(z0 / event
+    :mod (z1 / that)
+    :ARG2 (z2 / we
+              :quant 2))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:54.674967
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt It happened that way.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:54.674972
+(z0 / have-direction-91
+    :ARG1 (z1 / it)
+    :ARG2 (z2 / way))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He stood up for the two of us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:54.674976
+(z0 / stand-up-07
+    :ARG0 (z1 / he)
+    :affectee (z2 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It happened eighteen years ago too.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:54.674980
+(z0 / event
+    :temporal (z1 / before
+                  :op1 (z2 / now)
+                  :quant (z3 / temporal-quantity
+                             :unit (z4 / year)
+                             :quant 18)
+                  :mod (z5 / too)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt This is how we arrived.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:21:54.674984
+(z0 / arrive-01
+    :ARG1 (z1 / we)
+    :manner (z2 / this))

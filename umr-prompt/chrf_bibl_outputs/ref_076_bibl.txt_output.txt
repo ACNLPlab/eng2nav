@@ -1,0 +1,81 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Go run a race.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:28.423870
+(z0 / go-02
+    :ARG0 (z1 / you)
+    :ARG4 (z2 / run-02
+              :ARG0 z1
+              :ARG1 (z3 / race))
+    :mode imperative)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The dogs ran around him barking fiercely.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:28.423886
+(z0 / run-02
+    :ARG1 (z1 / dog)
+    :ARG4 (z2 / around
+              :op1 (z3 / he))
+    :manner (z4 / bark-01
+                :ARG0 z1
+                :manner (z5 / fierce)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We made about two runs over these villages.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:28.423891
+(z0 / make-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / run-02
+              :ARG0 z1
+              :path (z3 / over
+                        :op1 (z4 / village
+                                 :mod (z5 / this))
+                        :ARG5 (z6 / cartesian-framework-91
+                                  :ARG1 (z7 / build-space))
+                        :quant (z8 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt for the Navajo country.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:28.423895
+(z0 / concern-02
+    :ARG1 (z1 / country
+              :name (z2 / name
+                        :op1 "Navajo")
+              :wiki "Navajo_country"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt They say that this story took place at Gobernador Knob.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:28.423899
+(z0 / say-01
+    :ARG0 (z1 / person
+              :refer-person 3rd)
+    :ARG1 (z2 / event
+              :mod (z3 / this)
+              :place (z4 / local-region
+                         :name (z5 / name
+                                   :op1 "Gobernador"
+                                   :op2 "Knob")
+                         :wiki "Gobernador_National_Wildlife_Refuge")))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I turned around and came back to him.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:06:28.423903
+(z0 / and
+    :op1 (z1 / turn-01
+             :ARG1 (z2 / i)
+             :direction (z3 / around))
+    :op2 (z4 / come-01
+             :ARG1 z2
+             :ARG4 (z5 / he)
+             :direction (z6 / back)))

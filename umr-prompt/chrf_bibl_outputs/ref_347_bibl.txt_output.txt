@@ -1,0 +1,104 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We went out according to our instructions.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:38.819069
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :direction (z2 / out)
+    :manner (z3 / instruct-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt he would say, instructing me. "In the summer time it is called 'bushy-tail'.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:38.819087
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / instruct-01
+              :ARG0 z1
+              :ARG1 (z3 / i)
+              :temporal (z4 / time
+                            :temporal-of (z5 / summer))
+              :temporal (z6 / call-01
+                            :ARG1 (z7 / it)
+                            :ARG2 (z8 / bushy-tail))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I racked my brains trying to think how we were going to put out the fire.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:38.819092
+(z0 / racked-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / brain)
+    :ARG2 (z3 / think-01
+              :ARG0 z1
+              :ARG1 (z4 / thing
+                        :manner-of (z5 / put-out-09
+                                       :ARG0 (z6 / we)
+                                       :ARG1 (z7 / fire)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt but at night they spoke about themselves, revealing their intentions.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:38.819096
+(z0 / contrast-91
+    :ARG2 (z1 / speak-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / about
+                        :op1 z2)
+              :temporal (z4 / date-entity
+                            :dayperiod (z5 / night))
+              :manner (z6 / reveal-01
+                          :ARG0 z2
+                          :ARG1 (z7 / intend-01
+                                    :ARG0 z2))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Black Horse was standing against the counter over to one side.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:38.819100
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG2 (z3 / space
+              :ARG1-of (z4 / next-to-02
+                           :ARG2 (z5 / counter)
+                           :ARG3 (z6 / cartesian-framework-91
+                                     :ARG1 (z7 / builder))
+                           :ARG1-of (z8 / over-04
+                                        :ARG5 z6
+                                        :quant (z9 / distance-quantity
+                                                   :quant 1)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Just as dawn was breaking First Man went out doors to urinate; he glanced over at the peak of Gobernador Knob, and saw a little cloud hanging there, it is said.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:09:38.819104
+(z0 / say-01
+    :ARG1 (z1 / and
+              :op1 (z2 / go-02
+                       :ARG0 (z3 / person
+                                 :name (z4 / name
+                                           :op1 "First"
+                                           :op2 "Man")
+                                 :wiki -)
+                       :ARG4 (z5 / door)
+                       :purpose (z6 / urinate-01
+                                    :ARG0 z3)
+                       :temporal (z7 / just-as
+                                     :op1 (z8 / break-01
+                                              :ARG1 (z9 / dawn))))
+              :op2 (z10 / see-01
+                        :ARG0 z3
+                        :ARG1 (z11 / cloud
+                                   :ARG1-of (z12 / hang-01
+                                                 :place (z13 / there))))))

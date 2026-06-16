@@ -1,0 +1,97 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They loaded and hauled from Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:13.409015
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG0 (z2 / they)
+             :source (z3 / city
+                         :name (z4 / name
+                                   :op1 "Phoenix")
+                         :wiki "Phoenix,_Arizona"))
+    :op2 (z5 / haul-01
+             :ARG0 z2
+             :source z3))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The small planes - the two motored ones - loaded at Winslow and hauled from there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:13.409031
+(z0 / and
+    :op1 (z1 / load-01
+             :ARG1 (z2 / plane
+                       :mod (z3 / small)
+                       :ARG1-of (z4 / motored-01)
+                       :quant 2)
+             :ARG2 (z5 / city
+                       :name (z6 / name
+                                 :op1 "Winslow")
+                       :wiki "Winslow,_Virginia"))
+    :op2 (z7 / haul-01
+             :ARG1 z2
+             :source z5))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:13.409036
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt As for us, we flew back and got off at Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:13.409040
+(z0 / and
+    :op1 (z1 / fly-01
+             :ARG0 (z2 / we)
+             :ARG4 (z3 / back))
+    :op2 (z4 / get-05
+             :ARG0 z2
+             :ARG1 (z5 / off)
+             :ARG2 (z6 / city
+                       :name (z7 / name
+                                 :op1 "Phoenix")
+                       :wiki "Phoenix,_Arizona")))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt In the evening after we had unloaded another load of wood we started back home in the wagon.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:13.409044
+(z0 / start-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / home)
+    :place (z3 / wagon)
+    :temporal (z4 / after
+                  :op1 (z5 / load-01
+                           :ARG0 z1
+                           :ARG1 (z6 / load
+                                     :mod (z7 / another)
+                                     :consist-of (z8 / wood))))
+    :temporal (z9 / date-entity
+                  :dayperiod (z10 / evening)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt In the late evening we all returned to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:29:13.409048
+(z0 / return-01
+    :ARG1 (z1 / we
+              :mod (z2 / all))
+    :ARG4 (z3 / city
+              :name (z4 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona")
+    :temporal (z5 / late-01
+                  :ARG2 (z6 / date-entity
+                            :dayperiod (z7 / evening))))

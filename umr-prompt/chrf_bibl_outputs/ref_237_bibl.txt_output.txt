@@ -1,0 +1,99 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt But it was destined to turn out differently.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:50.120090
+(z0 / contrast-91
+    :ARG2 (z1 / destined-01
+              :ARG1 (z2 / it)
+              :ARG2 (z3 / differ-02
+                        :ARG1 z2)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Back at that time it was different.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:50.120108
+(z0 / differ-02
+    :ARG1 (z1 / it)
+    :temporal (z2 / time
+                  :mod (z3 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I told you that they have a different name,” he said as he scolded me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:50.120113
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / tell-01
+              :ARG0 z1
+              :ARG1 (z3 / have-03
+                        :ARG0 (z4 / they)
+                        :ARG1 (z5 / name
+                                  :ARG1-of (z6 / differ-02))
+                        :ARG2 (z7 / you))
+              :temporal (z8 / scold-01
+                            :ARG0 z1
+                            :ARG1 z7)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We each got aboard a different one.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:50.120117
+(z0 / get-30
+    :ARG1 (z1 / we
+              :mod (z2 / each))
+    :ARG2 (z3 / one
+              :ARG1-of (z4 / differ-02)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The one I referred to as my grandfather, and another uncle of mine called Little Boy, apparently went there at night and heard them telling about it.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:50.120121
+(z0 / and
+    :op1 (z1 / go-02
+             :ARG0 (z2 / and
+                       :op1 (z3 / one
+                                :ARG1-of (z4 / refer-03
+                                             :ARG0 (z5 / i)
+                                             :ARG2 (z6 / person
+                                                       :ARG1-of (z7 / have-rel-role-92
+                                                                    :ARG2 z5
+                                                                    :ARG3 (z8 / grandfather))))
+                                :op2 (z9 / person
+                                         :ARG1-of (z10 / have-rel-role-92
+                                                       :ARG2 z5
+                                                       :ARG3 (z11 / uncle)))
+                                :op3 (z12 / person
+                                          :name (z13 / name
+                                                     :op1 "Little"
+                                                     :op2 "Boy")
+                                          :mod (z14 / another)
+                                          :wiki -))
+                       :ARG4 (z15 / there)
+                       :temporal (z16 / date-entity
+                                      :dayperiod (z17 / night))
+                       :ARG1-of (z18 / appear-02))
+             :op2 (z19 / hear-01
+                       :ARG0 z5
+                       :ARG1 (z20 / tell-01
+                                  :ARG0 z2
+                                  :ARG1 (z21 / it)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We continued to Kayenta where we turned around.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:22:50.120125
+(z0 / continue-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Kayenta")
+              :place-of (z4 / turn-01
+                            :ARG1 z1
+                            :direction (z5 / around))
+              :wiki "Kayenta,_Arizona"))

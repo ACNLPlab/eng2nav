@@ -1,0 +1,110 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt A bear! A bear!” I said, as I went zooming by him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:26.050288
+(z0 / say-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / bear
+              :mode expressive)
+    :temporal (z3 / go-02
+                  :ARG0 z1
+                  :ARG4 (z4 / by
+                            :op1 (z5 / he))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt Like this I went across our land unloading bales of hay.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:26.050306
+(z0 / go-01
+    :ARG0 (z1 / i)
+    :ARG4 (z2 / across
+              :op1 (z3 / land
+                       :possessor (z4 / we)))
+    :purpose (z5 / load-01
+                 :ARG0 z1
+                 :ARG1 (z6 / hay))
+    :ARG1-of (z7 / resemble-91
+                 :ARG2 (z8 / this)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt So I dashed toward him. ”Here comes a bear, cousin.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:26.050311
+(z0 / say-91
+    :ARG1 (z1 / come-33
+              :ARG1 (z2 / bear)
+              :ARG2 (z3 / person
+                        :ARG1-of (z4 / have-rel-role-92
+                                     :ARG2 (z5 / i)
+                                     :ARG3 (z6 / cousin)))
+              :quote z0)
+    :ARG1-of (z7 / cause-01
+                 :ARG0 (z8 / dashed-01
+                           :ARG0 (z1000 / toward
+                                        :op1 (z9 / he)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:26.050316
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When he went back inside he said, "I wonder why it is that there is a little cloud hanging over there on the summit of Gobernador Knob?”
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:26.050320
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / wonder-01
+              :ARG0 z1
+              :ARG1 (z3 / umr-unknown
+                        :ARG0-of (z4 / cause-01
+                                     :ARG1 (z5 / overhang-01
+                                               :ARG1 (z6 / cloud
+                                                         :quant (z7 / little))
+                                               :ARG2 (z8 / summit
+                                                         :part-of (z9 / mountain
+                                                                      :name (z10 / name
+                                                                                 :op1 "Gobernador"
+                                                                                 :op2 "Knob")
+                                                                      :wiki "Gobernador_National_Park")))))
+              :temporal (z11 / go-02
+                             :ARG0 z1
+                             :ARG4 (z12 / inside)
+                             :direction (z13 / back))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt After three days (of flying), a man from Kayenta said that he had been unable to spot his own hogan.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:53:26.050324
+(z0 / say-01
+    :ARG0 (z1 / man
+              :source (z2 / city
+                          :name (z3 / name
+                                    :op1 "Kayenta")
+                          :wiki -))
+    :ARG1 (z4 / possible-01
+              :ARG1 (z5 / spot-01
+                        :ARG0 z1
+                        :ARG1 (z6 / hogan
+                                  :possessor z1)
+                        :polarity -)
+              :temporal (z7 / after
+                            :op1 (z8 / fly-01
+                                     :ARG1 z1
+                                     :duration (z9 / temporal-quantity
+                                                   :unit (z10 / day)
+                                                   :quant 3)))))

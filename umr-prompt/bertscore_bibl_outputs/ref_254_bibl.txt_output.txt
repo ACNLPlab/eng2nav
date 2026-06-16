@@ -1,0 +1,63 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt "It will reach you sometime.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:53:50.264972
+(z0 / reach-01
+    :ARG0 (z1 / it)
+    :ARG1 (z2 / you)
+    :temporal (z3 / sometime))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:53:50.264983
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:53:50.264988
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt "It's probably all right.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:53:50.264992
+(z0 / right-06
+    :ARG1 (z1 / it)
+    :mod (z2 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He told me about this.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:53:50.264996
+(z0 / tell-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / this)
+    :ARG2 (z3 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt And it is true.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:53:50.265000
+(z0 / and
+    :op2 (z1 / true-01
+             :ARG1 (z2 / it)))

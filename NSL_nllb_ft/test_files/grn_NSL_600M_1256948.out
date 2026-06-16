@@ -1,0 +1,24 @@
+==========================================
+Testing NSL English→Navajo NLLB200 Model
+Job ID: 1256948
+Node: dgx001
+==========================================
+  Test sentences : 3,196
+  Checkpoint     : /home/common/ACNLP/eng2nav/NSL_nllb_ft/grn_NSL_600M/fold_0/checkpoint-76010
+  eng_Latn → grn_Latn
+  forced_bos_token_id = 256063  (grn_Latn)
+  Translated 320/3196
+  Translated 640/3196
+  Translated 960/3196
+  Translated 1280/3196
+  Translated 1600/3196
+  Translated 1920/3196
+  Translated 2240/3196
+  Translated 2560/3196
+  Translated 2880/3196
+  Translated 3196/3196
+  Saved → /home/common/ACNLP/eng2nav/NSL_nllb_ft/grn_NSL_600M/fold_0/results/test_predictions.txt
+==========================================
+Testing complete!
+Predictions saved to: /home/common/ACNLP/eng2nav/NSL_nllb_ft/grn_NSL_600M/fold_0/results/test_predictions.txt
+==========================================

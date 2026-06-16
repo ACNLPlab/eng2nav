@@ -1,0 +1,73 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Maybe the range riders and district supervisors feel thankful for it because it reduced the stock
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:59.561801
+(z0 / possible-01
+    :ARG1 (z1 / feel-01
+              :ARG0 (z2 / and
+                        :op1 (z3 / person
+                                 :ARG0-of (z4 / ride-01
+                                              :ARG1 (z5 / range)))
+                        :op2 (z6 / person
+                                 :ARG0-of (z7 / have-org-role-92
+                                              :ARG2 (z8 / district)
+                                              :ARG3 (z9 / supervisor))))
+              :ARG1 (z10 / thank-01
+                         :ARG0 z2
+                         :ARG1 (z11 / it)
+                         :ARG1-of (z12 / cause-01
+                                       :ARG0 (z13 / reduce-01
+                                                  :ARG0 z11
+                                                  :ARG1 (z14 / stock))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt to the railroad.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:59.561817
+(z0 / have-direction-91
+    :ARG2 (z1 / railroad))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Many people lost stock.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:59.561822
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / stock))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:59.561826
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The pilots take turns.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:59.561831
+(z0 / turn-02
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / fly-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt and we hauled wood to the trading post.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:40:59.561835
+(z0 / and
+    :op2 (z1 / haul-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / wood)
+             :ARG2 (z4 / post
+                       :mod (z5 / trade))))

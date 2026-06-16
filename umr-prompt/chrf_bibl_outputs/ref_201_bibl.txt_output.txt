@@ -1,0 +1,102 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I can't think what his name was - I merely knew him by sight.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:05.077834
+(z0 / possible-01
+    :ARG1 (z1 / think-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / name
+                        :domain (z4 / he))
+              :polarity -)
+    :ARG2 (z5 / know-02
+              :ARG0 z2
+              :ARG1 z4
+              :manner (z6 / sight-01
+                          :ARG0 z2)
+              :mod (z7 / mere)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt A man of the Salty Water Clan whose name was Slender Lava had his family there, and his wife cooked all night for the men who were making the trouble.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:05.077852
+(z0 / and
+    :op1 (z1 / have-03
+             :ARG0 (z2 / man
+                       :mod (z3 / clan
+                                :name (z4 / name
+                                          :op1 "Salty"
+                                          :op2 "Water"
+                                          :op3 "Clan")
+                                :wiki "Salty_Water")
+                       :ARG1-of (z5 / name
+                                    :op1 "Slender"
+                                    :op3 "Lava"))
+             :ARG1 (z6 / there))
+    :op2 (z7 / eat-01
+             :ARG0 (z8 / woman
+                       :ARG1-of (z9 / have-rel-role-92
+                                    :ARG2 z2
+                                    :ARG3 (z10 / wife)))
+             :ARG2 (z11 / man
+                        :ARG0-of (z12 / trouble-01))
+             :duration (z13 / date-entity
+                            :dayperiod (z14 / night))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt They probably said this because they knew of the wars that were going on.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:05.077857
+(z0 / say-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / this)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / know-01
+                           :ARG0 z1
+                           :ARG1 (z5 / war-01)))
+    :ARG1-of (z6 / probable))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They knew this by means of a map and flight time.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:05.077861
+(z0 / know-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / this)
+    :manner (z3 / and
+                :op1 (z4 / map)
+                :op2 (z5 / time
+                         :purpose (z6 / fly-01))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt This is what that is what I heard. I wasn't at the meeting myself.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:05.077865
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / this
+              :domain (z3 / that))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt While they were making this move they stopped for the night, and it is said that I was born where they halted.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:07:05.077869
+(z0 / and
+    :op1 (z1 / stop-01
+             :ARG0 (z2 / they)
+             :temporal (z3 / move-01
+                           :ARG0 z2
+                           :mod (z4 / this))
+             :temporal (z5 / date-entity
+                           :dayperiod (z6 / night)))
+    :op2 (z7 / say-01
+             :ARG1 (z8 / bear-02
+                       :ARG1 (z9 / i)
+                       :place (z10 / halt-01
+                                   :ARG0 z2))))

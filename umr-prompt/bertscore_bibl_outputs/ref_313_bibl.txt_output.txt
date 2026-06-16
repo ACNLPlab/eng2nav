@@ -1,0 +1,68 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That day the fog was really thick.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:39.143006
+(z0 / thick-03
+    :ARG1 (z1 / fog)
+    :degree (z2 / really)
+    :temporal (z3 / day
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:39.143018
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Like on that other occasion, there was again a lot of fog.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:39.143022
+(z0 / fog
+    :ARG1-of (z1 / have-quant-91
+                 :ARG2 (z2 / lot)
+                 :ARG3 (z3 / lot))
+    :ARG1-of (z4 / resemble-91
+                 :ARG2 (z5 / fog
+                           :temporal (z6 / occasion
+                                         :mod (z7 / other)))
+                 :mod (z8 / again)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt That day we made four flights,
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:39.143027
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / day)
+                  :mod (z4 / that))
+    :frequency 4)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt But his boys were really impatient.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:39.143031
+(z0 / contrast-91
+    :ARG2 (z1 / patient-01
+              :ARG1 (z2 / boy
+                        :possessor (z3 / he))
+              :degree (z4 / really)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:12:39.143035
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))

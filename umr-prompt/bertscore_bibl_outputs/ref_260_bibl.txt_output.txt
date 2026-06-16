@@ -1,0 +1,83 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt And those of this band were lined up, one behind the other.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:11.858563
+(z0 / and
+    :op2 (z1 / align-02
+             :ARG1 (z2 / thing
+                       :mod (z3 / that)
+                       :ARG1-of (z4 / include-91
+                                    :ARG2 (z5 / band
+                                              :mod (z6 / this))))
+             :manner (z7 / behind-02
+                         :ARG1 z2
+                         :ARG2 z2
+                         :ARG3 (z8 / cartesian-framework-91
+                                   :ARG1 (z9 / builder))
+                         :quant (z10 / distance-quantity
+                                     :quant 1))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt The people of his band were standing with him.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:11.858581
+(z0 / stand-01
+    :ARG1 (z1 / person
+              :ARG1-of (z2 / have-org-role-92
+                           :ARG2 (z3 / he)
+                           :ARG3 (z4 / band
+                                     :possessor z3)))
+    :ARG2 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We always herded sheep with a burro, sitting one behind the other.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:11.858586
+(z0 / and
+    :op1 (z1 / herded-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / sheep)
+             :instrument (z4 / burro)
+             :temporal (z5 / always)
+             :manner (z6 / sit-01
+                         :ARG1 z4
+                         :ARG2 (z7 / space
+                                   :ARG1-of (z8 / behind-02
+                                                :ARG2 z3
+                                                :ARG3 (z9 / cartesian-framework-91
+                                                          :ARG1 (z10 / builder))
+                                                :quant (z11 / distance-quantity
+                                                            :quant 1))))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt These were many people.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:11.858590
+(z0 / person
+    :quant (z1 / many)
+    :mod (z2 / this))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then they all rushed in.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:11.858594
+(z0 / rush-01
+    :ARG1 (z1 / they
+              :mod (z2 / all))
+    :temporal (z3 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Nevertheless, we carried four loads.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:56:11.858598
+(z0 / have-concession-91
+    :ARG1 (z1 / carry-01
+              :ARG0 (z2 / we)
+              :ARG1 (z3 / load
+                        :quant 4)))

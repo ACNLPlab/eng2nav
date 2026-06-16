@@ -1,0 +1,59 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That was what I thought.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:05.991905
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt That’s what I think.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:05.991922
+(z0 / think-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:05.991927
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt They thought it would be easy
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:05.991931
+(z0 / think-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / easy-05
+              :ARG1 (z3 / it)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was out through there that Chee came.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:05.991935
+(z0 / come-01
+    :ARG1 (z1 / person
+              :name (z2 / name
+                        :op1 "Chee")
+              :wiki -)
+    :ARG4 (z3 / there)
+    :direction (z4 / out))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt But that was right. We had volunteered for school.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:16:05.991939
+(z0 / contrast-91
+    :ARG2 (z1 / right-06
+              :ARG2 (z2 / that)))

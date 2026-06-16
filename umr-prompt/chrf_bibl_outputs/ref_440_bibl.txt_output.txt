@@ -1,0 +1,105 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt “Bear is called by other names,”
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:10.234505
+(z0 / call-01
+    :ARG1 (z1 / bear)
+    :ARG2 (z2 / name
+              :mod (z3 / other)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt One was called Bead Clan Gambler, and he was a member of the police force.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:10.234529
+(z0 / and
+    :op1 (z1 / call-01
+             :ARG1 (z2 / one)
+             :ARG2 (z3 / business
+                       :name (z4 / name
+                                 :op1 "Bade"
+                                 :op2 "Clan"
+                                 :op3 "Gambler")
+                       :wiki "Bead_Clan"))
+    :op2 (z5 / have-org-role-92
+             :ARG1 z2
+             :ARG2 (z6 / police)
+             :ARG3 (z7 / member)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt he would say, instructing me. "In the summer time it is called 'bushy-tail'.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:10.234534
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / instruct-01
+              :ARG0 z1
+              :ARG1 (z3 / i)
+              :temporal (z4 / time
+                            :temporal-of (z5 / summer))
+              :temporal (z6 / call-01
+                            :ARG1 (z7 / it)
+                            :ARG2 (z8 / bushy-tail))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He was merely called Interpreter's Father-in-law (?)
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:10.234538
+(z0 / call-01
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / person
+              :ARG1-of (z3 / have-rel-role-92
+                           :ARG2 (z4 / interpreter)
+                           :ARG3 (z5 / father)))
+    :mod (z6 / mere)
+    :polarity (z7 / umr-unknown))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt And it turned out that my grandfather, who was called Big Mexican Clansman, was there too.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:10.234542
+(z0 / and
+    :op2 (z1 / turn-01
+             :ARG1 (z2 / there
+                       :place-of (z3 / person
+                                     :ARG1-of (z4 / have-rel-role-92
+                                                  :ARG2 (z5 / i)
+                                                  :ARG3 (z6 / grandfather))
+                                     :ARG1-of (z7 / call-01
+                                                  :ARG2 (z8 / cultural-group
+                                                            :name (z9 / name
+                                                                      :op1 "Big"
+                                                                      :op2 "Mexican"
+                                                                      :op3 "Clansman")
+                                                            :wiki "Big_Mexican_Clansman")))
+                       :mod (z10 / too))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt Of those menfolk who were talking to one another about it, one was called Weela. He lived over behind Round Rock
+# ::annotator bart-amr
+# ::date 2025-10-22 00:46:10.234547
+(z0 / include-91
+    :ARG1 (z1 / man
+              :ARG1-of (z2 / include-91
+                           :ARG2 (z3 / and
+                                     :op1 (z4 / talk-01
+                                              :ARG0 (z5 / man)
+                                              :ARG1 (z6 / it)
+                                              :ARG2 (z7 / other)))
+                           :op2 (z8 / person
+                                    :name (z9 / name
+                                              :op1 "Weela")
+                                    :wiki -))
+              :ARG2 (z10 / person
+                         :ARG0-of (z11 / live-01
+                                       :place (z12 / behind
+                                                   :op1 (z13 / city
+                                                             :name (z14 / name
+                                                                        :op1 "Round"
+                                                                        :op2 "Rock")
+                                                             :wiki "Round_Rock,_Texas"))))))

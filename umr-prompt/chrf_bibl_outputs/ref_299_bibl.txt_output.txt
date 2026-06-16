@@ -1,0 +1,79 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt Then we turned around
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:31.644732
+(z0 / turn-01
+    :ARG1 (z1 / we)
+    :direction (z2 / around)
+    :temporal (z3 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We continued to Kayenta where we turned around.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:31.644743
+(z0 / continue-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Kayenta")
+              :place-of (z4 / turn-01
+                            :ARG1 z1
+                            :direction (z5 / around))
+              :wiki "Kayenta,_Arizona"))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I turned around and came back to him.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:31.644748
+(z0 / and
+    :op1 (z1 / turn-01
+             :ARG1 (z2 / i)
+             :direction (z3 / around))
+    :op2 (z4 / come-01
+             :ARG1 z2
+             :ARG4 (z5 / he)
+             :direction (z6 / back)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There was a boy of the Big Water Clan with whom I always chummed around.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:31.644752
+(z0 / boy
+    :possessor (z1 / local-region
+                   :name (z2 / name
+                             :op1 "Big"
+                             :op2 "Water"
+                             :op3 "Clan")
+                   :wiki "Bigwater_Clan")
+    :ARG1-of (z3 / chum-01
+                 :ARG2 (z4 / i)
+                 :temporal (z5 / always)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Then we took off
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:31.644756
+(z0 / take-off-07
+    :ARG0 (z1 / we)
+    :temporal (z2 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt In the late evening we all returned to Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:49:31.644761
+(z0 / return-01
+    :ARG1 (z1 / we
+              :mod (z2 / all))
+    :ARG4 (z3 / city
+              :name (z4 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona")
+    :temporal (z5 / late-01
+                  :ARG2 (z6 / date-entity
+                            :dayperiod (z7 / evening))))

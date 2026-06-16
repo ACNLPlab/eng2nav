@@ -1,0 +1,105 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt People would merely bring them branches.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:06.558859
+(z0 / bring-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / branch)
+    :ARG2 (z3 / they)
+    :mod (z4 / mere))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt But when one would be riding the burro the billy goat would merely look up if one teased him.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:06.558872
+(z0 / contrast-91
+    :ARG2 (z1 / look-01
+              :ARG0 (z2 / goat
+                        :mod (z3 / billy))
+              :ARG1 (z4 / up)
+              :condition (z5 / tease-01
+                             :ARG0 (z6 / one)
+                             :ARG1 z2)
+              :mod (z7 / mere)
+              :condition (z8 / ride-01
+                             :ARG0 z6
+                             :ARG1 (z9 / burro))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt Over to one side of Black Horse the people were merely milling around.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:06.558876
+(z0 / mill-01
+    :ARG0 (z1 / person)
+    :ARG1 (z2 / around)
+    :mod (z3 / mere)
+    :place (z4 / space
+               :ARG1-of (z5 / next-to-02
+                            :ARG2 (z6 / side
+                                      :part-of (z7 / horse
+                                                   :name (z8 / name
+                                                             :op1 "Black"
+                                                             :op2 "Horse")
+                                                   :wiki "Black_Horse")
+                                      :quant 1)
+                            :ARG3 (z9 / cartesian-framework-91
+                                      :ARG1 (z10 / builder)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt A lot of people were standing alongside the trading post, and I among them.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:06.558881
+(z0 / and
+    :op1 (z1 / stand-01
+             :ARG1 (z2 / person
+                       :quant (z3 / lot))
+             :ARG2 (z4 / space
+                       :ARG1-of (z5 / beside-01
+                                    :ARG2 (z6 / post
+                                              :mod (z7 / trade))
+                                    :ARG3 (z8 / cartesian-framework-91
+                                              :ARG1 z6
+                                              :FR (z9 / relative-to-builder))))
+             :op2 (z10 / include-91
+                       :ARG1 (z11 / person
+                                  :ARG1-of (z12 / include-91
+                                                :ARG2 z2))
+                       :ARG2 (z13 / person
+                                  :ARG1-of (z14 / include-91
+                                                :ARG2 z2)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt As we flew over them we watched and saw people swarming about.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:06.558885
+(z0 / and
+    :op1 (z1 / watch-01
+             :ARG0 (z2 / we)
+             :temporal (z3 / over-04
+                           :ARG1 z2
+                           :ARG2 (z4 / they)
+                           :ARG3 (z5 / cartesian-framework-91
+                                     :ARG1 (z6 / build-space))))
+    :op2 (z7 / see-01
+             :ARG0 z2
+             :ARG1 (z8 / swarm-01
+                       :ARG0 (z9 / person)
+                       :place (z10 / about))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt These people from the other side of the mountain were saying this.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:34:06.558889
+(z0 / say-01
+    :ARG0 (z1 / person
+              :mod (z2 / this)
+              :source (z3 / side
+                          :ARG1-of (z4 / other-01)
+                          :part-of (z5 / mountain)))
+    :ARG1 (z6 / this))

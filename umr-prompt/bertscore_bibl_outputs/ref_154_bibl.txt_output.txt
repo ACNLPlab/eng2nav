@@ -1,0 +1,77 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They met (the school party) at Blue Clay Point
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:16.420101
+(z0 / meet-03
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / party
+              :mod (z3 / school))
+    :place (z4 / point
+               :name (z5 / name
+                         :op1 "Blue"
+                         :op2 "Clay"
+                         :op3 "Point")
+               :wiki "Blue_Clay_Point_Naval_Base"))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We went to the Navy Field.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:16.420117
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / field
+              :mod (z3 / navy)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We went to Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:16.420122
+(z0 / go-02
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt We flew over Winslow.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:16.420126
+(z0 / fly-01
+    :ARG0 (z1 / we)
+    :ARG4 (z2 / city
+              :name (z3 / name
+                        :op1 "Winslow")
+              :wiki "Winslow,_Virginia"))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt The two of them built the trading post at the place called Blue Clay Point.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:16.420130
+(z0 / build-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / post
+              :purpose (z3 / trade-01))
+    :place (z4 / place
+               :name (z5 / name
+                         :op1 "Blue"
+                         :op2 "Clay"
+                         :op3 "Point")
+               :wiki "Blue_Clay_Point"))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We landed in Phoenix.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:21:16.420134
+(z0 / land-01
+    :ARG1 (z1 / we)
+    :ARG2 (z2 / city
+              :name (z3 / name
+                        :op1 "Phoenix")
+              :wiki "Phoenix,_Arizona"))

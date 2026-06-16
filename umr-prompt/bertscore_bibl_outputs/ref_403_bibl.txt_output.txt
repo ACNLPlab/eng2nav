@@ -1,0 +1,70 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt I looked the place over from there.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:02.172055
+(z0 / look-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / place)
+    :source (z3 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt I stopped at a place far removed from the scene.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:02.172067
+(z0 / stop-01
+    :ARG0 (z1 / i)
+    :ARG2 (z2 / place
+              :ARG1-of (z3 / remove-01
+                           :ARG2 (z4 / scene)
+                           :degree (z5 / far))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt I stopped right there and looked at him.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:02.172072
+(z0 / and
+    :op1 (z1 / stop-01
+             :ARG0 (z2 / i)
+             :place (z3 / there
+                        :mod (z4 / right-yy))
+             :op2 (z5 / look-01
+                      :ARG0 z2
+                      :ARG1 (z6 / he))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:02.172076
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt and threw them at the dogs.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:02.172080
+(z0 / and
+    :op2 (z1 / throw-01
+             :ARG0 (z2 / i)
+             :ARG1 (z3 / they)
+             :ARG2 (z4 / dog)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We headed them off toward the flat.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:38:02.172084
+(z0 / head-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / they)
+    :direction (z3 / trajectory
+                   :ARG4-of (z4 / toward-01
+                                :ARG2 (z5 / flat-06))))

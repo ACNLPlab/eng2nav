@@ -1,0 +1,103 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We Navajos still haven't found out that God is punishing us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:38:26.712654
+(z0 / find-01
+    :ARG0 (z1 / we
+              :mod (z2 / country
+                       :name (z3 / name
+                                 :op1 "Navajos")
+                       :wiki "Navajo_Nation"))
+    :ARG1 (z4 / punish-01
+              :ARG0 (z5 / person
+                        :name (z6 / name
+                                  :op1 "God")
+                        :wiki "God")
+              :ARG1 z1)
+    :mod (z7 / still)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt South from the trading post there is a ruin which we call in Navajo "Shattered House." Someone burned it long ago.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:38:26.712672
+(z0 / ruin-01
+    :ARG1-of (z1 / call-01
+                 :ARG0 (z2 / we)
+                 :ARG2 (z3 / house
+                           :name (z4 / name
+                                     :op1 "Shattered"
+                                     :op2 "House")
+                           :wiki "Shattered_House"))
+    :place (z5 / space
+               :ARG1-of (z6 / south-01
+                            :ARG2 (z7 / post
+                                      :mod (z8 / trade))
+                            :ARG3 (z9 / cartesian-framework-91
+                                      :ARG1 (z10 / builder)))
+               :ARG1-of (z11 / burn-01
+                             :ARG0 (z12 / someone)
+                             :temporal (z13 / before
+                                            :op1 (z14 / now)
+                                            :quant (z15 / long)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt He was picking up things that were scattered on the ground about him, such as sticks and stones,
+# ::annotator bart-amr
+# ::date 2025-10-22 00:38:26.712677
+(z0 / pick-up-04
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / thing
+              :ARG1-of (z3 / scatter-01
+                           :ARG2 (z4 / ground)
+                           :place (z5 / about
+                                      :op1 z1))
+              :example (z6 / and
+                           :op1 (z7 / stick)
+                           :op2 (z8 / stone))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There is a passage where God says that the people will be punished, and that's what happened.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:38:26.712681
+(z0 / and
+    :op1 (z1 / passage
+             :place-of (z2 / say-01
+                           :ARG0 (z3 / person
+                                     :name (z4 / name
+                                               :op1 "God")
+                                     :wiki "God")
+                           :ARG1 (z5 / punish-01
+                                     :ARG1 (z6 / person))))
+    :op2 (z7 / event))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt That is all that we found out .
+# ::annotator bart-amr
+# ::date 2025-10-22 00:38:26.712685
+(z0 / find-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / that)
+    :mod (z3 / all))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt He used to be out there early in the morning with a stick especially made for that purpose.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:38:26.712689
+(z0 / have-place-91
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / there)
+    :ARG3 (z3 / stick
+              :ARG1-of (z4 / make-01
+                           :ARG2 (z5 / purpose
+                                     :mod (z6 / that))
+                           :degree (z7 / especially)))
+    :temporal (z8 / early-01
+                  :ARG2 (z9 / date-entity
+                            :dayperiod (z10 / morning))))

@@ -1,0 +1,53 @@
+========================================================
+STARTING EXPERIMENT: fin_NOsyll_600M
+Started at: Wed Mar  4 08:13:52 PM EST 2026
+========================================================
+CONFIGURATION:
+  Experiment: fin_NOsyll_600M
+  Target language: fin_Latn
+  Syllabification: --no_syllabify
+  Model: 600M
+  Learning rate: 2e-5
+  Epochs: 10
+  Batch size: 4
+  Fold: all
+  Output dir: fin_NOsyll_600M
+========================================================
+All input files found.
+========================================================
+NVIDIA A100-SXM4-80GB, 81920 MiB
+Starting training at: Wed Mar  4 08:13:54 PM EST 2026
+
+================================================================================
+ENGLISH→NAVAJO TRAINING PIPELINE
+================================================================================
+[DEBUG] Configuration:
+  Model size: 600M
+  Target language: fin_Latn
+  Syllabification: DISABLED
+  Output directory: fin_NOsyll_600M
+  Epochs per fold: 10
+  Batch size: 4
+  Gradient accumulation: 4
+  Learning rate: 2e-05
+  Max sequence length: 256
+  K-folds: 5
+  Random seed: 42
+  Fold mode: ALL folds
+================================================================================
+
+============================================================
+[DEBUG] Loading Bible data...
+[DEBUG] English file: aligned_bibles/english_nlt.txt
+[DEBUG] Navajo file: aligned_bibles/navajo_nvjob.txt
+[DEBUG] Loaded 30,020 pairs
+[DEBUG] First English sample: And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reign...
+[DEBUG] First Navajo sample: Kódahóót'įįdóó bik'ijį' Áman dine'é aláahgo binanit'a'í daaztsą́ągo bitsásk'ehgi biye' Héínan aláahg...
+============================================================
+
+============================================================
+[DEBUG] Loading User data...
+[DEBUG] English file: my_english.txt
+[DEBUG] Navajo file: my_navajo.txt
+========================================================
+TRAINING FAILED at: Wed Mar  4 08:13:58 PM EST 2026

@@ -1,0 +1,72 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt and was one of the leaders at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:28:38.871927
+(z0 / and
+    :op2 (z1 / person
+             :ARG1-of (z2 / lead-02
+                          :temporal (z3 / time
+                                        :mod (z4 / that)))
+             :quant 1))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt he was perhaps nine years old at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:28:38.871944
+(z0 / have-age-91
+    :ARG1 (z1 / he)
+    :ARG2 (z2 / temporal-quantity
+              :unit (z3 / year)
+              :quant 9)
+    :ARG3 (z4 / perhaps)
+    :temporal (z5 / time
+                  :mod (z6 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt A man by the name of Black Horse was the leader of that faction.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:28:38.871948
+(z0 / lead-02
+    :ARG0 (z1 / man
+              :name (z2 / name
+                        :op1 "Black"
+                        :op2 "Horse")
+              :wiki -)
+    :ARG1 (z3 / faction
+              :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt It was very beautiful up there on the mountain at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:28:38.871953
+(z0 / beautiful-02
+    :ARG1 (z1 / it)
+    :place (z2 / there
+               :place (z3 / mountain))
+    :temporal (z4 / time
+                  :mod (z5 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He was a policeman back at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:28:38.871957
+(z0 / have-org-role-92
+    :ARG1 (z1 / he)
+    :ARG3 (z2 / policeman)
+    :temporal (z3 / time
+                  :mod (z4 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We were punished at that time.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:28:38.871961
+(z0 / punish-01
+    :ARG1 (z1 / we)
+    :temporal (z2 / time
+                  :mod (z3 / that)))

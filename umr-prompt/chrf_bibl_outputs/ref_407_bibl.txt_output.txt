@@ -1,0 +1,83 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt They wouldn't go on.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:53.306765
+(z0 / go-06
+    :ARG0 (z1 / they)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt They would break through this crust, and just stand there.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:53.306782
+(z0 / and
+    :op1 (z1 / break-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / crust
+                       :mod (z4 / this)))
+    :op2 (z5 / stand-01
+             :ARG1 z2
+             :mod (z6 / just)
+             :place (z7 / there)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt You couldn't see the earth below.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:53.306787
+(z0 / possible-01
+    :ARG1 (z1 / see-01
+              :ARG0 (z2 / you)
+              :ARG1 (z3 / earth
+                        :ARG1-of (z4 / below-01
+                                     :ARG3 (z5 / cartesian-framework-91
+                                               :ARG1 (z6 / build-space))))
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Then they would starve or freeze to death right where they stood.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:53.306791
+(z0 / or
+    :op1 (z1 / starve-01
+             :ARG1 (z2 / they))
+    :op2 (z3 / freeze-02
+             :ARG1 z2)
+    :temporal (z4 / then)
+    :place (z5 / stand-01
+               :ARG1 z2
+               :mod (z6 / right-yy)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt He simply couldn't find it.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:53.306795
+(z0 / possible-01
+    :ARG1 (z1 / find-01
+              :ARG0 (z2 / he)
+              :ARG1 (z3 / it)
+              :mod (z4 / simple))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt They work on a basis of single minutes. They would say it's so far between certain points.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:32:53.306799
+(z0 / and
+    :op1 (z1 / work-01
+             :ARG0 (z2 / they)
+             :ARG1 (z3 / temporal-quantity
+                       :unit (z4 / minute)
+                       :quant 1))
+    :op2 (z5 / say-01
+             :ARG0 z2
+             :ARG1 (z6 / between-01
+                       :ARG1 (z7 / it)
+                       :ARG2 (z8 / point
+                                 :mod (z9 / certain))
+                       :ARG3 (z10 / so))))

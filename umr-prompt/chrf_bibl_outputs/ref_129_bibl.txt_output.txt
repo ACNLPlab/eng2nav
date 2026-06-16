@@ -1,0 +1,109 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It was there that my grandfather spoke and promised us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:13.608505
+(z0 / and
+    :op1 (z1 / speak-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather))))
+    :op2 (z6 / promise-01
+             :ARG0 z2
+             :ARG1 (z7 / we))
+    :place (z8 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt And it turned out that my grandfather, who was called Big Mexican Clansman, was there too.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:13.608530
+(z0 / and
+    :op2 (z1 / turn-01
+             :ARG1 (z2 / there
+                       :place-of (z3 / person
+                                     :ARG1-of (z4 / have-rel-role-92
+                                                  :ARG2 (z5 / i)
+                                                  :ARG3 (z6 / grandfather))
+                                     :ARG1-of (z7 / call-01
+                                                  :ARG2 (z8 / cultural-group
+                                                            :name (z9 / name
+                                                                      :op1 "Big"
+                                                                      :op2 "Mexican"
+                                                                      :op3 "Clansman")
+                                                            :wiki "Big_Mexican_Clansman")))
+                       :mod (z10 / too))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt That is the way my grandfather drove me about and spoke to me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:13.608534
+(z0 / and
+    :op1 (z1 / drive-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather))
+                       :direction (z6 / about))
+             :op2 (z7 / speak-01
+                      :ARG0 z2
+                      :ARG2 z4))
+    :domain (z8 / that))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt You cannot escape them anyway," my uncle and my grandfather said to us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:13.608539
+(z0 / say-01
+    :ARG0 (z1 / and
+              :op1 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / uncle)))
+              :op2 (z6 / person
+                       :ARG1-of (z7 / have-rel-role-92
+                                    :ARG2 z4
+                                    :ARG3 (z8 / grandfather))))
+    :ARG1 (z9 / possible-01
+              :ARG1 (z10 / escape-01
+                         :ARG0 z4
+                         :ARG1 (z11 / they)
+                         :mod (z12 / anyway))
+              :polarity -)
+    :ARG2 (z13 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt So then my grandfather, the man I spoke of as Big Mexican Clansman, volunteered to join him
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:13.608542
+(z0 / volunteer-01
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / grandfather))
+              :ARG1-of (z5 / talk-01
+                           :ARG0 z3
+                           :ARG2 (z6 / cultural-group
+                                     :name (z7 / name
+                                               :op1 "Big"
+                                               :op2 "Mexican"
+                                               :op3 "Clansman")
+                                     :wiki "Big_Mexican_Clansman")))
+    :ARG1 (z8 / join-01
+              :ARG0 z1
+              :ARG1 z4)
+    :temporal (z9 / then))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt It was there that they carried on the ceremony.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:31:13.608547
+(z0 / carry-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / ceremony)
+    :place (z3 / there))

@@ -1,0 +1,88 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:36:34.707086
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt We were punished at that time.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:36:34.707117
+(z0 / punish-01
+    :ARG1 (z1 / we)
+    :temporal (z2 / time
+                  :mod (z3 / that)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt We Navajos still haven't found out that God is punishing us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:36:34.707121
+(z0 / find-01
+    :ARG0 (z1 / we
+              :mod (z2 / country
+                       :name (z3 / name
+                                 :op1 "Navajos")
+                       :wiki "Navajo_Nation"))
+    :ARG1 (z4 / punish-01
+              :ARG0 (z5 / person
+                        :name (z6 / name
+                                  :op1 "God")
+                        :wiki "God")
+              :ARG1 z1)
+    :mod (z7 / still)
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt There is a passage where God says that the people will be punished, and that's what happened.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:36:34.707126
+(z0 / and
+    :op1 (z1 / passage
+             :place-of (z2 / say-01
+                           :ARG0 (z3 / person
+                                     :name (z4 / name
+                                               :op1 "God")
+                                     :wiki "God")
+                           :ARG1 (z5 / punish-01
+                                     :ARG1 (z6 / person))))
+    :op2 (z7 / event))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt It was there that my grandfather spoke and promised us.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:36:34.707130
+(z0 / and
+    :op1 (z1 / speak-01
+             :ARG0 (z2 / person
+                       :ARG1-of (z3 / have-rel-role-92
+                                    :ARG2 (z4 / i)
+                                    :ARG3 (z5 / grandfather))))
+    :op2 (z6 / promise-01
+             :ARG0 z2
+             :ARG1 (z7 / we))
+    :place (z8 / there))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt We dumped these on the Hopis.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:36:34.707134
+(z0 / dump-01
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / thing
+              :mod (z3 / this))
+    :ARG2 (z4 / person
+              :mod (z5 / ethnic-group
+                       :name (z6 / name
+                                 :op1 "Hopis")
+                       :wiki "Hopis")))

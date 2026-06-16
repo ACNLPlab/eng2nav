@@ -1,0 +1,61 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt We considered school as good news.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:36.641245
+(z0 / consider-02
+    :ARG0 (z1 / we)
+    :ARG1 (z2 / news
+              :ARG1-of (z3 / good-02)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt This was welcome news.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:36.641257
+(z0 / welcome-01
+    :ARG1 (z1 / news
+              :mod (z2 / this)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt God punished us.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:36.641261
+(z0 / punish-01
+    :ARG0 (z1 / person
+              :name (z2 / name
+                        :op1 "God")
+              :wiki "God")
+    :ARG1 (z3 / we))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt He was really angry.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:36.641265
+(z0 / anger-01
+    :ARG0 (z1 / he)
+    :degree (z2 / really))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt Many people lost stock.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:36.641269
+(z0 / lose-02
+    :ARG0 (z1 / person
+              :quant (z2 / many))
+    :ARG1 (z3 / stock))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt My cousin followed me.
+# ::annotator bart-amr
+# ::date 2025-10-21 22:43:36.641274
+(z0 / follow-02
+    :ARG0 (z1 / person
+              :ARG1-of (z2 / have-rel-role-92
+                           :ARG2 (z3 / i)
+                           :ARG3 (z4 / cousin)))
+    :ARG1 z3)

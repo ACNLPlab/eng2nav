@@ -1,0 +1,80 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt That's what the pilot (of this plane) told me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:59.028163
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / pilot-01
+                           :ARG1 (z3 / plane
+                                     :mod (z4 / this))))
+    :ARG1 (z5 / that)
+    :ARG2 (z6 / i))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt There is a passage where God says that the people will be punished, and that's what happened.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:59.028197
+(z0 / and
+    :op1 (z1 / passage
+             :place-of (z2 / say-01
+                           :ARG0 (z3 / person
+                                     :name (z4 / name
+                                               :op1 "God")
+                                     :wiki "God")
+                           :ARG1 (z5 / punish-01
+                                     :ARG1 (z6 / person))))
+    :op2 (z7 / event))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The pilot told me he didn't blame me for being scared.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:59.028201
+(z0 / tell-01
+    :ARG0 (z1 / person
+              :ARG0-of (z2 / fly-01))
+    :ARG1 (z3 / blame-01
+              :ARG0 z1
+              :ARG1 (z4 / i)
+              :ARG2 (z5 / fear-01
+                        :ARG0 z4)
+              :polarity -)
+    :ARG2 z4)
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Don't you remember? That's why I told you that.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:59.028206
+(z0 / remember-01
+    :ARG0 (z1 / you)
+    :ARG1 (z2 / that)
+    :ARG1-of (z3 / cause-01
+                 :ARG0 (z4 / tell-01
+                           :ARG0 z1
+                           :ARG1 (z5 / that)
+                           :ARG2 z1))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt This is what that is what I heard. I wasn't at the meeting myself.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:59.028210
+(z0 / hear-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / this
+              :domain (z3 / that))
+    :polarity -)
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt That is what took place that night.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:27:59.028215
+(z0 / event
+    :mod (z1 / that)
+    :temporal (z2 / date-entity
+                  :dayperiod (z3 / night)))

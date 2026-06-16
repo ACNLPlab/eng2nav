@@ -1,0 +1,113 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt So I dashed toward him. ”Here comes a bear, cousin.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:52:43.870575
+(z0 / say-91
+    :ARG1 (z1 / come-33
+              :ARG1 (z2 / bear)
+              :ARG2 (z3 / person
+                        :ARG1-of (z4 / have-rel-role-92
+                                     :ARG2 (z5 / i)
+                                     :ARG3 (z6 / cousin)))
+              :quote z0)
+    :ARG1-of (z7 / cause-01
+                 :ARG0 (z8 / dashed-01
+                           :ARG0 (z1000 / toward
+                                        :op1 (z9 / he)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt so one day I decided to have some fun with my cousin by running down toward him as he walked along below me.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:52:43.870592
+(z0 / cause-01
+    :ARG1 (z1 / decide-01
+              :ARG0 (z2 / i)
+              :ARG1 (z3 / fun-01
+                        :ARG0 z2
+                        :ARG2 (z4 / person
+                                  :ARG1-of (z5 / have-rel-role-92
+                                               :ARG2 z2
+                                               :ARG3 (z6 / cousin)))
+                        :quant (z7 / some))
+              :manner (z8 / run-02
+                          :ARG0 z2
+                          :direction (z9 / trajectory
+                                         :ARG4-of (z10 / down-03
+                                                       :ARG5 (z11 / cartesian-framework-91
+                                                                  :ARG1 (z12 / build-space))))
+                          :temporal (z13 / walk-01
+                                         :ARG0 z4
+                                         :direction (z14 / along)
+                                         :place (z15 / below
+                                                     :op1 z2
+                                                     :ARG3 z11)))
+              :temporal (z16 / day
+                             :mod (z17 / one))))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt and we heard that they were coming here sometime soon.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:52:43.870596
+(z0 / and
+    :op2 (z1 / hear-01
+             :ARG0 (z2 / we)
+             :ARG1 (z3 / come-01
+                       :ARG1 (z4 / they)
+                       :ARG4 (z5 / here)
+                       :temporal (z6 / soon
+                                     :mod (z7 / sometime)))))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt When I was little, perhaps eight years old, I used to herd sheep up on top of Lukachukai Mountain with a cousin.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:52:43.870601
+(z0 / herd-01
+    :ARG0 (z1 / i)
+    :ARG1 (z2 / sheep)
+    :place (z3 / mountain
+               :name (z4 / name
+                         :op1 "Lukachukai"
+                         :op2 "Mountain")
+               :wiki "Lukachukai_National_Park")
+    :companion (z5 / person
+                   :ARG1-of (z6 / have-rel-role-92
+                                :ARG2 z1
+                                :ARG3 (z7 / cousin)))
+    :temporal (z8 / little-01
+                  :ARG1 z1
+                  :ARG2 (z9 / temporal-quantity
+                            :unit (z10 / year)
+                            :quant 8)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt But one does not mention their name "bear”. People who live over there toward the mountains never say “bear”.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:52:43.870605
+(z0 / contrast-91
+    :ARG2 (z1 / mention-01
+              :ARG0 (z2 / one)
+              :ARG1 (z3 / name
+                        :op1 "bear")
+              :polarity -))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt I got over to where the dog was barking, and there I saw a bear standing.
+# ::annotator bart-amr
+# ::date 2025-10-22 00:52:43.870609
+(z0 / and
+    :op1 (z1 / get-01
+             :ARG0 (z2 / i)
+             :ARG4 (z3 / over
+                       :op1 (z4 / barking-01
+                                :ARG0 (z5 / dog))))
+    :op2 (z6 / see-01
+             :ARG0 z2
+             :ARG1 (z7 / stand-01
+                       :ARG1 (z8 / bear))
+             :place z3))

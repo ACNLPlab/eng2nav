@@ -1,0 +1,97 @@
+# ::source english_umr-0001.umr
+# ::nsent 1
+# ::snt It's a life or death matter when you ride a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:47.007808
+(z0 / matter-01
+    :ARG1 (z1 / it)
+    :ARG2 (z2 / or
+              :op1 (z3 / life)
+              :op2 (z4 / die-01))
+    :condition (z5 / ride-01
+                   :ARG0 (z6 / you)
+                   :ARG1 (z7 / plane)))
+
+# ::source english_umr-0001.umr
+# ::nsent 2
+# ::snt They radioed ahead that these men were aboard such and such a plane.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:47.007838
+(z0 / radio-01
+    :ARG0 (z1 / they)
+    :ARG1 (z2 / and
+              :op1 (z3 / aboard-01
+                       :ARG1 (z4 / man
+                                 :mod (z5 / this))
+                       :ARG2 (z6 / plane
+                                 :mod (z7 / such)
+                                 :mod (z8 / such)))
+              :op2 (z9 / ahead)))
+
+# ::source english_umr-0001.umr
+# ::nsent 3
+# ::snt The plane almost turned over with me (looking for it),” he said with concern.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:47.007843
+(z0 / say-01
+    :ARG0 (z1 / he)
+    :ARG1 (z2 / turn-01
+              :ARG1 (z3 / plane)
+              :companion z1
+              :temporal (z4 / look-01
+                            :ARG0 z1
+                            :ARG1 (z5 / it))
+              :degree (z6 / almost)
+              :quote z0)
+    :manner (z7 / concern-01
+                :ARG0 z1))
+
+# ::source english_umr-0001.umr
+# ::nsent 4
+# ::snt Travel by plane means that death is involved
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:47.007847
+(z0 / mean-01
+    :ARG1 (z1 / travel-01
+              :manner (z2 / plane))
+    :ARG2 (z3 / involve-01
+              :ARG1 (z4 / die-01)))
+
+# ::source english_umr-0001.umr
+# ::nsent 5
+# ::snt When the rams would attack and butt each other we would each get astride a ram and then urge them to attack.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:47.007851
+(z0 / and
+    :op1 (z1 / get-04
+             :ARG0 (z2 / we
+                       :mod (z3 / each))
+             :ARG1 (z4 / stride-01
+                       :ARG0 z2
+                       :ARG1 (z5 / ram))
+             :op2 (z6 / urge-01
+                      :ARG0 z2
+                      :ARG1 (z7 / attack-01
+                                :ARG0 z5
+                                :ARG1 z5)
+                      :temporal (z8 / then))
+             :temporal (z9 / and
+                           :op1 (z10 / attack-01
+                                     :ARG0 z5
+                                     :ARG1 z5)
+                           :op2 (z11 / butt-03
+                                     :ARG0 z5
+                                     :ARG1 z5))))
+
+# ::source english_umr-0001.umr
+# ::nsent 6
+# ::snt So they began to think of the matter with bitterness.
+# ::annotator bart-amr
+# ::date 2025-10-21 23:59:47.007856
+(z0 / cause-01
+    :ARG1 (z1 / begin-01
+              :ARG0 (z2 / they)
+              :ARG1 (z3 / think-01
+                        :ARG0 z2
+                        :ARG1 (z4 / matter)
+                        :manner (z5 / bitterness))))
