@@ -1,0 +1,7092 @@
+(s1e / exist-91
+	:ARG1 (s1d / dahane’
+		:topic (s1h / ha’níigo
+			:theme (s1x / ’ádahóót’įįd
+				:place (s1b2 / bikáa’gi-
+					:part (s1n / nahasdzáán
+						:mod (s1d2 / díí)
+						:place-of (s1s / si’ánígíí
+							:mod (s1d3 / dah-)
+							:companion (s1p / person
+								:refer-person 1st
+								:refer-number plural)
+							:aspect state)))
+				:time (s1a / ałk’idą́ą́’)
+				:aspect performance
+				:quote s1h))
+		:refer-number plural)
+	:aspect state)
+
+
+(s2d / daaní
+	:actor (s2p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:theme (s2x / ’áhóót’įįd
+		:place (s2m / mountain
+			:name (s2n / name
+				:op1 "Ch’óol’į́’í")
+			:wiki "El_Gobernador_Knob")
+		:aspect performance
+		:quote s2d)
+	:aspect habitual)
+
+
+(s3j / jiní
+	:aspect habitual
+	:theme (s3n / nidzíiztą́
+		:actor (s3a / and
+			:op1 (s3p / person
+				:name (s3n2 / name
+					:op1 "Áłtsé"
+					:op2 "Hastiin"))
+			:op2 (s3p2 / person
+				:name (s3n3 / name
+					:op1 "’Áłtsé"
+					:op2 "’Asdzą́ą́"))
+			:op3 (s3p3 / person
+				:name (s3n4 / name
+					:op1 "Yoołgaii"
+					:op2 "’Asdzą́ą́"))
+			:op4 (s3p4 / person
+				:name (s3n5 / name
+					:op1 "Asdzą́ą́"
+					:op2 "Nádleehé")))
+		:temporal (s3x / ’ahíjiikaigo
+			:aspect performance
+			:actor s3a
+			:modal-strength full-affirmative)
+		:aspect performance
+		:quote s3j
+		:modal-strength full-affirmative)
+	:modal-strength full-affirmative)
+
+
+(s4j / jiní
+	:aspect habitual
+	:theme (s4x / ’ajííghal
+		:aspect endeavor
+		:quote s4j
+		:experiencer (s4p / person
+			:name (s4n / name
+				:op1 "’Áłtsé"
+				:op2 "Hastiin"))
+		:stimulus (s4m / mountain
+			:name (s4n2 / name
+				:op1 "Ch’óol’į́’í")
+			:part-of (s4b / bílátahgi
+				:place-of (s4s2 / shoogish
+					:aspect state
+					:manner (s4d2 / dah)
+					:undergoer (s4k2 / k’os
+						:ARG1-of (s4h2 / have-mod-91
+							:ARG2 (s4x3 / ’áłtsíísígo
+								:mod (s4t2 / t’áá))
+							:aspect state)))))
+		:temporal (s4c / ch’ízhníyáago
+			:aspect performance
+			:actor s4p
+			:purpose (s4x2 / ’azhdoolish
+				:aspect activity
+				:actor s4n)
+			:temporal (s4h / hayííłką́ągo
+				:aspect performance
+				:place (s4x4 / ńléídę́ę́’)))))
+
+
+(s5j / jiní
+	:aspect habitual
+	:modal-strength full-affirmative
+	:theme (s5j2 / jiní
+		:aspect activity
+		:modal-strength full-affirmative
+		:temporal (s5x / ’anídzoodzáago
+			:aspect performance
+			:modal-strength full-affirmative
+			:actor (s5p / person
+				:refer-person 3rd
+				:refer-number singular))
+		:actor s5p
+		:theme (s5s / shoogish
+			:aspect state
+			:modal-strength full-affirmative
+			:quote s5j2
+			:reason (s5h / ha’át’éego-)
+			:place (s5b / bílátahgi
+				:part (s5m / mountain
+					:name (s5n / name
+						:op1 "Ch’óol’į́’í")))
+			:undergoer (s5k / k’os)
+			:manner (s5d / dah)
+			:mode interrogative)))
+
+
+(s1d / dííniid
+	:aspect activity
+	:actor (s1p / person)
+	:theme (s1d2 / dohníi
+		:aspect activity
+		:actor (s1p2 / person
+			:refer-person 2nd
+			:refer-number dual)
+		:theme (s1x / ’áhoodzaa
+			:aspect performance
+			:undergoer (s1h / haalá))))
+
+
+(s2a / and
+	:op1 (s2y / yiite’
+		:aspect endeavor
+		:actor (s2p / person
+			:undergoer-of (s2w / wolyéhę́ę
+				:aspect state
+				:theme (s2n / na’niłhodí-)))
+		:goal (s2x / ’alą́ąjį’
+			:mod (s2x2 / ’ákóne’))
+		:mod (s2d / dah))
+	:op2 (s2y2 / yizhjih
+		:aspect performance
+		:actor s2p
+		:undergoer (s2y3 / yiyaayáahgi
+			:part-of (s2p2 / person
+				:name (s2n2 / naat’áanii)))))
+
+
+(s3d / diijéé’
+	:aspect activity
+	:mod (s3d2 / dah)
+	:goal (s3x / ’áajį’)
+	:actor (s3p / person
+		:refer-person 3rd
+		:refer-number plural
+		:quant (s3t / t’áá-’át’é)))
+
+
+(s4y / yajiiltáál
+	:aspect performance
+	:path (s4b / báátis
+		:part-of (s4t / tsin-dánídíkǫs))
+	:goal (s4w / wóniidi)
+	:extent (s4n / níwohjigo)
+	:actor (s4p / person
+		:name (s4h / hastiin-’adiits’a’ii)))
+
+
+(s5x / ’ééhoozin
+	:aspect state
+	:polarity -
+	:experiencer (s5p / person))
+
+
+(s6d / daha’níits’a’
+	:aspect performance
+	:stimulus (s6h / have-location-91
+		:ARG0 (s6p / person)
+		:ARG1 (s6a / and
+			:op1 (s6t / tł’óó’góó)
+			:op2 (s6t2 / tł’óó’góó))
+		:mode imperative
+		:mode expressive)
+	:mod (s6t3 / t’óó-))
+
+
+(s7c / ch’íníjéé’
+	:aspect activity
+	:goal (s7t / tł’óó’góó)
+	:actor (s7p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:companion (s7p2 / person
+		:name (s7n / naat’áanii)))
+
+
+(s8c / ch’ínísh’na’
+	:aspect performance
+	:actor (s8p / person
+		:refer-person 1st
+		:refer-number singular)
+	:path (s8x / ’atát’ah
+		:part-of (s8p2 / person
+			:refer-person 3rd
+			:refer-number plural))
+	:temporal (s8y / yijahgo
+		:aspect activity
+		:actor s8p2
+		:theme (s8p3 / person
+			:refer-person 3rd
+			:refer-number singular)
+		:path (s8k / kǫ́ǫ́)))
+
+
+(s9d / dáda’deeskaal
+	:aspect performance
+	:actor (s9p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:place (s9w / wóne’dę́ę́’)
+	:manner (s9x / ’áko
+		:mod (s9t / t’áá)))
+
+
+(s10b / bidá
+	:aspect performance
+	:mode expressive
+	:undergoer s10x
+	:place s10x3)
+
+
+(s11b / bidá’deelkaal
+	:aspect performance
+	:undergoer (s11a / and
+		:op1 (s11p / person
+			:undergoer-of (s11d / dishínígíí-
+				:aspect habitual
+				:actor (s11p2 / person
+					:refer-person 1st
+					:refer-number singular)
+				:theme (s11t / toohnii))
+			:undergoer (s11w / wolyé
+				:aspect state
+				:theme (s11k / kiichil)
+				:temporal (s11k2 / k’ad)))
+		:op2 (s11p3 / person
+			:mod (s11n / náánáła’))
+		:mod (s11n2 / ndilt’éego-))
+	:place (s11x / ’ákóne’é))
+
+
+(s12h / have-role-91
+	:ARG0 (s12h2 / hastiin
+		:undergoer-of (s12d / dishnínígíí
+			:aspect habitual
+			:theme (s12w / wéela)))
+	:ARG1 (s12y / yich’ijí
+		:part-of (s12p / person
+			:name (s12n / naat’áanii)))
+	:aspect performance
+	:purpose (s12t / thing))
+
+
+(s13h / have
+	:reason (s13b / bidá
+		:aspect state
+		:undergoer (s13p / person
+			:ARG0-of (s13k / kinship
+				:ARG1 (s13p2 / person
+					:refer-person 3rd
+					:refer-number singular)
+				:ARG2 (s13b2 / biye)))
+		:place s13x)
+	:aspect performance)
+
+
+(s14n / noodah
+	:aspect activity
+	:actor (s14p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:theme (s14p2 / person
+		:name (s14n2 / naat’áanii-))
+	:goal (s14n3 / nagháíjigo))
+
+
+(s15h / have-location-91
+	:ARG0 (s15t / t’áá-’áyídí)
+	:ARG1 (s15g / góyaa-bidah)
+	:mod (s15x / ’áajigo)
+	:aspect state)
+
+
+(s16e / exist-91
+	:ARG0 (s16x / ’ałch’ishdę́ę́’)
+	:ARG1 (s16b / bis-dootł’izh-deez’á
+		:mod (s16b2 / bighá))
+	:aspect state)
+
+
+(s17b / bihoolyé
+	:undergoer (s17p / place)
+	:theme (s17x / ’éí)
+	:aspect state)
+
+
+(s18h / have-mod-91
+	:ARG0 (s18b / bidah)
+	:ARG1 (s18n / nízaad
+		:mod (s18t / t’áá))
+	:aspect state)
+
+
+(s19x / ’ahołhan
+	:aspect activity
+	:mode imperative
+	:actor (s19p / person
+		:refer-person 2nd
+		:refer-number dual)
+	:direction (s19g / góyaa
+		:mod (s19b / bidah)))
+
+
+(s20h / have-direction
+	:ARG1 (s20g / góyaa
+		:mod (s20b / bidah))
+	:aspect activity
+	:mode imperative)
+
+
+(s21d / daha’níits’a’
+	:aspect activity
+	:stimulus (s21g / góyaa
+		:mod (s21b / bidah))
+	:mod (s21t / t’óó))
+
+
+(s22a / and
+	:op1 (s22s / sézį́
+		:aspect state
+		:actor (s22p / person
+			:refer-person 1st
+			:refer-number singular)
+		:place (s22x / ’atah
+			:part-of s22p2))
+	:op2 (s22n / naazį́įgo
+		:aspect state
+		:actor (s22p2 / person
+			:quant (s22l / lą’í))
+		:place (s22b / biniit’aadóó
+			:part-of (s22k / kin)
+			:mod (s22n2 / nagháí))))
+
+
+(s23s / sizį́
+	:aspect state
+	:actor (s23p / person
+		:ARG0-of (s23k / kinship-91
+			:ARG1 (s23p2 / person
+				:refer-person 1st
+				:refer-number singular)
+			:ARG2 (s23s2 / shidá’í)))
+	:place (s23s3 / shíighahdóó
+		:part-of s23p2
+		:mod (s23t / t’áá)))
+
+
+(s24b / bénáshniih
+	:aspect state
+	:polarity -
+	:experiencer (s24p / person
+		:refer-person 1st
+		:refer-number singular)
+	:stimulus (s24h / háí
+		:actor-of (s24n / naazį́į
+			:aspect state
+			:place (s24x / ’ákwii)
+			:mod (s24x2 / ’ałdó’-))
+		:mod (s24x3 / ’éiyá
+			:mod (s24t / t’áá))))
+
+
+(s25x / ’adadziiłts’in
+	:aspect activity
+	:actor (s25p / person
+		:refer-person 3rd
+		:refer-number plural
+		:actor-of (s25y / yijahgo
+			:aspect activity
+			:manner (s25n / nahgóó-)
+			:theme (s25p2 / person
+				:refer-person 3rd
+				:refer-number singular)))
+	:undergoer s25p2)
+
+
+(s26x / ńdeiniłts’in
+	:aspect activity
+	:actor (s26p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:undergoer (s26p2 / person
+		:name (s26n / naat’áanii)))
+
+
+(s27c / ch’élwod
+	:aspect performance
+	:actor (s27p / person
+		:undergoer-of (s27w / wolyéhę́ę
+			:aspect state
+			:theme (s27y / yoo’ó-’adika’í)))
+	:start (s27k / kodóó)
+	:temporal (s27y2 / yijahgo
+		:aspect activity
+		:actor (s27p2 / person
+			:refer-person 3rd
+			:refer-number plural)
+		:theme (s27p3 / person
+			:refer-person 3rd
+			:refer-number singular)
+		:direction (s27x / ńléígóó)))
+
+
+(s28n / naanáájah
+	:aspect activity
+	:actor (s28p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:manner (s28h / hááhgóóshį́į́)
+	:place (s28n2 / nahjí))
+
+
+(s29n / naazį́įgo
+	:aspect state
+	:actor (s29b / bilį́į́’
+		:poss (s29p / person
+			:refer-person 3rd
+			:refer-number plural
+			:quant (s29x / ’ałtso
+				:mod (s29t / t’áá))))
+	:place (s29k / kǫ́ǫ́))
+
+
+(s30x / ’idahidiikaii
+	:aspect performance
+	:actor (s30p / person
+		:refer-person 3rd
+		:refer-number plural
+		:quant (s30x2 / łą́ą́))
+	:mod (s30t / t’óó)
+	:mode expressive)
+
+
+(s31h / have-location-91
+	:ARG0 (s31d / da’atah)
+	:ARG1 (s31x / ’asdzání-
+		:refer-number plural
+		:quant (s31d2 / da-ła’))
+	:aspect state)
+
+
+(s32d / dabiiską́
+	:mod (s32x / ’ałdó)
+	:aspect performance
+	:undergoer (s32p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:place (s32x2 / ’atah
+		:mod (s32x3 / ’ákǫ́ǫ́-)
+		:part-of (s32p2 / person
+			:refer-person 3rd
+			:refer-number plural)))
+
+
+(s33h / have-purpose-91
+	:ARG0 (s33e / event)
+	:ARG1 (s33x / ’áda’jił’į́
+		:aspect activity
+		:actor (s33p / person
+			:refer-person 3rd
+			:refer-number plural)
+		:recipient (s33b / bitsą́
+			:part-of (s33p2 / person
+				:refer-person 3rd
+				:refer-number plural)))
+	:aspect state)
+
+
+(s34n / níyáá
+	:aspect performance
+	:start (s34b / bine’dę́ę́’)
+	:mod (s34d / dó’-)
+	:actor (s34x / ’asdzání
+		:ARG0-of (s34h / have-location-91
+			:ARG1 (s34x2 / ’atah))
+		:unit 1))
+
+
+(s35h / have-start
+	:ARG0 (s35x / ’asdzání)
+	:ARG1 (s35h2 / hááhdóó))
+
+
+(s36d / daani
+	:aspect activity
+	:actor (s36p / person
+		:refer-person 3rd
+		:refer-number plural
+		:ARG0-of (s36n / nahalinii
+			:ARG1 (s36x / ’ádahalyą́
+				:actor s36p
+				:place (s36x2 / ’ákwii
+					:mod (s36t / t’áá)))))
+	:theme (s36d2 / dooda)
+	:temporal (s36x3 / ’ádaaníigo
+		:aspect activity
+		:actor (s36p2 / person
+			:refer-person 3rd
+			:refer-number plural)
+		:mod (s36c / ch’ééh
+			:mod (s36t2 / t’áá))
+		:temporal (s36k / kódzaago
+			:aspect performance)))
+
+
+(s37n / náánísdzá
+	:aspect performance
+	:actor (s37p / person
+		:refer-person 1st
+		:refer-number singular
+		:place (s37x / ’atah
+			:part-of s37d))
+	:goal (s37s / shijée’gi
+		:aspect state
+		:actor (s37d / diné
+			:refer-number plural)
+		:mod (s37k / kwii)))
+
+
+(s38n / niheeskai
+	:aspect performance
+	:actor (s38p / person
+		:actor (s38d / diné
+			:refer-number plural)
+		:theme-of (s38b / bíkahazt’i’
+			:aspect performance
+			:start (s38b2 / bine’dę́ę́’))
+		:recipient-of (s38b3 / bitaast’áanii
+			:aspect performance
+			:theme (s38h / hane’)
+			:temporal (s38t / tł’éédą́ą́’-))))
+
+
+(s39s / shódaoozt’e’
+	:aspect performance
+	:actor (s39p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:theme (s39a / and
+		:op1 (s39b / bee’eldǫǫh)
+		:op2 (s39k / k’aa’))
+	:mode expressive)
+
+
+(s40h / have-quant-91
+	:ARG0 (s40d / diné)
+	:ARG1 (s40x / łą́ą́)
+	:aspect state
+	:mod (s40d2 / dó’)
+	:mode expressive)
+
+
+(s41x / ’íikaii
+	:aspect performance
+	:manner (s41n / nahalingo
+		:aspect state
+		:companion (s41d / dabinááł))
+	:actor (s41p2 / person
+		:refer-person 3rd
+		:refer-number plural
+		:quant (s41x2 / łą́ą́))
+	:mode expressive
+	:goal (s41k / kojí))
+
+
+(s42y / yiską́
+	:aspect performance
+	:undergoer (s42x / ’asdzání-
+		:refer-number singular
+		:ARG2-of (s42k / kinship-91
+			:ARG0 (s42p / person
+				:refer-person 3rd
+				:refer-number singular)
+			:ARG1 (s42h / hastiin
+				:refer-number singular
+				:ARG0-of (s42b / be-from
+					:ARG1 (s42c / clan
+						:name (s42t / tó-dík’ǫ́zhi))
+					:aspect state)
+				:undergoer-of (s42w / wolyéé
+					:aspect state
+					:theme (s42t2 / tsézhints’óóz))
+				:actor-of (s42j / joo’ishgo
+					:aspect activity
+					:theme (s42p2 / person
+						:ARG0-of (s42k2 / kinship-91
+							:ARG1 s42h
+							:ARG2 (s42h2 / ha’áłchíní)
+							:aspect state))))))
+	:manner (s42x2 / ’ádajił’į́įgo
+		:aspect activity
+		:undergoer (s42c3 / ch’iyáán)
+		:recipient (s42d / diné
+			:refer-number plural
+			:actor-of (s42d2 / dahóółchį’ii
+				:aspect activity)))
+	:place (s42c2 / ch’iyáán-’ál’į́įgi))
+
+
+(s43x / ’ánááda’jiidlaa
+	:aspect performance
+	:actor (s43p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:recipient (s43b / bitsą́
+		:recipient (s43p2 / person
+			:refer-person 3rd
+			:refer-number plural))
+	:temporal (s43x2 / ’ahbínígo))
+
+
+(s44y / yinééł
+	:aspect activity
+	:actor (s44s / siláago)
+	:path (s44x / ńláhjí))
+
+
+(s45k / k'ad-hágoshį́į́
+	:mode expressive)
+
+
+(s46h / have-goal
+	:ARG0 (s46p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:ARG1 (s46d / dzígaigi
+		:mod (s46x / ńléí
+			:mod (s46t / t’áá)))
+	:aspect activity)
+
+
+(s47k / k'ad-hágoshíí
+	:mode expressive)
+
+
+(s48b / be-temporally-at-91
+	:ARG0 (s48x / ’iinééhdą́ą́’
+		:aspect activity
+		:actor (s48p / person
+			:refer-person 3rd
+			:refer-number plural)
+		:mod (s48y / yah))
+	:ARG1 (s48t / t’ah-doo)
+	:mode expressive)
+
+
+(s49n / naanáálwoł
+	:actor (s49p / person
+		:name (s49b / bilį́į́’-łizhinii))
+	:manner (s49c / ch’ééh)
+	:place (s49k / kwii)
+	:temporal (s49n2 / níigo
+		:aspect activity
+		:actor s49p
+		:theme (s49x / ’ádoolnííł-
+			:aspect activity
+			:instrument (s49h / ha’át’íishą’)))
+	:aspect activity)
+
+
+(s50h / hááhinoojah
+	:aspect activity
+	:actor (s50p / person
+		:ARG0-of (s50k / kinship-91
+			:ARG1 (s50p2 / person
+				:refer-person 3rd
+				:refer-number singular)
+			:ARG2 (s50b / be’ashiiké)
+			:aspect state))
+	:manner (s50h2 / hááhgóóshį́į́-))
+
+
+(s1k / kéédahat’į́į́
+	:actor (s1a / and
+		:op1 (s1p / person
+			:ARG0-of (s1k2 / kinship-91
+				:ARG1 (s1p2 / person
+					:refer-number singular
+					:refer-person 1st)
+				:ARG2 (s1s / shadahastóí)))
+		:op2 (s1p3 / person
+			:ARG0-of (s1k3 / kinship-91
+				:ARG1 (s1p4 / person
+					:refer-number singular
+					:refer-person 1st)
+				:ARG2 (s1d / dashimá)))
+		:ARG0-of (s1h / have-role-91
+			:ARG1 (s1e / ethnic-group
+				:name (s1n / name
+					:op1 "Naakaii"
+					:op2 "Dine’é"))))
+	:place (s1c / city
+		:name (s1n2 / name
+			:op1 "Lók’a’jígai")
+		:mod (s1k4 / kwii)
+		:wiki "Lukachukai,_Arizona")
+	:temporal (s1a2 / after
+		:temporal (s1n3 / nináda’iishjidgo-
+			:manner (s1h2 / hojoobá’ígo)
+			:start (s1l / location
+				:name (s1n4 / name
+					:op1 "Hwééldi")
+				:wiki "Fort_Sumner,_New-Mexico")
+			:aspect performance
+			:goal s1c))
+	:aspect habitual)
+
+
+(s2h / haakai
+	:actor (s2p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:place (s2h2 / here)
+	:aspect performance)
+
+
+(s3x / ’adiiná
+	:actor (s3p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:source (s3d / dahooghan
+		:ARG1-of (s3h / have-03
+			:ARG0 s3p)))
+
+
+(s4s / shi’dizhchį́
+	:undergoer (s4p / person
+		:refer-person 1st
+		:refer-number singular)
+	:place (s4h / here
+		:place-of (s4d / dahwiiłkaahgo
+			:actor s4p
+			:time (s4x / ’oonéełgo
+				:actor s4p
+				:place (s4x2 / ’ákǫ́ǫ́)))))
+
+
+(s5b / be-temporally-at-91
+	:ARG0 (s5t / thing)
+	:ARG1 (s5t2 / temporal-quantity
+		:undergoer-of (s5w / wolyéego
+			:theme (s5g / ghąąjį’))))
+
+
+(s6s / shi’dizhchį́
+	:undergoer (s6p / person
+		:refer-person 1st
+		:refer-number singular)
+	:time (s6d / deezhchxíilgo
+		:time (s6t / tł’ée’go)
+		:degree intensifier)
+	:place (s6t2 / there)
+	:aspect performance)
+
+
+(s7b / bííghą́ą́’
+	:instrument (s7n / naanish)
+	:undergoer (s7p / person
+		:refer-person 1st
+		:refer-number singular)
+	:actor (s7a / and
+		:op1 (s7a2 / and
+			:op1 (s7p5 / person
+				:ARG0-of (s7k2 / kinship-91
+					:ARG1 (s7p6 / person
+						:refer-person 1st
+						:refer-number singular)
+					:ARG2 (s7s2 / shichei
+						:refer-number singular
+						:undergoer-of (s7w3 / wolyéé
+							:theme (s7n3 / naakai-dine’é-łigaii)))))
+			:op2 (s7p7 / person
+				:undergoer-of (s7w4 / wolyéé
+					:theme (s7d2 / diné-táchéhéni’-biye’)))
+			:mod (s7t / t’éiyá))
+		:op3 (s7s / sáanii)
+		:op4 (s7d / díkwíí
+			:op1 (s7h / have-quant-91
+				:unit (s7p2 / person))))
+	:place (s7h2 / here))
+
+
+(s8d / da’oolghal
+	:actor (s8p / person
+		:refer-number plural
+		:companion-of (s8p2 / person
+			:ARG0-of (s8k / kinship-91
+				:ARG1 (s8p3 / person
+					:refer-person 1st
+					:refer-number singular)
+				:ARG2 (s8s / shichei
+					:ARG0 (s8h / have-03
+						:ARG1 (s8t / tł’ízí
+							:ARG0-of (s8c / cho’ádinii-)
+							:mod (s8x / ’ayói)
+							:refer-number singular
+							:undergoer-of (s8j / jiisxį́įgo
+								:actor s8s
+								:place (s8h2 / here))))
+					:refer-number singular))))
+	:mod (s8d2 / dahózhǫ́ǫgo)
+	:degree intensifier)
+
+
+(s9n / náá’dii’ná
+	:actor (s9p / person
+		:refer-person 1st
+		:refer-number plural)
+	:temporal (s9t / tł’éédą́ą́’-
+		:temporal-of (s9s / shi’dizhchį́įgo
+			:undergoer (s9p2 / person
+				:refer-person 1st
+				:refer-number singular))))
+
+
+(s10n / nda’aldeehgo
+	:aspect habitual
+	:mod (s10t / t’éiyá)
+	:actor (s10p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:manner (s10x / łį́į́’)
+	:time (s10x2 / ’íídą́ą́’))
+
+
+(s12j / jiníyá
+	:aspect performance
+	:actor (s12p / person
+		:ARG0-of (s12k / kinship-91
+			:ARG1 (s12p2 / person
+				:refer-person 1st
+				:refer-number singular)
+			:ARG2 (s12s / shimá)))
+	:temporal (s12t / tł’éédą́ą́’
+		:temporal-of (s12s2 / shijishchį́įgo
+			:undergoer (s12p3 / person
+				:refer-person 1st
+				:refer-number singular)))
+	:manner (s12t2 / t’áá-ni’)
+	:extent (s12n / níwohjį’-
+		:extent-of (s12n2 / ni’ínéehgo
+			:extent (s12n3 / nízahgi)
+			:actor (s12p4 / person
+				:refer-person 3rd
+				:refer-number plural)))
+	:extent (s12x / ’áajį’))
+
+
+(s13x / ’íldeé
+	:aspect performance
+	:actor (s13p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:path (s13b / biyi’
+		:part-of (s13y / yas))
+	:reason (s13y2 / yidzaazgo
+		:aspect performance
+		:temporal (s13t / tł’éédą́ą́)))
+
+
+(s14h / have-mod-91
+	:ARG0 (s14k / kéédahat’į́į́-
+		:aspect habitual
+		:actor (s14d / diné)
+		:manner (s14t / t’áá-bizááká)
+		:temporal (s14x / ’íídą́ą́’))
+	:ARG1 (s14y / yówéé))
+
+
+(s15h / honídahodéeníih
+	:aspect habitual
+	:actor (s15p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:undergoer (s15p2 / person
+		:refer-person 3rd
+		:refer-number singular)
+	:temporal (s15x / ’ajiłchíihgo
+		:temporal (s15k / k’adgo)
+		:actor s15p2
+		:aspect activity)
+	:manner (s15h2 / ha’níigo
+		:actor s15p
+		:theme (s15w / wolyeed
+			:mode imperative
+			:actor s15p2
+			:destination (s15h3 / hak’az)
+			:polarity -)))
+
+
+(s16i2 / identity-91
+	:ARG0 (s16x / ’éí)
+	:ARG1 (s16x4 / ’ákót’ée
+		:polarity -)
+	:temporal (s16x5 / ’íídą́ą́’))
+
+
+(s17b / bénáshniih
+	:actor (s17p / person
+		:refer-person 1st
+		:refer-number singular)
+	:manner (s17h / hazhó’ó
+		:degree intensifier)
+	:polarity -
+	:theme (s17s / shiyaa-hazlį́į́’
+		:aspect performance
+		:undergoer s17p
+		:temporal (s17y / yit’éego
+			:actor (s17t / time)
+			:manner (s17w / wóshdę́ę́’-)))
+	:aspect state)
+
+
+(s17u / umr-empty)
+
+
+(s19n / náshidiyiiłhą́ą́h
+	:aspect habitual
+	:actor (s19p / person
+		:ARG0-of (s19k / kinship-91
+			:ARG1 (s19p2 / person
+				:refer-person 1st
+				:refer-number singular)
+			:ARG2 (s19s / shichei)))
+	:condition (s19x / ’ashhoshę́ę
+		:undergoer (s19p3 / person
+			:refer-person 1st
+			:refer-number singular)
+		:aspect state
+		:temporal (s19x2 / ’ahbínígo)
+		:manner (s19n2 / nizhónígo))
+	:undergoer s19p2)
+
+
+(s20e / event
+	:actor (s20p / person
+		:refer-person 2nd
+		:refer-number singular)
+	:direction (s20n / nahgóó
+		:degree intensifier)
+	:mode imperative
+	:aspect performance)
+
+
+(s21s / sínítį́
+	:reason (s21a / amr-unknown)
+	:mode interrogative
+	:aspect state
+	:theme (s21p / person
+		:refer-person 2nd
+		:refer-number singular))
+
+
+(s22d / dághádílyeed
+	:mode imperative
+	:aspect activity
+	:direction (s22n / nahgóó)
+	:actor (s22p / person
+		:refer-person 2nd
+		:refer-number singular))
+
+
+(s23h / have-condition-91
+	:ARG1 (s23d / dinigisgo
+		:aspect state
+		:experiencer (s23p / person
+			:refer-person 2nd
+			:refer-number singular))
+	:ARG2 (s23c / ch’ídoolwoł
+		:aspect process
+		:actor (s23d2 / deeteel
+			:ord (s23o / ordinal-entity
+				:value 1
+				:degree intensifier))
+		:place (s23p2 / person
+			:refer-person 2nd
+			:refer-number singular)
+		:place (s23p3 / place)))
+
+
+(s24j / jiníi
+	:aspect habitual
+	:actor (s24p / person
+		:ARG0-of (s24k / kinship-91
+			:ARG1 (s24p2 / person
+				:refer-person 1st
+				:refer-number singular)
+			:ARG2 (s24s / shichei)))
+	:theme (s24h / have-condition-91
+		:ARG1 (s24h2 / honíyóigo
+			:aspect state
+			:theme (s24p3 / person
+				:refer-person 2nd
+				:refer-number singular))
+		:ARG2 (s24s2 / shíníljool
+			:aspect activity
+			:place (s24x / ’áadi)
+			:actor (s24p4 / person
+				:refer-person 2nd
+				:refer-number singular)
+			:manner (s24n / naanídaasdláadgo
+				:theme (s24x2 / łeezh)
+				:place (s24p5 / person
+					:refer-person 2nd
+					:refer-number singular)
+				:aspect state))))
+
+
+(s25x / ’ákódajiníi
+	:aspect habitual
+	:actor (s25h / hastóí
+		:refer-number plural
+		:quant (s25t / t’áá-’ałtso)))
+
+
+(s26x / ’ádajiníí
+	:aspect habitual
+	:actor (s26p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:reason (s26b / béédahózingo
+		:aspect state
+		:experiencer s26p
+		:stimulus (s26e / exist-91
+			:ARG0 (s26p2 / place)
+			:ARG1 (s26x2 / ’ana))))
+
+
+(s27a / and
+	:op1 (s27n / nashineeyood
+		:aspect habitual
+		:actor (s27p / person
+			:ARG0-of (s27k / kinship-91
+				:ARG1 (s27p2 / person
+					:refer-person 1st
+					:refer-number singular)
+				:ARG2 (s27s / shichei)))
+		:undergoer (s27p3 / person
+			:refer-person 2nd
+			:refer-number singular))
+	:op2 (s27y / yááłti’
+		:aspect habitual
+		:actor s27p
+		:recipient s27p3))
+
+
+(s28x / ’áníi
+	:actor (s28p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:manner (s28h / hashkéego
+		:experiencer s28p
+		:aspect state
+		:polarity -)
+	:aspect habitual)
+
+
+(s29x / ’áníi
+	:aspect habitual
+	:actor (s29p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:manner (s29n / na’níle’ee
+		:polarity -
+		:degree intensifier))
+
+
+(s30x / ’áshiłníí
+	:actor (s30p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:recipient (s30p2 / person
+		:refer-person 1st
+		:refer-number singular)
+	:aspect habitual
+	:manner (s30h / hazhóó’ógo))
+
+
+(s31s / shíiníłką́
+	:aspect habitual
+	:theme (s31p / person
+		:refer-person 1st
+		:refer-number singular)
+	:place (s31x / ’áádę́ę́’)
+	:manner (s31x2 / ’ákót’éego))
+
+
+(s33n / nikishidiilt’e’
+	:aspect performance
+	:actor (s33p / person
+		:ARG0-of (s33k / kinship-91
+			:ARG1 (s33p2 / person
+				:refer-person 1st
+				:refer-number singular)
+			:ARG2 (s33s / shidá’í))
+		:undergoer-of (s33w / wolyéé
+			:theme (s33p3 / person
+				:name (s33n2 / name
+					:op1 "T’iisyaa"
+					:op2 "Bikiní")))
+		:mod (s33t / tsíłkę́ę́h))
+	:undergoer s33p2)
+
+
+(s34n / nikishidiił’a’
+	:aspect activity
+	:causer (s34p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:actor (s34p2 / person
+		:refer-person 1st
+		:refer-number singular)
+	:theme (s34t / thing))
+
+
+(s35n / naasłóozgo
+	:aspect habitual
+	:actor (s35p / person
+		:refer-person 1st
+		:refer-number singular)
+	:theme (s35x / łį́į́’)
+	:affectee (s35p2 / person
+		:refer-person 3rd
+		:refer-number singular))
+
+
+(s36a / and
+	:op1 (s36h / have-03
+		:ARG0 (s36p / person
+			:refer-person 3rd
+			:refer-number singular)
+		:ARG1 (s36b / bitsinaabąąs))
+	:op2 (s36h2 / have-03
+		:ARG0 s36p
+		:ARG1 (s36p2 / person
+			:causer-of (s36n / na’ałbąąsii
+				:actor (s36b2 / bilį́į́’)))))
+
+
+(s37s / shiłníigo
+	:aspect habitual
+	:actor (s37p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:recipient (s37p2 / person
+		:refer-person 1st
+		:refer-number singular)
+	:theme (s37o / or
+		:op1 (s37n / nihíyeeh
+			:mode imperative
+			:aspect activity
+			:actor s37p2
+			:theme (s37c / chizh)
+			:instrument (s37t / thing))
+		:op2 (s37n2 / nanilnish
+			:mode imperative
+			:aspect activity
+			:actor s37p2
+			:instrument (s37t2 / thing))))
+
+
+(s38b / bééhózin
+	:aspect state
+	:experiencer (s38p / person
+		:refer-person 1st
+		:refer-number singular)
+	:stimulus (s38p2 / person
+		:actor-of (s38n / ninínáanii
+			:theme (s38n2 / naalyéhé-bá-hooghan)
+			:temporal (s38k / k’ad)
+			:place (s38p3 / place
+				:undergoer-of (s38h / hoolyéegi
+					:theme (s38n3 / name)
+					:theme (s38c / city
+						:name (s38n4 / name
+							:op1 "Bis"
+							:op2 "Dootł’izh"
+							:op3 "Deez’áhí"))))))
+	:stimulus (s38a / age-01
+		:ARG1 s38p2
+		:ARG2 (s38t / temporal-quantity
+			:quant (s38a2 / approximately
+				:op1 18)
+			:unit (s38y / year))))
+
+
+(s39x / ’ákoniizį́į́’
+	:aspect habitual
+	:experiencer (s39p / person
+		:refer-person 1st
+		:refer-number singular)
+	:stimulus (s39p2 / person
+		:undergoer-of (s39d / dabijiníí
+			:aspect habitual
+			:actor (s39p4 / person
+				:refer-person 3rd
+				:refer-number singular)
+			:theme (s39p5 / person
+				:name (s39n2 / name
+					:op1 "Chíí’")))
+		:mod (s39p3 / person
+			:name (s39n / name
+				:op1 "Hastiin"
+				:op2 "’Adiits’a’í"))))
+
+
+(s40b / bich’ooní
+	:degree intensifier
+	:aspect state
+	:experiencer (s40p / person
+		:name (s40n / name
+			:op1 "Chíí’"))
+	:stimulus (s40p2 / person
+		:mod (s40n2 / nationality
+			:name (s40n3 / name
+				:op1 "Bilagáana"))
+		:undergoer-of (s40w / wolyéé
+			:theme (s40p3 / person
+				:name (s40n4 / name
+					:op1 "Dah"
+					:op2 "Shizhóód")))
+		:source (s40p4 / place
+			:undergoer (s40h / hoolyéédę́ę́’
+				:theme (s40c / city
+					:name (s40n5 / name
+						:op1 "Kin"
+						:op2 "Hóchxǫ́’í"))))))
+
+
+(s42x / ’áhoolaa
+	:aspect performance
+	:undergoer (s42n / naalyéhé-bá-hooghan)
+	:actor (s42p / person
+		:refer-person 3rd
+		:refer-number dual)
+	:place (s42p2 / place
+		:undergoer-of (s42h / hoolyéegi
+			:theme (s42b / bis-dootł’izh-deez’áhí))))
+
+
+(s43n / ni’níná
+	:actor (s43p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:temporal (s43d / dąągo)
+	:destination (s43x / ’ákwii)
+	:aspect performance)
+
+
+(s44d / dabidii’ní
+	:aspect state
+	:actor (s44p / person
+		:refer-person 1st
+		:refer-number plural)
+	:undergoer (s44n / naałniih)
+	:medium (s44l / language
+		:name (s44n3 / name
+			:op1 "dinék’ehjígo"))
+	:temporal (s44k / k’ad)
+	:theme (s44d2 / dinék’ehjígo-hayaayááh))
+
+
+(s45h / hodoo’niid
+	:aspect state
+	:theme (s45n / ni’níná
+		:aspect performance)
+	:temporal (s45d / dąągo
+		:mod (s45x / ’íídą́ą́’)
+		:mod (s45t / t’ah))
+	:actor (s45p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:goal (s45p2 / place
+		:undergoer-of (s45h2 / hoolyéegi
+			:theme (s45b / bis-dootł’izh-deez’áhí))))
+
+
+(s46n / ninínáá
+	:aspect performance
+	:goal (s46x / ’ákǫ́ǫ́)
+	:temporal (s46k / k’adshą’)
+	:manner (s46k2 / kót’éego-)
+	:actor (s46a / and
+		:op1 (s46p / person
+			:undergoer-of (s46y / yidoolyeeł
+				:theme (s46h / hastiin-’adiits’a’ii)))
+		:op2 (s46p2 / person
+			:undergoer-of (s46y2 / yidoolyeeł
+				:theme (s46d / dah-shizhóód)
+				:aspect state))))
+
+
+(s47a / and
+	:op1 (s47x / ’áhoolyaa
+		:aspect performance
+		:undergoer (s47n2 / naalyéhé-bá-hooghan))
+	:op2 (s47n / nihizhdííniid-
+		:aspect performance
+		:actor (s47p / person
+			:undergoer-of (s47d / dishnínígíí
+				:actor (s47p2 / person
+					:refer-person 1st
+					:refer-number singular)
+				:theme (s47p3 / person
+					:ARG0 (s47k / kinship-91
+						:ARG1 s47p2
+						:ARG2 (s47s / shidá’í)))))
+		:recipient (s47p4 / person
+			:refer-person 1st
+			:refer-number plural)
+		:theme (s47n3 / nihoheeh
+			:aspect activity
+			:mode imperative
+			:actor s47p4
+			:theme (s47c / chizh)
+			:place s47n2
+			:temporal (s47a4 / after
+				:op1 (s47t3 / temporal-quantity
+					:unit (s47y2 / year)
+					:quant (s47a5 / approximately
+						:op1 4)
+					:stimulus-of (s47b2 / bénáshniih
+						:aspect state
+						:polarity -
+						:degree intensifier
+						:experiencer s47p2))))))
+
+
+(s48h / ho’doo’niidgo
+	:aspect performance
+	:theme (s48c / chizh)
+	:source (s48x / ’áádę́ę́’))
+
+
+(s49t / tádísh’aash
+	:aspect habitual
+	:actor (s49p / person
+		:refer-person 1st
+		:refer-number singular
+		:companion (s49x / ’ashkii
+			:part-of (s49e / ethnic-group
+				:name (s49n / name
+					:op1 "Tótsohnii")))))
+
+
+(s50d / deezt’i’
+	:aspect activity
+	:undergoer (s50n / nihinaanish
+		:actor (s50p / person)
+		:refer-number plural)
+	:manner (s50x / ’aají))
+
+
+(s51t / tádiit’aash
+	:aspect habitual
+	:actor (s51p / person
+		:refer-person 1st
+		:refer-number dual)
+	:manner (s51x / ’ahidii’níigo
+		:actor s51p
+		:undergoer s51p
+		:theme (s51p2 / person
+			:ARG0-of (s51k / kinship-91
+				:ARG1 s51p
+				:ARG2 (s51s / sitsilí)))))
+
+
+(s52n / nihiigeeh
+	:aspect habitual
+	:actor (s52p / person
+		:refer-person 1st
+		:refer-number dual)
+	:place (s52n2 / naalyéhé-bá-hooghangi)
+	:theme (s52c / chizh))
+
+
+(s53y / yii’nii’
+	:aspect state
+	:experiencer (s53p / person
+		:refer-person 1st
+		:refer-number dual)
+	:stimulus (s53h / ha’níigo
+		:theme (s53n / na’aldeeh
+			:actor (s53p2 / person
+				:refer-person 3rd
+				:refer-number plural)
+			:purpose (s53n2 / ndaha’níiłgo
+				:actor s53p2
+				:theme (s53x / ’áłchíní
+					:refer-number plural)
+				:goal (s53x2 / ’ólta’jį’)
+				:aspect performance)
+			:aspect activity)
+		:aspect activity))
+
+
+(s54n / na’aldeeh
+	:actor (s54p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:place (s54c / ch’ínílį́į́jí)
+	:aspect activity)
+
+
+(s55y / yii’nii’
+	:aspect state
+	:experiencer (s55p / person
+		:refer-person 1st
+		:refer-number dual)
+	:stimulus (s55h / ha’níigo
+		:aspect activity
+		:theme (s55x / ’ínééh
+			:actor (s55p2 / person
+				:refer-person 3rd
+				:refer-number plural)
+			:aspect activity
+			:destination (s55k / kwii)
+			:temporal (s55h2 / hahgo))))
+
+
+(s56h / ha
+	:theme (s56c / chizh)
+	:aspect habitual
+	:actor (s56p / person
+		:refer-person 1st
+		:refer-number dual)
+	:manner (s56y / yiníit’į́įgo
+		:actor s56p
+		:theme (s56b / baa)))
+
+
+(s57h / hodííniid
+	:actor (s57p / person
+		:refer-person 1st
+		:refer-number singular)
+	:aspect performance
+	:theme (s57c / command
+		:op1 (s57x / ’ashkihéi)
+		:op1 (s57x2 / ’íídíiltah
+			:aspect activity
+			:mode imperative
+			:actor (s57p2 / person
+				:refer-person 1st
+				:refer-number dual)))
+	:recipient (s57p3 / person
+		:companion-of (s57n / naash’aash
+			:actor (s57p4 / person
+				:refer-person 1st)
+			:aspect process)))
+
+
+(s58j / jidííniid
+	:actor (s58p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:theme (s58h / hágoshį́į́)
+	:aspect performance)
+
+
+(s59t / tádiit’aash
+	:aspect activity
+	:actor (s59p / person
+		:refer-person 1st
+		:refer-number dual)
+	:manner (s59h / hózhǫ́ǫgo)
+	:manner (s59y / yiníit’į́įgo
+		:aspect activity
+		:actor (s59p2 / person
+			:refer-person 1st
+			:refer-number dual)))
+
+
+(s60x / ń’diilbą́ą́z
+	:aspect activity
+	:actor (s60p / person
+		:refer-person 1st
+		:refer-number dual)
+	:destination (s60h / hooghangóó)
+	:temporal (s60a / after
+		:temporal (s60n / nááhee’nilgo
+			:aspect performance
+			:actor s60p
+			:theme (s60c / chizh)))
+	:temporal (s60x2 / ’i’íí’ą́ągo))
+
+
+(s61n / nániit’áázh
+	:actor (s61p / person
+		:refer-person 1st
+		:refer-number dual)
+	:aspect performance
+	:goal (s61h / hooghandi))
+
+
+(s62s / sidáá
+	:aspect state
+	:mod (s62d / dó’)
+	:theme (s62p / person
+		:ARG0-of (s62k / kinship-91
+			:ARG1 (s62p2 / person
+				:refer-person 1st
+				:refer-number singular)
+			:ARG2 (s62s2 / shichei))
+		:undergoer-of (s62w / wolyéé
+			:theme (s62n / naakaii-dine’étsoh))))
+
+
+(s63h / hwiilne’
+	:aspect performance
+	:actor (s63p / person
+		:refer-person 1st
+		:refer-number dual)
+	:recipient (s63p2 / person
+		:refer-person 3rd
+		:refer-number plural)
+	:theme (s63t / thing))
+
+
+(s64n / ndaha’nííł
+	:actor (s64p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:undergoer (s64x / ’áłchíní
+		:refer-number plural)
+	:goal (s64x2 / ’ólta’jį’)
+	:aspect activity)
+
+
+(s65h / hwiilne’
+	:actor (s65p / person
+		:refer-person 1st
+		:refer-number dual)
+	:aspect performance
+	:recipient (s65p2 / person
+		:refer-person 3rd
+		:refer-number plural)
+	:theme (s65d / dii’níigo
+		:aspect performance
+		:actor s65p
+		:theme (s65x / ’íídíiltah
+			:aspect activity
+			:actor s65p
+			:mode imperative)))
+
+
+(s66h / have-mod-91
+	:ARG0 (s66t / thing)
+	:ARG1 (s66t2 / t’áá-shį́į́)
+	:mode expressive)
+
+
+(s68o / oonééł
+	:aspect activity
+	:mode expressive
+	:source (s68x / ’aadę́ę́’)
+	:destination (s68p / person
+		:refer-person 1st
+		:refer-number plural))
+
+
+(s69n / nihizhdííniid
+	:actor (s69a / and
+		:op1 (s69p / person
+			:ARG0-of (s69k / kinship-91
+				:ARG1 (s69p2 / person
+					:refer-person 1st
+					:refer-number singular)
+				:ARG2 (s69s / shidá’í)))
+		:op2 (s69p3 / person
+			:ARG0-of (s69k2 / kinship-91
+				:ARG1 s69p2
+				:ARG2 (s69s2 / shichei))))
+	:aspect activity
+	:theme (s69d / dáádidooh’ash
+		:aspect activity
+		:actor (s69p4 / person
+			:refer-person 2nd
+			:refer-number dual))
+	:theme s69p4
+	:place (s69h / háadish))
+
+
+(s70a / and
+	:op1 (s70n / niikai
+		:aspect performance
+		:actor (s70p / person
+			:refer-person 1st
+			:refer-number dual)
+		:temporal (s70b2 / biiskání)
+		:goal (s70n2 / naalyéhé-bá-hooghangóó))
+	:op2 (s70b / bizhdeelchid
+		:aspect performance
+		:actor (s70p2 / person
+			:ARG0-of (s70k / kinship-91
+				:ARG1 (s70p3 / person
+					:refer-person 1st
+					:refer-number singular)
+				:ARG2 (s70s / shichei)))
+		:affectee s70p
+		:undergoer (s70n3 / naaltsoos)))
+
+
+(s71h / hadaasdzíí
+	:aspect activity
+	:actor (s71h2 / hastóí
+		:refer-number plural)
+	:recipient s71h2
+	:theme (s71h3 / ha
+		:aspect state
+		:theme (s71b / bił
+			:aspect activity
+			:destination (s71k / kwii)
+			:actor s71x
+			:extent (s71y / year
+				:mod (s71h4 / have
+					:ARG2 2))))
+	:companion (s71n / nihinááł
+		:part-of (s71p / person
+			:refer-person 2nd
+			:refer-number dual)))
+
+
+(s72a / and
+	:op1 (s72w / wolyéé
+		:aspect state
+		:undergoer (s72p / person
+			:refer-number singular
+			:part-of (s72h / hastóí
+				:actor-of (s72h2 / hadaasdzíi
+					:recipient s72h)))
+		:theme (s72w2 / wéela))
+	:op2 (s72k / kéédahat
+		:place (s72b / behind
+			:place (s72c / county
+				:name (s72n / name
+					:op1 "Tsénikání")))))
+
+
+(s73h / have-role-91
+	:ARG0 (s73p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:ARG1 (s73n / naat’áanii)
+	:temporal (s73x / ’íídąą’)
+	:aspect state)
+
+
+(s74a / and
+	:op1 (s74w / wolyéé
+		:undergoer (s74p / person
+			:refer-person 3rd
+			:refer-number singular)
+		:theme (s74y / yoo’ó-’adika’í))
+	:op2 (s74h / have-role-91
+		:ARG0 s74p
+		:ARG1 (s74b / belong-01
+			:ARG0 s74p
+			:ARG1 (s74s / siláago))))
+
+
+(s75x / ’óolyéé
+	:undergoer (s75p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:theme (s75d / dzólníigo
+		:ARG1-of (s75h / have-mod-91
+			:ARG0 s75p)
+		:mod (s75x2 / ’ayóo-))
+	:aspect state)
+
+
+(s76c / constrast-01
+	:ARG1 (s76b / be-from-91
+		:ARG0 (s76p / person
+			:refer-person 3rd)
+		:ARG1 (s76p2 / place
+			:name (s76c2 / ch’ínílį́į́dóó)))
+	:ARG2 (s76h / have-role-91
+		:ARG0 s76p
+		:ARG1 (s76b2 / belong-01
+			:ARG0 s76p
+			:ARG1 (s76s / siláago
+				:ARG0-of (s76b3 / be-from-91
+					:ARG1 (s76t / tséhootsooídi))))))
+
+
+(s77y / yíkai
+	:aspect performance
+	:mode expressive
+	:actor (s77p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:goal (s77x / ’alą́ąjį’)
+	:companion (s77p2 / person
+		:undergoer-of (s77w / wolyéé
+			:theme (s77n / naat’áanii-yázhí)
+			:aspect state)
+		:ARG0-of (s77i2 / identity-91
+			:ARG1 (s77b / bilagáana))
+		:ARG0-of (s77b2 / be-from-91
+			:ARG1 (s77t / tséhootsooídóó-))))
+
+
+(s78h / hajoodzíí’
+	:aspect performance
+	:actor (s78p / person
+		:ARG0-of (s78k / kinship-91
+			:ARG1 (s78p2 / person
+				:refer-person 1st
+				:refer-number singular)
+			:ARG2 (s78s / shichei)))
+	:recipient (s78p3 / person
+		:refer-person 1st
+		:refer-number singular)
+	:place (s78x / ’akwii))
+
+
+(s79h / hajoodzíí’
+	:aspect performance
+	:actor (s79p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:manner (s79j / jiníigo
+		:aspect activity
+		:actor s79p
+		:theme (s79n / ninishnííł
+			:aspect performance
+			:actor s79p
+			:theme (s79x / ’ashiiké
+				:refer-number dual
+				:goal (s79x2 / ’ólta’jį’)))))
+
+
+(s80n / nániikai
+	:aspect performance
+	:actor (s80p / person
+		:refer-person 1st
+		:refer-number plural)
+	:goal (s80h / hooghangóó)
+	:manner (s80t / t’óó)
+	:reason (s80h2 / ha’níigo
+		:aspect performance
+		:theme (s80b / bił-’íbąąs
+			:aspect activity
+			:temporal (s80y / yiską́ągo
+				:mod (s80x2 / ’índa))
+			:actor (s80x / ’áłchíní
+				:refer-number plural))))
+
+
+(s81n / náániikai
+	:aspect performance
+	:actor (s81p / person
+		:refer-person 1st
+		:refer-number plural)
+	:manner (s81t / t’áá-ni’)
+	:temporal (s81d / danihiiską́ągo
+		:aspect performance
+		:undergoer (s81p2 / person
+			:refer-person 1st
+			:refer-number plural)
+		:place (s81x / ’áadi))
+	:source (s81x2 / ’áádę́ę́’))
+
+
+(s82b2 / bił-’aníbą́ą́z
+	:aspect performance
+	:mode expressive
+	:theme (s82x / ’áłchíní
+		:refer-number plural))
+
+
+(s83b2 / bił-na’aldeeh)
+
+
+(s84b / bił-bééhózin
+	:medium (s84l / language
+		:name (s84b2 / bilagáana-bizaad)
+		:wiki "English-language")
+	:experiencer (s84p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:degree downtoner
+	:aspect state)
+
+
+(s85b / bi’doo’niid
+	:aspect performance
+	:recipient (s85p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:theme (s85x / ’áhólyą́ą
+		:actor s85p
+		:affectee (s85x2 / ’áłchíní-
+			:refer-number plural))
+	:reason (s85x3 / ’éí-))
+
+
+(s87n / naaghá
+	:aspect activity
+	:actor (s87p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:manner (s87x / ’ahaninéí’niłgo
+		:aspect activity
+		:actor s87p
+		:theme (s87p2 / person
+			:refer-person 3rd
+			:refer-number plural)))
+
+
+(s88n / ndayii’éesh
+	:aspect performance
+	:polarity -
+	:mod (s88t / t’ah
+		:mod (s88x / ’ałtso))
+	:theme (s88x2 / ’áłchíní
+		:refer-number plural
+		:ARG0-of (s88b / be-from-91
+			:ARG1 (s88p / place
+				:name (s88b2 / bis-dootł’izh-deez’áhí)))
+		:theme-of (s88n2 / ndayiiznilii
+			:aspect performance)))
+
+
+(s89h / hodoo’niid
+	:aspect performance
+	:theme (s89d / dah-’adidoobąs
+		:aspect activity
+		:force (s89t / thing)
+		:companion (s89p / person
+			:refer-person 3rd
+			:refer-number plural)
+		:temporal-of (s89a / after
+			:ARG1 (s89t2 / temporal-quantity
+				:quant 2
+				:unit (s89d2 / day)))))
+
+
+(s90h / have-goal
+	:ARG0 (s90p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:ARG1 (s90t / tséhootsooíjį’
+		:mod (s90x / ńléí))
+	:path (s90a / and
+		:op1 (s90p2 / place
+			:name (s90l2 / lók’a’jíkai-)
+			:wiki "Lukachukai")
+		:op2 (s90p3 / place
+			:name (s90t2 / tsééhílį́į́-)
+			:wiki "Tsaile")
+		:op3 (s90p4 / place
+			:name (s90s / sǫ’-siláágóó)
+			:wiki "Crystal,-New-Mexico")))
+
+
+(s91b / bee-haz’ą́ągo
+	:aspect state
+	:stimulus (s91t / thing)
+	:experiencer (s91p / person
+		:refer-person 3rd
+		:refer-number plural))
+
+
+(s92n / ntsídaakees
+	:aspect state
+	:mode expressive
+	:manner (s92d / dadiniihgo)
+	:stimulus (s92c / ch’íhwiit’aahgo
+		:theme (s92x / ’ólta’
+			:undergoer-of (s92w / wolyéii
+				:aspect activity)))
+	:experiencer (s92p / person
+		:refer-person 3rd
+		:refer-number plural
+		:actor-of (s92k / kéédahat’ínígíí
+			:place (s92b / bine’jí
+				:ARG1-of (s92h / have-location-91
+					:ARG1 s92p
+					:ARG2 (s92d2 / dził
+						:ARG0-of (s92h2 / have-location-91
+							:ARG1 (s92n3 / nahós’a’gi)
+							:ARG2 (s92a / and
+								:op1 (s92p2 / place
+									:name (s92k2 / k’aabizhii))
+								:op2 (s92p3 / place
+									:name (s92t / tsé-łichíí’-dah-’azkání)
+									:wiki "Redrock,_New_Mexico")))))
+				:mod (s92n2 / nagháí))
+			:aspect activity)))
+
+
+(s93x / ádajidin
+	:undergoer (s93h / hastóí-
+		:refer-number plural
+		:mod (s93x2 / ’ałtso)
+		:ARG1-of (s93d / dajizlį́į’go
+			:ARG0 (s93p / person
+				:refer-person 3rd
+				:refer-number plural)))
+	:temporal (s93t / t’áá-’ániidígo))
+
+
+(s94x / ’ádajíít’įįd
+	:aspect performance
+	:actor (s94x2 / ’ashiiké
+		:refer-number plural
+		:ARG1-of (s94d / dajílį́įgo
+			:ARG0 (s94p / person
+				:refer-person 3rd
+				:refer-number plural)
+			:aspect state))
+	:temporal (s94x3 / ’íídą́ą́’))
+
+
+(s95x / ’ániit’ée
+	:aspect activity
+	:actor (s95p / person
+		:refer-person 1st
+		:refer-number dual
+		:undergoer (s95h / háágóó
+			:ARG0-of (s95h2 / have-purpose-91
+				:ARG1 (s95a / against)
+				:ARG2 (s95x2 / ’adahat’éésh
+					:aspect habitual
+					:theme (s95x3 / ’áłchíní
+						:refer-number 3rd)
+					:goal (s95x4 / ’ólta’góó)))))
+	:concession (s95x5 / ńt’i’í-bíni’
+		:aspect process
+		:experiencer s95p
+		:stimulus s95h))
+
+
+(s96d / dajiníigo
+	:aspect activity
+	:actor (s96p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:theme (s96d2 / diiltéeł
+		:aspect activity
+		:polarity -
+		:mod (s96h / haa)
+		:theme (s96n / niha’áłchíní
+			:poss (s96p2 / person
+				:refer-person 1st
+				:refer-number dual))
+		:actor s96p2
+		:mode expressive))
+
+
+(s97d / dah-’ajoo’ish
+	:aspect habitual
+	:actor (s97p / person
+		:undergoer-of (s97j / joolyéé
+			:theme (s97b / bilį́į́’-łizhinii)
+			:mod (s97x2 / ’áájí)
+			:mod (s97x3 / ’ákót’éego)
+			:aspect state))
+	:undergoer (s97p2 / person
+		:refer-person 3rd
+		:refer-number plural))
+
+
+(s98d / dajíínii’
+	:aspect performance
+	:experiencer (s98p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:stimulus (s98x / ’ínééh
+		:actor (s98g / group)
+		:temporal (s98y / yiską́ągo
+			:mod (s98x2 / ’ákwíí))
+		:goal (s98p2 / place
+			:undergoer-of (s98h / hoolyéegi
+				:theme (s98b / bis-dootł’izh-deez’áhí)
+				:aspect state))
+		:purpose (s98n / ndaha’niłígíí
+			:theme (s98x3 / ’áłchíní
+				:mod (s98d2 / díí))
+			:goal (s98x4 / ’ólta’jį’)
+			:aspect performance)
+		:aspect activity))
+
+
+(s99t / tsídazhdeezkééz
+	:aspect activity
+	:experiencer (s99p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:stimulus (s99t2 / thing)
+	:manner (s99n / ndahodik’ǫǫshgo
+		:aspect process
+		:experiencer s99p
+		:mod (s99h / have-location-91
+			:ARG1 (s99h2 / hwii’
+				:ARG2 s99p))))
+
+
+(s100d / díkwídiilt’eeł
+	:mode imperative
+	:aspect state
+	:theme (s100x / ’ashiiké
+		:refer-number plural))
+
+
+(s101d / dazhdííniid
+	:aspect performance
+	:actor (s101p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:theme (s101a / and
+		:op1 (s101x / ’ákǫ́ǫ́-)
+		:op2 (s101d2 / dooleeł)
+		:op3 (s101x2 / ’áádę́ę́’)))
+
+
+(s102d / dashdiikai
+	:aspect performance
+	:actor (s102p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:source (s102x / ’áádę́ę́’)
+	:purpose (s102t / thing))
+
+
+(s103a / and
+	:op1 (s103b / béédahózin-
+		:aspect state
+		:experiencer (s103p / person
+			:refer-person 1st
+			:refer-number dual)
+		:polarity -
+		:stimulus (s103x / ’éí))
+	:op2 (s103d / deii’niih
+		:aspect performance
+		:experiencer s103p
+		:stimulus s103x)
+	:mode expressive)
+
+
+(s104j / jíkai
+	:aspect performance
+	:actor (s104p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:mod (s104x / ’adááh)
+	:place (s104p2 / place
+		:name (s104b / bis-dootł’izh-deez’áhígi))
+	:mode expressive)
+
+
+(s105s / si’ą́
+	:aspect state
+	:theme (s105a / and
+		:op1 (s105n / naalyéhé-bá-hooghan)
+		:op2 (s105k / kin
+			:refer-number singular
+			:ARG0-of (s105h / have-location-91
+				:ARG1 (s105t / t’áá-’áhánígi)
+				:ARG2 s105n))))
+
+
+(s106d / dahodii’ní
+	:aspect habitual
+	:actor (s106p / person
+		:refer-person 1st
+		:refer-number plural)
+	:undergoer (s106t / thing)
+	:theme (s106k / kin-hóchxǫ́’í)
+	:temporal (s106x / ’íídą́ą́’))
+
+
+(s107s / si’ą́
+	:aspect state
+	:theme (s107k / kin
+		:purpose-of (s107x / ńdanijah
+			:aspect state
+			:undergoer (s107d / diné
+				:refer-number plural
+				:actor-of (s107x2 / ńdaakahii
+					:place (s107n / naalyéhé-bá-hooghangi)
+					:aspect activity))
+			:place s107k)))
+
+
+(s108j / jíkai
+	:aspect performance
+	:mode expressive
+	:actor (s108p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:goal (s108x / ’áájí))
+
+
+(s109a / and
+	:op1 (s109j / jíkai
+		:aspect performance
+		:actor (s109p / person
+			:refer-person 3rd
+			:refer-number plural)
+		:manner (s109n / ntsídajikeesgo
+			:aspect activity
+			:experiencer s109p
+			:manner (s109n2 / nichǫ́ǫ́’ígo)))
+	:op2 (s109d / deiniih
+		:aspect performance
+		:polarity -
+		:experiencer (s109h / hastóí
+			:refer-number plural
+			:actor-of (s109k / kéédahat’íinii-
+				:aspect habitual
+				:place (s109k2 / kǫ́ǫ́
+					:mod (s109t / t’áá))))
+		:stimulus s109n))
+
+
+(s110n / ndahojisne’
+	:aspect performance
+	:actor (s110p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:theme s110p
+	:manner (s110x / ’ákót’éego)
+	:temporal (s110t / tł’ée’go-))
+
+
+(s111d / dahalne’
+	:aspect performance
+	:actor (s111p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:recipient s111p
+	:theme (s111x / ’ákót’éego)
+	:companion (s111h / hanááł
+		:poss (s111a / and
+			:op1 (s111p2 / person
+				:ARG1-of (s111d2 / dishnínígíí
+					:ARG0 (s111p3 / person
+						:refer-person 1st
+						:refer-number singular)
+					:ARG2 (s111k / kinship-91
+						:ARG1 s111p3
+						:ARG2 (s111s / shichei))
+					:aspect habitual))
+			:op2 (s111p4 / person
+				:ARG0-of (s111k2 / kinship-91
+					:ARG1 s111p3
+					:ARG2 (s111s2 / shidá’ígo
+						:undergoer-of (s111w / wolyéé
+							:theme (s111x2 / ’ashkii-yázhí)
+							:aspect state))))
+			:actor-of (s111j / jiní’áazhgo
+				:aspect performance
+				:actor s111a
+				:goal (s111x3 / ’áadi)
+				:temporal (s111t / tł’ée’go)))))
+
+
+(s112b / bénáshniih
+	:aspect state
+	:experiencer (s112p / person
+		:refer-person 1st
+		:refer-number singular)
+	:stimulus (s112a / and
+		:op1 (s112p2 / person
+			:undergoer-of (s112w / wolyéé
+				:aspect state
+				:theme (s112b2 / bilį́į́’-łizhinii)))
+		:op2 (s112p3 / person
+			:undergoer-of (s112w2 / wolyéé
+				:aspect state)
+			:theme (s112n / na’niłhodí-))
+		:op3 (s112p4 / person
+			:undergoer-of (s112w3 / wolyéé
+				:aspect state)
+			:theme (s112k2 / kin-łichíi’nii-nééz))
+		:op4 (s112p5 / person
+			:undergoer-of (s112w4 / wolyéé
+				:aspect state)
+			:theme (s112y2 / yoo’ee-hataałí-sání)
+			:ARG0-of (s112b3 / be-from-91
+				:ARG1 (s112e / ethnic-group
+					:name (s112k3 / kin-łichíi’nii))))
+		:op5 (s112p6 / person
+			:undergoer-of (s112w5 / wolyéé
+				:aspect state
+				:theme (s112y3 / yoo’ee-bida’)
+				:ARG0-of (s112k4 / kinship-91
+					:ARG1 s112p5
+					:ARG2 (s112n2 / naa’aash)))
+			:ARG0-of (s112b4 / be-from-91
+				:ARG1 (s112e2 / ethnic-group
+					:name (s112t2 / tó-dích’íi’nii))))
+		:op6 (s112h / hastiin
+			:undergoer-of (s112w6 / wolyéé
+				:aspect state
+				:theme (s112x2 / ’li’di-aałiiłtsooí))
+			:refer-number singular
+			:stimulus-of (s112b5 / bééhasinígo
+				:mod (s112t3 / t’óó)
+				:aspect state
+				:experiencer s112p)
+			:ARG0-of (s112k5 / kinship-91
+				:ARG1 s112p
+				:ARG2 (s112s / shá’áyééh)))
+		:part-of (s112g / group
+			:actor-of (s112y / yíkai
+				:aspect performance
+				:start (s112x / áádę́ę́’
+					:mod (s112t / t’áá-’ákódígo)))))
+	:temporal (s112k / k’ad))
+
+
+(s113h / hóla
+	:aspect state
+	:polarity -
+	:experiencer (s113p / person
+		:refer-person 1st
+		:refer-number singular)
+	:stimulus (s113x / ła’-
+		:part-of (s113p2 / person
+			:refer-number plural)))
+
+
+(s114n / ndahaz’ą́
+	:aspect activity
+	:actor (s114p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:manner (s114d / daaníigo)
+	:theme (s114x / ’adiikah
+		:aspect activity
+		:actor s114p
+		:companion (s114p2 / person
+			:name (s114y / yiską́ągo-naat’áanii))
+		:mod (s114y2 / yah)))
+
+
+(s115n / ndahasne
+	:aspect performance
+	:actor (s115p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:recipient (s115p2 / person
+		:ARG0-of (s115h / have
+			:ARG1 (s115j / jilą))
+		:mod s115x)
+	:manner (s115d / daaníigo
+		:aspect activity
+		:actor s115p
+		:theme (s115a / and
+			:op1 (s115k / kódeiniidzin
+				:aspect state
+				:experiencer s115p)
+			:op2 (s115n2 / ntsídeiikees
+				:aspect state
+				:experiencer s115p
+				:stimulus (s115n3 / ní’diildee’ígíí
+					:aspect activity
+					:force (s115t / thing)
+					:affectee (s115p3 / person
+						:refer-person 1st
+						:refer-number dual))))))
+
+
+(s116t / tsídahodeeskéés
+	:aspect activity
+	:actor (s116p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:manner (s116b / bik’ehgo
+		:manner-of (s116b2 / binahat’a’ą́ą
+			:poss s116p))
+	:temporal (s116x / ’áájí))
+
+
+(s117x / ’ánóht’é
+	:aspect activity
+	:mode interrogative
+	:actor (s117p / person
+		:refer-person 2nd
+		:ARG0-of (s117i2 / identity-91
+			:ARG1 (s117h2 / hastóí)))
+	:theme (s117h / haa))
+
+
+(s118x / ńda’jooskan)
+
+
+(s119x / ’ádajiní
+	:aspect habitual
+	:actor (s119p / person
+		:refer-person 3rd
+		:refer-number plural
+		:actor-of (s119j / jíkai
+			:aspect performance
+			:start (s119b / bine’dę́ę́’
+				:mod (s119d / dził)))))
+
+
+(s120x / ’át’é
+	:ARG0 (s120d / díí)
+	:ARG1 (s120j / jinínígíí
+		:aspect performance
+		:actor (s120p / person)
+		:temporal (s120k / k’ad)
+		:theme (s120j2 / jiní
+			:aspect activity
+			:actor (s120p2 / person)
+			:mod (s120t / t’óó))))
+
+
+(s121x / ’óolyéé
+	:aspect state
+	:undergoer (s121n / naat’i’íí
+		:ARG1 (s121h / ha’át’éegoónee’shą’)
+		:aspect state))
+
+
+(s122j / joolyé
+	:aspect performance
+	:actor (s122p / person
+		:recipient-of (s122d / dishnínę́ę
+			:theme (s122x / ’ashkii-yázhí)))
+	:theme (s122s / shí-lą́ą
+		:mode expressive))
+
+
+(s123j / jiní
+	:aspect performance
+	:actor (s123p / person
+		:name (s123b / bilį́į́’-łizhinii))
+	:theme (s123n / ndidoołt’eeł
+		:aspect state
+		:theme (s123p2 / person
+			:refer-person 2nd
+			:refer-number dual)
+		:manner (s123x / ’áko)))
+
+
+(s124x / ’ahizhdii’áázh
+	:aspect performance
+	:actor (s124p / person
+		:ARG0-of (s124k / kinship-91
+			:ARG1 (s124p2 / person
+				:refer-person 1st
+				:refer-number singular)
+			:ARG2 (s124s / shichei)
+			:undergoer-of (s124w / wolyé
+				:theme (s124n / naakaii-dine’étsoh)
+				:theme-of (s124d / dishnínę́ę
+					:actor (s124p3 / person
+						:refer-person 1st
+						:refer-number singular)
+					:aspect habitual)
+				:aspect state)))
+	:companion (s124p4 / person
+		:refer-person 3rd
+		:refer-number singular))
+
+
+(s125h / have-purpose-91
+	:ARG0 (s125t / thing)
+	:ARG1 (s125n / nahozhdoołaał
+		:aspect activity
+		:actor (s125p / person
+			:refer-person 3rd
+			:refer-number singular)))
+
+
+(s126d / dahodííłid
+	:aspect performance
+	:temporal (s126x / ’ałk’idą́ą́’-)
+	:actor (s126h / ha’át’íí
+		:refer-number plural)
+	:undergoer (s126t / thing
+		:undergoer-of (s126d2 / dahodii’ni
+			:aspect habitual
+			:actor (s126p / person
+				:refer-person 1st
+				:refer-number plural)
+			:theme (s126k / kin-ts’iil)
+			:medium (s126l / language
+				:name (s126d3 / dinék’ehjígo)
+				:wiki "Navajo_Language"))
+		:ARG0-of (s126h2 / have-location-91
+			:ARG1 (s126b / bich’ijígo
+				:mod (s126s / shádi’ááh))
+			:ARG2 (s126n / naalyéhé-ba-hooghanídóó))))
+
+
+(s127w / wolyéé
+	:aspect state
+	:undergoer (s127p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:theme (s127x / ’anaasázi))
+
+
+(s128h / hadaashjin
+	:aspect state
+	:theme (s128t / thing
+		:refer-number plural)
+	:manner (s128n / nahalingo
+		:ARG0 s128t
+		:ARG1 (s128x / łeeshch’ih)
+		:aspect state))
+
+
+(s129n / nijzh’áázh
+	:aspect performance
+	:path (s129h / ha’nínígíí
+		:aspect activity
+		:actor s129p
+		:theme (s129x / łee’íyátééh
+			:aspect activity))
+	:actor (s129p / person
+		:refer-person 3rd
+		:refer-number dual)
+	:place (s129x2 / ’áájį’))
+
+
+(s130h / hóla
+	:theme (s130x / ’al’į́į́
+		:aspect performance
+		:undergoer (s130t / thing)
+		:manner (s130h2 / ha’át’éego))
+	:aspect state)
+
+
+(s131y / yiską́
+	:aspect performance
+	:manner (s131k / kódzaago)
+	:temporal (s131x / ’aajį’))
+
+
+(s132n / náánihiiską́
+	:aspect performance
+	:undergoer (s132p / person
+		:refer-person 1st
+		:refer-number dual)
+	:place (s132b / bighandi
+		:poss (s132p2 / person
+			:ARG0-of (s132k / kinship-91
+				:ARG1 (s132p3 / person
+					:refer-person 1st
+					:refer-number singular)
+				:ARG2 (s132s / shidá’í)))))
+
+
+(s133n / nihi’dee’nííł
+	:aspect performance
+	:theme (s133p / person
+		:refer-person 1st
+		:refer-number plural)
+	:goal (s133b / bitah
+		:ARG1-of (s133h / have-location-91
+			:ARG0 s133p
+			:ARG2 (s133x / ’áłchíní
+				:refer-number plural
+				:theme-of (s133b2 / bił-’oobąs
+					:goal (s133x2 / ’ólta’góó-)
+					:aspect activity))))
+	:temporal (s133j / jį́
+		:mod (s133d / díí)))
+
+
+(s134n / náádiikai
+	:mod (s134d / dah)
+	:aspect activity
+	:manner (s134t / t’áá-ni’)
+	:temporal (s134x / ’ahbínígo)
+	:direction (s134h / hooghandóó)
+	:actor (s134p / person
+		:refer-person 1st
+		:refer-number plural)
+	:purpose (s134x2 / ’adiinééh
+		:mod (s134d2 / dah-)
+		:aspect activity
+		:actor s134p
+		:companion (s134p2 / person)
+		:temporal (s134y / yiską́ągo)))
+
+
+(s135d / diikai
+	:mod (s135d2 / dah)
+	:aspect performance
+	:actor (s135p / person
+		:refer-person 1st
+		:refer-number plural)
+	:companion (s135h / hastóí
+		:refer-number plural))
+
+
+(s136p / person
+	:name (s136n2 / naakaii-dine’étsoh)
+	:actor-of (s136y / yididoolchiłii
+		:undergoer (s136n / naaltsoos)
+		:affectee (s136p2 / person
+			:refer-person 1st
+			:refer-number dual)
+		:aspect activity
+		:manner-of (s136x / ’ééhózin
+			:aspect state
+			:experiencer s136p))
+	:ARG0-of (s136k / kinship-91
+		:ARG1 (s136p3 / person
+			:refer-person 1st
+			:refer-number singular)
+		:ARG2 (s136s / shichei)))
+
+
+(s137y / yiizį’
+	:aspect performance
+	:actor (s137p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:affectee (s137p2 / person
+		:refer-person 1st
+		:refer-number dual))
+
+
+(s138s / silį́į́’
+	:mod (s138x / ’áłah)
+	:aspect performance
+	:mode expressive
+	:actor (s138d / diné
+		:mod (s138t / t’óó-’ahayóí))
+	:temporal (s138n / niikai
+		:aspect performance
+		:actor (s138p / person
+			:refer-person 1st
+			:refer-number plural)
+		:goal (s138k / kingi)))
+
+
+(s139n / naazį́
+	:aspect state
+	:theme (s139x / łį́į́’
+		:mod (s139t / t’óó-’ahayóí)))
+
+
+(s140n / nda’aldeeh
+	:aspect habitual
+	:actor (s140p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:instrument (s140x / łį́į́’
+		:mod (s140t / t’éiyá))
+	:temporal (s140x2 / ’íídą́ą́’))
+
+
+(s141b / béédahózin
+	:aspect state
+	:polarity -
+	:experiencer (s141p / person
+		:quant (s141x / ła’
+			:part-of (s141p2 / person
+				:refer-person 1st
+				:refer-number plural))
+		:refer-number plural)
+	:stimulus (s141n / nda’asdee’ii
+		:aspect performance
+		:temporal (s141t / tł’éédą́ą́’)))
+
+
+(s142x / ’aní’eezh
+	:aspect performance
+	:mode expressive
+	:actor (s142p / person
+		:mod (s142l / léi’)
+		:undergoer-of (s142w / wolyéé
+			:theme (s142b / bilį́į́’-łizhinii-)))
+	:source (s142b2 / bine’dę́ę́’
+		:part-of (s142d / dził)
+		:place (s142n / nagháí-))
+	:mod (s142t / t’éiyá-)
+	:theme (s142p2 / person
+		:refer-person 3rd
+		:refer-number plural))
+
+
+(s143b / béédahoozin
+	:aspect state
+	:experiencer (s143p / person
+		:refer-person 1st
+		:refer-number plural)
+	:stimulus (s143x / ’ákót’éhégo
+		:mod (s143t / t’óó)
+		:aspect state))
+
+
+(s144e / exist-91
+	:ARG0 (s144k / kwe’é)
+	:ARG1 (s144n / naanish
+		:refer-number plural)
+	:aspect state
+	:temporal (s144k2 / k’ad))
+
+
+(s145h / hodoo
+	:aspect performance
+	:theme s145x
+	:theme (s145x2 / ’ánáádadoolniił
+		:theme (s145n2 / naaltsoos
+			:refer-number plural)
+		:aspect activity
+		:affectee (s145n3 / niha’áłchíní
+			:refer-number plural
+			:poss (s145p2 / person
+				:refer-person 1st
+				:refer-number plural))))
+
+
+(s146n / naakai
+	:aspect performance
+	:actor (s146p / person
+		:ARG0-of (s146i2 / identity-91
+			:ARG1 (s146s / siláago))
+		:quant 3)
+	:purpose (s146x / ’ákwii))
+
+
+(s147a / and
+	:op1 (s147i2 / identity-91
+		:ARG0 (s147p / person
+			:refer-person 3rd
+			:refer-number singular)
+		:ARG1 (s147h / have-name-91
+			:ARG0 s147p
+			:ARG1 (s147y / yoo’ó-’adika’í)))
+	:op2 (s147i3 / identity-91
+		:ARG0 (s147p2 / person
+			:refer-person 3rd
+			:refer-number singular)
+		:ARG1 (s147p3 / person
+			:name (s147h2 / hastiin-deez)
+			:ARG0-of (s147b / be-from-91
+				:ARG1 (s147c / city
+					:name (s147t / tséhootsooídę́ę́’)))
+			:undergoer-of (s147w / wolyéé
+				:theme (s147h3 / hastiin-’anilí-ni’-biye’)
+				:aspect state))))
+
+
+(s148i2 / identity-91
+	:ARG0 (s148p / person
+		:refer-person 3rd)
+	:ARG1 (s148p2 / person
+		:ARG0-of (s148k / kinship-91
+			:ARG1 (s148p3 / person
+				:name (s148x / ’adiits’a’ii-yę́ęni’))
+			:ARG2 (s148b / biyé))))
+
+
+(s149b / biisxį́
+	:aspect performance
+	:undergoer (s149p / person
+		:ARG0-of (s149i2 / identity-91
+			:ARG1 (s149c / clan
+				:name (s149t / táchii’nii))))
+	:place (s149c2 / city
+		:name (s149t2 / ts’óhootsogi)
+		:wiki "St._Michaels,_Arizona")
+	:temporal (s149x / ńda’adleehgo
+		:aspect activity
+		:mod (s149n / naa’ahóóhai))
+	:place (s149j / jáádk’ehgi)
+	:actor (s149x2 / łį́į́’
+		:actor-of (s149x3 / ’ałghadeesht’áazhgo
+			:aspect activity)
+		:actor-of (s149c3 / ch’élwodgo
+			:aspect performance
+			:place (s149b2 / bik’i
+				:poss s149p))))
+
+
+(s150h / have-role-91
+	:ARG0 (s150p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:ARG1 (s150s / siláago)
+	:aspect state
+	:temporal (s150x / ’íídą́ą́’))
+
+
+(s151b / bééhasin
+	:aspect state
+	:experiencer (s151p / person
+		:refer-person 1st
+		:refer-number singular)
+	:stimulus (s151b2 / bééhasinígo
+		:aspect state
+		:experiencer s151p
+		:mod (s151t / t’óó)
+		:stimulus (s151p2 / person
+			:refer-person 3rd
+			:refer-number singular
+			:undergoer-of (s151w / wolyéé
+				:theme (s151d / daánee’shą’)
+				:aspect state))))
+
+
+(s152b / bi’di’níí
+	:undergoer (s152p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:theme (s152x / ’adiits’a’ii-baadaaní)
+	:mod (s152t / t’óó)
+	:aspect habitual)
+
+
+(s153h / have-role-91
+	:ARG0 (s153p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:ARG1 (s153s / siláago)
+	:aspect state
+	:temporal (s153x / ’íídą́ą́’))
+
+
+(s154h / have-quant-91
+	:ARG0 (s154s / siláago)
+	:ARG1 3
+	:aspect state
+	:mode expressive)
+
+
+(s155k / kódzaa
+	:aspect performance
+	:manner (s155x / ’akon)
+	:theme (s155t / thing))
+
+
+(s156h / hodoo’niid
+	:aspect performance
+	:mode expressive
+	:theme (s156d / dooleeł
+		:aspect activity
+		:theme (s156x / ńt’éé’go)
+		:temporal (s156k / k’ad)))
+
+
+(s157x / ’ahijeeh
+	:aspect activity
+	:actor (s157d / diné
+		:refer-number plural)
+	:mod (s157y / yah)
+	:mod (s157t / t’óó-)
+	:goal (s157g / góne’
+		:part-of (s157n / naalyéhé-bá-hooghan)))
+
+
+(s158x / ’iikai
+	:aspect performance
+	:actor (s158p / person
+		:refer-person 1st
+		:refer-number plural)
+	:mod (s158y / yah)
+	:manner (s158x2 / ’atah))
+
+
+(s159t / tádiit’aash
+	:aspect habitual
+	:actor (s159p / person
+		:refer-person 1st
+		:refer-number dual
+		:mod (s159t2 / t’áá-ła’)
+		:theme-of (s159n / ninihi’dee’nil
+			:aspect performance)))
+
+
+(s160b / bééhózin
+	:aspect state
+	:polarity -
+	:experiencer (s160p / person
+		:refer-person 1st
+		:refer-number singular)
+	:stimulus (s160p2 / person
+		:refer-person 3rd
+		:refer-number plural
+		:theme-of (s160n / nihees’nilii
+			:aspect performance
+			:manner (s160n2 / nahgóó))))
+
+
+(s161y / yoo’ish́
+	:aspect activity
+	:actor (s161x / ’asdzání
+		:refer-number dual
+		:actor-of (s161n / nikinát’áazhgo))
+	:theme (s161x2 / łį́į́’)
+	:place (s161k / kóoní)
+	:manner (s161n2 / nikinát’áazhgo
+		:aspect activity
+		:actor s161x)
+	:temporal (s161x3 / ’ahii’nííł
+		:aspect activity
+		:mod (s161b / bidah)
+		:actor (s161p / person
+			:refer-person 1st
+			:refer-number dual)
+		:theme (s161c / chizh
+			:refer-number plural)
+		:temporal (s161n3 / niniigį́įgo
+			:aspect performance
+			:actor s161p
+			:theme (s161p2 / pack
+				:mod s161c))))
+
+
+(s162n / niiníłtį́įgo
+	:aspect performance
+	:mod (s162x / ’ałdó)
+	:actor (s162p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:theme (s162p2 / person
+		:ARG1 s162p
+		:ARG2 (s162b / biyáazhgo)
+		:ARG0-of (s162k / kinship-91)))
+
+
+(s163n / niiníłtį́
+	:aspect performance
+	:actor (s163p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:theme (s163p2 / person
+		:undergoer-of (s163w / wolyéé
+			:theme (s163t / toohnii)))
+	:temporal (s163x / ’íídą́ą́’))
+
+
+(s164a / and
+	:op1 (s164n / nihik’iníghal
+		:aspect performance
+		:experiencer (s164x / ’asdzání-
+			:refer-number singular)
+		:stimulus (s164p / person
+			:refer-person 1st
+			:refer-number dual)
+		:direction (s164x2 / ’aadę́ę́’))
+	:op2 (s164w / wolyé
+		:aspect state
+		:undergoer s164p
+		:theme (s164x3 / ’asdzą́ą́-tł’ááshchí’í’))
+	:op3 (s164n2 / naaghá
+		:temporal (s164t / t’ah)
+		:temporal (s164k / k’ad)
+		:aspect activity
+		:actor s164p))
+
+
+(s165x / łigai
+	:aspect state
+	:theme (s165b / bitsii’
+		:poss (s165p / person
+			:refer-person 3rd
+			:refer-number singular)))
+
+
+(s166x / ’ání
+	:aspect performance
+	:actor (s166p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:theme (s166a / and
+		:op1 (s166h / ha’ní
+			:aspect performance
+			:theme (s166n / nii’nil
+				:aspect performance
+				:theme (s166x2 / ’ashiiké
+					:refer-number plural
+					:actor-of (s166n2 / niiníyínígíí
+						:aspect performance
+						:theme (s166c / chizh)
+						:place (s166x3 / ’akǫ́ǫ́-)))))
+		:op2 (s166h2 / ha’ní
+			:aspect performance
+			:theme (s166x4 / ’i’ííníłta’
+				:aspect performance
+				:actor s166x2))))
+
+
+(s167n / nihiłní
+	:aspect performance
+	:actor (s167p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:recipient (s167p2 / person
+		:refer-person 1st
+		:refer-number dual)
+	:theme (s167h / have-mod-91
+		:ARG0 (s167p3 / person
+			:refer-person 3rd
+			:refer-number plural)
+		:ARG1 (s167x / ’adahashzhiizh
+			:aspect performance)
+		:purpose (s167b / bee-da’iináajį’
+			:aspect activity
+			:actor s167p3)
+		:mode interrogative
+		:reason (s167l / la’)
+		:temporal (s167k / kad)))
+
+
+(s168x / ’ání
+	:aspect activity
+	:actor (s168p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:manner (s168t / tsídeezkéezgo
+		:aspect activity
+		:experiencer s168p
+		:stimulus (s168h / ha’át’éegoónee’shą’))
+	:recipient (s168p2 / person
+		:refer-person 1st
+		:refer-number dual))
+
+
+(s169y / yiidloh
+	:aspect activity
+	:actor (s169p / person
+		:refer-person 1st
+		:refer-number dual)
+	:reason (s169t / thing)
+	:mod (s169t2 / t’óó)
+	:temporal (s169k / kodóó))
+
+
+(s170n / ni’ádinii’nil
+	:aspect performance
+	:actor (s170p / person
+		:refer-person 1st
+		:refer-number dual)
+	:undergoer s170p
+	:ARG0-of (s170h / have-mod-91
+		:ARG1 (s170t / t’áá-lá-’aaníinii
+			:aspect state)))
+
+
+(s172n / niiddzį
+	:aspect performance
+	:experiencer (s172p / person
+		:refer-person 1st
+		:refer-number dual)
+	:theme (s172h / hane
+		:ARG0-of (s172h2 / have-mod-91
+			:ARG1 (s172h3 / hózhónígi)
+			:aspect state))
+	:stimulus (s172t / thing))
+
+
+(s173x / ’ákwíiniizį́į́’
+	:aspect state
+	:experiencer (s173p / person
+		:refer-person 1st
+		:refer-number singular))
+
+
+(s174h / hashné
+	:aspect habitual
+	:actor (s174p / person
+		:refer-person 1st
+		:refer-number singular)
+	:recipient (s174p2 / person
+		:ARG0-of (s174h2 / have-role-91
+			:ARG1 s174p
+			:ARG2 (s174s / shich’ooní)))
+	:theme (s174n / ntséskeesii
+		:aspect activity
+		:experiencer s174p
+		:stimulus s174p)
+	:goal (s174x / ’áajį’)
+	:place (s174k / kojí))
+
+
+(s175a / and
+	:op1 (s175h / háníí
+		:aspect activity
+		:mode expressive
+		:direction (s175x / ’akon)
+		:experiencer (s175p / person))
+	:op2 (s175h2 / have-03
+		:ARG0 (s175p2 / person
+			:name (s175c / chíí’)
+			:ARG0-of (s175h3 / have-role-91
+				:ARG1 (s175p3 / person
+					:refer-person 1st
+					:refer-number singular)
+				:ARG2 (s175s / sitsilí)))
+		:ARG1 (s175b / binaalyéhé-bá-hooghan)
+		:place (s175x2 / ’akóoní-)
+		:aspect state))
+
+
+(s176h / habíyííłką́
+	:aspect performance
+	:undergoer (s176p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:manner (s176n / na’atsigo
+		:aspect activity
+		:actor s176p
+		:place (s176b / bighangóó
+			:poss (s176x / łį́į́’))
+		:undergoer (s176y / yii’
+			:part-of (s176b2 / bichaan
+				:poss s176x))
+		:manner-of (s176h2 / hojoobá’ígo
+			:aspect state
+			:undergoer s176p
+			:temporal (s176n2 / nináda’iis’náádą́ą́’
+				:aspect performance
+				:actor (s176p2 / person
+					:refer-person 3rd
+					:refer-number plural)
+				:start (s176p3 / place
+					:wiki "Fort_Sumner,_New_Mexico"
+					:undergoer-of (s176h3 / hoolyéédę́ę́’
+						:aspect state
+						:theme (s176h4 / hwééldi)))
+				:mod (s176n3 / nízahdę́ę́’-
+					:mod (s176h5 / haa))))))
+
+
+(s177y / yootį́įł
+	:aspect habitual
+	:actor (s177p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:mod (s177d / dah-)
+	:instrument (s177t / tsin
+		:undergoer-of (s177h / hasht’eelyaago
+			:aspect performance
+			:purpose (s177c / ch’éhégéedi
+				:aspect performance
+				:undergoer (s177b / bichaan
+					:poss (s177x / łį́į́’)))))
+	:temporal (s177h2 / haiłkááhdą́ą́’
+		:mod (s177t2 / t’óó)))
+
+
+(s178n / nahaltsaad
+	:aspect habitual
+	:aspect state
+	:actor (s178p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:direction (s178s / sháyahjį’
+		:force-of (s178b / bighájíchii’go
+			:undergoer (s178b2 / bitsii’
+				:poss s178p)
+			:aspect activity)))
+
+
+(s179x / ’óosye’
+	:aspect performance
+	:undergoer (s179p / person
+		:refer-person 3rd
+		:refer-number singular
+		:theme (s179c / chíí’))
+	:temporal (s179k / kodóó))
+
+
+(s180x / ńdahidiiłtį́
+	:aspect performance
+	:actor (s180p / person
+		:name (s180b / bilagáana)
+		:refer-number plural)
+	:undergoer (s180p2 / person
+		:refer-person 3rd
+		:refer-number singular))
+
+
+(s181h / hideeznaad
+	:aspect activity
+	:manner (s181y / yee))
+
+
+(s182a / and
+	:op1 (s182d / deezt’i’
+		:undergoer (s182b / binitsékees-
+			:poss (s182p / person
+				:refer-person 3rd
+				:refer-number singular))
+		:temporal (s182x / ’áádę́ę́’)
+		:aspect performance)
+	:op2 (s182h / have-mod-91
+		:ARG0 (s182b2 / be’iina
+			:poss s182p
+			:undergoer-of (s182d2 / deezt’i’ii
+				:aspect performance))
+		:ARG1 (s182b3 / bidááh
+			:mod (s182t / t’óó))))
+
+
+(s183x / ’adiits’a’go
+	:aspect state
+	:actor (s183p / person
+		:refer-person 3rd
+		:refer-number singular))
+
+
+(s184n / ntséskees
+	:aspect state
+	:experiencer (s184p / person
+		:refer-person 1st
+		:refer-number singular)
+	:stimulus (s184n2 / nisingo
+		:aspect state
+		:experiencer s184p)
+	:temporal (s184x / ’íídą́ą́’))
+
+
+(s185h / hadeesdzíí’
+	:aspect performance
+	:actor (s185p / person
+		:refer-person 1st
+		:refer-number singular)
+	:affectee s185p
+	:purpose (s185t / thing))
+
+
+(s186x / ’ákót’é
+	:aspect state
+	:actor (s186p / person
+		:refer-number singular
+		:actor-of (s186s / shidiiyáii
+			:companion (s186p2 / person
+				:refer-person 1st
+				:refer-number singular)))
+	:mod (s186d / dó’)
+	:mod (s186t / t’áá-))
+
+
+(s187x / ’adááhóóniid
+	:aspect state
+	:experiencer (s187p / person
+		:refer-person 1st
+		:refer-number singular)
+	:manner (s187b / bik’ehgo
+		:part-of (s187n / nabik’í-tséskeesgo
+			:experiencer s187p
+			:stimulus (s187k / kót’éego)))
+	:temporal (s187x2 / ’íídą́ą́’))
+
+
+(s188x / ’ákódoonííł
+	:aspect activity
+	:force (s188t / thing)
+	:polarity -
+	:temporal (s188k / k’adshą’)
+	:temporal (s188y / yę́ęni’)
+	:mod (s188l / léi’))
+
+
+(s189x / ’o’ooldee’
+	:aspect performance
+	:actor (s189p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:mod (s189y / yah)
+	:goal (s189g / góne’-
+		:part-of (s189n / naalyéhé-bá-hooghan-)))
+
+
+(s190h / have-mod-91
+	:ARG0 (s190p / place)
+	:ARG1 (s190h2 / ha’déébįįd)
+	:mode expressive)
+
+
+(s191s / sitą́
+	:theme (s191b / bik’i-na’iiniihí)
+	:mod (s191n / naanii)
+	:place (s191k / kojígo)
+	:aspect state)
+
+
+(s192e / exist-91
+	:ARG0 (s192w / wóniidi
+		:mod (s192n / nah))
+	:ARG1 (s192t2 / tsin-dánídíkǫs)
+	:temporal (s192t / t’ah)
+	:aspect state)
+
+
+(s193c / ch’íníyá
+	:aspect performance
+	:actor (s193p / person
+		:name (s193h / hastiin-’adiits’a’ii))
+	:start (s193x / ’áádę́ę́’))
+
+
+(s194n / naaghá
+	:aspect state
+	:actor (s194p / person
+		:ARG0-of (s194h / have-role-91
+			:ARG1 (s194n3 / naalyéhé-yá-sidáago)
+			:aspect state)
+		:undergoer-of (s194d / dabijiníí
+			:theme (s194j / jaa’-’abaní)
+			:aspect state)
+		:ARG0-of (s194k / kinship-91
+			:ARG1 (s194p2 / person
+				:undergoer-of (s194w / wolyéé
+					:aspect state
+					:theme (s194n4 / nák’ee-’aznilii))
+				:ARG0-of (s194b2 / be-from-91
+					:ARG1 (s194p3 / place
+						:name (s194l / lók’aah-nteeldóó)
+						:wiki "Ganado,_Arizona")))
+			:ARG2 (s194b3 / bik’isgo)))
+	:place (s194y / yine’jí
+		:part-of (s194b / bikáá’-na’iiniihí)
+		:mod (s194n2 / nagháí-’át’ééjí)))
+
+
+(s195x / ’óolyéé
+	:aspect state
+	:undergoer (s195p / person
+		:refer-person 3rd
+		:refer-number singular
+		:actor-of (s195y / yidiits’a’go
+			:medium (s195l / language
+				:name (s195d / diné)
+				:wiki "Navajo_language")
+			:aspect habitual
+			:manner (s195x2 / ’ayóo)))
+	:theme (s195j / jaa’-’abaní))
+
+
+(s196c / ch’ínáánádzá
+	:aspect performance
+	:actor (s196p / person
+		:refer-person 3rd
+		:refer-number singular
+		:mod (s196l / léi’)
+		:undergoer-of (s196w / wolyéé
+			:aspect state
+			:theme (s196n / naat’áanii-yazhí)))
+	:temporal (s196h / hodíina’go))
+
+
+(s197d / dadeesnii
+	:aspect performance
+	:actor (s197p / person
+		:mod (s197d2 / diné)
+		:refer-number plural)
+	:undergoer (s197y / yílák
+		:poss s197p)
+	:goal (s197n / nahgóó))
+
+
+(s198n / niníyá
+	:aspect performance
+	:actor (s198p / person
+		:name (s198x / ’adiits’a’ii-sání))
+	:start (s198y / yíighahdóó))
+
+
+(s199x / ’ayá’niiłti’
+	:aspect activity
+	:actor (s199p / person
+		:name (s199x2 / ’adiits’a’ii-sání))
+	:temporal (s199h / halne’go
+		:aspect activity
+		:actor s199p
+		:place (s199x3 / ’ata’
+			:part-of s199p2))
+	:recipient (s199p2 / person
+		:refer-person 3rd
+		:refer-number plural))
+
+
+(s200s / sizį́
+	:aspect state
+	:actor (s200p / person
+		:name (s200b / bilį́į́’-łizhinii-))
+	:place (s200y / yąąh
+		:part-of (s200b2 / bikáá’-na’iiniihí)
+		:mod (s200n / nahjígo)))
+
+
+(s201n / naazį́
+	:aspect state
+	:actor (s201p / person
+		:refer-person 3rd
+		:refer-number singular)
+	:companion (s201p2 / person
+		:refer-person 3rd
+		:refer-number plural
+		:actor-of (s201n2 / naakai
+			:companion s201p
+			:aspect activity)))
+
+
+(s202a / and
+	:op1 (s202d / dabi’dééji’
+		:undergoer (s202x / ’áłchíní
+			:refer-number plural
+			:theme-of (s202n / ndayiiznilii
+				:aspect performance))
+		:aspect performance)
+	:op2 (s202n2 / nahazne’
+		:aspect performance
+		:theme (s202x2 / łą́ą́góó
+			:part-of (s202x3 / ’ólta’))))
+
+
+(s203x / ’ání
+	:aspect performance
+	:actor (s203p / person
+		:name (s203b / bilį́į́’-łizhinii))
+	:theme (s203n / nihik’iit’ééh
+		:aspect activity
+		:mode interrogative
+		:affectee (s203p2 / person
+			:ARG0 (s203i2 / identity-91
+				:ARG1 (s203p3 / person))
+			:refer-person 3rd
+			:refer-number plural
+			:actor-of (s203k / kééhwiit’íinii
+				:aspect state
+				:place (s203d / dził
+					:mod (s203n2 / nagháí
+						:refer-person 1st
+						:refer-number plural))))
+		:temporal (s203h / hahgo)
+		:force (s203x2 / ’adahat’éshígíí
+			:aspect activity
+			:theme (s203x3 / ’áłchíní
+				:refer-number plural)
+			:manner (s203h2 / hats’ą́ą́’)
+			:goal (s203x4 / ’ólta’góó)
+			:mod (s203d2 / díí)))
+	:manner (s203x5 / áko
+		:mod (s203t / t’áá)))
+
+
+(s204d / dííniid
+	:aspect performance
+	:actor (s204p / person
+		:refer-person 3rd
+		:refer-number singular))
+
+
+(s205n / nihik’iidoot’ih
+	:aspect activity
+	:force (s205t / thing)
+	:undergoer (s205p / person
+		:refer-person 2nd
+		:refer-number plural)
+	:temporal (s205h / hahgo-dá))
+
+
+(s206n / ní
+	:aspect activity
+	:actor (s206p / person
+		:name (s206n2 / naat’áanii-yázhí))
+	:theme (s206n3 / niki’níná
+		:aspect activity
+		:actor (s206p2 / person
+			:mod (s206d / díí))
+		:direction (s206k2 / kojigo
+			:temporal (s206k / k’ad))
+		:path (s206g / góne’
+			:part-of (s206d2 / dziłtát’ah))
+		:temporal (s206y / yiską́ągo-)))
+
+
+(s207d / dadiiltéeł
+	:aspect activity
+	:polarity -
+	:actor (s207p / person
+		:refer-person 1st
+		:refer-number plural)
+	:theme (s207p2 / person
+		:quant (s207x / ła
+			:part-of (s207n / niha
+				:refer-number plural
+				:poss s207p)))
+	:recipient (s207p3 / person
+		:refer-person 2nd
+		:refer-number singular))
+
+
+(s208n / níigo
+	:aspect activity
+	:actor (s208p / person
+		:name (s208b / bilį́į́’-łizhinii))
+	:theme (s208x / ’áda’ahiil’į́į
+		:aspect activity
+		:actor (s208p2 / person
+			:refer-person 1st
+			:refer-number plural)
+		:undergoer s208p2
+		:reason (s208b2 / bíni’)
+		:direction (s208h / háágóó)))
+
+
+(s209n / ninánídéél
+	:aspect performance
+	:theme (s209s / saad-
+		:quant (s209x / łą́ądi))
+	:actor (s209p / person
+		:refer-person 3rd
+		:refer-number plural)
+	:manner (s209k / kó’ahidi’níigo
+		:aspect activity
+		:actor s209p
+		:recipient s209p)
+	:recipient s209p)
+
+
+(s210s / sizį́
+	:aspect state
+	:actor (s210p / person
+		:undergoer-of (s210d / dishnínę́ę
+			:aspect habitual
+			:actor (s210p2 / person
+				:refer-person 1st
+				:refer-number singular)
+			:theme (s210n / na’niłhodí))
+		:undergoer-of (s210x / ’ákászaazgo
+			:instrument (s210b / beeldléí-
+				:poss s210p)))
+	:place (s210t / t’áá-’áhání
+		:mod (s210n2 / nah)
+		:part-of (s210p3 / person
+			:refer-person 3rd
+			:refer-number singular)))
+
+
+(s211n / nízį́
+	:aspect state
+	:theme (s211p / person
+		:ARG0-of (s211h / have-role-91
+			:ARG1 (s211b / bich’ooní))
+		:refer-person 3rd
+		:refer-number plural)
+	:direction (s211k / kojigo)
+	:manner (s211x / ’ałkéé’
+		:ARG0 s211p
+		:ARG1 s211p))
+
+
+(s1d / dadiikai
+	:aspect activity
+	:actor (s1p / person
+		:refer-person 1st
+		:refer-number plural
+		:ARG0-of (s1h / have-quant-91
+			:ARG1 4))
+	:start (s1c / city
+		:name (s1n / name
+			:op1 "Tó"
+			:op2 "Naneesdizídóó")
+		:wiki "Tuba-City,-Arizona"
+		:mod (s1k / kodóó))
+	:temporal (s1d2 / date-entity
+		:month 2
+		:day 2
+		:mod (s1x / ’ániid))
+	:mod (s1d3 / dah))
+
+
+(s2n / nihi’diit’eezh
+	:aspect performance
+	:mod (s2d / dah)
+	:undergoer (s2p / person
+		:refer-number plural
+		:refer-person 1st)
+	:manner (s2n2 / nihi’diisdláa’go
+		:aspect activity
+		:undergoer s2p
+		:manner (s2b / bits’á)))
+
+
+(s3n / niikai
+	:aspect endeavor
+	:actor (s3p / person
+		:refer-number plural
+		:refer-person 1st)
+	:place (s3c / city
+		:name (s3n2 / name
+			:op1 "Béésh"
+			:op2 "Sinil")
+		:wiki "Winslow,-Arizona"
+		:mod (s3x / ńléí)))
+
+
+(s4x / ńdiit’a’
+	:aspect activity
+	:temporal (s4h / hiłiijį́į’go)
+	:actor (s4p / person
+		:refer-number plural
+		:refer-person 1st)
+	:theme (s4c / chidí-naat’a’í))
+
+
+(s5x / ’aneezdá
+	:aspect performance
+	:actor (s5p / person
+		:refer-number plural
+		:refer-person 1st)
+	:goal (s5c / city
+		:name (s5n / name
+			:op1 "Phoenix")
+		:wiki "Phoenix,-Arizona"))
+
+
+(s6x / ’adeiilyaa
+	:aspect performance
+	:temporal (s6x2 / ’áajį’
+		:extent (s6t / temporal-quantity
+			:quant 30
+			:unit (s6m / minute)))
+	:actor (s6p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s7x / ńdanihidiinil
+	:aspect performance
+	:undergoer (s7p / person
+		:refer-number plural
+		:refer-person 1st)
+	:temporal (s7b / biiskání)
+	:mod (s7t / t’óó-))
+
+
+(s8n / nihi’diit’eezh
+	:aspect activity
+	:theme (s8p / person
+		:refer-number plural
+		:refer-person 1st)
+	:mod (s8d / dah)
+	:instrument (s8c / chidí)
+	:mod (s8d2 / dah))
+
+
+(s9x / ’ílwod
+	:aspect performance
+	:actor (s9p / person
+		:refer-number plural
+		:refer-person 1st)
+	:goal (s9s / siláago-nda’ał’eełígíí-kééhat’į́į́
+		:mod (s9l / léi’gi)))
+
+
+(s10n / náánihi’doo’nil
+	:aspect performance
+	:theme (s10p / person
+		:refer-number plural
+		:refer-person 1st)
+	:goal (s10c / chidí-naat’a’í)
+	:time "6:00")
+
+
+(s11h / have-quant-91
+	:ARG0 (s11c / chidí-naat’a’í)
+	:ARG1 4
+	:aspect state)
+
+
+(s12d / dahaakai
+	:aspect performance
+	:actor (s12p / person
+		:refer-number plural
+		:refer-person 1st)
+	:manner (s12t / t’áá-’ał’ąą)
+	:goal (s12s / s11c))
+
+
+(s13s / shi’dool’a’
+	:aspect performance
+	:theme (s13p / person
+		:refer-person 1st
+		:refer-number singular)
+	:goal (s13a / aircraft-type
+		:name (s13n / name
+			:op1 "Tomahawk")
+		:wiki "Piper-PA-38-Tomahawk"))
+
+
+(s14h / have-91
+	:ARG0 (s14s / s12c)
+	:ARG1 (s14b / bitsiits’iin
+		:quant 4)
+	:aspect state
+	:mode expressive)
+
+
+(s15n / nda’ayéé
+	:aspect habitual
+	:mode expressive
+	:theme (s15t / t’óó-’ahayóí)
+	:force (s15c / chidí-naat’a’í
+		:mod (s15d / díí)
+		:ARG1-of (s15h / have-mod-91
+			:ARG2 (s15k / kódaat’éhígíí))))
+
+
+(s16y / yíyá
+	:aspect performance
+	:actor (s16p / person
+		:refer-number singular
+		:refer-person 1st)
+	:goal (s16t / tł’oh
+		:mod (s16t2 / t’óó-’ahayóí)
+		:ARG0-of (s16h2 / have-loc
+			:ARG1 (s16b2 / bii’)
+			:aspect state)
+		:undergoer-of (s16b / beda’astł’ónígíí
+			:aspect performance)
+		:undergoer-of (s16d / deesk’id
+			:aspect state
+			:mode expressive)))
+
+
+(s17n / ndaayéé
+	:aspect habitual
+	:mode expressive
+	:instrument (s17c / chidí-
+		:theme-of (s17d / dahabąąsgo
+			:aspect habitual
+			:place (s17b / biih)))
+	:theme (s17s / s15c))
+
+
+(s18d / da’diit’a’
+	:mod (s18d2 / dah)
+	:aspect activity
+	:actor (s18p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s19s / s18d
+	:goal (s19g / góne’
+		:part (s19b / biyi’
+			:part (s19c / country
+				:name (s19n / name
+					:op1 "Diné"
+					:op2 "bikéyah")
+				:wiki "Navajo-Nation"))))
+
+
+(s20c / ch’í’ít’a’
+	:aspect performance
+	:actor (s20p / person
+		:refer-number plural
+		:refer-person 1st)
+	:path (s20c2 / city
+		:name (s20n / name
+			:op1 "Béésh"
+			:op2 "Sinil")
+		:manner (s20b / bikáá’dę́ę́’)
+		:wiki "Winslow,-Arizona"))
+
+
+(s21h / have-role-91
+	:ARG0 (s21p / person
+		:refer-person 2nd
+		:refer-number singular)
+	:ARG1 (s21b / bee)
+	:ARG2 (s21n / níhólnííh)
+	:aspect state
+	:mode imperative
+	:start (s21k / kodóó)
+	:temporal (s21k2 / k’ad-)
+	:theme-of (s22s / shi’doo’niid
+		:aspect performance
+		:actor (s22p / person
+			:refer-number singular
+			:refer-person 3rd)
+		:recipient (s22p2 / person
+			:refer-number singular
+			:refer-person 1st)
+		:temporal (s22x / ’o’oot’a’go
+			:aspect activity
+			:actor (s22p3 / person
+				:refer-number plural
+				:refer-person 1st)
+			:place (s22g / góne’
+				:part (s22b / biyi’
+					:part (s22h / hoodzo)))))
+	:quote s22s)
+
+
+(s22s / shi’doo’niid
+	:aspect performance
+	:modal-strength full-affirmative
+	:recipient (s22p / person
+		:refer-number singular
+		:refer-person 1st)
+	:theme (s22k / kéédahat’į́
+		:aspect habitual
+		:modal-strength partial-affirmative
+		:actor (s22d / diné)
+		:place (s22h / háágóó)
+		:mode interrogative
+		:quote s22s))
+
+
+(s23x / ’ít’a’
+	:aspect endeavor
+	:path (s23a / and
+		:op1 (s23g2 / góne’
+			:part (s23n2 / ndanees’ą́ą́
+				:manner (s23y / yaa)
+				:aspect endeavor
+				:force (s23t / tsézhin)))
+		:op2 (s23g / góne’
+			:part (s23b / bikáá’
+				:part (s23c / city
+					:name (s23n / name
+						:op1 "’Oozéí"
+						:op2 "Hótsaa")))))
+	:actor (s23p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s24s / s23a
+	:op3 (s24d / dził
+		:ARG1-of (s24n / ndaaz’áágóó
+			:aspect state
+			:manner (s24y / yaa
+				:manner (s24t / t’áá-))))
+	:op4 (s24t2 / trading_post
+		:name (s24n2 / name
+			:op2 "Béégashii"
+			:op3 "Bito’jį’")
+		:wiki "Cow-Springs,-Arizona"))
+
+
+(s25s / s23a
+	:op5 (s25p / place
+		:name (s25n / name
+			:op1 "Shą́ą́’"
+			:op2 "Tóhí")
+		:wiki "Shonto,-Arizona"
+		:mod (s25n2 / níwohjį’))
+	:op6 (s25b / báátis))
+
+
+(s26s / s23a
+	:op7 (s26p / place
+		:name (s26n / name
+			:op1 "’Ooljéé’"
+			:op2 "Tó")
+		:wiki "Oljato-Monument-Valley,-Arizona"
+		:mod (s26n2 / níwohjį’))
+	:manner (s26x / ’ákóyaa))
+
+
+(s27c / ch’í’ít’a’
+	:aspect performance
+	:path (s27v / village
+		:name (s27n / name
+			:op1 "Naakaii"
+			:op2 "Bich’ah")
+		:mod (s27x / ńléí)
+		:wiki "Mexican-Hat,-Utah")
+	:manner (s27g / góyaa)
+	:actor (s27p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s28d / dayíkááh
+	:aspect activity
+	:force (s28c / chidí-naat’a’í
+		:quant (s28n / náánáła’))
+	:manner (s28n2 / nihik’ijinaa
+		:part (s28p / person
+			:refer-number plural
+			:refer-person 1st))
+	:temporal (s28x / ’oot’ahgo
+		:aspect activity
+		:actor (s28p2 / person
+			:refer-number plural
+			:refer-person 1st)
+		:direction (s28x2 / ’ákǫ́ǫ́-)))
+
+
+(s29d / dayíkááh
+	:aspect activity
+	:manner (s29x / ’aheedanízahdi
+		:part (s29p / person
+			:refer-number plural
+			:refer-person 3rd)
+		:mod (s29x2 / ’ał’ąą)
+		:degree intensifier))
+
+
+(s30y / yádeiilti’
+	:aspect activity
+	:actor (s30p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:recipient (s30p2 / person
+		:refer-number plural
+		:refer-person 3rd)
+	:medium (s30n / níłch’i-bee-hane’é)
+	:instrument (s30n2 / nihijaa’-bąąh-na’aznilgo
+		:poss (s30p3 / person
+			:refer-number plural
+			:refer-person 1st)))
+
+
+(s31d / dahwiilne’
+	:aspect performance
+	:manner (s31x / ’ałch’ishdę́ę́’)
+	:actor (s31p / person
+		:refer-number plural
+		:refer-person 1st)
+	:recipient s31p
+	:source (s31x2 / ’ałch’ishdę́ę́’)
+	:manner (s31d2 / dadii’níigo
+		:aspect activity
+		:modal-strength neutral-affirmative
+		:actor (s31p2 / person
+			:refer-number plural
+			:refer-person 1st)
+		:theme (s31y / yishááł
+			:aspect activity
+			:modal-strength full-affirmative
+			:quote s31d2
+			:actor (s31p3 / person
+				:refer-number singular
+				:refer-person 1st)
+			:modal-strength full-affirmative
+			:place (s31k / kóhoot’éhígi-
+				:degree intensifier)))
+	:modal-strength full-affirmative)
+
+
+(s32n / niikai
+	:aspect performance
+	:actor (s32p / person
+		:refer-number plural
+		:refer-person 1st)
+	:manner (s32k / kót’éego))
+
+
+(s33x / ’ít’a’
+	:aspect performance
+	:place (s33g / gódeg)
+	:path (s33b / bikáá’
+		:degree intensifier
+		:degree (s33h / have-part-91)
+		:degree (s33t / tooh-ńlínígíí)
+		:mod (s33x2 / ńléí))
+	:actor (s33p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s34n / naa’áda’ilyaa
+	:aspect performance
+	:actor (s34p / person
+		:refer-number plural
+		:refer-person 1st)
+	:temporal (s34h / have-goal-91
+		:ARG0 s34p
+		:ARG1 (s34p2 / place
+			:name (s34n2 / name
+				:op1 "Naat’áanii"
+				:op2 "Nééz")
+			:wiki "Shiprock,-New-Mexico"))
+	:path (s34g / gódeg
+		:part (s34d / dził))
+	:direction (s34p3 / place
+		:name (s34n3 / name
+			:op1 "Lók’a’jígai")
+		:wiki "Lukachukai,-Arizona"))
+
+
+(s35x / ’ałk’inéiikai
+	:aspect performance
+	:actor (s35p / person
+		:refer-number plural
+		:refer-person 1st)
+	:frequency (s35d / díkwíidi)
+	:place (s35b / bikáa’gi
+		:part (s35l / lók’a’jígai)))
+
+
+(s36h / have-direction-91
+	:ARG0 (s36p / person
+		:refer-number plural
+		:refer-person 1st)
+	:ARG1 (s36c / city
+		:name (s36n / name
+			:op1 "Ch’ínílį́įjigo")
+		:wiki "Chinle,-Arizona")
+	:aspect state)
+
+
+(s37h / have-path-91
+	:ARG0 (s37p / person
+		:refer-number plural
+		:refer-person 1st)
+	:ARG1 (s37a / and
+		:op1 (s37b / bikáá’góó
+			:part (s37l2 / location
+				:name (s37n / name
+					:op1 "Lók’aah"
+					:op2 "Nteel")
+				:wiki "Ganado,-Arizona"))
+		:op2 (s37l / location
+			:name (s37n2 / name
+				:op1 "Łeeyi’"
+				:op2 "Tóógóó")
+			:wiki "Klagetoh,-Arizona"))
+	:aspect state)
+
+
+(s38h / have-goal-91
+	:ARG0 (s38p / person
+		:refer-number plural
+		:refer-person 1st)
+	:ARG1 (s38b / béésh-ńti’i’jį’)
+	:aspect state)
+
+
+(s39n / nínáániikai
+	:aspect performance
+	:direction (s39n2 / nát’ą́ą́’)
+	:actor (s39p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s40s / s39n
+	:path (s40a / and
+		:op1 (s40l / location
+			:name (s40n / name
+				:op1 "Díwózhii"
+				:op2 "Biił"
+				:op3 "Tóódę́ę́’")
+			:wiki "Greasewood,-Arizona")
+		:op2 (s40b / bikáá’dę́ę́’
+			:part (s40l2 / location
+				:name (s40n2 / name
+					:op1 "’Ałch’į’"
+					:op2 "’Áhoot’é"
+					:wiki "Sunrise-Springs,-Arizona"))))
+	:aspect performance
+	:actor (s40p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s41n / náániikai
+	:aspect performance
+	:path (s41b / bikáá’góó
+		:degree intensifier
+		:part (s41d / dah-sitą́
+			:part-of (s41d2 / dziłíjiin)))
+	:actor (s41p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s42x / ’ahééniikai
+	:aspect performance
+	:actor (s42p / person
+		:refer-number plural
+		:refer-person 1st)
+	:place (s42t / tó-dínéeshzhee’di
+		:mod (s42x2 / ńléí)))
+
+
+(s43x / ń’diit’a’
+	:aspect performance
+	:actor (s43p / person
+		:refer-number plural
+		:refer-person 1st)
+	:mod (s43d / dah)
+	:direction (s43c / city
+		:name (s43n / name
+			:op1 "Hoozdo")
+		:wiki "Phoenix,-Arizona"
+		:mod (s43x2 / ńléí))
+	:path (s43g / góyaa))
+
+
+(s44n / ná’ít’a’
+	:aspect performance
+	:actor (s44p / person
+		:refer-number plural
+		:refer-person 1st)
+	:place (s44x / ’áadi)
+	:time (s44x2 / ’ałní’ní’ą́ągo))
+
+
+(s45d / deiidlą́ą́’
+	:aspect performance
+	:actor (s45p / person
+		:refer-number plural
+		:refer-person 1st)
+	:place (s45s / s43c
+		:mod (s45x / ńléí))
+	:time (s45x2 / ’ałní’ní’ą́ągo)
+	:ARG0-of (s45r / resemble-91
+		:ARG1 (s45n / nidziizyeel
+			:aspect process
+			:mod (s45w / words-t’óó))))
+
+
+(s46a / and
+	:op1 (s46d / da’iidą́ą́’
+		:aspect performance
+		:actor (s46p / person
+			:refer-number plural
+			:refer-person 1st)
+		:mod (s46t / t’óó))
+	:op2 (s46n / náá’ít’a’
+		:aspect performance
+		:place (s46b / bikék’ehgi
+			:poss (s46p2 / person
+				:refer-number plural
+				:refer-person 3rd)
+			:mod (s46x / ’ákǫ́ǫ́-)
+			:degree intensifier)
+		:actor s46p))
+
+
+(s47n / nínáániikai
+	:aspect performance
+	:actor (s47p / person
+		:refer-number plural
+		:refer-person 1st)
+	:goal (s47s / s43c)
+	:temporal (s47h / hííłch’į’go)
+	:manner (s47t / t’áá-yéigo))
+
+
+(s48t / tádííyá
+	:aspect performance
+	:actor (s48p / person
+		:refer-number singular
+		:refer-person 1st)
+	:manner (s48x / ’adahii’níiłgo
+		:aspect activity
+		:actor s48p
+		:theme (s48t2 / tł’oh)
+		:direction (s48b / bidah)
+		:manner (s48k / kót’éego))
+	:path (s48b2 / bikáá’góó
+		:part (s48n / nihikéyah
+			:poss (s48p2 / person
+				:refer-number plural
+				:refer-person 1st))))
+
+
+(s49n / nááhodoo’niid
+	:aspect performance
+	:theme (s49e / exist-91
+		:ARG1 (s49s / s48t
+			:mod (s49x2 / ’índa-))
+		:temporal (s49d / date-entity
+			:day (s49y / yiską́ągo)
+			:dayperiod (s49x / ’abínídą́ą́’))
+		:aspect state))
+
+
+(s50n / nááda’diit’a’
+	:aspect activity
+	:actor (s50p / person
+		:refer-number plural
+		:refer-person 1st)
+	:mod (s50d / dah)
+	:temporal (s50d2 / date-entity
+		:month 2
+		:day 4
+		:mod (s50b / biiskání)))
+
+
+(s51n / nínáánihi’dii’nil
+	:aspect performance
+	:temporal (s51a / and
+		:op1 (s51x / ’índa)
+		:op2 (s51t / t’ah-doo-haiłkaahgóó)
+		:time "4:00")
+	:undergoer (s51p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s52n / náá’diit’a’
+	:aspect performance
+	:actor (s52p / person
+		:refer-number plural
+		:refer-person 1st)
+	:mod (s52d / dah)
+	:time "6:00")
+
+
+(s53h / have-mod-91
+	:ARG1 (s53t / tł’éé’)
+	:ARG2 (s53x / ’áhí-bee
+		:cause-of (s53c / chohoo’į́į́góó
+			:aspect state))
+	:aspect state
+	:place (s53k / kodi))
+
+
+(s54x / ’ééhózin
+	:aspect habitual
+	:mode expressive
+	:condition (s54x2 / ’ákót’éego
+		:aspect state)
+	:experiencer (s54p / person))
+
+
+(s55t / táhodishłe’
+	:aspect state
+	:theme (s55p / person
+		:refer-number singular
+		:refer-person 1st)
+	:temporal (s55b / bijį́į́dą́ą́’
+		:mod (s55x / ’éí))
+	:place (s55x2 / ’atah
+		:part (s55y / yót’áahdi
+			:mod (s55a / and
+				:op1 (s55x3 / ńléí)
+				:op2 (s55d / deigo)))))
+
+
+(s56h / have-mod-91
+	:ARG1 (s56k / k’os)
+	:aspect state)
+
+
+(s57b / bíniná’ídíshki’
+	:aspect activity
+	:actor (s57p / person
+		:refer-number singular
+		:refer-person 1st)
+	:manner (s57d / dishníigo
+		:aspect activity
+		:actor s57p)
+	:topic (s57n / neiikai
+		:aspect activity
+		:mod (s57d2 / dah)
+		:actor (s57p2 / person
+			:refer-number plural
+			:refer-person 1st)
+		:extent (s57n2 / nízaadi
+			:scale (s57h / haa-))))
+
+
+(s58n / náhálnih
+	:aspect activity
+	:actor (s58n2 / na’ałt’a’ígíí-)
+	:recipient (s58p / person
+		:refer-number singular
+		:refer-person 1st)
+	:manner (s58n3 / níigo
+		:aspect activity
+		:actor s58n2
+		:theme (s58n4 / neiikai
+			:aspect activity
+			:actor (s58p2 / person
+				:refer-number plural
+				:refer-person 1st)
+			:mod (s58d / dah))
+		:place (s58d2 / distance-quantity
+			:quant 18.000
+			:unit (s58f / foot)
+			:start (s58b / bikáá’dóó-
+				:part (s58n5 / ni’-))
+			:goal (s58p3 / place
+				:place-of s58n4))))
+
+
+(s59x / ńdídááh
+	:aspect activity
+	:experiencer (s59p / person
+		:refer-number singular
+		:refer-person 1st)
+	:stimulus (s59y / yéé’
+		:degree intensifier))
+
+
+(s60x / ’ánát’įįh
+	:aspect activity
+	:force (s60t / thing)
+	:theme (s60x2 / ńdílts’i’iigi
+		:aspect activity
+		:theme s60t
+		:direction (s60b / bidah)
+		:affectee (s60p / person
+			:refer-number plural
+			:refer-person 1st)))
+
+
+(s61x / ńdílts’i’
+	:aspect habitual
+	:theme (s61p / person
+		:refer-number plural
+		:refer-person 1st)
+	:extent (s61d / distance-quantity
+		:quant 500
+		:unit (s61f / foot))
+	:direction (s61y / yaago))
+
+
+(s62s / shiłní
+	:aspect activity
+	:actor (s62n / na’ałt’a’ígíí)
+	:recipient (s62p / person
+		:refer-number singular
+		:refer-person 1st)
+	:theme (s62h / hóyéé’
+		:aspect state
+		:experiencer s62p
+		:manner (s62x / ’ákónéehee
+			:degree intensifier)
+		:quote s62s))
+
+
+(s63h / hóyéé’
+	:aspect state
+	:mode expressive
+	:manner (s63t / t’áá-’aaníí))
+
+
+(s64i2 / identity-91
+	:ARG0 (s64c / chidí-naat’a’í)
+	:ARG1 (s64n / na’aldeehii
+		:theme s64c
+		:force (s64z / zéé’-
+			:quant 2
+			:undergoer-of (s64n2 / naakiit’į́įgo
+				:aspect performance)))
+	:aspect state
+	:degree intensifier)
+
+
+(s65x / ’anáá’oot’ą́
+	:aspect process
+	:temporal (s65n / ninááda’siigigo
+		:aspect performance
+		:frequency 2
+		:degree intensifier
+		:actor (s65p / person
+			:refer-number plural
+			:refer-person 1st))
+	:ARG2-of (s65h / have-concession-91
+		:ARG2 (s65x2 / ’ákót’ée
+			:aspect state)))
+
+
+(s66x / ’ahidiikai
+	:aspect performance
+	:actor (s66p / person
+		:refer-number plural
+		:refer-person 1st)
+	:companion (s66n / nihinant’a’í
+		:name (s66g / governor)
+		:ARG2-of (s66h2 / have-org-role-91
+			:ARG1 (s66s2 / state
+				:name (s66n4 / name
+					:op1 "Arizona")
+				:wiki "Arizona")
+			:aspect state)
+		:affectee (s66p2 / person
+			:refer-number plural
+			:refer-person 1st))
+	:temporal (s66d / date-entity
+		:month 2
+		:day 5
+		:ARG0-of (s66i2 / identity-91
+			:ARG1 (s66n3 / náábiiskání-)
+			:aspect state)))
+
+
+(s67x / ’ahidiikai
+	:aspect performance
+	:actor (s67p / person
+		:refer-number plural
+		:refer-person 1st)
+	:companion (s67y / yinant’a’í
+		:aspect process
+		:theme (s67s / siláołtsooí-)
+		:ARG2-of (s67h / have-org-role-91
+			:ARG1 (s67s2 / state
+				:name (s67n / name
+					:op1 "California")
+				:wiki "California")
+			:aspect performance)
+		:mod (s67l / léi’)))
+
+
+(s68a / and
+	:op1 (s68y / yí’áázh
+		:aspect performance
+		:actor (s68h / hastóí
+			:quant 2
+			:mod (s68d / díí))
+		:goal (s68x / ’iih))
+	:op2 (s68n / nínáá’diit’a’
+		:aspect performance
+		:actor (s68p / person
+			:refer-number plural
+			:refer-person 1st)))
+
+
+(s69x / ’ít’a’
+	:aspect performance
+	:modal-strength full-affirmative
+	:actor (s69p / person
+		:refer-number plural
+		:refer-person 1st)
+	:temporal (s69n / náhánihgo-
+		:aspect activity
+		:modal-strength neutral-affirmative
+		:actor (s69p2 / person
+			:refer-number plural
+			:refer-person 3rd)
+		:medium (s69n2 / níłch’i-bee-dahane’ígíí)
+		:manner (s69n3 / nihilą́ąjį’)
+		:theme (s69h / ha’níigo
+			:aspect activity
+			:modal-strength neutral-affirmative
+			:actor s69p2
+			:theme (s69y / yit’ah
+				:aspect activity
+				:modal-strength neutral-affirmative
+				:force (s69c / chidí-naat’a’í
+					:theme-of (s69k2 / kóolyéhígíí
+						:aspect habitual
+						:modal-strength neutral-affirmative))
+				:theme (s69h2 / hastóí-
+					:theme-of (s69k / kódaalyéenii
+						:aspect habitual
+						:modal-strength neutral-affirmative))
+				:place (s69x2 / ’akǫ́ǫ́-)
+				:quote s69h)
+			:quote s69n)))
+
+
+(s70b / be-affectee-91
+	:ARG1 (s70p / person
+		:refer-number plural
+		:refer-person 1st)
+	:ARG2 (s70a / and
+		:op1 (s70t / tł’oh)
+		:op2 (s70c / ch’iyáán)
+		:op3 (s70c2 / chizh)
+		:ARG0-of (s70i2 / identity-91
+			:ARG1 (s70d / danihiyéél)
+			:aspect state))
+	:aspect state)
+
+
+(s71d / dasiigad
+	:aspect performance
+	:direction (s71b / bik’ijį’
+		:part (s71e / ethnic-group
+			:name (s71n / name
+				:op1 "Kiis’áanii")
+			:wiki "Hopi"))
+	:theme (s71x / ’éí)
+	:actor (s71p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s72x / ’ada’iyee’nil
+	:aspect performance
+	:direction (s72b / bidah
+		:ARG1-of (s72h / have-location-91
+			:ARG0 (s72a / and
+				:op1 (s72l / location
+					:name (s72n / name
+						:op1 "’Ayahkin")
+					:wiki "Walpi,-Arizona")
+				:op2 (s72l2 / location
+					:name (s72n2 / name
+						:op1 "Tsétsohk’id")
+					:wiki "Shipauloi,-Arizona")
+				:op3 (s72l3 / location
+					:name (s72n3 / name
+						:op1 "Kin"
+						:op2 "Naazt’i’"
+						:wiki "Shongopovi,-Arizona"))
+				:op4 (s72l4 / location
+					:name (s72n4 / name
+						:op1 "’Oozéí"
+						:op2 "Hótsaa"
+						:wiki "Oraibi,-Arizona"))
+				:op5 (s72l5 / location
+					:name (s72n5 / name
+						:op1 "Tł’ohchin"
+						:op2 "Tó")
+					:wiki "Hotevilla-Bacavi,-Arizona")
+				:op6 (s72l6 / location
+					:name (s72n6 / name
+						:op1 "Ndadziizdélí")))
+			:aspect state)))
+
+
+(s73n / nídeest’a’
+	:aspect performance
+	:actor (s73p / person
+		:refer-number plural
+		:refer-person 1st)
+	:path (s73b / bikáa’gi
+		:frequency 2))
+
+
+(s74n / naaná’oolyis
+	:aspect activity
+	:actor (s74p / person
+		:refer-number plural
+		:refer-person 3rd
+		:part s74p)
+	:place (s74n2 / nihiyaadi
+		:mod (s74t / t’óó-))
+	:temporal "MISSING-VALUE")
+
+
+(s75d / dadii’ní
+	:aspect activity
+	:modal-strength full-affirmative
+	:manner (s75t / t’óó-)
+	:actor (s75p / person
+		:refer-number plural
+		:refer-person 1st)
+	:theme (s75d2 / da’ahijigą́
+		:aspect activity
+		:modal-strength neutral-affirmative
+		:quote s75d
+		:actor (s75p2 / person
+			:refer-number plural
+			:refer-person 3rd)
+		:topic (s75c / chizh)))
+
+
+(s76n / nashídééłkid
+	:aspect activity
+	:actor (s76h / hastóí-
+		:mod (s76d / díí)
+		:companion-of (s76n2 / neiikai
+			:aspect activity
+			:actor (s76p2 / person
+				:refer-number plural
+				:refer-person 1st)))
+	:recipient (s76p / person
+		:refer-number singular
+		:refer-person 1st)
+	:frequency (s76x / łą́ą́góó))
+
+
+(s77h / have-reason-91
+	:ARG0 (s77h2 / have-mod-91
+		:ARG1 (s77d / diné)
+		:ARG2 (s77y / yéigo-bide)
+		:aspect state)
+	:ARG1 (s77h3 / haa)
+	:aspect state
+	:mode interrogative
+	:quote s77s)
+
+
+(s78n / nashídíłkid
+	:aspect activity
+	:actor (s78p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:manner (s78n2 / níigo
+		:aspect activity
+		:actor s78p)
+	:theme (s78s / s77h)
+	:recipient (s78p2 / person
+		:refer-number singular
+		:refer-person 1st))
+
+
+(s79n / nahashne’
+	:aspect activity
+	:actor (s79p / person
+		:refer-number singular
+		:refer-person 1st)
+	:recipient (s79p2 / person
+		:refer-number plural
+		:refer-person 3rd)
+	:topic (s79h / have-reason-91
+		:ARG1 (s79b / bide)
+		:ARG2 (s79y / yéigo-diné)
+		:aspect state))
+
+
+(s80n / ná’ít’a’
+	:aspect performance
+	:actor (s80p / person
+		:refer-number plural
+		:refer-person 1st)
+	:goal (s80c / city
+		:name (s80n2 / name
+			:op1 "Tucson")
+		:wiki "Tucson,-Arizona"
+		:mod (s80x / ńléí))
+	:temporal (s80h / hada’iilzidgo
+		:aspect performance
+		:actor s80p
+		:undergoer (s80t / t’áá-’ałtsogo))
+	:start (s80c2 / country-region
+		:name (s80n3 / name
+			:op1 "Naabeehó"
+			:op2 "bikéyah")
+		:wiki "Navajo-Nation"))
+
+
+(s81n / náát’áázh
+	:aspect performance
+	:actor (s81h / hastóí
+		:refer-number dual)
+	:goal (s81b / bida
+		:mod (s81x / ’áadi)))
+
+
+(s82n / néiikai
+	:aspect performance
+	:actor (s82p / person
+		:refer-number plural
+		:refer-person 1st)
+	:place (s82c / city
+		:name (s82n2 / name
+			:op1 "Phoenix")
+		:wiki "Phoenix,-Arizona"
+		:mod (s82b / bida))
+	:manner (s82n3 / ná’ít’a’go
+		:aspect activity
+		:actor s82p
+		:direction s82c))
+
+
+(s83c / ch’íníyáa
+	:aspect performance
+	:actor (s83p / person
+		:refer-number singular
+		:refer-person 1st)
+	:temporal (s83b / biiskání
+		:ARG1-of (s83b2 / be-temporally-at-91
+			:ARG2 (s83d / date-entity
+				:day 6
+				:month 2)
+			:aspect state)))
+
+
+(s84h / have-reason-91
+	:ARG1 (s84x / ’áyiilaago
+		:aspect performance
+		:undergoer (s84p / person
+			:refer-number singular
+			:refer-person 1st
+			:ARG1-of (s84h2 / have-mod-91
+				:ARG2 (s84s / shijééhkał)
+				:aspect state
+				:degree downtoner))
+		:force (s84c / chidí-naat’a’í))
+	:aspect state)
+
+
+(s85x / ’ákwíidzaa
+	:aspect performance
+	:mode expressive
+	:temporal (s85h / have-quant-91
+		:ARG0 (s85p / person
+			:refer-person 1st
+			:refer-number dual)
+		:ARG1 2))
+
+
+(s86c / ch’ínáánísdzá
+	:aspect performance
+	:actor (s86p / person
+		:refer-number singular
+		:refer-person 1st)
+	:manner (s86x / ’atah)
+	:temporal (s86b / be-temporally-at-91
+		:ARG1 (s86d / damį́įgo
+			:mod (s86b2 / biiskání))
+		:ARG2 (s86d2 / date-entity
+			:month 2
+			:day 7)))
+
+
+(s87n / náádadiikai
+	:aspect performance
+	:mod (s87d / dah)
+	:actor (s87p / person
+		:refer-number plural
+		:refer-person 1st)
+	:start (s87x / ńlááhdę́ę́’)
+	:manner (s87b / bee-haz’ánę́ę)
+	:temporal (s87h / have-mod-91
+		:ARG1 (s87t / thing)
+		:ARG2 (s87t2 / t’áá-’ákót’éego)
+		:aspect state))
+
+
+(s88x / ’i’íí’ą́
+	:aspect performance
+	:temporal (s88x2 / ’ałnánéiikaigo
+		:aspect activity
+		:actor (s88p / person
+			:refer-number plural
+			:refer-person 1st)
+		:frequency 4
+		:extent (s88t / temporal-quantity
+			:quant 1
+			:unit (s88d / day))
+		:place (s88x3 / ’íídą́ą́’)))
+
+
+(s89h / have-manner-91
+	:ARG0 (s89s / s88x2)
+	:ARG1 (s89n / nináádeiigéego
+		:aspect activity
+		:actor (s89p / person
+			:refer-number plural
+			:refer-person 1st)
+		:theme (s89t / tł’oh)
+		:manner (s89t2 / t’éiyá))
+	:aspect state)
+
+
+(s90n / náádiikai
+	:aspect performance
+	:mod (s90d / dah)
+	:actor (s90p / person
+		:refer-number plural
+		:refer-person 1st)
+	:temporal (s90d2 / date-entity
+		:day 8
+		:month 2))
+
+
+(s91n / nideiigé
+	:aspect performance
+	:actor (s91p / person
+		:refer-number plural
+		:refer-person 1st)
+	:theme (s91t / tł’ohígíí
+		:mod (s91d / díí)
+		:ARG1-of (s91h / have-mod-91
+			:ARG2 (s91x / ’aghá
+				:mod (s91t2 / t’éiyá))
+			:aspect state)))
+
+
+(s92n / náánátł’éé’
+	:aspect state
+	:mode expressive
+	:cause (s92x / ’áhí-)
+	:temporal (s92x2 / ’áłtséédą́ą́’
+		:mod (s92x3 / ńléí)
+		:degree intensifier))
+
+
+(s93n / nááhást’ą́ą́
+	:aspect state
+	:mode expressive
+	:manner (s93e / exist-91
+		:ARG0 (s93b / bikáa’di
+			:part (s93k / k’os))
+		:ARG1 (s93x / łahgo)
+		:aspect state))
+
+
+(s94t / tádiikai
+	:aspect activity
+	:force (s94k / k’os)
+	:place (s94b / bikáa’di
+		:ARG0-of (s94r / resemble-91
+			:ARG1 (s94a / and
+				:op1 (s94d / dził
+					:mod (s94d2 / daní’á)
+					:place (s94x / łahgóó))
+				:op2 (s94s / séí
+					:mod (s94d3 / daní’á)
+					:place (s94x2 / łahgóó))
+				:op3 (s94d4 / dził
+					:mod (s94d5 / dadeez’á
+						:mod (s94n / nizhónígo))
+					:place (s94x3 / łahgóó)))
+			:aspect state)))
+
+
+(s95x / ’ééhózin
+	:aspect state
+	:stimulus (s95b / bikáá’
+		:part (s95n / ni’))
+	:place (s95a / and
+		:op1 (s95y / yaago)
+		:op2 (s95g / góyaa)))
+
+
+(s96x / ’i’íí’ą́
+	:aspect performance
+	:temporal (s96n / nda’siigį́įgo
+		:aspect activity
+		:actor (s96p / person
+			:refer-number plural
+			:refer-person 1st)
+		:frequency 4
+		:mod (s96x2 / ’ałdó’))
+	:concession (s96h / have-mod-91
+		:ARG2 (s96x3 / ’ákót’éé)
+		:aspect state
+		:mode expressive))
+
+
+(s97x / ’áhóót’įįd
+	:aspect performance
+	:theme (s97n / ná’oot’ahgo
+		:aspect activity
+		:theme (s97b / bitsiits’iin
+			:part (s97c / chidí-naat’a’í)
+			:quant 1
+			:place (s97n2 / nihits’ą́ą́’
+				:part (s97p / person
+					:refer-number plural
+					:refer-person 1st)))
+		:temporal (s97n3 / ná’oot’ahgo
+			:aspect activity
+			:actor (s97p2 / person
+				:refer-number plural
+				:refer-person 1st)
+			:temporal (s97x2 / ’i’íí’ą́ągo))))
+
+
+(s98h / hóót’įįd
+	:aspect performance
+	:modal-strength full-affirmative
+	:mode expressive
+	:theme (s98h2 / haa)
+	:place (s98x / ńléí)
+	:quote s98s)
+
+
+(s99s / shidííniid
+	:aspect performance
+	:modal-strength full-affirmative
+	:actor (s99n / na’ałt’a’ígíí)
+	:theme (s99d / diiltła)
+	:aspect performance
+	:modal-strength full-affirmative
+	:mode expressive
+	:quote s99s)
+
+
+(s100n / nééł’į́į́’
+	:aspect endeavor
+	:experiencer (s100p / person
+		:refer-number singular
+		:refer-person 1st)
+	:stimulus (s100k / kǫ’
+		:ARG1-of (s100e / exist-91
+			:ARG0 (s100b / bąą)
+			:aspect state
+			:degree intensifier)))
+
+
+(s101h / hóóyéé’
+	:aspect state
+	:experiencer (s101p / person
+		:refer-number singular
+		:refer-person 1st)
+	:manner (s101c / chohoo’į́į́góó
+		:aspect state))
+
+
+(s102h / hóyéé’
+	:aspect state
+	:mode expressive)
+
+
+(s103x / ’áhó’ne’gi
+	:aspect activity
+	:modal-strength full-negative
+	:mode expressive
+	:theme (s103x2 / ’ákot’įįhgo
+		:aspect activity
+		:modal-strength neutral-affirmative
+		:quote s103x))
+
+
+(s104y / yidoot’įįł
+	:aspect state
+	:mode expressive
+	:stimulus (s104h / hazéé’
+		:aspect state
+		:undergoer (s104p / person))
+	:concessive-condition (s104y2 / ya’iiltáál
+		:aspect performance
+		:direction (s104b / bidah)
+		:actor s104p))
+
+
+(s105n / na’aldeehgo
+	:aspect activity
+	:force (s105c / chidí-naat’a’í)
+	:mode expressive
+	:causer-of (s105y / yit’į́į́jí
+		:aspect activity
+		:theme (s105z / zéé’-))
+	:theme (s105p / person))
+
+
+(s106x / ’ééhózin
+	:aspect state
+	:mode expressive
+	:experiencer (s106p / person)
+	:stimulus (s106t / thing))
+
+
+(s107n / na’adáá
+	:aspect process
+	:mode expressive
+	:manner (s107d / dilyinee
+		:undergoer (s107y / yíní)
+		:aspect state))
+
+
+(s108n / ntsíníkéez
+	:aspect activity
+	:experiencer (s108p / person
+		:refer-number singular
+		:refer-person 1st)
+	:stimulus (s108n2 / nisingo
+		:aspect state
+		:experiencer (s108p2 / person
+			:refer-number singular
+			:refer-person 1st)
+		:stimulus (s108x / ńdínóotsis
+			:aspect performance
+			:undergoer (s108d / díí
+				:undergoer-of (s108d2 / diiltłaaígíí
+					:aspect activity
+					:place (s108n3 / nihits’ą́ą́’-
+						:part (s108p3 / person
+							:refer-number plural
+							:refer-person 1st))))
+			:manner (s108h / ha’át’éego)
+			:mode interrogative))
+	:mode expressive
+	:place (s108h2 / haa’í))
+
+
+(s109d / dadeez’áá
+	:aspect state
+	:mode expressive
+	:theme (s109k / kǫ’-bee-daniltsésígíí)
+	:place (s109t / t’áá-biyi’dę́ę́’
+		:part (s109b / bitsiits’iin
+			:mod (s109d2 / díí)
+			:theme-of (s109n / naaznilígíí
+				:aspect state
+				:mod (s109d3 / dah))))
+	:temporal (s109k2 / k’adshą’)
+	:refer-number plural)
+
+
+(s110n / náníltsis
+	:aspect performance
+	:mode expressive
+	:manner (s110n2 / nizhónígo)
+	:condition (s110x / ’ákót’įįhgo
+		:aspect activity))
+
+
+(s111n / nihi’doo’niid
+	:aspect performance
+	:recipient (s111p / person
+		:refer-number plural
+		:refer-person 1st)
+	:theme (s111d / dahodinołyįįh
+		:aspect state
+		:undergoer (s111p2 / person
+			:refer-person 2nd
+			:refer-number plural))
+	:temporal (s111n2 / nániikaigo
+		:aspect performance
+		:actor (s111p3 / person
+			:refer-number plural
+			:refer-person 1st)
+		:temporal (s111d2 / date-entity
+			:day (s111x / ła’ajínígo))))
+
+
+(s112c / ch’íhoot’ą́
+	:aspect performance
+	:theme (s112h / have-mod-91
+		:ARG2 (s112t / t’áá-hazhó’ó-’ahéhee’gi)
+		:aspect state)
+	:recipient (s112p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s113x / ’asohodoobéezh
+	:aspect performance
+	:mode expressive)
+
+
+(s114x / ’ałnááhoojah
+	:aspect habitual
+	:actor (s114n / nda’ałt’a’ii))
+
+
+(s115n / nda’ałt’a’
+	:aspect habitual
+	:actor (s115x / ła’)
+	:extent (s115b / be-temporally-at-91
+		:ARG0 (s115x2 / ’ałné’é’áahjį’)
+		:aspect state))
+
+
+(s116n / nda’ałt’a’
+	:aspect habitual
+	:actor (s116x / ła’)
+	:extent (s116b / be-temporally-at-91
+		:ARG0 (s116x2 / ’ałné’é’ááh-dóó-bik’ijį’)
+		:aspect state))
+
+
+(s117x / ’ałnáá-daʼáłtʼah
+	:aspect habitual
+	:actor (s117p / person
+		:quant 4)
+	:condition (s117x2 / ’ałnáá-daʼáłtʼahgo
+		:aspect habitual
+		:frequency 4))
+
+
+(s118x / ’ałnááhoojah
+	:aspect activity
+	:actor (s118p / person
+		:refer-number plural
+		:refer-person 3rd
+		:actor-of (s118n / naháaztánígíí
+			:aspect state
+			:mod (s118d / dah)
+			:place (s118x2 / ’ii’)
+			:purpose (s118x3 / ’ada’iinííł
+				:aspect activity
+				:actor s118p
+				:direction (s118b / bidah-))))
+	:manner (s118t / t’áá-’ákót’éego))
+
+
+(s119x / ’i’ii’aah
+	:aspect process
+	:temporal (s119n / naháatą́ągo
+		:aspect state
+		:actor (s119p / person
+			:refer-number plural
+			:refer-person 1st)
+		:place (s119x2 / ’ii’)
+		:extent (s119t / temporal-quantity
+			:quant 1
+			:unit (s119d / day))))
+
+
+(s120h / have-mod-91
+	:ARG1 (s120p / person
+		:refer-number plural
+		:refer-person 3rd
+		:companion-of (s120n / nishkai
+			:aspect performance
+			:actor (s120p2 / person
+				:refer-number singular
+				:refer-person 1st)
+			:goal (s120x / ’áájí
+				:mod (s120x2 / ’ałdó’-)))
+		:ARG0-of (s120i2 / identity-91
+			:ARG1 (s120e / ethnic-group
+				:name (s120n2 / name
+					:op1 "Naabeehó")
+				:wiki "Navajo")
+			:aspect state))
+	:ARG2 (s120t / t’áá-’ákót’é
+		:aspect state)
+	:aspect state)
+
+
+(s121n / náá’íldee’
+	:aspect performance
+	:actor (s121x / ła’)
+	:manner (s121n2 / nihikéédę́ę́’
+		:part (s121p / person
+			:refer-number plural
+			:refer-person 1st)))
+
+
+(s122n / nináádzískai
+	:aspect performance
+	:actor (s122p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:purpose (s122h / have-mod-91
+		:ARG1 (s122p2 / person
+			:refer-number plural
+			:refer-person 1st
+			:actor-of (s122n2 / nisiikai
+				:aspect performance
+				:purpose (s122h2 / have-mod-91
+					:ARG1 (s122d / díí
+						:mod (s122t2 / t’áá-))
+					:ARG2 s122t
+					:aspect state)))
+		:ARG2 (s122t / t’áá-’ákót’éego)
+		:aspect state))
+
+
+(s123d / deizhdoo’į́į́
+	:aspect activity
+	:actor (s123p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:topic (s123t / t’áá-hazhó’ó-))
+
+
+(s124d / dahojilne’
+	:aspect activity
+	:actor (s124p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:manner (s124x / ’ákót’éego)
+	:experiencer (s124s / shinááł
+		:part (s124p2 / person
+			:refer-number singular
+			:refer-person 1st)))
+
+
+(s125c / ch’íhozhní’ą́
+	:aspect performance
+	:actor (s125d / diné
+		:mod (s125x / ła’)
+		:actor-of (s125n / njigháago
+			:aspect habitual
+			:source (s125c2 / city
+				:name (s125n2 / name
+					:op1 "Tó"
+					:op2 "Dínéeshzhee’")
+				:wiki "Kayenta,-Arizona"))
+		:actor-of (s125n3 / nda’at’a’go
+			:aspect activity
+			:temporal (s125t / temporal-quantity
+				:quant 4
+				:unit (s125d2 / day))))
+	:manner (s125j / jiníigo
+		:aspect activity
+		:actor s125d
+		:theme (s125x2 / ’ásht’į́
+			:aspect activity
+			:mod (s125c3 / ch’ééh)
+			:stimulus (s125s / shighan
+				:part s125d)
+			:experiencer s125d
+			:mod (s125b / bíká)
+			:quote s125j)))
+
+
+(s126b / bénáhojoohya’
+	:aspect state
+	:experiencer (s126p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:stimulus (s126h / haghan
+		:poss s126p)
+	:mode expressive)
+
+
+(s127h / háázneeztą́ą́’
+	:aspect performance
+	:experiencer (s127p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:stimulus (s127h2 / haghan
+		:poss s127p)
+	:mod (s127c / ch’ééh)
+	:extent (s127t / temporal-quantity
+		:quant 3
+		:unit (s127d / day))
+	:degree intensifier
+	:temporal (s127j / jiníigo
+		:aspect activity
+		:actor s127p
+		:theme (s127x / ’adoo’nił
+			:aspect performance
+			:theme (s127t2 / tł’oh
+				:mod (s127x2 / ła’))
+			:goal (s127x3 / ’ákwii)
+			:direction (s127b / bidah)
+			:quote s127j
+			:affectee s127p)))
+
+
+(s128h / have-polarity-91
+	:ARG1 (s128d / dooda)
+	:aspect state
+	:mode expressive)
+
+
+(s129x / ńjídleeh
+	:aspect performance
+	:modal-strength full-affirmative
+	:undergoer (s129p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:manner (s129j / jiníigo
+		:aspect activity
+		:modal-strength full-affirmative
+		:actor s129p
+		:theme (s129n / náhidéélts’id
+			:aspect performance
+			:modal-strength full-affirmative
+			:manner (s129k / k’asdą́ą́’
+				:mod (s129t / t’óó))
+			:theme s129p
+			:force (s129c / chidí-naat’a’í)
+			:quote s129j))
+	:mod (s129t2 / t’óó-’ák’édí))
+
+
+(s130h / hojilne’
+	:aspect performance
+	:modal-strength full-affirmative
+	:actor (s130p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:recipient (s130p2 / person
+		:refer-number singular
+		:refer-person 1st)
+	:theme (s130k / kót’éego
+		:quote s130h))
+
+
+(s131d / dabijiní
+	:aspect activity
+	:actor (s131p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:undergoer (s131d2 / diné
+		:mod (s131d3 / díí)
+		:topic-of (s131h / hashne’ígíí
+			:aspect activity
+			:actor (s131p3 / person
+				:refer-number singular
+				:refer-person 1st)))
+	:theme (s131p2 / person
+		:name (s131n / name
+			:op1 "Bi’éé"
+			:op2 "Łikizhii")))
+
+
+(s132x / ’ááłjiníí
+	:aspect activity
+	:modal-strength full-affirmative
+	:actor (s132p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:manner (s132j / jinízingo
+		:aspect activity
+		:modal-strength full-affirmative
+		:actor s132p
+		:theme (s132x2 / ’iilts’ííd
+			:aspect activity
+			:modal-strength full-affirmative
+			:quote s132j
+			:theme s132p
+			:force (s132c / chidí-naat’a’í)
+			:manner (s132t / tsédeg)
+			:reason (s132h / hááhályeedgo
+				:aspect activity
+				:modal-strength neutral-affirmative
+				:force s132c
+				:theme s132p
+				:manner (s132d / deigo)))))
+
+
+(s133n / nááhálne’
+	:aspect performance
+	:actor (s133p2 / person
+		:part (s133e / ethnic-group
+			:name (s133n4 / name
+				:op1 "Bilagáana"))
+		:actor-of (s133n2 / na’ałt’a’
+			:aspect activity))
+	:recipient (s133p / person
+		:refer-number singular
+		:refer-person 1st)
+	:manner (s133k / kót’éego))
+
+
+(s134x / ’ada’iiyeeh
+	:aspect activity
+	:theme (s134c / chidí-naat’a’í
+		:mod (s134t / t’áá-’ádaałts’íísígíí)
+		:part-of (s134b / bitsiits’iin
+			:quant 2
+			:ARG2-of (s134e / exist-91
+				:ARG0 (s134b2 / bąąh
+					:part s134c
+					:mod (s134d / dah))
+				:aspect state)))
+	:temporal (s134x2 / ’áńda’al’įįhgo
+		:aspect performance
+		:instrument (s134h / hééł)
+		:undergoer s134c
+		:place (s134c2 / city
+			:name (s134n / name
+				:op1 "Béésh"
+				:op2 "Sinil"
+				:wiki "Winslow,-Arizona")))
+	:start s134c2)
+
+
+(s135h / have-part-91
+	:ARG0 (s135c / chidí-naat’a’í
+		:mod (s135d / díí)
+		:ARG1-of (s135h2 / have-mod-91
+			:ARG2 (s135x / ’ádaniłtsxooígíí
+				:degree intensifier)
+			:aspect state))
+	:ARG1 (s135b / bitsiits’iin
+		:quant 4
+		:ARG1-of (s135e / exist-91
+			:ARG0 (s135b2 / bąąh
+				:mod (s135d2 / dah-)
+				:part s135c)
+			:aspect state))
+	:aspect state)
+
+
+(s136x / ’ada’iiyeeh
+	:aspect performance
+	:theme (s136h / hééł)
+	:start (s136c / city
+		:name (s136n / name
+			:op1 "Hoozdodi")
+		:wiki "Phoenix,-Arizona")
+	:temporal (s136x2 / ’ánída’al’įįhgo
+		:aspect performance
+		:undergoer s136h
+		:place s136c))
+
+
+(s137x / ’ádaat’į́į́
+	:aspect performance
+	:actor (s137p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:mode expressive
+	:manner (s137d / daaníigo
+		:aspect activity
+		:actor s137p
+		:theme (s137h / have-mod-91
+			:ARG1 (s137x2 / ’éí
+				:place (s137c / city
+					:name (s137n / name
+						:op1 "Béésh"
+						:op2 "Sinilgi")
+					:wiki "Winslow,-Arizona")
+				:mod (s137x3 / ’ahodiyooshéí))
+			:ARG2 (s137b / bíhóoghah)
+			:aspect state))
+	:reason s137h)
+
+
+(s138d / daaníi
+	:aspect habitual
+	:modal-strength full-affirmative
+	:mode expressive
+	:actor (s138p / person
+		:refer-number plural
+		:refer-person 3rd
+		:actor-of (s138n / nda’at’a’go
+			:aspect habitual)
+		:mod (s138d2 / díí))
+	:theme (s138n2 / neiikai
+		:aspect activity
+		:modal-strength full-affirmative
+		:actor s138p
+		:place (s138k / kóhoolyéedi)
+		:temporal (s138k2 / k’ad)
+		:quote s138d))
+
+
+(s139b / béédahózin
+	:aspect habitual
+	:mode expressive
+	:experiencer (s139p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:instrument (s139a / and
+		:op1 (s139k / kéyah-naaltsoos-bikáá’-bida’alyaa-yígíí)
+		:op2 (s139x / ’oolkiłígíí-bił-’ahąąh-sinilgo)))
+
+
+(s140n / na’aldeeh
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s140p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:manner (s140b / bik’ehgo
+		:part (s140x / ’oolkiłígíí))
+	:degree intensifier
+	:manner (s140h / ha’níigo
+		:aspect habitual
+		:modal-strength full-affirmative
+		:actor s140p
+		:theme (s140x2 / ’alzhingo
+			:mod (s140d / dah)
+			:frequency 1
+			:aspect process
+			:modal-strength neutral-affirmative
+			:theme (s140x3 / ’oolkił
+				:mod (s140d2 / díí))
+			:quote s140h)))
+
+
+(s141n / ndaakai
+	:aspect habitual
+	:modal-strength full-affirmative
+	:mode expressive
+	:actor (s141p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:temporal (s141d / daaníigo
+		:aspect habitual
+		:modal-strength full-affirmative
+		:actor s141p
+		:theme (s141h / have-duration-91
+			:ARG1 (s141t / temporal-quantity
+				:quant (s141k / kwíí)
+				:unit (s141m / minute))
+			:aspect state
+			:modal-strength neutral-affirmative
+			:quote s141d))
+	:manner s141h)
+
+
+(s142t / táhodííle’
+	:aspect habitual
+	:actor (s142p / person
+		:refer-number singular
+		:refer-person 1st)
+	:place (s142b / bikáá’góó
+		:part (s142b2 / bikéyah
+			:possession-of (s142p2 / person
+				:ARG0-of (s142h / have-rel-role-91
+					:ARG1 (s142p3 / person
+						:refer-number singular
+						:refer-person 1st)
+					:ARG2 "MISSING-VALUE")
+				:possession-of (s142r / rel))))
+	:manner (s142k / kót’éego))
+
+
+(s143h / ha’íísid
+	:aspect performance
+	:actor (s143p / person
+		:refer-number singular
+		:refer-person 1st)
+	:place (s143x / ’áádę́ę́’))
+
+
+(s144h / have-mod-91
+	:ARG2 (s144t / t’áá-’aaníí)
+	:aspect state
+	:mode expressive)
+
+
+(s145n / naazį́
+	:aspect activity
+	:actor (s145a / and
+		:op1 (s145b / béégashii)
+		:op2 (s145x / łį́į’))
+	:place (s145x2 / łahgóó-)
+	:reason (s145d / danitł’izígíí
+		:aspect state
+		:undergoer (s145y / yas)))
+
+
+(s146n / naazį́
+	:aspect habitual
+	:actor (s146p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:place (s146x / ’ákǫ́ǫ́-)
+	:mod (s146t / t’óó)
+	:temporal (s146d / dahatłííshgóó
+		:path (s146y / yiníká
+			:part (s146s / s145y))
+		:undergoer s146p
+		:condition (s146h / hahakáahgo
+			:aspect habitual
+			:actor s146p
+			:path (s146y2 / yi--káá’
+				:part s146s)))
+	:aspect habitual)
+
+
+(s147d / dadikáah
+	:aspect habitual
+	:actor (s147p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:direction (s147n / náás))
+
+
+(s148a / and
+	:op1 (s148n / ndahałtseed
+		:aspect habitual
+		:cause (s148d / dichin-)
+		:undergoer (s148p / person
+			:refer-number plural
+			:refer-person 3rd))
+	:op2 (s148n2 / ndajiidlóóh
+		:aspect habitual
+		:undergoer s148p)
+	:place (s148x / ’áajį’
+		:degree (s148e / expressive)))
+
+
+(s149x / ’ada’ii’aah
+	:aspect habitual
+	:mode expressive
+	:temporal (s149n / naazhjée’go
+		:aspect habitual
+		:theme (s149d / dibé
+			:refer-number plural)
+		:degree intensifier
+		:place (s149b / biyi’góó
+			:part (s149b2 / bighan
+				:poss s149d)))
+	:place (s149x2 / łahgóó))
+
+
+(s150x / ’adajiishood
+	:aspect habitual
+	:actor (s150p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:theme (s150x2 / ’ił
+		:mod (s150t / t’óó-))
+	:goal (s150y / yah)
+	:recipient (s150s / s149d))
+
+
+(s151x / ’atíbi’diilyaa
+	:mode expressive
+	:experiencer (s151p / person
+		:ARG0-of (s151h / have-rel-role-91
+			:ARG1 (s151p2 / person
+				:refer-number singular
+				:refer-person 1st)
+			:ARG2 (s151s / shidine’é)
+			:aspect state)
+		:refer-number plural)
+	:manner (s151k / kót’éego)
+	:aspect habitual)
+
+
+(s152h / have-mod-91
+	:ARG1 (s152p / person
+		:refer-person 3rd
+		:refer-number plural
+		:ARG0-of (s152h2 / have-rel-role-91
+			:ARG1 (s152p2 / person
+				:refer-number singular
+				:refer-person 1st)
+			:ARG2 (s152s / shidine’é)
+			:aspect state))
+	:ARG2 (s152b / bide)
+	:aspect state
+	:mode expressive
+	:manner (s152k / kót’éego))
+
+
+(s153b / bináádíníídee’
+	:aspect performance
+	:mode expressive
+	:theme (s153b2 / bilį́į́’
+		:poss (s153p / pos)
+		:poss (s153d / diné)
+		:quant (s153t / t’óó-’ahayóí))
+	:direction (s153b3 / bits’ą́ą́’
+		:part s153d))
+
+
+(s154d / da’ahéhee’
+	:aspect state
+	:mode expressive
+	:manner (s154t / t’áá-hazhó’ó)
+	:stimulus (s154p / person
+		:refer-number plural
+		:refer-person 3rd
+		:actor-of (s154d2 / daanínę́ęni’
+			:aspect activity
+			:theme (s154x / ’áńdoolnííł-
+				:undergoer (s154d3 / dibé
+					:quant (s154b / bi’oh))
+				:quote s154d2)
+			:aspect activity))
+	:experiencer (s154a / and
+		:op1 (s154x2 / łį́į́’-neilózí)
+		:op2 (s154n / naat’áaniishchíín)))
+
+
+(s155x / ’atíbi’diilyaa
+	:aspect habitual
+	:experiencer (s155p / person
+		:refer-number plural
+		:refer-person 3rd
+		:ARG0-of (s155h / have-rel-role-91
+			:ARG1 (s155p2 / person
+				:refer-person 1st
+				:refer-number singular)
+			:ARG2 (s155s / shidine’é)
+			:aspect state))
+	:manner (s155x2 / ’ákót’éego))
+
+
+(s156x / ’ánihi’diilyaa
+	:aspect performance
+	:recipient (s156p / person
+		:refer-number plural
+		:refer-person 1st)
+	:theme (s156n / níłt’éegiísh
+		:polarity -))
+
+
+(s157x / ’atínihiilaa
+	:aspect performance
+	:undergoer (s157p / person
+		:refer-number plural
+		:refer-person 1st)
+	:actor (s157p2 / person
+		:name (s157n / name
+			:op1 "God")
+		:wiki "God"))
+
+
+(s158n / ntséskees
+	:aspect state
+	:experiencer (s158p / person
+		:refer-number singular
+		:refer-person 1st)
+	:stimulus (s158n2 / nisingo
+		:aspect state
+		:experiencer s158p))
+
+
+(s159x / ’ákónihi’diilyaa
+	:aspect performance
+	:temporal (s159k / k’ad)
+	:theme (s159t / thing
+		:theme-of (s159n / nihíłnínę́ęni’
+			:aspect activity
+			:recipient s159p
+			:theme (s159x2 / ’ání
+				:aspect activity
+				:actor (s159g / god)
+				:theme (s159x3 / ’atínihidi’doolnííł
+					:aspect performance
+					:experiencer s159p
+					:quote s159x2)
+				:quote s159n)
+			:place (s159h / háadi-)))
+	:undergoer (s159p / person
+		:refer-number plural
+		:refer-person 1st))
+
+
+(s160x / ’ákódzaa
+	:aspect performance
+	:mod (s160x2 / ’ałdó’)
+	:undergoer (s160e / event)
+	:temporal (s160b / be-temporally-at-91
+		:temporal (s160n / nááhaiídą́ą́’
+			:quant 18)
+		:aspect state))
+
+
+(s161x / ’atínihi’diilyaa
+	:aspect performance
+	:undergoer (s161p / person
+		:refer-number plural
+		:refer-person 1st)
+	:temporal (s161x2 / ’íídą́ą́’))
+
+
+(s162b / bééhoozįįh
+	:aspect state
+	:experiencer (s162d / diné
+		:ARG1-of (s162i2 / identity-91
+			:ARG0 (s162p / person
+				:refer-number plural
+				:refer-person 1st)
+			:aspect state))
+	:temporal (s162t / t’ah-)
+	:stimulus (s162x / ’atínihił’ínígíí
+		:aspect activity
+		:actor (s162p2 / person
+			:name (s162n / name
+				:op1 "God")
+			:wiki "God"
+			:mod (s162d2 / díí-))
+		:undergoer s162p))
+
+
+(s163h / have-manner-91
+	:ARG1 (s163k / kót’éego)
+	:aspect habitual)
+
+
+(s1e / exist-91
+	:ARG0 (s1k / kwe’é)
+	:ARG1 (s1s / shahane’
+		:aspect process
+		:modal-strength neutral-affirmative
+		:actor (s1p / person
+			:refer-number singular
+			:refer-person 1st)
+		:ARG1-of (s1h / have-mod-91
+			:ARG2 (s1x / ’áłts’íísígo
+				:aspect state
+				:mod (s1t / t’áá))))
+	:aspect state
+	:modal-strength full-affirmative
+	:mode expressive)
+
+
+(s2i2 / identity-91
+	:ARG0 (s2x2 / ’éí)
+	:ARG1 (s2h / hane’ígíí
+		:mod (s2d / díí)
+		:ARG0-of (s2h2 / have-topic-91
+			:ARG1 (s2i3 / identity-91
+				:ARG0 (s2p / person)
+				:ARG1 (s2x / ’áłchíní)
+				:aspect state
+				:modal-strength full-affirmative)))
+	:aspect state
+	:modal-strength full-affirmative)
+
+
+(s3h / hashne’
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s3p / person
+		:refer-number singular
+		:refer-person 1st)
+	:recipient (s3p2 / person
+		:refer-number plural
+		:ARG0-of (s3i2 / identity-91
+			:ARG1 (s3x2 / ’áłchíní)
+			:aspect state
+			:modal-strength neutral-affirmative)))
+
+
+(s4n / na’niilkaad
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s4p / person
+		:refer-number dual
+		:refer-person 1st
+		:part-of (s4p2 / person
+			:companion-of (s4n2 / naa’aash
+				:aspect habitual
+				:modal-strength full-affirmative
+				:actor (s4p3 / person
+					:refer-number singular
+					:refer-person 1st
+					:ARG1-of (s4h2 / have-mod-91
+						:ARG2 (s4x2 / ’ánísts’ísígo)
+						:temporal s4h2
+						:aspect state
+						:modal-strength full-affirmative)))
+			:mod (s4x3 / ła’)))
+	:place (s4d / dziłghą́ą’di
+		:part (s4m / mountain
+			:name (s4n3 / name
+				:op1 "Lók’ai’jígai"
+				:wiki "Lukachukai-Mountains"))
+		:mod (s4x / ńléí))
+	:temporal (s4h / have-age-91
+		:ARG0 s4p3
+		:ARG1 (s4t / temporal-quantity
+			:quant 8
+			:unit (s4y / year))
+		:aspect state
+		:modal-strength full-affirmative))
+
+
+(s5h / have-mod-91
+	:ARG1 (s5p / person
+		:companion-of (s5n / naa’aash
+			:aspect habitual
+			:actor (s5p2 / person
+				:mod (s5d / díí))))
+	:ARG2 (s5x / ’ázhníłtso
+		:degree (s5s / shitísígo
+			:part (s5p3 / person
+				:refer-number singular
+				:refer-person 1st)
+			:mod (s5t / t’áá-)))
+	:aspect state
+	:modal-strength full-affirmative)
+
+
+(s6h / have-age-91
+	:ARG0 (s6p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:ARG1 (s6t / temporal-quantity
+		:quant 9
+		:unit (s6y / year))
+	:aspect state
+	:modal-strength partial-affirmative)
+
+
+(s7n / na’niilkaad
+	:aspect habitual
+	:modal-strength full-affirmative
+	:place (s7d / dziłdi)
+	:manner (s7t / t’áá-sáhí)
+	:temporal (s7n2 / naniilze’go
+		:aspect state
+		:modal-strength neutral-affirmative
+		:undergoer (s7p / person
+			:refer-number dual
+			:refer-person 1st)
+		:temporal (s7x / ’ákwe’é-)))
+
+
+(s8e / exist-91
+	:ARG0 (s8d / dziłdi)
+	:ARG1 (s8n / ndaakaiígíí
+		:name (s8s2 / shash)
+		:aspect habitual
+		:modal-strength neutral-affirmative
+		:place s8d)
+	:aspect state
+	:aspect habitual
+	:modal-strength full-affirmative
+	:temporal (s8s / shį́įgo
+		:mod (s8d2 / díí-)))
+
+
+(s9a / and
+	:op1 (s9j / jiníi
+		:aspect habitual
+		:modal-strength full-negative
+		:actor (s9p / person)
+		:theme (s9h / have-name-91
+			:ARG0 (s9x / ’éí-)
+			:ARG1 (s9s / shash-)
+			:aspect state
+			:modal-strength neutral-affirmative
+			:quote s9j))
+	:op2 (s9d / daaníi
+		:aspect habitual
+		:modal-strength full-negative
+		:theme (s9s2 / shash-
+			:quote s9d)))
+
+
+(s10b / béédahózin
+	:aspect state
+	:modal-strength partial-affirmative
+	:experiencer (s10p / person
+		:companion-of (s10n / naa’aash
+			:aspect state
+			:modal-strength full-affirmative
+			:actor (s10p2 / person
+				:refer-number singular
+				:refer-person 1st)))
+	:temporal (s10x / łahgóó
+		:mod (s10t / t’éiyá-))
+	:mod (s10t2 / t’áá))
+
+
+(s11n / nashizhnitin
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s11p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:undergoer (s11p2 / person
+		:refer-number singular
+		:refer-person 1st)
+	:instrument (s11b / béédahózinígóó
+		:aspect state
+		:modal-strength neutral-affirmative
+		:experiencer s11p)
+	:place (s11x / ńléí)
+	:mod (s11t / t’áá))
+
+
+(s12a / and
+	:op1 (s12e / exist-91
+		:ARG0 (s12d / dziłgóó-
+			:mod (s12d2 / díí-kǫ́ǫ́))
+		:ARG1 (s12t / t’áadoo-le’é)
+		:aspect state
+		:modal-strength full-affirmative)
+	:op2 (s12e2 / exist-91
+		:ARG0 s12d
+		:ARG1 (s12a2 / animal
+			:name (s12n / name
+				:op1 "shash")
+			:undergoer-of (s12j / józhíi
+				:aspect habitual
+				:actor (s12p / person
+					:refer-number singular
+					:refer-person 3rd)
+				:modal-strength full-negative
+				:theme s12n))
+		:aspect state
+		:modal-strength full-affirmative)
+	:quote (s13s / s13j))
+
+
+(s13j / jiníi
+	:aspect habitual
+	:modal-strength full-negative
+	:actor (s13p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:theme (s13s / shash
+		:quote s13j))
+
+
+(s14x / ’áhá’níi
+	:aspect activity
+	:modal-strength full-negative
+	:mode imperative
+	:degree intensifier)
+
+
+(s15n / nashizhnitin
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s15p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:recipient (s15p2 / person
+		:refer-number singular
+		:refer-person 1st)
+	:theme (s15x / ’ákódóóne’
+		:aspect activity
+		:modal-strength partial-negative
+		:mode imperative
+		:actor s15p2
+		:manner (s15t / t’áá-ká)
+		:theme (s15x2 / ’éidíígíí
+			:quote s15x)
+		:quote s15n))
+
+
+(s16x / ’áhozhnízin
+	:aspect state
+	:modal-strength full-affirmative
+	:experiencer (s16p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:reason (s16h / hojíyą́ągo
+		:aspect state
+		:modal-strength neutral-affirmative
+		:undergoer s16p
+		:mod (s16t / t’áá))
+	:stimulus (s16t2 / t’áadoo-le’é
+		:mod (s16t3 / t’áá-)))
+
+
+(s17h / have-name-91
+	:ARG0 (s17s / shashígíí
+		:mod (s17d / díí))
+	:ARG2 (s17t / t’áá-łahgo)
+	:aspect habitual
+	:modal-strength full-affirmative)
+
+
+(s18n / nashizhnitin
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s18p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:undergoer (s18p2 / person
+		:refer-number singular
+		:refer-person 1st)
+	:manner (s18s / shijiníigo
+		:aspect habitual
+		:actor s18p
+		:recipient s18p2
+		:manner (s18k / kót’éego)
+		:theme (s18h / have-name-91
+			:ARG0 (s18p3 / person
+				:refer-number singular
+				:refer-person 3rd)
+			:ARG1 (s18t / tseet’ohí)
+			:aspect state
+			:modal-strength full-affirmative
+			:quote s18s
+			:temporal (s18s2 / shį́įgo))))
+
+
+(s19n / ninááshizhneestą́ą́’
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s19p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:undergoer (s19p2 / person
+		:refer-number singular
+		:refer-person 1st)
+	:temporal (s19n2 / náádí’níilkaadgo
+		:aspect habitual
+		:modal-strength neutral-affirmative
+		:actor (s19p3 / person
+			:refer-number dual
+			:refer-person 1st)
+		:temporal (s19x / ’abínígo)
+		:mod (s19d / dah)))
+
+
+(s20x / ’adíníilkaad
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s20p / person
+		:refer-number dual
+		:refer-person 1st)
+	:mod (s20d / dah))
+
+
+(s21n / na’neelkaad
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s21p / person
+		:refer-number dual
+		:refer-person 1st)
+	:place (s21l / léi’góó
+		:mod-of (s21d / dahodíłch’il
+			:aspect state
+			:modal-strength neutral-affirmative)))
+
+
+(s22h / have-mod-91
+	:ARG1 (s22p / person
+		:refer-number plural
+		:refer-person 3rd)
+	:ARG2 (s22d / dahodíłch’il)
+	:aspect state
+	:modal-strength full-affirmative
+	:part-of (s22a / and
+		:op1 (s22n / nídíshchíí’)
+		:op2 (s22c / ch’ó)
+		:op3 (s22t / t’iisbáí)
+		:op4 (s22c2 / chéch’il)))
+
+
+(s23h / have-place-91
+	:ARG0 (s23b / be’ek’id)
+	:ARG1 (s23x / łahgóó
+		:place-of (s23x2 / ńdadzilgaigóó
+			:mod (s23d / dah)
+			:aspect state
+			:modal-strength neutral-affirmative
+			:place (s23x3 / ńléí
+				:place-of (s23c / ch’ídaazlį́
+					:aspect process
+					:modal-strength neutral-affirmative
+					:undergoer (s23t / tó)
+					:source (s23c2 / ch’ídaasdzisdę́ę́’)))))
+	:aspect state
+	:modal-strength full-affirmative)
+
+
+(s24n / nahaz’ą́ą́
+	:modal-strength full-affirmative
+	:mod (s24d / dahózhónígo
+		:mod (s24k / kót’éego))
+	:place (s24d2 / dziłghą́ą’di
+		:mod (s24d3 / díí))
+	:temporal (s24x / ’íídą́ą́)
+	:mode expressive)
+
+
+(s25n / naniilkaad
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s25p / person
+		:refer-number dual
+		:refer-person 1st)
+	:undergoer (s25d / dibé
+		:quant (s25l / lą’í)))
+
+
+(s26t / tádiit’aash
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s26p / person
+		:refer-number dual
+		:refer-person 1st)
+	:direction (s26b / bikéé’
+		:ARG1-of (s26h / have-place-91
+			:ARG1 (s26p2 / person
+				:refer-number plural
+				:refer-person 3rd)
+			:aspect state
+			:modal-strength neutral-affirmative)
+		:mod (s26t2 / t’óó))
+	:condition (s26a / and
+		:op1 (s26x / ’eekaigo
+			:aspect performance
+			:modal-strength neutral-affirmative
+			:actor s26p2
+			:source (s26n / nihits’ą́ą́’-
+				:part (s26p3 / person
+					:refer-number singular
+					:refer-person 1st))
+			:goal (s26g / góne’-
+				:part (s26h2 / hodíłch’il-)
+				:mod (s26x2 / ńléi)))
+		:op2 (s26x3 / ńdookaigo
+			:aspect performance
+			:modal-strength neutral-affirmative
+			:actor s26p2
+			:path (s26h3 / hóteelgo
+				:mod (s26x4 / ’áadi)))))
+
+
+(s27s / shijinígo
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s27p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:recipient (s27p2 / person
+		:refer-number singular
+		:refer-person 1st)
+	:theme (s27x / ’aninááh
+		:aspect activity
+		:modal-strength partial-affirmative
+		:mode imperative
+		:direction (s27x2 / łahjí)
+		:actor s27p2
+		:quote s27s
+		:temporal (s27s2 / shiit’áázh
+			:aspect habitual
+			:modal-strength full-affirmative
+			:actor (s27p3 / person
+				:refer-number dual
+				:refer-person 1st)
+			:manner (s27x3 / ’ałts’á))))
+
+
+(s28x / ’ííyá
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s28p / person
+		:refer-number singular
+		:refer-person 1st)
+	:place (s28y / yódahjígo
+		:mod (s28x2 / ńléí))
+	:condition (s28y2 / yikahgo
+		:aspect habitual
+		:modal-strength neutral-affirmative
+		:actor (s28d / dibé)
+		:place (s28b / binániidgi)))
+
+
+(s29b / bénááshnii’
+	:aspect habitual
+	:modal-strength full-affirmative
+	:experiencer (s29p / person
+		:refer-number singular
+		:refer-person 1st)
+	:stimulus (s29n / nashizhnitinę́ę
+		:aspect habitual
+		:modal-strength neutral-affirmative
+		:actor (s29p2 / person
+			:refer-number singular
+			:refer-person 3rd)
+		:undergoer (s29p3 / person
+			:refer-number singular
+			:refer-person 1st)
+		:manner (s29s / shijiníigo
+			:aspect habitual
+			:modal-strength neutral-affirmative
+			:actor s29p2
+			:recipient s29p3
+			:theme (s29j / józhíi
+				:aspect activity
+				:modal-strength full-negative
+				:mode imperative
+				:actor (s29p4 / person
+					:refer-number singular
+					:refer-person 3rd)
+				:theme (s29s2 / shash
+					:quote s29j)
+				:quote s29s)))
+	:temporal (s29n2 / naasháago
+		:modal-strength full-affirmative
+		:aspect habitual
+		:actor s29p3
+		:place (s29x / ’áadi)))
+
+
+(s30t / tádíshááh
+	:aspect habitual
+	:modal-strength full-affirmative
+	:place (s30x / ’áadi)
+	:actor (s30p / person
+		:refer-number singular
+		:refer-person 1st)
+	:temporal (s30n / nisingo
+		:experiencer s30p
+		:stimulus (s30j / jiníi
+			:aspect habitual
+			:modal-strength full-negative
+			:mode imperative
+			:modal-strength full-negative
+			:modal-predicate s30n
+			:actor (s30p2 / person
+				:refer-number plural
+				:refer-person 3rd)
+			:modal-predicate (s30s / shash
+				:quote s30j)
+			:quote (s30h / ha’át’éego
+				:degree intensifier)))
+	:aspect activity)
+
+
+(s31n / niizį́į́’
+	:aspect performance
+	:modal-strength full-affirmative
+	:experiencer (s31p / person
+		:refer-number singular
+		:refer-person 1st)
+	:stimulus (s31x / ńdideeshwoł-
+		:aspect activity
+		:modal-strength full-affirmative
+		:modal-predicate s31n
+		:direction (s31b / bidah
+			:ARG1-of (s31h / have-place-91
+				:ARG0 (s31h2 / hak’ijį’
+					:part (s31p3 / person
+						:refer-number singular
+						:refer-person 3rd))
+				:aspect state
+				:modal-strength neutral-affirmative))
+		:actor s31p)
+	:temporal (s31j / joogáałgo
+		:aspect activity
+		:modal-strength full-affirmative
+		:actor s31p3
+		:place (s31s / shiyaají
+			:ARG1-of (s31h3 / have-place-91
+				:ARG0 s31p
+				:aspect state
+				:modal-strength neutral-affirmative
+				:mod (s31x2 / ńléí)))))
+
+
+(s32x / ńdiishwod
+	:aspect performance
+	:modal-strength full-affirmative
+	:actor (s32p / person
+		:refer-number singular
+		:refer-person 1st)
+	:direction (s32h / hach’į’go-
+		:ARG0-of (s32h2 / have-place-91
+			:ARG1 (s32p2 / person
+				:refer-number singular
+				:refer-person 3rd)
+			:aspect state
+			:modal-strength neutral-affirmative
+			:mod (s32a / and
+				:op1 (s32b / bidah)
+				:op2 (s32g / góyaa))))
+	:temporal (s32s / say
+		:aspect activity
+		:modal-strength neutral-affirmative
+		:actor s32p
+		:theme (s32a2 / and
+			:op1 (s32y / yilwoł
+				:aspect activity
+				:modal-strength full-affirmative
+				:actor (s32s2 / shash
+					:mod (s32l / léi’))
+				:source (s32a3 / aadę́ę́’))
+			:op2 (s32s3 / shił-naa’aash)
+			:quote s32s)))
+
+
+(s33y / yilwoł
+	:aspect activity
+	:modal-strength full-affirmative
+	:actor (s33s / shash)
+	:place (s33x / ’akóó))
+
+
+(s34a / and
+	:op1 (s34n / nishwod
+		:aspect performance
+		:modal-strength full-affirmative
+		:actor (s34p / person
+			:refer-number singular
+			:refer-person 1st)
+		:path (s34h / haa
+			:part (s34p2 / person
+				:refer-number singular
+				:refer-person 3rd)))
+	:op2 (s34c / ch’íníshwod
+		:modal-strength full-affirmative
+		:aspect performance
+		:actor s34p
+		:path (s34h2 / hwíighah
+			:mod (s34t / t’óó-)
+			:part s34p2))
+	:manner (s34d / dishníigo
+		:aspect activity
+		:modal-strength full-affirmative
+		:actor s34p
+		:theme (s34a2 / and
+			:op1 (s34s / shash)
+			:op2 (s34s2 / shash-)
+			:op3 (s34h3 / have-place-91
+				:ARG0 (s34s3 / shash-)
+				:ARG1 (s34x / ’ákóó)
+				:aspect state
+				:modal-strength full-affirmative))))
+
+
+(s35n / naanísíswod
+	:aspect performance
+	:modal-strength full-affirmative
+	:actor (s35p / person
+		:refer-number singular
+		:refer-person 1st)
+	:path (s35h / haláahdi
+		:part (s35p2 / person
+			:refer-number singular
+			:refer-person 3rd)
+		:mod (s35x / ńléí))
+	:temporal (s35x2 / ’índa-))
+
+
+(s36n / nánísdzá
+	:aspect performance
+	:modal-strength full-affirmative
+	:goal (s36h / haa
+		:part (s36p / person
+			:refer-number singular
+			:refer-person 3rd))
+	:actor (s36p2 / person
+		:refer-number singular
+		:refer-person 1st)
+	:start (s36x / ’áádę́ę́’)
+	:temporal (s36x2 / ’índa))
+
+
+(s37c / consecutive
+	:op1 (s37n / nánísdzáá
+		:aspect performance
+		:modal-strength full-affirmative
+		:actor (s37p / person
+			:refer-number singular
+			:refer-person 1st)
+		:goal (s37h / haa
+			:part (s37p2 / person
+				:refer-number singular
+				:refer-person 3rd)))
+	:op2 (s37h2 / hózhǫ́ǫ
+		:aspect state
+		:modal-strength partial-negative
+		:experiencer s37p2))
+
+
+(s38n / naanáníítééł
+	:aspect activity
+	:modal-strength neutral-affirmative
+	:mode interrogative
+	:actor (s38p / person
+		:refer-number singular
+		:refer-person 2nd)
+	:manner (s38d / diníigo
+		:aspect activity
+		:modal-strength neutral-affirmative
+		:actor s38p
+		:theme (s38h / ha’át’íí-
+			:quote s38d
+			:degree intensifier)))
+
+
+(s39n / ndishní
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s39p / person
+		:refer-number singular
+		:refer-person 1st)
+	:recipient (s39p2 / person
+		:refer-number singular
+		:refer-person 2nd)
+	:theme (s39x / ’ájíníi
+		:aspect habitual
+		:modal-strength full-negative
+		:mode imperative
+		:actor s39p2)
+	:mode interrogative)
+
+
+(s40n / ndishní
+	:aspect activity
+	:modal-strength full-affirmative
+	:actor (s40p / person
+		:refer-number singular
+		:refer-person 1st)
+	:recipient (s40p2 / person
+		:refer-number singular
+		:refer-person 2nd)
+	:theme (s40a / and
+		:op1 (s40x / ’áhá’níi
+			:aspect habitual
+			:mode imperative
+			:modal-strength full-negative
+			:actor (s40p3 / person))
+		:op2 (s40x2 / ’ájíníi
+			:aspect habitual
+			:mode imperative
+			:degree intensifier
+			:modal-strength full-negative
+			:actor (s40p4 / person))
+		:quote s40n))
+
+
+(s41e / exist-91
+	:ARG0 (s41x / ’akǫ̨́ǫ́
+		:place (s41t / t’áá-’áyídígóó-))
+	:ARG1 (s41p / person
+		:refer-number plural
+		:refer-person 3rd
+		:actor-of (s41n / ndaakaigo
+			:aspect habitual
+			:modal-strength neutral-affirmative))
+	:aspect state
+	:modal-strength full-affirmative)
+
+
+(s42n / ndishní
+	:aspect activity
+	:modal-strength partial-affirmative
+	:actor (s42p / person
+		:refer-number singular
+		:refer-person 1st)
+	:recipient (s42p2 / person
+		:refer-number singular
+		:refer-person 2nd)
+	:theme (s42j / józhíi
+		:aspect habitual
+		:modal-strength full-negative
+		:actor (s42p3 / person
+			:refer-number plural
+			:refer-person 3rd)
+		:reason (s42x / ’éí)
+		:quote s42n))
+
+
+(s43s / shich’ahojííshkeed
+	:aspect performance
+	:modal-strength partial-affirmative
+	:actor (s43p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:undergoer (s43p2 / person
+		:refer-number singular
+		:refer-person 1st)
+	:manner (s43j / jiníigo
+		:aspect activity
+		:modal-strength full-affirmative
+		:actor s43p
+		:theme (s43h / hashne’
+			:aspect activity
+			:modal-strength full-affirmative
+			:actor s43p
+			:quote s43j
+			:recipient s43p2
+			:topic (s43n / ndishníigo
+				:aspect activity
+				:modal-strength partial-affirmative
+				:actor s43p
+				:recipient s43p2
+				:theme (s43i2 / identity-91
+					:ARG0 (s43x / łahgo)
+					:ARG1 (s43w / wójí)
+					:quote s43n
+					:modal-strength full-affirmative
+					:aspect state)))))
+
+
+(s44n / náádiit’áázh
+	:aspect performance
+	:modal-strength full-affirmative
+	:actor (s44p / person
+		:refer-number dual
+		:refer-person 1st)
+	:path (s44b / bikéé’
+		:ARG1-of (s44h / have-place-91
+			:ARG0 (s44d / dibé)
+			:aspect state
+			:modal-strength neutral-affirmative))
+	:mod (s44d2 / dah))
+
+
+(s45y / yiits’a’
+	:aspect endeavor
+	:modal-strength full-affirmative
+	:stimulus (s45n / ndahał’in
+		:aspect activity
+		:modal-strength partial-affirmative
+		:actor (s45x / łééchąą’í
+			:refer-number plural)
+		:place (s45y2 / yáázhtahgi-
+			:part (s45c / chéch’il-)
+			:mod (s45n2 / nagháí)))
+	:temporal (s45n3 / neit’aashgo
+		:aspect activity
+		:modal-strength full-affirmative
+		:actor (s45p / person
+			:refer-number dual
+			:refer-person 1st)
+		:path (s45b / bikéé’
+			:ARG1 (s45h / have-place-91
+				:ARG0 (s45d / dibé)
+				:aspect state
+				:modal-strength neutral-affirmative))
+		:extent (s45n4 / nááhodoo’na’go
+			:mod (s45t / t’ah-))))
+
+
+(s46y / yiits’a’
+	:aspect endeavor
+	:modal-strength full-affirmative
+	:stimulus (s46n / ndeił’in
+		:aspect activity
+		:modal-strength neutral-affirmative
+		:actor (s46x / łééchąą’í)
+		:affectee (s46h / ha’át’íí-lá)
+		:mode interrogative))
+
+
+(s47a / and
+	:op1 (s47n / ndeił’in
+		:aspect activity
+		:modal-strength neutral-affirmative
+		:mode interrogative
+		:actor (s47x / łééchąą’í)
+		:affectee (s47h / ha’át’íí-lá))
+	:op2 (s47x2 / ńdiishwod
+		:aspect performance
+		:modal-strength full-affirmative
+		:actor (s47p / person
+			:refer-number singular
+			:refer-person 1st)))
+
+
+(s48j / joolwoł
+	:aspect activity
+	:modal-strength full-affirmative
+	:actor (s48p / person
+		:refer-number singular
+		:refer-person 3rd
+		:companion-of (s48n / naa’aash
+			:aspect state
+			:modal-strength neutral-affirmative
+			:actor (s48p2 / person
+				:refer-number singular
+				:refer-person 1st)))
+	:direction (s48s / shikéé’
+		:part s48p2)
+	:mod (s48t / t’áá))
+
+
+(s49a / and
+	:op1 (s49y / yishwoł
+		:aspect activity
+		:modal-strength full-affirmative
+		:actor (s49p / person
+			:refer-number singular
+			:refer-person 1st)
+		:goal (s49x / łééchąą’í
+			:actor-of (s49n / ndahał’inę́ęjį’
+				:aspect activity
+				:modal-strength neutral-affirmative)))
+	:op2 (s49y2 / yiiłtsą́
+		:aspect endeavor
+		:modal-strength full-affirmative
+		:experiencer s49p
+		:stimulus (s49s / shash-
+			:ARG0 (s49h / have-location-91
+				:ARG1 (s49s2 / sizį́įgo)
+				:aspect state
+				:modal-strength neutral-affirmative
+				:place (s49k / kǫ́ǫ́)))))
+
+
+(s50n / nísh’į́
+	:aspect state
+	:modal-strength full-affirmative
+	:actor (s50p / person
+		:refer-number singular
+		:refer-person 1st)
+	:temporal (s50n2 / ninishtłago
+		:aspect performance
+		:modal-strength full-affirmative
+		:actor s50p
+		:degree intensifier))
+
+
+(s51b / báháchį’
+	:experiencer (s51p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:modal-strength partial-affirmative)
+
+
+(s52h / have-location-91
+	:ARG0 (s52p / person
+		:refer-number singular
+		:refer-person 3rd
+		:part-of (s52b / biyi’
+			:force-of (s52h2 / hodi’níigo
+				:aspect activity
+				:modal-strength neutral-affirmative)))
+	:ARG1 (s52s / sizį́)
+	:aspect state
+	:modal-strength full-affirmative)
+
+
+(s53x / ’adziiłne’
+	:aspect activity
+	:modal-strength full-affirmative
+	:actor (s53p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:theme (s53t / t’áadoo-le’é
+		:example (s53a / and
+			:op1 (s53t2 / tsin-
+				:ARG0-of (s53h / have-location-91
+					:ARG1 (s53n / ndadeeztąądígíí)
+					:aspect state
+					:modal-strength neutral-affirmative
+					:place (s53x3 / ’akǫ́ǫ́-)))
+			:op2 (s53t3 / tsé
+				:theme-of (s53n2 / náyiiláahgo
+					:aspect activity
+					:actor s53p
+					:modal-strength neutral-affirmative))))
+	:place (s53x2 / ńléí))
+
+
+(s54x / ’ałne’
+	:aspect activity
+	:modal-strength full-affirmative
+	:actor (s54p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:direction (s54y / yitaa
+		:ARG1-of (s54h / have-place-91
+			:ARG0 (s54x2 / łééchąą’í)
+			:aspect state
+			:modal-strength neutral-affirmative))
+	:theme (s54p2 / person
+		:refer-number singular
+		:refer-person 3rd))
+
+
+(s55y / yitaa’ałhaał
+	:aspect activity
+	:modal-strength full-affirmative
+	:instrument (s55t / tsin)
+	:actor (s55p / person
+		:refer-number singular
+		:refer-person 3rd))
+
+
+(s56b / binánoodah
+	:aspect activity
+	:modal-strength partial-affirmative
+	:actor (s56x / łééchąą’í-
+		:actor-of (s56n / ndahał’ingo
+			:aspect activity
+			:modal-strength neutral-affirmative)))
+
+
+(s57c / consecutive
+	:op1 (s57n / níghal
+		:aspect endeavor
+		:experiencer (s57p / person
+			:refer-number singular
+			:refer-person 1st)
+		:stimulus (s57p3 / person
+			:refer-number singular
+			:refer-person 3rd)
+		:manner (s57t / t’óó-’ákót’éego)
+		:modal-strength full-affirmative)
+	:op2 (s57y / yaashtáál
+		:aspect performance
+		:actor (s57p2 / person
+			:refer-number singular
+			:refer-person 1st)
+		:modal-strength full-affirmative))
+
+
+(s58y / yajiiltáál
+	:modal-strength full-affirmative
+	:aspect performance
+	:actor (s58p / person
+		:ARG0-of (s58h / have-rel-role-91
+			:ARG1 (s58p2 / person
+				:refer-number singular
+				:refer-person 1st)
+			:ARG2 (s58n / naa’aash)))
+	:direction (s58s / shikéé’
+		:part s58p2))
+
+
+(s59n / ninishtła
+	:aspect performance
+	:modal-strength full-affirmative
+	:actor (s59p / person
+		:refer-number singular
+		:refer-person 1st)
+	:place (s59d / deeghánídi
+		:polarity -
+		:mod (s59x / ńléí)))
+
+
+(s60s / shíjílwod
+	:aspect performance
+	:modal-strength full-affirmative
+	:actor (s60p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:direction (s60p2 / person
+		:refer-number singular
+		:refer-person 1st
+		:mod (s60x / ’áadi))
+	:temporal (s60n / ninishtłago
+		:aspect performance
+		:modal-strength full-affirmative
+		:actor s60p2))
+
+
+(s61x / ’iit’áázh
+	:aspect performance
+	:modal-strength full-affirmative
+	:actor (s61p / person
+		:refer-number dual
+		:refer-person 1st
+		:actor-of (s61n / náádiit’ázhí
+			:aspect performance
+			:modal-strength full-affirmative
+			:mod (s61d / dah)))
+	:direction (s61x2 / ńléí
+		:place-of (s61y / yikahą́ą
+			:aspect activity
+			:modal-strength neutral-affirmative
+			:actor (s61d2 / dibé))))
+
+
+(s62b / béé’niilnii’
+	:aspect performance
+	:modal-strength full-affirmative
+	:causer (s62p / person
+		:refer-number dual
+		:refer-person 1st)
+	:actor (s62d / dibé)
+	:direction (s62x / ńléí
+		:place-of (s62d2 / dzígaijigo
+			:aspect state
+			:modal-strength neutral-affirmative)))
+
+
+(s63c / ch’ééní’niilkaad
+	:aspect performance
+	:modal-strength full-affirmative
+	:actor (s63p / person
+		:refer-number dual
+		:refer-person 1st)
+	:theme (s63p2 / person
+		:refer-number singular
+		:refer-person 3rd)
+	:goal (s63x / ńléí
+		:place-of (s63x2 / ńdzílgai
+			:aspect state
+			:modal-strength neutral-affirmative)
+		:mod (s63l / léi’jį’)))
+
+
+(s64x / ’ałní’ní’ą́
+	:aspect performance
+	:modal-strength full-affirmative
+	:temporal (s64n / na’aniilkaadgo
+		:aspect activity
+		:modal-strength full-affirmative
+		:actor (s64p / person
+			:refer-number dual
+			:refer-person 1st)
+		:place (s64x2 / ’ákwii-)))
+
+
+(s65y / yiiłtsą́ą
+	:aspect performance
+	:modal-strength full-affirmative
+	:experiencer (s65p / person
+		:refer-number singular
+		:refer-person 1st)
+	:stimulus (s65s / shash
+		:mod (s65x / ’áłtsé-
+			:degree intensifier))
+	:manner (s65x2 / ’ákót’éego)
+	:temporal (s65x3 / ’íídą́ą́’))
+
+
+(s66n / náánéiłtsą́
+	:aspect performance
+	:modal-strength full-affirmative
+	:experiencer (s66p / person
+		:refer-number singular
+		:refer-person 1st)
+	:stimulus (s66x / ła’)
+	:temporal (s66b / biiskání)
+	:concession (s66y / yigáał
+		:aspect activity
+		:modal-strength full-affirmative
+		:actor s66x
+		:place (s66b2 / binániigi)
+		:mod (s66x2 / ńléí-’ákohdi))
+	:place (s66t / t’áá-nízaadi))
+
+
+(s67n / nisin
+	:aspect state
+	:modal-strength full-affirmative
+	:theme (s67h / have-name-91
+		:ARG0 (s67p / person
+			:refer-number singular
+			:refer-person 3rd)
+		:ARG1 (s67s / shash))
+	:aspect state
+	:modal-strength full-affirmative
+	:mode expressive
+	:mod (s67t / t’óó))
+
+
+(s68n / nináá’niilkaad
+	:aspect performance
+	:modal-strength full-affirmative
+	:actor (s68p / person
+		:refer-number dual
+		:refer-person 1st)
+	:temporal (s68n2 / ninánii’náago
+		:modal-strength full-affirmative
+		:place (s68t / téehdi
+			:mod (s68a / and
+				:op1 (s68x / ńléí)
+				:op2 (s68x2 / ’áadi))
+			:ARG0-of (s68i2 / identity-91
+				:ARG1 (s68n3 / náánáłah-)
+				:aspect state
+				:modal-strength neutral-affirmative))
+		:place (s68d / dziłghą́ą’di
+			:polarity -)
+		:actor s68p)
+	:temporal (s68b / bi’aak’eedi))
+
+
+(s69n / na’aniilkaad
+	:aspect habitual
+	:modal-strength full-affirmative
+	:companion (s69d / deenásts’aa’
+		:actor-of (s69n2 / ndaakaigo
+			:aspect habitual
+			:modal-strength full-affirmative
+			:manner (s69x / ’atah))))
+
+
+(s70n / nínáhidí’níilchéeh
+	:aspect habitual
+	:modal-strength full-affirmative
+	:causer (s70p / person
+		:refer-number dual
+		:refer-person 1st
+		:manner (s70n2 / nániikeehgo
+			:mod (s70d / dah-)
+			:aspect habitual
+			:modal-strength full-affirmative
+			:actor s70p
+			:place (s70b / bik’i
+				:ARG0-of (s70h / have-place-91
+					:ARG1 (s70x / ’ałts’ą́ą́hjí)
+					:aspect state
+					:modal-strength neutral-affirmative))
+			:condition (s70d2 / da’ahógeehgo
+				:aspect habitual
+				:modal-strength neutral-affirmative
+				:actor s70p2
+				:manner (s70n3 / náánéilwo’go
+					:aspect habitual
+					:modal-strength neutral-affirmative
+					:actor s70p2
+					:direction (s70x2 / ’ałk’i)
+					:place (s70x3 / ńléí)))))
+	:causer (s70p2 / person
+		:refer-number plural
+		:refer-person 3rd
+		:quant 1)
+	:actor s70p)
+
+
+(s71n / nihighą́ą
+	:aspect habitual
+	:modal-strength full-affirmative
+	:undergoer (s71p / person
+		:refer-number dual
+		:refer-person 1st)
+	:force (s71d / dlo
+		:topic (s71n2 / ná’ahiigohgo
+			:aspect habitual
+			:modal-strength partial-affirmative
+			:instrument (s71b / bitsiits’iin
+				:part (s71p2 / person
+					:refer-number plural
+					:refer-person 3rd))))
+	:temporal (s71h / have-location-91
+		:ARG0 s71p
+		:ARG1 (s71s / siikéego
+			:mod (s71d2 / dah)
+			:place (s71b2 / bik’i))
+		:aspect habitual
+		:modal-strength full-affirmative))
+
+
+(s72n / nihighą́ą
+	:aspect habitual
+	:modal-strength full-affirmative
+	:undergoer (s72p / person
+		:refer-number dual
+		:refer-person 1st)
+	:force (s72d / dlo)
+	:topic (s72x / ’anániidahgo
+		:aspect habitual
+		:modal-strength partial-affirmative
+		:direction (s72b / bidah)
+		:temporal (s72x2 / łahda)
+		:theme s72p))
+
+
+(s73n / nei’née
+	:aspect habitual
+	:modal-strength full-affirmative
+	:companion (s73d / deenásts’aa’-)
+	:actor (s73p / person
+		:refer-number dual
+		:refer-person 1st)
+	:manner (s73k / kót’éego))
+
+
+(s74n / neit’aash
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s74d / deenásts’aa’-
+		:refer-number plural)
+	:temporal (s74c2 / consecutive
+		:op1 (s74x / ’aníjílwo’go
+			:aspect habitual
+			:modal-strength full-affirmative
+			:actor (s74p / person
+				:refer-number singular
+				:refer-person 3rd)
+			:goal (s74g / góne’-
+				:part (s74b / bita’
+					:part s74d))
+			:temporal (s74n2 / náádiilwo’go
+				:aspect habitual
+				:modal-strength full-affirmative
+				:actor s74d
+				:direction s74d
+				:source (s74n4 / ninát’ashgo
+					:aspect habitual
+					:modal-strength full-affirmative
+					:manner (s74x3 / ’ałts’ą́ą́’)
+					:temporal (s74x4 / łahda)
+					:extent (s74d2 / deeghánídę́ę́’
+						:polarity -))))
+		:op2 (s74c3 / ch’ééjiilyeedgo
+			:aspect habitual
+			:modal-strength full-affirmative
+			:goal (s74n3 / níláahjį’)
+			:temporal (s74x2 / ’ahinoolchéełgo
+				:aspect activity
+				:modal-strength neutral-affirmative
+				:source (s74t / t’áá-’ahánídę́ę́’))
+			:actor s74p)))
+
+
+(s75n / nei’née
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s75p / person
+		:refer-number dual
+		:refer-person 1st)
+	:companion (s75d / deenásts’aa’)
+	:temporal (s75n2 / náákahgo
+		:place (s75n3 / nihiná
+			:part s75p)
+		:aspect habitual
+		:modal-strength full-affirmative
+		:actor (s75d2 / dibé))
+	:extent (s75s / shábíighah))
+
+
+(s76n / na’niilkaad
+	:aspect activity
+	:frequency (s76x / łah)
+	:actor (s76p / person
+		:refer-number dual
+		:refer-person 1st)
+	:companion (s76t / tł’ízí-chǫǫh
+		:ARG0-of (s76h / have-place-91
+			:ARG1 (s76x2 / ’atahgo)
+			:aspect state
+			:modal-strength full-affirmative)))
+
+
+(s77h / have-place-91
+	:ARG0 (s77x / ’éí)
+	:ARG1 (s77h2 / halgaidi
+		:mod (s77x2 / ńléí))
+	:aspect state
+	:modal-strength full-affirmative)
+
+
+(s78h / have-place-91
+	:ARG1 (s78d / dziłdi)
+	:aspect state
+	:modal-strength full-negative)
+
+
+(s79n / na’niilkaad
+	:aspect activity
+	:actor (s79p / person
+		:refer-number dual
+		:refer-person 1st)
+	:companion (s79t / tł’ízí-ką’
+		:quant (s79x / ła’)
+		:ARG1-of (s79h / have-mod-91
+			:ARG2 (s79h2 / hashkéego)
+			:aspect state
+			:modal-strength full-affirmative
+			:degree downtoner)))
+
+
+(s80b / báháchįįh
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s80p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:affectee (s80p2 / person
+		:refer-number singular
+		:refer-person 3rd)
+	:condition (s80a / and
+		:op1 (s80n / níjít’įįhgo
+			:aspect habitual
+			:modal-strength partial-affirmative
+			:actor s80p2
+			:undergoer s80p)
+		:op2 (s80b2 / bí’dzíts’ihgo
+			:aspect habitual
+			:modal-strength partial-affirmative
+			:actor s80p2
+			:undergoer s80p)
+		:op3 (s80j / jidigháahgo
+			:aspect habitual
+			:modal-strength partial-affirmative
+			:actor s80p2
+			:direction (s80b3 / bikéé’jígo
+				:part s80p))
+		:place (s80h / ha’át’éegi
+			:mod (s80x / ńléí))))
+
+
+(s81n / na’niilkaad
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s81p / person
+		:refer-number dual
+		:refer-person 1st)
+	:instrument (s81t / télii
+		:mod (s81d2 / díí))
+	:companion (s81a / and
+		:op1 s81p
+		:op2 s81t)
+	:manner (s81h / have-location-91
+		:ARG0 s81p
+		:ARG1 (s81s / siikéego
+			:mod (s81d / dah))
+		:aspect state
+		:modal-strength neutral-affirmative
+		:place (s81x / ’ałkéé’
+			:part s81p)))
+
+
+(s82n / náhoníl’įįh
+	:aspect habitual
+	:modal-strength full-affirmative
+	:actor (s82p / person
+		:refer-number singular
+		:refer-person 3rd)
+	:mod (s82x / ’áłtąą-t’óó)
+	:temporal (s82n2 / níjít’į́įgo
+		:modal-strength full-affirmative
+		:place (s82b / baa
+			:ARG0-of (s82h / have-place-91
+				:ARG1 (s82b2 / bikáá’dóó)
+				:aspect state
+				:modal-strength neutral-affirmative))
+		:aspect habitual))
+
+
+(s83n / na’adá
+	:op1 (s83t / t’áá-’áháníjį’)
+	:aspect habitual
+	:modal-strength full-affirmative
+	:condition (s83x / ’ákót’éego)
+	:extent (s83a / and
+		:op1 (s83t2 / t’áá-’áháníjį’-)
+		:op2 (s83b / bit’áahjį’))
+	:actor (s83p / person
+		:refer-number singular
+		:refer-person 3rd))
+
+

@@ -1,0 +1,11 @@
+REFERENCE SENTENCE:
+"And they told us there'd be another flight on the next morning."
+
+Top 6 most similar sentences using chrf:
+
+And they told us there'd be another flight on the next morning.
+We had the rams in the herd, and they used to really fight with one another.
+On the next day we went to the trading post, and my grandfather put his thumbprint on a paper for us.
+They probably planned to go in to see the Agent on the next day.
+They built the trading post and four years later perhaps, I do not recall exactly when, the one I called my uncle told us to haul wood there.
+On the day following the night on which she gave birth to me, my mother went on foot as far as the people moved that day.

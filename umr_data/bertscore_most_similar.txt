@@ -1,0 +1,11 @@
+REFERENCE SENTENCE:
+"And they told us there'd be another flight on the next morning."
+
+Top 6 most similar sentences using BERTScore:
+
+And they told us there'd be another flight on the next morning.
+When we got back we were told that we could have the next day off.
+So we told them of our plan.
+They probably planned to go in to see the Agent on the next day.
+On the next day, February 4, we took off again.
+Then we were told that the time had come.
