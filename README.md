@@ -18,18 +18,18 @@ There are two major edits that need to be completed before rerunning the fine-tu
 1) In each of the fine-tuning directories there is a file called "my_english.txt" and "my_navajo.txt", these files need to be cleared and only contain the morphosyntactic data. The morphosyntactic data is a superset of the UMR dataset and currently "my_english.txt" and "my_navajo.txt" are compilations of BOTH the UMR and morphosyntactic data. This leads to 506 overlapping sentences which could then be split across both training and test sets and therefore creates data leakage. To avoid this just remove the UMR data from these files. THIS NEED TO BE DONE IN ALL FOUR FINE-TUNING DIRECTORIES!!! If I am not mistake, you should just be able to remove the first 506 sentences in both files, but that needs to be verified.
 2) Add a method right before the data is split in the train_"model".py file that verifies there are no duplicate sentences. This needs to loop through ALL the data and ensure each sentence is unique. Note, there are duplicate sentences in the Bible (specifically 26 if I am not mistaken). This is the major edit that needs to be done and it needs to be done across all fine-tuning directories. It is a small edit in terms of code, but a massive edit in terms of results.
 Once the above edits are completed you will run the following experiments:
-NLLB gle_Latn Syllabified
-NLLB gle_Latn No Syllabification
-NLLB grn_Latn Syllabified
-NLLB grn_Latn No Syllabification
-NLLB fin_Latn Syllabified
-NLLB fin_Latn No Syllabification
-M2M100 mg Syllabified
-M2M100 mg No Syllabification
-M2M100 sw Syllabified
-M2M100 sw No Syllabification
-M2M100 fi Syllabified
-M2M100 fi No Syllabification
+1) NLLB gle_Latn Syllabified
+2) NLLB gle_Latn No Syllabification
+3) NLLB grn_Latn Syllabified
+4) NLLB grn_Latn No Syllabification
+5) NLLB fin_Latn Syllabified
+6) NLLB fin_Latn No Syllabification
+7) M2M100 mg Syllabified
+8) M2M100 mg No Syllabification
+9) M2M100 sw Syllabified
+10) M2M100 sw No Syllabification
+11) M2M100 fi Syllabified
+12) M2M100 fi No Syllabification
 You will do these by changing the .sh scripts, specifically these variables in them:
 EXPERIMENT_NAME=
 TARGET_LANG=
