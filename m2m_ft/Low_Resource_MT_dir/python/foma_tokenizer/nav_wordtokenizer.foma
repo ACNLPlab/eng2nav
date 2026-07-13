@@ -1,0 +1,27 @@
+#########################################################
+# Syllabifier for Navajo (nav)                          #
+# Creates a single transducer that breaks up words BPE- #
+# style into syllables.                                 #
+#                                                       #
+#   apply down> Bééshbich'ahii                          # 
+#   Béésh@ @bi@ @ch'a@ @hii                             #
+#                                                       #
+# CAUTION:                                              #
+#                                                       #
+# This assumes the glottal stop and all ejectives are   # 
+# encoded with APOSTROPHE (0027) '                      #
+# Some sources use RIGHT SINGLE QUOTATION MARK (2019) ’ #
+# or MODIFIER LETTER APOSTROPHE (02BC) ʼ and need to be #
+# converted to apostrohes to work                       #
+#                                                       #
+# - MH 20200703                                         #
+#########################################################
+
+def Vow  [A|a|Á|á|Ą|ą|Ą́|ą́|Aa|aa|Áá|áá|Ąą|ąą|Ą́ą́|ą́ą́|E|e|É|é|Ę|ę|Ę́|ę́|Ee|ee|Éé|éé|Ęę|ęę|Ę́ę́|ę́ę́|I|i|Í|í|Į|į|Į́|į́|Ii|ii|Íí|íí|Įį|įį|Į́į́|į́į́|O|o|Ó|ó|Ǫ|ǫ|Ǫ́|ǫ́|Oo|oo|Óó|óó|Ǫǫ|ǫǫ|Ǫ́ǫ́|ǫ́ǫ́];
+def Cons [B|b|Ch|ch|Ch'|ch'|D|d|Dl|dl|Dz|dz|G|g|Gh|gh|H|h|Hw|hw|J|j|K|k|K'|k'|Kw|kw|L|l|Ł|ł|M|m|N|n|S|s|Sh|sh|T|t|T'|t'|Tł|tł|Tł'|tł'|Ts|ts|Ts'|ts'|W|w|X|x|Y|y|Z|z|Zh|zh|Ń|ń|{'}];
+
+def MainSyll Cons* Vow+ Cons* @-> ... "^" || _ Cons Vow ;
+def PostSyll "^" -> "@" " " "@";
+
+regex MainSyll .o. PostSyll;
+save stack nav_wordtokenizer.fomabin
